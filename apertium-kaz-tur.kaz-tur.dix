@@ -15,7 +15,7 @@
     <sdef n="cnjsub"          c="Subordinating conjunction"/>
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
-    <sdef n="pr"              c="Preposition"/>
+    <sdef n="post"              c="Postposition"/>
     <sdef n="adv"             c="Adverb"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
@@ -2192,8 +2192,8 @@
      <!-- SECTION: Adverbs -->
 
 
+     <!--<e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="loc"/></r></p></e>-->
      <e><p><l>әлі<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
-     <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="loc"/></r></p></e>
      <e><p><l>аса<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
      <e><p><l>аса<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
      <e><p><l>әбден<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
@@ -2245,8 +2245,8 @@
      <e><p><l>қайта<s n="adv"/></l><r>gene<s n="adv"/></r></p></e>
      <e><p><l>бері<s n="adv"/></l><r>beri<s n="adv"/></r></p></e>
      <e><p><l>бері<s n="adv"/></l><r>itibaren<s n="adv"/></r></p></e>
-     <e><p><l>сонсоң<s n="adv"/></l><r>art<s n="n"/><s n="px3sp"/><s n="abl"/></r></p></e>
-     <e><p><l>сосын<s n="adv"/></l><r>art<s n="n"/><s n="px3sp"/><s n="abl"/></r></p></e>
+     <!--<e><p><l>сонсоң<s n="adv"/></l><r>art<s n="n"/><s n="px3sp"/><s n="abl"/></r></p></e>-->
+     <!--<e><p><l>сосын<s n="adv"/></l><r>art<s n="n"/><s n="px3sp"/><s n="abl"/></r></p></e>-->
      <e><p><l>дереу<s n="adv"/></l><r>akabinde<s n="adv"/></r></p></e>
      <e><p><l>дереу<s n="adv"/></l><r>çabucak<s n="adv"/></r></p></e>
      <e><p><l>дереу<s n="adv"/></l><r>derhal<s n="adv"/></r></p></e>
@@ -2275,7 +2275,6 @@
 
      <e><p><l>азай<s n="v"/><s n="iv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>азайт<s n="v"/><s n="tv"/></l><r>kıs<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>айда<s n="v"/><s n="tv"/></l><r>hayda<s n="v"/><s n="TD"/></r></p></e>
      <e><p><l>айда<s n="v"/><s n="tv"/></l><r>sür<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>айқында<s n="v"/><s n="tv"/></l><r>tanımla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>айны<s n="v"/><s n="iv"/></l><r>vazgeç<s n="v"/><s n="iv"/></r></p></e>
