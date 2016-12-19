@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+<transfer>
+  <section-def-cats>
+    <def-cat n="bile">
+      <cat-item lemma="биле" tags="post"/>
+    </def-cat>
+    <def-cat n="cop-aor-3sg">
+      <cat-item lemma="э" tags="cop.aor.p3.sg"/>
+    </def-cat>
+    <def-cat n="default">
+      <cat-item tags="*"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="attrstub">
+      <attr-item tags="attrstub"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="varstub"/>
+  </section-def-vars>
+
+  <section-rules>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="bile"/>
+      </pattern>
+      <action>
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor-3sg"/>
+      </pattern>
+      <action>
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+  </section-rules>
+
+</transfer>
