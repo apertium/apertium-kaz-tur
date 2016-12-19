@@ -75,8 +75,8 @@
 
     <sdef n="ord"             c="Ordinal"/>
     <sdef n="acr"             c="Acronym"/>
-    <sdef n="iv"              c="İntransitive"/>
-    <sdef n="unc"             c="Uncountable"/>
+    <sdef n="iv"              c="Intransitive"/>
+    <sdef n="tv"              c="Transitive"/>
 
     <sdef n="num"             c="Numeral"/>
     <sdef n="sent"            c="Sentence end"/>
@@ -2222,7 +2222,6 @@
      <e><p><l>жат<s n="v"/><s n="iv"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>же<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>жең<s n="v"/><s n="tv"/></l><r>kazan<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>жең<s n="v"/><s n="tv"/></l><r>yen<s n="v"/><s n="tv"/><s n="pass"/></r></p></e>
      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>uzan<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>götür<s n="v"/><s n="tv"/></r></p></e>
