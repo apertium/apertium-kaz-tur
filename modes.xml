@@ -38,9 +38,6 @@
         <file name="kaz-tur.autogen.bin"/>
       </program>
 
-      <program name="lt-proc -p">
-        <file name="kaz-tur.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
@@ -319,9 +316,6 @@
         <file name="tur-kaz.autogen.bin"/>
       </program>
 
-      <program name="lt-proc -p">
-        <file name="tur-kaz.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
