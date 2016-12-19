@@ -132,6 +132,10 @@
      <e><p><l>басқа<s n="post"/></l><r>başka<s n="post"/></r></p></e>
      <e><p><l>кейін<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
 
+     <!-- SECTION: Pronouns -->
+
+     <e><p><l>мен<s n="prn"/></l><r>ben<s n="prn"/></r></p></e>
+
      <!-- SECTION: Numerals -->
      <e><p><l>мың<s n="num"/></l><r>bin<s n="num"/></r></p></e>
      <e><p><l>екі<s n="num"/></l><r>iki<s n="num"/></r></p></e>
