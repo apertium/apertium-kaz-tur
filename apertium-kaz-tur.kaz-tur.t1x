@@ -14,11 +14,15 @@
       <cat-item tags="v.*.prc_perf"/>
 </def-cat>
     <def-cat n="yat_pres">
-      <cat-item lemma="жат" tags="vaux.pres.*"/>
-    </def-cat>
-<def-cat n="otyr_pres">
-<cat-item lemma="отыр" tags="vaux.pres.*"/>
+<cat-item lemma="жат" tags="vaux.pres.*"/>
 </def-cat>
+oops
+
+<def-cat n="yat_pres">
+<cat-item lemma="жат" tags="vaux.pres.*"/>
+<cat-item lemma="тұр" tags="vaux.pres.*"/>
+<cat-item lemma="жүр" tags="vaux.pres.*"/>
+</def-cat
 
     
   </section-def-cats>
