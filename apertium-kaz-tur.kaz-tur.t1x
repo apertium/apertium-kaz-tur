@@ -22,6 +22,10 @@
 <cat-item lemma="отыр" tags="vaux.pres.*"/>
 </def-cat>
 
+<def-cat n="aor">
+<cat-item tags="v.*.aor.*"/>
+</def-cat>
+
 <def-cat n="prc_perf">
 <cat-item tags="v.*.prc_perf"/>
 </def-cat>   
