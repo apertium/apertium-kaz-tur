@@ -143,7 +143,23 @@
 
 
 
-
+ <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="cop-neg"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+<lit v="değil"/><lit-tag v="adj"/>
+</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: SENT">
