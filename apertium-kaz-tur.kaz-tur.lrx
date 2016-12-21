@@ -1,8 +1,9 @@
 <rules>
   <rule>
-    <match lemma="қонақ" tags="n.*">
-      <select lemma="misafir" tags="n.*"/>
-    </match>
+    <match lemma="қонақ" tags="n.*"><select lemma="misafir" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="әйел" tags="n.*"><select lemma="kadın" tags="n.*"/></match>
   </rule>
 </rules>
 

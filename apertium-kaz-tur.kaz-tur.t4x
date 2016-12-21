@@ -52,6 +52,22 @@
     <rule comment="">
       <pattern>
         <pattern-item n="default"/>
+        <pattern-item n="mı"/>
+      </pattern>
+      <action>
+        <out>
+          <lu><lit v="~"/></lu>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
         <pattern-item n="cop-aor-sg3"/>
       </pattern>
       <action>

@@ -1,5 +1,5 @@
 ###############################################################################
-## Makefile for Kazakh--Tuvan
+## Makefile for Kazakh--Turkish
 ###############################################################################
 
 VERSION=0.1.0
@@ -17,6 +17,7 @@ TARGETS_COMMON = \
 	$(PREFIX1).autobil.bin \
 		$(PREFIX1).autolex.bin \
 	$(PREFIX1).autogen.bin \
+	$(PREFIX1).autopgen.bin \
 	$(PREFIX1).t1x.bin \
 	$(PREFIX1).t2x.bin \
 	$(PREFIX1).t3x.bin \
@@ -67,7 +68,7 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	cp $< $@
 
 # -------------------
-# Tuvan analysis:
+# Turkish analysis:
 # -------------------
 
 .deps/$(PREFIX2).autobil.prefixes: $(PREFIX2).autobil.bin .deps/.d
@@ -84,7 +85,7 @@ $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.att.gz .deps/$(PREFIX2).au
 	lt-comp lr .deps/$(PREFIX2).automorf.trimmed.att $@
 
 # -------------------
-# Tuvan generation:
+# Turkish generation:
 # ---------------------
 
 $(PREFIX1).autogen.hfst: $(AP_SRC2)/$(LANG2).autogen.hfst
@@ -171,9 +172,9 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 ## Postgeneration dictionaries
 ###############################################################################
 
-#$(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
-#	cp $< $@
-#
+$(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
+	cp $< $@
+
 #$(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
 #	cp $< $@
 
