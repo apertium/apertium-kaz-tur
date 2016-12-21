@@ -16,6 +16,10 @@
     <def-cat n="yat_pres">
       <cat-item lemma="жат" tags="vaux.pres.*"/>
     </def-cat>
+<def-cat n="otyr_pres">
+<cat-item lemma="отыр" tags="vaux.pres.*"/>
+</def-cat>
+
     
   </section-def-cats>
 
