@@ -22,8 +22,8 @@
 <cat-item lemma="отыр" tags="vaux.pres.*"/>
 </def-cat>
 
-<def-cat n="aor">
-<cat-item tags="v.*.aor.*"/>
+<def-cat n="cop-neg">
+<cat-item lemma="е" tags="cop.neg.*"/>
 </def-cat>
 
 <def-cat n="prc_perf">
