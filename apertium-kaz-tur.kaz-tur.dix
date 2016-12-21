@@ -97,7 +97,9 @@
      <!-- SECTION: Miscellaneous -->
      <e><p><l>ма<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
 
-     <!-- SECTION: Postpositions -->
+     <!-- SECTION: Conjunctions -->
+     <e><p><l>егер<s n="cnjsub"/></l><r>eğer<s n="cnjsub"/></r></p></e>
+
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>fakat<s n="cnjcoo"/></r></p></e>
      <e><p><l>әрі<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
@@ -108,6 +110,8 @@
      <e><p><l>немесе<s n="cnjcoo"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
      <e><p><l>я<s n="cnjcoo"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
      <e><p><l>да<s n="cnjcoo"/></l><r>da<s n="cnjcoo"/></r></p></e>
+
+     <!-- SECTION: Postpositions -->
      <e><p><l>қарсы<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>ile<s n="post"/></r></p></e>
