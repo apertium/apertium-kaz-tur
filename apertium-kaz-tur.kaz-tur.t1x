@@ -10,13 +10,7 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
-<def-cat n="prc_perf">
-      <cat-item tags="v.*.prc_perf"/>
-</def-cat>
-    <def-cat n="yat_pres">
-<cat-item lemma="жат" tags="vaux.pres.*"/>
-</def-cat>
-oops
+
 
 <def-cat n="yat_pres">
 <cat-item lemma="жат" tags="vaux.pres.*"/>
