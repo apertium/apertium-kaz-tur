@@ -135,6 +135,9 @@
      <!-- SECTION: Pronouns -->
 
      <e><p><l>мен<s n="prn"/></l><r>ben<s n="prn"/></r></p></e>
+     <e><p><l>сен<s n="prn"/></l><r>sen<s n="prn"/></r></p></e>
+
+     <e><p><l>өз<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
 
      <!-- SECTION: Numerals -->
      <e><p><l>мың<s n="num"/></l><r>bin<s n="num"/></r></p></e>
@@ -2275,6 +2278,9 @@
 
      <e><p><l>отыр<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жат<s n="vaux"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>тұр<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>жүр<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
+
      
      <e><p><l>же<s n="v"/></l><r>ye<s n="v"/></r></p></e>
 
@@ -2483,7 +2489,7 @@
      <e><p><l>сен<s n="v"/><s n="tv"/></l><r>güven<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сен<s n="v"/><s n="tv"/></l><r>inan<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сің<s n="v"/><s n="iv"/></l><r>sin<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>сөйле<s n="v"/><s n="iv"/></l><r>konuş<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>сөйле<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сотта<s n="v"/><s n="tv"/></l><r>yargıla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сүй<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sor<s n="v"/><s n="tv"/></r></p></e>
