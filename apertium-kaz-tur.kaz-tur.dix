@@ -112,6 +112,8 @@
      <e><p><l>да<s n="cnjcoo"/></l><r>da<s n="cnjcoo"/></r></p></e>
 
      <!-- SECTION: Postpositions -->
+     <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
+
      <e><p><l>қарсы<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>ile<s n="post"/></r></p></e>
@@ -155,6 +157,7 @@
      <e><p><l>өз<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
 
      <e><p><l>бұл<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>мынау<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>ана<s n="prn"/><s n="dem"/></l><r>öteki<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>öteki<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>ол<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
@@ -176,13 +179,15 @@
      <e><p><l>осынау<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
 
      <e><p><l>бар<s n="det"/><s n="qnt"/></l><r>tüm<s n="det"/><s n="qnt"/></r></p></e>
+     <e><p><l>қанша<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
      <e><p><l>барлық<s n="det"/><s n="qnt"/></l><r>tüm<s n="det"/><s n="qnt"/></r></p></e>
      <e><p><l>әр<s n="det"/><s n="qnt"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
      <e><p><l>көптеген<s n="det"/><s n="qnt"/></l><r>birçok<s n="det"/><s n="qnt"/></r></p></e>
 
      <e><p><l>өз<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
 
-     <e><p><l>кейбір<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="ind"/></r></p></e>
+     <e><p><l>кейбір<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
+     <e><p><l>кейбір<s n="det"/><s n="ind"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
      <e><p><l>бір<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
      
 
@@ -214,7 +219,9 @@
 
      <!-- SECTION: Nouns -->
      <e><p><l>үй<s n="n"/></l><r>ev<s n="n"/></r></p></e>
+     <e><p><l>қарт<s n="n"/></l><r>kart<s n="n"/></r></p></e>
 
+     <e><p><l>өтірікші<s n="n"/></l><r>yalancı<s n="n"/></r></p></e>
      <e><p><l>абақты<s n="n"/></l><r>gözalt<s n="n"/></r></p></e>
      <e><p><l>абақты<s n="n"/></l><r>tutukev<s n="n"/></r></p></e>
      <e><p><l>сөздік<s n="n"/></l><r>sözlük<s n="n"/></r></p></e>
@@ -346,6 +353,7 @@
      <e><p><l>аст<s n="n"/></l><r>ast<s n="n"/></r></p></e>
      <e><p><l>аст<s n="n"/></l><r>ön<s n="n"/></r></p></e>
      <e><p><l>астана<s n="n"/></l><r>merkez<s n="n"/></r></p></e>
+     <e><p><l>астана<s n="n"/></l><r>başkent<s n="n"/></r></p></e>
      <e><p><l>астана<s n="n"/></l><r>payitaht<s n="n"/></r></p></e>
      <e><p><l>астау<s n="n"/></l><r>leğen<s n="n"/></r></p></e>
      <e><p><l>ат<s n="n"/></l><r>ad<s n="n"/></r></p></e>
@@ -2245,7 +2253,11 @@
      <e><p><l>этнография<s n="n"/></l><r>etnografya<s n="n"/></r></p></e>
      <e><p><l>юбка<s n="n"/></l><r>etek<s n="n"/></r></p></e>
 
+     <e><p><l>инженер<s n="n"/></l><r>mühendis<s n="n"/></r></p></e>
+     <e><p><l>студент<s n="n"/></l><r>öğrenci<s n="n"/></r></p></e>
+
      <!-- SECTION: Proper nouns -->
+     <e><p><l>Байқоңыр<s n="np"/><s n="top"/></l><r>Baykonur<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Абхазия<s n="np"/><s n="top"/></l><r>Abhazya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Австралия<s n="np"/><s n="top"/></l><r>Avustralya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Австрия<s n="np"/><s n="top"/></l><r>Avusturya<s n="np"/><s n="top"/></r></p></e>
@@ -2716,6 +2728,8 @@
      <e><p><l>эстетикалық<s n="adj"/></l><r>estetik<s n="adj"/></r></p></e>
      <e><p><l>этникалық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 
+     <e><p><l>қорқақ<s n="adj"/></l><r>korkak<s n="adj"/></r></p></e>
+
      <!-- SECTION: Adverbs -->
 
 
@@ -3077,6 +3091,7 @@
      <e><p><l>шығар<s n="v"/><s n="tv"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>шық<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>шық<s n="v"/><s n="iv"/></l><r>tırman<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>тіле<s n="v"/><s n="tv"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
 
      <!-- SECTION: Interjections -->
      <e><p><l>иә<s n="ij"/></l><r>evet<s n="ij"/></r></p></e>
