@@ -62,7 +62,7 @@
       <action>
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
-          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -76,6 +76,7 @@
         </out>
       </action>
     </rule>
+
 
     <rule comment="REGLA: prc_perf yat_pres">
       <pattern>
@@ -103,6 +104,17 @@
         </out>
       </action>
     </rule>
+
+
+<rule comment="REGLA: prc_perf yat_pres">
+<pattern>
+<pattern-item n="prc_perf"/>
+<pattern-item n="otyr_pres"/>
+</pattern>
+
+....
+
+</rule>
 
 
     <rule comment="REGLA: SENT">
