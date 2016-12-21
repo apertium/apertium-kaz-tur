@@ -2,8 +2,8 @@
 <!-- -*- nxml -*- -->
 <transfer>
   <section-def-cats>
-    <def-cat n="bile">
-      <cat-item lemma="биле" tags="post"/>
+    <def-cat n="mı">
+      <cat-item lemma="mı" tags="qst"/>
     </def-cat>
     <def-cat n="cop-aor-3sg">
       <cat-item lemma="i" tags="cop.aor.p3.sg"/>
@@ -28,11 +28,13 @@
     <rule comment="">
       <pattern>
         <pattern-item n="default"/>
-        <pattern-item n="bile"/>
+        <pattern-item n="cop-aor-3sg"/>
+        <pattern-item n="mı"/>
       </pattern>
       <action>
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <lu><clip pos="3" side="sl" part="whole"/></lu>
           <lu><clip pos="2" side="sl" part="whole"/></lu>
         </out>
       </action>
