@@ -17,6 +17,7 @@
 /apertium-kaz-tur.tur-kaz.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/tatoeba.kaz-tur -text
 /modes.xml -text
 t/README.org -text
 t/config.sh -text
@@ -25,3 +26,5 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/tatoeba.kaz.txt -text
+texts/tatoeba.tur.txt -text
