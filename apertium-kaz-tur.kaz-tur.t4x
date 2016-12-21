@@ -36,9 +36,11 @@
       </pattern>
       <action>
         <out>
-          <lu><clip pos="1" side="sl" part="whole"/></lu>
-          <lu><clip pos="3" side="sl" part="whole"/></lu>
-          <lu><clip pos="2" side="sl" part="whole"/></lu>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="3" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
         </out>
       </action>
     </rule>
