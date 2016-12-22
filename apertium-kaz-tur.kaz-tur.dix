@@ -118,6 +118,7 @@
      <e><p><l>немесе<s n="cnjcoo"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
      <e><p><l>я<s n="cnjcoo"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
      <e><p><l>я<s n="cnjcoo"/></l><r>ya<s n="cnjadv"/></r></p></e>
+     <e><p><l>я<s n="cnjcoo"/></l><r>ya<b/>da<s n="cnjadv"/></r></p></e>
      <e><p><l>да<s n="cnjcoo"/></l><r>da<s n="cnjcoo"/></r></p></e>
 
      <!-- SECTION: Postpositions -->
@@ -2272,6 +2273,7 @@
      <e><p><l>студент<s n="n"/></l><r>öğrenci<s n="n"/></r></p></e>
      <e><p><l>мемлекет<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
      <e><p><l>мұсылман<s n="n"/></l><r>müslüman<s n="n"/></r></p></e>
+     <e><p><l>батырма<s n="n"/></l><r>düğme<s n="n"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
      <e><p><l>Байқоңыр<s n="np"/><s n="top"/></l><r>Baykonur<s n="np"/><s n="top"/></r></p></e>
