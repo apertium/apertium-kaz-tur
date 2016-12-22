@@ -2275,6 +2275,7 @@
      <e><p><l>мұсылман<s n="n"/></l><r>müslüman<s n="n"/></r></p></e>
      <e><p><l>батырма<s n="n"/></l><r>düğme<s n="n"/></r></p></e>
      <e><p><l>испанша<s n="n"/></l><r>ispanyolca<s n="n"/></r></p></e>
+     <e><p><l>қазақ<s n="n"/></l><r>kazak<s n="n"/></r></p></e>
 
      <!-- SECTION: Proper nouns -->
      <e><p><l>Байқоңыр<s n="np"/><s n="top"/></l><r>Baykonur<s n="np"/><s n="top"/></r></p></e>
@@ -3334,6 +3335,7 @@
      <e><p><l>жат<s n="vaux"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тұр<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жүр<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>ал<s n="vaux"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
      
      <e><p><l>жүз<s n="v"/><s n="iv"/></l><r>yüz<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>азай<s n="v"/><s n="iv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
