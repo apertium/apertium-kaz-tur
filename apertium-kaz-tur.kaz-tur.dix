@@ -9,6 +9,7 @@
     <sdef n="v"           c="Verb, lexical"/>
     <sdef n="cop"           c="Copula"/>
     <sdef n="vbmod"           c="Modal verb"/>
+    <sdef n="postadv"           c=""/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="abbr"            c="Abbreviation"/>
     <sdef n="vbser"           c="'To be' verb"/>
@@ -101,6 +102,7 @@
    <section id="main" type="standard">
      <!-- SECTION: Miscellaneous -->
      <e><p><l>ма<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
+     <e><p><l>да<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
 
      <!-- SECTION: Conjunctions -->
      <e><p><l>егер<s n="cnjsub"/></l><r>eğer<s n="cnjsub"/></r></p></e>
