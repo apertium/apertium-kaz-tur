@@ -47,7 +47,8 @@
       <attr-item tags="p2.pl"/>
       <attr-item tags="p3.pl"/>
     </def-attr>
-<def-attr n="cat-item for "aor""/>
+<def-attr n="a_aspect"/>
+      <attr-item tags="aor"/>
       <attr-item tags="prc_perf"/>
 <attr-item tags="prog"/>
     </def-attr>
