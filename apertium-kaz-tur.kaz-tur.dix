@@ -59,6 +59,7 @@
     <sdef n="acc"             c="Accusative"/>
     <sdef n="gen"             c="Genitive"/>
     <sdef n="loc"             c="Locative"/>
+    <sdef n="abl"             c="Ablative"/>
 
     <sdef n="dem"             c="Demonstrative"/>
     <sdef n="itg"             c="Question word / interrogative"/>
@@ -175,7 +176,7 @@
      <e><p><l>бәрі<s n="prn"/><s n="qnt"/></l><r>hepsi<s n="prn"/><s n="ind"/></r></p></e>
 
      <e><p><l>не<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-     <e><p><l>кім<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="qst"/></r></p></e>
+     <e><p><l>кім<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>қайсы<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
      
      <!-- SECTION: Determiners -->      
@@ -1770,6 +1771,7 @@
      <e><p><l>сезім<s n="n"/></l><r>his<s n="n"/></r></p></e>
      <e><p><l>сезон<s n="n"/></l><r>sezon<s n="n"/></r></p></e>
      <e><p><l>сейсенбі<s n="n"/></l><r>Salı<s n="n"/></r></p></e>
+     <e><p><l>сенбі<s n="n"/></l><r>Cumartesi<s n="n"/></r></p></e>
      <e><p><l>сектор<s n="n"/></l><r>sektör<s n="n"/></r></p></e>
      <e><p><l>сел<s n="n"/></l><r>sel<s n="n"/></r></p></e>
      <e><p><l>семинар<s n="n"/></l><r>seminer<s n="n"/></r></p></e>
@@ -2269,6 +2271,7 @@
 
      <!-- SECTION: Proper nouns -->
      <e><p><l>Байқоңыр<s n="np"/><s n="top"/></l><r>Baykonur<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Осака<s n="np"/><s n="top"/></l><r>Osaka<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Абхазия<s n="np"/><s n="top"/></l><r>Abhazya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Австралия<s n="np"/><s n="top"/></l><r>Avustralya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Австрия<s n="np"/><s n="top"/></l><r>Avusturya<s n="np"/><s n="top"/></r></p></e>
@@ -3241,6 +3244,7 @@
 
      <e><p><l>анда<s n="adv"/></l><r>ora<s n="prn"/><s n="adv"/><s n="loc"/></r></p></e>
      <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="loc"/></r></p></e>
+     <e><p><l>неге<s n="adv"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
 
      <e><p><l>әлі<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
      <e><p><l>аса<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
@@ -3258,7 +3262,6 @@
      <e><p><l>бұрын<s n="adv"/></l><r>peşinen<s n="adv"/></r></p></e>
      <e><p><l>еш<s n="adv"/></l><r>hiç<s n="adv"/></r></p></e>
      <e><p><l>міне<s n="adv"/></l><r>işte<s n="adv"/></r></p></e>
-     <e><p><l>неге<s n="adv"/></l><r>neye<s n="adv"/></r></p></e>
      <e><p><l>кеш<s n="adv"/></l><r>akşam<s n="adv"/></r></p></e>
      <e><p><l>кешкісін<s n="adv"/></l><r>akşam<s n="adv"/></r></p></e>
      <e><p><l>солай<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
