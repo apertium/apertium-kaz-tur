@@ -2,6 +2,9 @@
 <!-- -*- nxml -*- -->
 <transfer>
   <section-def-cats>
+    <def-cat n="lı">
+      <cat-item lemma="lı" tags="post"/>
+    </def-cat>
     <def-cat n="mı">
       <cat-item lemma="mı" tags="qst"/>
     </def-cat>
@@ -14,6 +17,12 @@
     </def-cat>
     <def-cat n="cop-aor-sg3">
       <cat-item lemma="i" tags="cop.aor.p3.sg"/>
+    </def-cat>
+    <def-cat n="subst">
+      <cat-item tags="n"/>
+      <cat-item tags="adj.subst"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj.subst.*"/>
     </def-cat>
     <def-cat n="default">
       <cat-item tags="*"/>
@@ -73,6 +82,21 @@
       <action>
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="subst"/>
+        <pattern-item n="lı"/>
+      </pattern>
+      <action>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
         </out>
       </action>
     </rule>
