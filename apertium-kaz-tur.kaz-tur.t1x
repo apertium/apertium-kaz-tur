@@ -74,6 +74,16 @@
         <pattern-item n="aor"/>
       </pattern>
       <action>
+
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
 </let>
