@@ -5,5 +5,9 @@
   <rule>
     <match lemma="әйел" tags="n.*"><select lemma="kadın" tags="n.*"/></match>
   </rule>
+  <rule>
+    <match lemma="испанша" tags="n.*"/>
+    <match lemma="сөйле" tags="v.*"><select lemma="konuş" tags="n.*"/></match>
+  </rule>
 </rules>
 
