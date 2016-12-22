@@ -17,6 +17,7 @@
 /apertium-kaz-tur.tur-kaz.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/bidix-sanity.sh -text
 dev/tatoeba.kaz-tur -text
 /modes.xml -text
 t/README.org -text
