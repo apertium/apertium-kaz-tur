@@ -2,8 +2,9 @@
 <!-- -*- nxml -*- -->
 <transfer>
   <section-def-cats>
-    <def-cat n="lı">
+    <def-cat n="lı-sız">
       <cat-item lemma="lı" tags="post"/>
+      <cat-item lemma="sız" tags="post"/>
     </def-cat>
     <def-cat n="mı">
       <cat-item lemma="mı" tags="qst"/>
@@ -89,7 +90,7 @@
     <rule comment="">
       <pattern>
         <pattern-item n="subst"/>
-        <pattern-item n="lı"/>
+        <pattern-item n="lı-sız"/>
       </pattern>
       <action>
         <out>
