@@ -46,6 +46,7 @@
       <attr-item tags="p1.pl"/>
       <attr-item tags="p2.pl"/>
       <attr-item tags="p3.pl"/>
+ <attr-item tags="p2.frm.sg"/> 
     </def-attr>
 <def-attr n="a_aspect">
       <attr-item tags="aor"/>
