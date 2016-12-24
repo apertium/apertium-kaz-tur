@@ -2556,6 +2556,7 @@
      <e><p><l>ағылшын<s n="n"/></l><r>biyoloji<s n="n"/></r></p></e>
      <e><p><l>агностицизм<s n="n"/></l><r>agnostisizm<s n="n"/></r></p></e>
      <e><p><l>автомагистраль<s n="n"/></l><r>otoyol<s n="n"/></r></p></e>
+     <e><p><l>магистраль<s n="n"/></l><r>otoyol<s n="n"/></r></p></e>
      <e><p><l>аборт<s n="n"/></l><r>kürtaj<s n="n"/></r></p></e>
      <e><p><l>яхта<s n="n"/></l><r>yat<s n="n"/></r></p></e>
      <e><p><l>ядрошық<s n="n"/></l><r>çekirdekçik<s n="n"/></r></p></e>
@@ -4555,6 +4556,97 @@
      <e><p><l>Ямайка<s n="np"/><s n="top"/></l><r>Jamaika<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Ямусукро<s n="np"/><s n="top"/></l><r>Yamoussoukro<s n="np"/><s n="top"/></r></p></e>
 
+     <e><p><l>Адам<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Адриан<s n="np"/><s n="ant"/><s n="m"/></l><r>Adrian<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Али<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Альберт<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Альваро<s n="np"/><s n="ant"/><s n="m"/></l><r>Alvaro<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Альфред<s n="np"/><s n="ant"/><s n="m"/></l><r>Alfred<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Анте<s n="np"/><s n="ant"/><s n="m"/></l><r>Ante<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Антон<s n="np"/><s n="ant"/><s n="m"/></l><r>Anton<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Антонио<s n="np"/><s n="ant"/><s n="m"/></l><r>Antonio<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ахмет<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Бен<s n="np"/><s n="ant"/><s n="m"/></l><r>Ben<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Богдан<s n="np"/><s n="ant"/><s n="m"/></l><r>Bogdan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Борис<s n="np"/><s n="ant"/><s n="m"/></l><r>Boris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Бранислав<s n="np"/><s n="ant"/><s n="m"/></l><r>Branislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Бруно<s n="np"/><s n="ant"/><s n="m"/></l><r>Bruno<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Валентин<s n="np"/><s n="ant"/><s n="m"/></l><r>Valentin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Винко<s n="np"/><s n="ant"/><s n="m"/></l><r>Vinko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Владимир<s n="np"/><s n="ant"/><s n="m"/></l><r>Vladimir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Герхард<s n="np"/><s n="ant"/><s n="m"/></l><r>Gerhard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Гордон<s n="np"/><s n="ant"/><s n="m"/></l><r>Gordon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Давид<s n="np"/><s n="ant"/><s n="m"/></l><r>David<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Давор<s n="np"/><s n="ant"/><s n="m"/></l><r>Davor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Дамир<s n="np"/><s n="ant"/><s n="m"/></l><r>Damir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Данило<s n="np"/><s n="ant"/><s n="m"/></l><r>Danilo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Денис<s n="np"/><s n="ant"/><s n="m"/></l><r>Denis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Дерек<s n="np"/><s n="ant"/><s n="m"/></l><r>Derek<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Дональд<s n="np"/><s n="ant"/><s n="m"/></l><r>Donald<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Жанәбіл<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Жанәділ<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Жеан<s n="np"/><s n="ant"/><s n="m"/></l><r>Jean<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Иван<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Иво<s n="np"/><s n="ant"/><s n="m"/></l><r>Ivo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Игор<s n="np"/><s n="ant"/><s n="m"/></l><r>Igor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Игорь<s n="np"/><s n="ant"/><s n="m"/></l><r>Igor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Карел<s n="np"/><s n="ant"/><s n="m"/></l><r>Karel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Қасым<s n="np"/><s n="ant"/><s n="m"/></l><r>Kasım<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Кевин<s n="np"/><s n="ant"/><s n="m"/></l><r>Kevin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Клаус<s n="np"/><s n="ant"/><s n="m"/></l><r>Klaus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Константин<s n="np"/><s n="ant"/><s n="m"/></l><r>Konstantin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ламберто<s n="np"/><s n="ant"/><s n="m"/></l><r>Lamberto<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Леонард<s n="np"/><s n="ant"/><s n="m"/></l><r>Leonard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мануэль<s n="np"/><s n="ant"/><s n="m"/></l><r>Manuel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Марио<s n="np"/><s n="ant"/><s n="m"/></l><r>Mario<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Марк<s n="np"/><s n="ant"/><s n="m"/></l><r>Mark<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Марко<s n="np"/><s n="ant"/><s n="m"/></l><r>Marko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Маркос<s n="np"/><s n="ant"/><s n="m"/></l><r>Markos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мартин<s n="np"/><s n="ant"/><s n="m"/></l><r>Martin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Массимо<s n="np"/><s n="ant"/><s n="m"/></l><r>Massimo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мило<s n="np"/><s n="ant"/><s n="m"/></l><r>Milo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Милорад<s n="np"/><s n="ant"/><s n="m"/></l><r>Milorad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мирко<s n="np"/><s n="ant"/><s n="m"/></l><r>Mirko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мирослав<s n="np"/><s n="ant"/><s n="m"/></l><r>Miroslav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Михаил<s n="np"/><s n="ant"/><s n="m"/></l><r>Mihail<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мустафа<s n="np"/><s n="ant"/><s n="m"/></l><r>Mustafa<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мұстафа<s n="np"/><s n="ant"/><s n="m"/></l><r>Mustafa<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мухамет<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhamet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мухаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammed<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Мұхаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammed<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Никола<s n="np"/><s n="ant"/><s n="m"/></l><r>Nikola<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Нико<s n="np"/><s n="ant"/><s n="m"/></l><r>Niko<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ноэль<s n="np"/><s n="ant"/><s n="m"/></l><r>Noel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Нұри<s n="np"/><s n="ant"/><s n="m"/></l><r>Nuri<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Оливер<s n="np"/><s n="ant"/><s n="m"/></l><r>Oliver<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Олли<s n="np"/><s n="ant"/><s n="m"/></l><r>Olli<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Отто<s n="np"/><s n="ant"/><s n="m"/></l><r>Otto<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Павел<s n="np"/><s n="ant"/><s n="m"/></l><r>Pavel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Пьер<s n="np"/><s n="ant"/><s n="m"/></l><r>Per<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Рамазан<s n="np"/><s n="ant"/><s n="m"/></l><r>Ramazan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Рене<s n="np"/><s n="ant"/><s n="m"/></l><r>Rene<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Роберт<s n="np"/><s n="ant"/><s n="m"/></l><r>Robert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Романо<s n="np"/><s n="ant"/><s n="m"/></l><r>Romano<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Саддам<s n="np"/><s n="ant"/><s n="m"/></l><r>Saddam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Сергей<s n="np"/><s n="ant"/><s n="m"/></l><r>Sergey<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Сильвио<s n="np"/><s n="ant"/><s n="m"/></l><r>Silvio<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Слободан<s n="np"/><s n="ant"/><s n="m"/></l><r>Slobodan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Соломон<s n="np"/><s n="ant"/><s n="m"/></l><r>Solomon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Станислав<s n="np"/><s n="ant"/><s n="m"/></l><r>Stanislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Стефан<s n="np"/><s n="ant"/><s n="m"/></l><r>Stefan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Теодор<s n="np"/><s n="ant"/><s n="m"/></l><r>Teodor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Тим<s n="np"/><s n="ant"/><s n="m"/></l><r>Tim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Том<s n="np"/><s n="ant"/><s n="m"/></l><r>Tom<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Тэд<s n="np"/><s n="ant"/><s n="m"/></l><r>Ted<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Фатих<s n="np"/><s n="ant"/><s n="m"/></l><r>Fatih<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Филип<s n="np"/><s n="ant"/><s n="m"/></l><r>Filip<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Франк<s n="np"/><s n="ant"/><s n="m"/></l><r>Frank<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Хамид<s n="np"/><s n="ant"/><s n="m"/></l><r>Hamid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Ханс<s n="np"/><s n="ant"/><s n="m"/></l><r>Hans<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Хасан<s n="np"/><s n="ant"/><s n="m"/></l><r>Hasan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Эмиль<s n="np"/><s n="ant"/><s n="m"/></l><r>Emil<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+
      <!-- SECTION: Adjectives -->
 
 
@@ -5359,6 +5451,9 @@
      <!-- SECTION: Abbreviations -->
 
      <e r="LR"><p><l>ж.<s n="abbr"/></l><r>yıl<s n="n"/><s n="nom"/></r></p></e>
+     <e r="LR"><p><l>млн<s n="abbr"/></l><r>milyon<s n="num"/></r></p></e>
+     <e r="LR"><p><l>км<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
+     <e r="LR"><p><l>мм<s n="abbr"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
 
      <!-- SECTION: Punctuation -->
 
