@@ -3955,7 +3955,8 @@
      <e><p><l>мезгіл<s n="n"/></l><r>an<s n="n"/></r></p></e>
      <e><p><l>аң<s n="n"/></l><r>hayvan<s n="n"/></r></p></e>
      <e><p><l>қарсаң<s n="n"/></l><r>ön<s n="n"/></r></p></e>
-     <e><p><l>бүгін<s n="adv"/></l><r>bugün<s n="n"/></r></p></e>
+     <e><p><l>бүгін<s n="n"/></l><r>bugün<s n="n"/></r></p></e>
+     <e><p><l>бүгін<s n="adv"/></l><r>bugün<s n="adv"/></r></p></e>
      <e><p><l>жай<s n="n"/></l><r>yer<s n="n"/></r></p></e>
      <e><p><l>орын<s n="n"/></l><r>yer<s n="n"/></r></p></e>
      <e><p><l>айқай<s n="n"/></l><r>ses<s n="n"/></r></p></e>
@@ -3967,10 +3968,19 @@
 
      <e><p><l>округ<s n="n"/></l><r>okrug<s n="n"/></r></p></e>
      <e><p><l>жөн<s n="n"/></l><r>yön<s n="n"/></r></p></e>
+     <e><p><l>чемпионат<s n="n"/></l><r>şampiyona<s n="n"/></r></p></e>
+     <e><p><l>жаңалық<s n="n"/></l><r>yenilik<s n="n"/></r></p></e>
+     <e><p><l>жігіт<s n="n"/></l><r>oğlan<s n="n"/></r></p></e>
+     <e><p><l>жаттығу<s n="n"/></l><r>çalışma<s n="n"/></r></p></e>
+     <e><p><l>ертең<s n="n"/></l><r>yarın<s n="n"/></r></p></e>
+     <e><p><l>тарих<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
      <e><p><l>саяси<s n="n"/></l><r>siyası<s n="n"/></r></p></e>
      <e><p><l>саяси<s n="n"/></l><r>politik<s n="n"/></r></p></e>
      <e><p><l>орташа<s n="n"/></l><r>orta<s n="n"/></r></p></e>
+     <e><p><l>туған<s n="n"/></l><r>doğum<b/>günü<s n="n"/></r></p></e>
      <e><p><l>империя<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
+     <e><p><l>еріншек<s n="n"/></l><r>tembel<s n="n"/></r></p></e>
+     <e><p><l>қазақша<s n="n"/></l><r>kazakça<s n="n"/></r></p></e>
 
 
      <!-- SECTION: Proper nouns -->
@@ -5072,7 +5082,7 @@
      <e><p><l>қолайлы<s n="adj"/></l><r>kullanışlı<s n="adj"/></r></p></e>
      <e><p><l>қолайлы<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
      <e><p><l>қолайлы<s n="adj"/></l><r>yatkın<s n="adj"/></r></p></e>
-     <e><p><l>көп<s n="adj"/></l><r>ziyade<s n="adj"/></r></p></e>
+     <!--<e><p><l>көп<s n="adj"/></l><r>ziyade<s n="adj"/></r></p></e>-->
      <e><p><l>қор<s n="adj"/></l><r>hor<s n="adj"/></r></p></e>
      <e><p><l>көркем<s n="adj"/></l><r>nefis<s n="adj"/></r></p></e>
      <e><p><l>қорқынышты<s n="adj"/></l><r>tehlikeli<s n="adj"/></r></p></e>
@@ -5294,6 +5304,7 @@
      <e><p><l>неге<s n="adv"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
      <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="dat"/></r></p></e>
 
+     <e><p><l>сосын<s n="adv"/></l><r>böylece<s n="adv"/></r></p></e>
      <e><p><l>күрт<s n="adv"/></l><r>çabukça<s n="adv"/></r></p></e>
      <e><p><l>ылғи<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
      <e><p><l>соң<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
@@ -5368,7 +5379,6 @@
      <e><p><l>дереу<s n="adv"/></l><r>hemen<s n="adv"/></r></p></e>
      <e><p><l>керісінше<s n="adv"/></l><r>tersine<s n="adv"/></r></p></e>
      <e><p><l>ертең<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
-     <e><p><l>ертең<s n="adv"/></l><r>yarın<s n="n"/></r></p></e>
      <e><p><l>қалай<s n="adv"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>нендей<s n="adv"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>жаяу<s n="adv"/></l><r>yayan<s n="adv"/></r></p></e>
@@ -5696,9 +5706,21 @@
      <e><p><l>жарат<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>жүр<s n="v"/><s n="iv"/></l><r>gez<s n="v"/><s n="tv"/></r></p></e>
 
+     <e><p><l>ұмыт<s n="v"/><s n="tv"/></l><r>unut<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>өндір<s n="v"/><s n="tv"/></l><r>üret<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>көрсет<s n="v"/><s n="tv"/></l><r>göster<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>доғар<s n="v"/><s n="tv"/></l><r>kes<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>тоқтат<s n="v"/><s n="tv"/></l><r>durdur<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>үйрен<s n="v"/><s n="tv"/></l><r>öğren<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>толтырыл<s n="v"/><s n="tv"/></l><r>dol<s n="v"/><s n="tv"/></r></p></e>
+
+     <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>көмектес<s n="v"/><s n="tv"/></l><r>yardım<b/>et<s n="v"/><s n="tv"/></r></p></e>
+
 
      <!-- SECTION: Interjections -->
      <e><p><l>иә<s n="ij"/></l><r>evet<s n="ij"/></r></p></e>
+     <e><p><l>өтінем<s n="ij"/></l><r>lütfen<s n="ij"/></r></p></e>
 
      <!-- SECTION: Abbreviations -->
 
@@ -5707,6 +5729,8 @@
      <e r="LR"><p><l>млрд<s n="n"/><s n="nom"/></l><r>milyar<s n="num"/></r></p></e>
      <e r="LR"><p><l>км<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
      <e r="LR"><p><l>мм<s n="n"/><s n="nom"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
+
+     <e><p><l>ҚР<s n="abbr"/></l><r>KC<s n="abbr"/></r></p></e>
 
      <!-- SECTION: Punctuation -->
 
