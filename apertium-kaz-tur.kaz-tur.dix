@@ -128,6 +128,9 @@
      <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
      <e><p><l>сыз<s n="post"/></l><r>sız<s n="post"/></r></p></e>
 
+     <e><p><l>арқылы<s n="post"/></l><r>boyunca<s n="post"/></r></p></e>
+     <e><p><l>қарай<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
+
      <e><p><l>қарсы<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
      <e><p><l>мен<s n="post"/></l><r>ile<s n="post"/></r></p></e>
@@ -244,6 +247,13 @@
      <e><p><l>бес<s n="num"/></l><r>beş<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+
+     <e><p><l>оңтүстік<s n="n"/></l><r>güney<s n="n"/></r></p></e>
+     <e><p><l>солтүстік<s n="n"/></l><r>kuzey<s n="n"/></r></p></e>
+     <e><p><l>шығыс<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
+     <e><p><l>күнбатыс<s n="n"/></l><r>batı<s n="n"/></r></p></e>
+     <e><p><l>батыс<s n="n"/></l><r>batı<s n="n"/></r></p></e>
+
      <e><p><l>үй<s n="n"/></l><r>ev<s n="n"/></r></p></e>
      <e><p><l>қарт<s n="n"/></l><r>kart<s n="n"/></r></p></e>
      <e><p><l>құдай<s n="n"/></l><r>tanrı<s n="n"/></r></p></e>
@@ -2353,7 +2363,6 @@
      <e><p><l>сүлгі<s n="n"/></l><r>havlu<s n="n"/></r></p></e>
      <e><p><l>стипендия<s n="n"/></l><r>burs<s n="n"/></r></p></e>
      <e><p><l>сопы<s n="n"/></l><r>tasavvuf<s n="n"/></r></p></e>
-     <e><p><l>солтүстік<s n="n"/></l><r>kuzey<s n="n"/></r></p></e>
      <e><p><l>сіріңке<s n="n"/></l><r>kibrit<s n="n"/></r></p></e>
      <e><p><l>секта<s n="n"/></l><r>mezhep<s n="n"/></r></p></e>
      <e><p><l>сахна<s n="n"/></l><r>sahne<s n="n"/></r></p></e>
@@ -3956,6 +3965,12 @@
      <e><p><l>сұраныс<s n="n"/></l><r>soru<s n="n"/></r></p></e>
      <e><p><l>тұлға<s n="n"/></l><r>şey<s n="n"/></r></p></e>
 
+     <e><p><l>округ<s n="n"/></l><r>okrug<s n="n"/></r></p></e>
+     <e><p><l>жөн<s n="n"/></l><r>yön<s n="n"/></r></p></e>
+     <e><p><l>саяси<s n="n"/></l><r>siyası<s n="n"/></r></p></e>
+     <e><p><l>саяси<s n="n"/></l><r>politik<s n="n"/></r></p></e>
+     <e><p><l>орташа<s n="n"/></l><r>orta<s n="n"/></r></p></e>
+     <e><p><l>империя<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
 
 
      <!-- SECTION: Proper nouns -->
@@ -5688,14 +5703,16 @@
      <!-- SECTION: Abbreviations -->
 
      <e r="LR"><p><l>ж.<s n="abbr"/></l><r>yıl<s n="n"/><s n="nom"/></r></p></e>
-     <e r="LR"><p><l>млн<s n="abbr"/></l><r>milyon<s n="num"/></r></p></e>
+     <e r="LR"><p><l>млн<s n="n"/><s n="nom"/></l><r>milyon<s n="num"/></r></p></e>
+     <e r="LR"><p><l>млрд<s n="n"/><s n="nom"/></l><r>milyar<s n="num"/></r></p></e>
      <e r="LR"><p><l>км<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
-     <e r="LR"><p><l>мм<s n="abbr"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
+     <e r="LR"><p><l>мм<s n="n"/><s n="nom"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
 
      <!-- SECTION: Punctuation -->
 
      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+     <e><re>[0-9]+</re>          <p><l><s n="num"/></l>  <r><s n="num"/></r></p></e>
      <e><p><l>-<s n="guio"/></l>  <r>-<s n="guio"/></r></p></e>
 
      <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
