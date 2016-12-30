@@ -6,6 +6,10 @@
     <match lemma="әйел" tags="n.*"><select lemma="kadın" tags="n.*"/></match>
   </rule>
   <rule>
+    <match tags="np.top.*"/>
+    <match lemma="астана" tags="n.*"><select lemma="başkent" tags="n.*"/></match>
+  </rule>
+  <rule>
     <match lemma="испанша" tags="n.*"/>
     <match lemma="сөйле" tags="v.*"><select lemma="konuş" tags="v.*"/></match>
   </rule>
