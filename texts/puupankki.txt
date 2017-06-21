@@ -1,0 +1,4188 @@
+# sent_id = Eurovision_ән_конкурсы_2010.tagged.txt:1:0
+# text = Еуровидение 2010 ән конкурсы Еуровидениенің 55-ші конкурсы болады.
+# text[tur] = 
+
+# sent_id = әртүрлі.tagged.txt:1:0
+# text = Қой, қазақ бұлармен не ғып соғыса алсын?
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:1:0
+# text = Қазақстан осы өңірдегі бейбітшілікті қолдайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:2:12
+# text = Дмитрий Медведевтің Астанаға сапары 22 мамырға жоспарланып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:3:31
+# text = Біздің елде сізге ерекше құрметпен қарайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:4:46
+# text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:5:65
+# text = - Көші-қон мәселелерін реттеу Қазақстан үшін маңызды болып саналады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:6:86
+# text = Қазіргі кезде қаланың ішкі өңірлік өнімі 20 есе өсті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:7:107
+# text = Кәсіпорында сапа менеджментінің жүйесі енгізілген.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:8:120
+# text = Жобаны 5 кезеңге бөліп, 12 жылда жүзеге асыру жоспарланып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:9:145
+# text = Бұл өте тиімді келісімшарт.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:10:156
+# text = Әлемде мұндай тәжірибе бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:11:167
+# text = Есірткі бизнесі де Орталық Азия аймағы үшін қауіп болып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:12:189
+# text = Кірпіш өндіруге жергілікті шикізат пайдаланылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:13:202
+# text = - Бас прокуратураның және Бас прокурордың жұмысын қолдаймын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:14:221
+# text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:15:244
+# text = Қалыптасу кезеңі табысты аяқталды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:16:255
+# text = Астанада барлық қажетті жабдықтармен жабдықталған ірі медициналық орталықтар бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:17:276
+# text = Өзінің базалық өлшемі бойынша ол орындалды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:18:291
+# text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:19:318
+# text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:20:338
+# text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:21:357
+# text = Бұл Қазақстанның бәсекеге қабілетті әлеуеті бар салалар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:22:374
+# text = Тұрғын үй кешені 487 пәтерден тұрады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:23:389
+# text = Біздің өңір үшін – бұл стратегиялық жол.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:24:406
+# text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:25:425
+# text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:26:442
+# text = Конкурсқа қатысуға 296 кәсіпорын ниет білдірген.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:27:457
+# text = Жобаның 1-кезеңінің (кеме жасау зауыты) аяқталуы – 2006 жылдың тамыз айы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:28:490
+# text = Біз осы берекелі бірлігіміз арқылы биік белестерді бағындырдық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:29:509
+# text = Бізде әлемдегі үздік үлгілерді осында әкелудің бірегей мүмкіндігі бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:30:530
+# text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев бірқатар Заңдарға қол қойды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:31:551
+# text = Болашақта бұл көрсеткіш өсе бермек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:32:564
+# text = Біз қазір мемлекет дамуының жаңа үлгісін әзірлеп жатырмыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:33:583
+# text = Осының бәрі терең құрметке лайық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:34:596
+# text = Мұнай өндіру 20 миллион тоннаға дейін ұлғайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:35:613
+# text = Алматы облысы – еліміздің халық тығыз топтасқан өңірлерінің бірі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:36:634
+# text = Осы оқиғаларды үлкен өкінішпен бақылап отырмын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:37:649
+# text = Жобаның құны 2,3 миллиард теңгені құрайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:38:664
+# text = Қазіргі уақыттағы дағдарыс біз үшін нағыз сынақ болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:39:683
+# text = Елдің болашағын барша халықпен бірге жасаңыздар!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:40:698
+# text = Бюджетке ақшаның түсуі көбейгені рас.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:41:711
+# text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:42:737
+# text = Содан кейін Мемлекет басшысының жұмыс сапары Теміртау қаласында жалғасты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:43:758
+# text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:44:775
+# text = - Сіздер осында тұрып жатырсыздар, ал Астанада жұмыс істейсіздер.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:45:798
+# text = Енді біз тарихымызға басқа қырынан келуге тиіспіз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:46:816
+# text = Жұмыстың ерекшелігі-алынған нәтижелердің инновациялық бағыты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:47:833
+# text = Кореяның Қазақстанға салған инвестициясының көлемі 2 миллиард доллардан асып түсті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:48:856
+# text = Жұмыссыздық 12 пайызға төмендеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:49:867
+# text = Өмір өзгерді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:50:874
+# text = Жағдай өзгерді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:51:881
+# text = Зейнетақы жинақтарының көлемі 2,2 трлн. теңгеге артты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:52:898
+# text = Ол солай бола береді деп ойлаймын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:53:913
+# text = Соған қарамастан мен тәртіп орнатуға қарсы үлкен қарсылықты сезіп тұрмын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:54:936
+# text = Түстен кейін Президент Павлодар ауданындағы емхананы аралады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:55:953
+# text = – Біз жаттығулар барысын мұқият бақылап отырдық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:56:970
+# text = Кешендегі 46 пәтердің барлығы тұрмыстық техникамен жабдықталған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:57:987
+# text = – Бізге жұмыс форматын елеулі түрде қайта қарау керек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:58:1008
+# text = Біз осы дәстүрді қастерлеп сақтаймыз және нығайтамыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:59:1025
+# text = Саммит жұмысының қорытындысында «Стамбұл Декларациясы» қабылданды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:60:1044
+# text = Заңдардың мәтіндері баспасөзде жарияланады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:61:1055
+# text = Осы Жарлық қол қойылған күннен бастап қолданысқа енгізіледі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:62:1074
+# text = Бұл ұсыныс біздің көршілеріміз тарапынан қолдау тауып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:63:1093
+# text = Осы орайда Нұрсұлтан Назарбаев төрт басым бағыттарды белгіледі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:64:1112
+# text = Бұл Стратегия сіздерге арналған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:65:1123
+# text = Инвестициялық саладағы ынтымақтастық табысты дамуда.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:66:1136
+# text = Компания сондай-ақ жүк вагондарын жинау жөніндегі өндірісті жолға қою ниетінде.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:67:1159
+# text = - Мен осы мерекеге арналған шараларға үлкен толғаныспен қатысамын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:68:1180
+# text = Бүгінде оған барлық жағдай жасалған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:69:1193
+# text = Соның өзінде, біз бұл жаман көрсеткіш емес деп санаймыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:70:1216
+# text = Нысанның жалпы құны 8,6 миллиард теңге.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:71:1231
+# text = – Бұл – халықтың ұлы мерекесі, күн мен түннің теңелуінің белгісі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:72:1258
+# text = 2007 жылы өзара сауда айналымының көлемі 531 миллион АҚШ долларын құраған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:73:1283
+# text = - Біздің компания да осы процеске белсене қатысқысы келеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:74:1303
+# text = Асханаға өткен жылы күрделі жөндеу жасалып, жаңа құрал-жабдық алынған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:75:1326
+# text = «Үмітсіз» кредиттердің үлесі – 7,2 пайызға дейін арта түскен.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:76:1351
+# text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:77:1372
+# text = Бұл-біздің үлкен жетістігіміз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:78:1385
+# text = Оны түсіндіре білу керек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:79:1396
+# text = Кездесу кезінде екіжақты ынтымақтастықтың мәселесі талқыланды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:80:1411
+# text = Сондықтан жұртшылық алаңдарлықтай ешқандай себеп жоқ.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:81:1426
+# text = Мемлекет басшысы екі заңға қол қойды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:82:1441
+# text = Макроэкономикалық көрсеткіштер жаман емес, - деді Г. Марченко.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:83:1462
+# text = Мен таң қалып отырмын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:84:1473
+# text = Одан кейін еліміздің Президенті дала асханасынан дәм татты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:85:1492
+# text = Оң серпін ағымдағы жылы да сақталып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:86:1508
+# text = Сіздерді ұлық мереке – Құрбан айт мейрамымен шын жүректен құттықтаймын!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:87:1531
+# text = Жылдың басында дағдарысқа қарсы бағдарлама бекітілді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:88:1546
+# text = – Қазір біз іске асыра алмайтындай жоба жоқ.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:89:1565
+# text = Қымбатты ханымдар!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:90:1572
+# text = Кәсіпкерлердің қырық пайызға жуығы әйелдер.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:91:1585
+# text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:92:1608
+# text = Қымбатты отандастар!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:93:1615
+# text = Содан кейін Мемлекет басшысы «Шапағат» коммуналдық базарында болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:94:1638
+# text = Қазақстан халқын абыроймен алға бастап, тағы да тарихи тамаша жеңістерге жетіңіз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:95:1664
+# text = Мемлекет басшысы Нұрсұлтан Назарбаев қысқа мерзімді демалысқа шықты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:96:1683
+# text = Дик Чейнидің аузынан Астананың атына ешқандай айыптау айтылмады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:97:1702
+# text = - Президент Пирамиданы маған резиденция терезесінен көрсетті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:98:1719
+# text = Санаулы сәттерден кейін біз жаңа 2012 жылға қадам басамыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:99:1740
+# text = Бұл халықаралық қоғамдастық үшін жақсы жағынан үлгі болады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:100:1759
+# text = Бұл мәселеде де біз Нұрсұлтан Әбішұлының қолдауын сезінеміз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:101:1777
+# text = Ол стратегиялық әріптестікке және өзара сенімге құрылған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:102:1794
+# text = Австрия Қазақстанның басты сауда серіктестері арасында жетінші орын алады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:103:1815
+# text = Олардың арасында Қытай, Түркия, Корея, Жапония бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:104:1838
+# text = - Біз Қазақстанның табыстары мен жетістіктерін жіті бақылап отырмыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:105:1859
+# text = «Мен Алматы маңындағы осы тамаша жерге келгендеріңіз үшін ризашылығымды білдіремін.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:106:1884
+# text = Халықаралық күн тәртібіндегі өзекті мәселелер де талқыланды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:107:1900
+# text = Еліміздің қорғаныс қабілеті жоғары болуы үшін қолдан келгенді жасау қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:108:1923
+# text = Еліміздегі орташа жас – 35.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:109:1936
+# text = - Қазақстан өзінің Грузиямен байланысында нақты экономикалық мүдделерді көздейді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:110:1957
+# text = 1995 жылдан бері аталған компания екі миллиард долларға жуық инвестиция салды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:111:1982
+# text = Міне, сонда ғана ол тұрақты болады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:112:1998
+# text = Сізге тағы да «қош келдіңіз» деймін.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:113:2016
+# text = Әр нысан, әр салынған ғимарат бірегей болуы керек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:114:2037
+# text = Қазақстан Каспий теңізінің айдынындағы ахуалды сенімді бақылауда ұстайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:115:2056
+# text = Сондықтан да мұнда біз бәрін мұқият зерттеп, ақылға салып көруіміз керек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:116:2082
+# text = Мен Саммитке әзірлік жөніндегі барлық мәселені шешеміз деп сенемін.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:117:2103
+# text = Мүгедектер бірлестіктері қызметінің құқықтық базасын жетілдірген жөн.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:118:2120
+# text = Тек биылғы жылдың өзінде Астанада шетелдердің 12 елшілігі ашылды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:119:2141
+# text = Орталық Азияда ішкі кикілжіңдер сақталуда.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:120:2154
+# text = Иран Ислам Республикасының Президенті
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:121:2163
+# text = Жыл сайын, ай сайын жаңа ғимараттар іске қосылып жатыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:122:2186
+# text = Барлық құқық қорғау жүйесі жұмысының сапасын арттыру қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:123:2205
+# text = Біз екіжақты қарым-қатынастарды дамытуға мүдделіміз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:124:2219
+# text = Екі мемлекет арасында еңсерілмейтін ешқандай қайшылық жоқ.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:125:2236
+# text = Жобаны жүзеге асыру мерзімі – 4 жыл.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:126:2253
+# text = Жоба құрылысының басталуы 2008 жылдың көктеміне жоспарланып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:127:2272
+# text = Дамуымыз жедел, келешегіміз кемел болсын!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:128:2287
+# text = Жарлықтың мәтіні баспасөзде жарияланады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:129:2298
+# text = Осы орайда Сіздің сапарыңыз аса мәнді әрі маңызды болып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:130:2321
+# text = Мұны бір компанияның атқаруы қиын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:131:2334
+# text = - Жаңа тұжырымдама толыққанды және дер кезінде енгізілуі қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:132:2355
+# text = Осының барлығы бізді жігерлендіре түседі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:133:2368
+# text = Қазақстан өз жетістіктерімен мақтануға тиіс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:134:2381
+# text = Астананың халқы үш есе көбейді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:135:2394
+# text = Қазақстандағы ЮНЕСКО тұрақты даму жобасымен айналысады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:136:2409
+# text = Өтіп бара жатқан жылға зор алғысымызды айтамыз, – деді Қазақстан Президенті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:137:2436
+# text = Сұрақтарыңызды мына мекен-жайға жолдауыңызды сұраймыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:138:2453
+# text = Астана, Ақорда
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:139:2460
+# text = Бүгін Ақордада Мемлекет басшысы Нұрсұлтан Назарбаевтың төрағалығымен кеңес өтті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:140:2481
+# text = Барлық министрлер Президент идеясымен келісті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:141:2494
+# text = - Бұл білім ордасы – Астанадағы үздік мектептердің бірі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:142:2515
+# text = Осы кезең ішінде әлемдік ішкі жалпы өнім 11 есе өсті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:143:2538
+# text = Біз үлгілі дамудың өзіндік моделін қалыптастырдық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:144:2553
+# text = Осы сектор субъектілерінің банкроттығының айқын тетіктерін енгізген жөн.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:145:2572
+# text = - Біз елеулі табыстарға қол жеткіздік.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:146:2587
+# text = Ол кезге қарай капитал жинақтап, атыңды танытуға болады”.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:147:2610
+# text = Қазақстан Республикасы туризмді дамытуда үлкен әлеуетке ие.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:148:2627
+# text = Бір құрам 940 адамға арналған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:149:2640
+# text = - Сізді Гонконгте құшақ жая қарсы алу біз үшін үлкен құрмет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:150:2665
+# text = Мен үшін Астана – басты мәселе болып табылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:151:2684
+# text = Бұл жолғы форумның тақырыбы – «Дағдарыстан кейінгі басқару» деп аталды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:152:2711
+# text = Заң шығарушылық қызметтегі негізгі бағыт әлеуметтік жаңғырту екені атап өтілді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:153:2734
+# text = Қазақстан бизнесі соңғы уақытта Арменияға жіті назар аудара бастады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:154:2755
+# text = Бұл елдің тағдырымен бірге өсіп келе жатқан халықтық басылым.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:155:2776
+# text = Біз келесі жылы Алматыда метро ашамыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:156:2791
+# text = Екіжақты қарым-қатынастарды дамыту саласында көптеген жұмыстар атқарылды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:157:2808
+# text = Қазақстан – табиғи ресурстар мен таланттарға аса бай ел.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:158:2829
+# text = Мен осында болғаныма қуаныштымын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:159:2841
+# text = Сіз Қазақстанда да, бүкіл әлемде де лайықты беделге ие болдыңыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:160:2864
+# text = “Сізді егемен Қазақстанның Президенті болып сайлануыңызбен құттықтаймын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:161:2883
+# text = Бүгінгі таңда адамзаттың болашағы қандай болатыны бізге байланысты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:162:2902
+# text = Қысқа мерзімде Сіздің елдеріңіз тамаша нәтижелерге қол жеткізді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:163:2921
+# text = Және бұл жерде демократиялық желеуді алға тартудың реті келмейді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:164:2942
+# text = – Халықтың әлеуметтік жағдайы ешқандай да нашарламайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:165:2958
+# text = – Сіздің Съездің табысты өткізілуімен құттықтағым келеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:166:2975
+# text = - Мен Қазақстан секілді керемет елде қызмет етуді көптен бері армандағанмын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:167:3000
+# text = Қазақстан басшысы мұнда менің әкем Президент болып тұрған кезде болған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:168:3023
+# text = Жалақы көлемі жоғарылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:169:3032
+# text = – Сіздер “Нұр Отан” партиясы ұсынғандар болып табыласыздар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:170:3055
+# text = Мектеп түлектері қазақ, орыс және ағылшын тілдерін білуге тиіс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:171:3078
+# text = Эстония Республикасының Президенті
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:172:3085
+# text = - Біз көрші мемлекеттерміз, біздің ортақ нәрсеміз көп.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:173:3107
+# text = - Экономикадан бастау қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:174:3118
+# text = Бұл тұрақтылық пен бейбітшілікті сақтау үшін басты шарт.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:175:3137
+# text = Өкінішке орай, олар бұл мәселені шешуге қабілетсіз болып шықты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:176:3160
+# text = Банктік қызмет көрсету мәдениеті айтарлықтай өсті», деп атап өтті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:177:3185
+# text = - Алматының күннен-күнге көркеюін көру өте қуанышты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:178:3206
+# text = Осы мақсатта Астана қаласына 107 миллиард теңге қаржы бөлінді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:179:3227
+# text = - Жастар бірігулері тиіс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:180:3238
+# text = - Мен үшін сіздің елде болу үлкен мәртебе.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:181:3257
+# text = Және осы жолы да Сіз үлкен өкілетті делегацияны бастап келдіңіз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:182:3279
+# text = Қазақстан Дағдарысқа қарсы дүниежүзілік конференция ұйымдастырды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:183:3294
+# text = Үшінші қабатта Астана қаласы тарихының мұражайын орналастыру жоспарланып отыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:184:3315
+# text = Бесінші басым міндет – жастармен жұмыс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:185:3330
+# text = Бұл денсаулық үшін, ерте диагностика үшін пайдалы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:186:3349
+# text = - Барлық аталған мәселелер бойынша Президент нақты тапсырмалар берді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:187:3370
+# text = Қазақстан Өзбекстанмен тығыз байланыс орнатуға ұмтылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:188:3385
+# text = - «Шеврон» көптеген жылдар бойы Қазақстанның әріптесі болғанын мақтан тұтады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:189:3412
+# text = Алайда сауда қатынастарына қажетті жақсы алғышарттар бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:190:3429
+# text = Барша еліміз біздің атлеттерімізге жанкүйер болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:191:3444
+# text = Елде тұрақтылық бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:192:3453
+# text = Бұл біздің заңдарымызға қарама-қайшы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:193:3464
+# text = АҚШ-пен стратегиялық әріптестік кеңейтілмек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:194:3475
+# text = - Құрметті Президент мырза, мен Сізді Қытайда көргеніме қуаныштымын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:195:3499
+# text = - Қазақстан Орталық Азиядағы көшбасшы ел болып табылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:196:3518
+# text = Бұл, сөз жоқ, үлкен жетістік.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:197:3535
+# text = Осы уақыт аралығында мұнда көп нәрсе өзгерді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:198:3552
+# text = Сербия мен Қазақстан арасында шешілмеген мәселе жоқ.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:199:3569
+# text = Сіздің ұйым ерекше өркениетті миссияны жүзеге асырады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:200:3586
+# text = Біз кестеге сай жұмыс жасаймыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:201:3599
+# text = Қазір біз жаңа Алатау ауданын аштық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:202:3614
+# text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев «Шеврон» компаниясының басшылығын қабылдады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:203:3639
+# text = Бұл өзге мемлекеттер мен діни ұйымдар үшін пайдалы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:204:3658
+# text = «Қазақ халқы елімізде тұратын басқа халықтардың басын біріктіруі керек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:205:3681
+# text = Жарыс «Дәулет» ұлттық теннис орталығында өтті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:206:3700
+# text = Содан кейін Италия Үкіметінің басшысы Астананың көрікті жерлерімен танысты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:207:3721
+# text = Мен олай деп санамаймын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:208:3732
+# text = Салтанатты ашылу рәсіміне Мемлекет басшысы Нұрсұлтан Назарбаев қатысты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:209:3751
+# text = - Біздің елдеріміз арасында ешқашан ешқандай да қайшылықтар болған емес.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:210:3771
+# text = - Парламенттің ең басты міндеті – заң шығару жұмысы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:211:3792
+# text = Мемлекет басшысы сондай-ақ университеттің кітапханасында болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:212:3807
+# text = Үшінші басым бағыт партияның өңірлердегі белсенді жұмысы болуы тиіс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:213:3828
+# text = Қадірлі жамағат!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:214:3835
+# text = Қазіргі сенім мен достық қатынастар жалғасын табады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:215:3852
+# text = - Мен үшін Қазақстан да өз Отаным.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:216:3868
+# text = - Құрметті Дмитрий Анатольевич, жоғары деңгейдегі біздің кездесуіміз өте табысты өтуде.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:217:3895
+# text = Біз олардың қайғыларын бөлісеміз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:218:3906
+# text = Олар үшін Қазақстан кедергісіз аймаққа айналуға тиіс.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:219:3924
+# text = Мен біздің тарапымызды да қабылданған шешім қанағаттандыруы тиіс деп ойлаймын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:220:3946
+# text = Мен Малайзияның әр азаматына осы кітапты оқып шығуды ұсынғым келеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:221:3969
+# text = Нәтижесінде ішкі саяси жағдай бақылаудан шығып кетті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:222:3986
+# text = Бұл біздің еліміздің салтанаты!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:223:3997
+# text = Бүкіл әлем осымен айналысады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:224:4008
+# text = - Сіз өзіңіздің дана саясатыңыздың арқасында өз еліңіз үшін бәрін жасап келесіз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:225:4035
+# text = Мен мұнда қырықтан астам рет болдым.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:226:4050
+# text = Ол біздің стратегиялық ұстанымымыз, - атап өтті Нұрсұлтан Назарбаев.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:227:4073
+# text = Бас жоспар – бұл қаланың конституциясы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:228:4088
+# text = Президент ғылым мен білімнің ықпалдастығына ерекше назар аударды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:229:4107
+# text = Мемлекет басшысы Нұрсұлтан Назарбаев «Мәскеу» жаңа бизнес орталығында болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:230:4132
+# text = Жаңа кәсіпорындардың жұмыс істеуі үшін жаңа мамандар қажет.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:231:4151
+# text = Ғасыр ортасы да таяп қалды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:232:4163
+# text = Ол біздің азаматтарымыз үшін нақты нәтижелер әкелетіні маңызды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:233:4182
+# text = Біз еліміз Тәуелсіздігінің 15-жылдығының қарсаңында тұрмыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:234:4201
+# text = Бүгін әлемдегі барша христиандардың мерекесі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:235:4214
+# text = Екінші павильонда төрт қабатты қонақ үй кешені орын тепкен.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:236:4235
+# text = Біздің әңгімелесуіміз нәтижелі болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:237:4246
+# text = Бұл 2008 жылмен салыстырғанда, бір жарым есе артық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:238:4267
+# text = Ел-жұрттарыңыздың сіздерге артар сенімі үлкен, үміті зор.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:239:4286
+# text = Осы орайда, патриотизм табысқа жетелеуші қасиеттердің бірі болып табылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:240:4309
+# text = Жедел жәрдем ауруханасы 2010 жылғы желтоқсанда салынған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:241:4326
+# text = Президент бізді барлық бағыт бойынша қолдады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:242:4341
+# text = Құрылыстың аумағы 488 шаршы метрді құрайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:243:4356
+# text = Учаскедегі пайдалану жылдамдығы 350 км / сағат.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:244:4373
+# text = Мемлекет басшысы Алматы қаласының бірқатар нысандарын аралап көрді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:245:4392
+# text = Ақтау теңіз сауда портының негізі 1963 жылдың қазан айында қаланған.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:246:4415
+# text = Мерекелеріңізбен, қымбатты отандастар!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:247:4426
+# text = Әлемде бізді осы қасиеттеріміз үшін бағалайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:248:4441
+# text = Бірінші кезектегі нысандар 2006 жылдың тамызында пайдаланылуға берілді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:249:4460
+# text = Біз өзіміздің қазақстандық әріптестерімізбен жұмыс атқаруға дайынбыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:250:4478
+# text = Жаңа халықаралық әуежай, спорт кешендері, мектептер салынады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:251:4499
+# text = Мемлекет басшысы министрлікке бірқатар нақты тапсырмалар жүктеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:252:4516
+# text = Осылайша, Кедендік одақтың құқықтық базасы 13 құжатты қамтиды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:253:4537
+# text = Шағын және кеңейтілген құрамда келіссөздер жүргізілді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:254:4552
+# text = Жобаның құны 32,2 миллиард теңгені құрайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:255:4567
+# text = Бұл тұрғыдан келгенде, Қазақстан елден ерек екенін айтқым келеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:256:4590
+# text = Біз қайда бара жатырмыз?
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:257:4601
+# text = Біздің Отанымыз – Қазақстан Республикасы нығайып, дами берсін!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:258:4622
+# text = Мұның жарқын дәлелі – жұмыс берушілердің бағасы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:259:4639
+# text = Қазақстан спортшылары Олимпиаданың жеті алтынын жеңіп алды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:260:4656
+# text = Сондай-ақ сіздер қазір Алматыда өңірлік қаржы орталығын құрып отырсыздар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:261:4677
+# text = - Біз бұл оқиғаны ерекше қуанышпен қарсы алдық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:262:4696
+# text = Сондықтан Бәсекелестікті қорғау жөніндегі арнаулы агенттік құрылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:263:4713
+# text = Бүгін бұл 9200 АҚШ долларына жетті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:264:4728
+# text = Нашақорлықпен және есірткі бизнесімен күресте табысты жұмыс атқарылды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:265:4747
+# text = Жобаның жалпы құны 115 миллиард теңге.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:266:4762
+# text = 2030 стратегиясы 1997 жылы ашық құжат ретінде жасалды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:267:4781
+# text = Бағдардың қашықтығы 4,3 мыңнан астам шақырымды құрайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:268:4798
+# text = Парламентте мен сөз сөйлегеннен кейін абдырау мен абыржу болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:269:4819
+# text = Біз бүгін оны өндіріп те жатырмыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:270:4833
+# text = Ендігі ұрпақ – Мәңгілік Қазақтың Перзенті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:271:4848
+# text = Сондай-ақ Қазақстан Иранға астық жеткізіп тұруға мүдделі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:272:4865
+# text = Әңгімелесуші тараптар әлемдегі саяси және экономикалық ахуалды талқылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:273:4884
+# text = Бәрі де болған жәйтті айыптайды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:274:4896
+# text = Жабдықтар осы жылдың наурызында іске қосылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:275:4911
+# text = Біз аса маңызды кездесу өткіздік.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:276:4924
+# text = Алқапта саңырауқұлақтар мен жеміс-жидектер өсіп жатыр.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:277:4943
+# text = Азық-түлікке деген қажеттілік арта береді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:278:4956
+# text = Атқарылған жұмыстың нәтижесі көзге бірден түседі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:279:4971
+# text = Бүгін Президент «Қазақмыс» корпорациясының мыс ерітетін зауытында болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:280:4994
+# text = Мәңгілік Ел – жалпы қазақстандық ортақ шаңырағымыздың ұлттық идеясы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:281:5015
+# text = Біз әрдайым қарым-қатынасымыздың серпінін қанағаттанарлық сезіммен айқындаймыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:282:5032
+# text = Қазақстан Ұйымның белсенді мүшесі болып табылады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:283:5047
+# text = Мемлекет жыл сайын 2 миллиард 300 миллион теңгеден астам қаржы бөледі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:284:5072
+# text = Бізді жеке достығымыз бен тығыз іскерлік қатынастар байланыстырады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:285:5091
+# text = Біз елде тұрақтылық болғанда ғана оның дами алатынына сенеміз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:286:5111
+# text = Сондықтан да жаңа елордада біз жаңа мәдениет ошақтарын құруға тырыстық.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:287:5133
+# text = - Соңғы 30 жылда Малайзия аса жылдам дамыды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:288:5152
+# text = Екі мемлекет басшылары шағын және кеңейтілген құрамда келіссөздер жүргізді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:289:5173
+# text = Нақ мұндайды мен әлемнің ешбір жерінен көрген емеспін.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:290:5190
+# text = Біз бірқатар экономикалық ынтымақтастық мәселелері бойынша келісімге келдік.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:291:5209
+# text = 2008-2009 жылдардағы жаһандық дағдарыс осыны айғақтады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:292:5228
+# text = Қазақстанды өзіміздің досымыз ретінде сезіну бізді зор қуанышқа бөлейді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:293:5249
+# text = Өзара тауар айналымының деңгейі 53 миллиард долларға жетті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:294:5268
+# text = Біз Қазақстанға күллі әлем үшін жасаған жұмыстары үшін алғыс айтамыз.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:295:5291
+# text = Нұрсұлтан Назарбаев сондай-ақ облыстың Қан құю орталығында болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:296:5310
+# text = Бұл іс айыптау қорытындысымен прокуратураға жіберілді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:297:5325
+# text = Сондай-ақ жаттығу залы мен қысқы бақ бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:298:5342
+# text = Төртінші – экспортқа бағдарлау.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:299:5353
+# text = Жаппай тәртіпсіздік фактілері бойынша қылмыстық іс қозғалды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:300:5370
+# text = Сіздерді Рождество жарқын мейрамымен шын жүректен құттықтаймын!
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:301:5387
+# text = Юрий Лужков жаңа туындының қолжазбасымен танысып шығыпты.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:302:5404
+# text = Бүгін Мемлекет басшысы Назарбаев Университетінде болды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:303:5419
+# text = 156 мектеп жөндеуден өтті.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:304:5430
+# text = Осы мақсатқа қажетті қаражат бөлінді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:305:5443
+# text = Әрқашан аспанымыз ашық болсын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:306:5454
+# text = Қазақстан – уран өндіруде әлемдік көшбасшы.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:307:5469
+# text = - Қазақстан халқы Украинаға тұрақтылық пен игілік тілейді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:308:5488
+# text = Президент су ресурстарын сақтау мәселелеріне айрықша назар аударды.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:309:5507
+# text = Ұлы Абай «Адамның ұлылығы ұстазынан», деген екен.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:310:5528
+# text = Қазақстандағы Украина жылы да шараларға толы және мазмұнды болмақ.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:311:5548
+# text = Бүгін солардың бірқатары Нұрсұлтан Әбішұлы Назарбаевпен кездесуге келді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:312:5567
+# text = Православие-Қазақстанда ең көп тараған конфессияның бірі.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:313:5586
+# text = Сенатор Серік Ақылбай қылмысқа қарсы күрес тақырыбын қозғады.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:314:5605
+# text = Республика өте зор әлеуетке ие болатын.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:315:5620
+# text = Біздің еліміздің экономикасы артқан сайын халықтың да тұрмысы жақсара бермек.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:316:5642
+# text = Бұл ретте сыртқы қарыздың өсуіне байланысты проблема бар.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:317:5661
+# text = - Астана қаласы қарқынды дамып келеді.
+# text[tur] = 
+
+# sent_id = akorda-random.tagged.txt:318:5676
+# text = Заңның мәтіні баспасөзде жарияланады.
+# text[tur] = 
+
+# sent_id = Махамбет_Өтемісұлы.tagged.txt:1:0
+# text = 1939 ж. Қ. Жұмалиев Махамбет өлеңдерінің жинағын шығарды.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:1:0
+# text = Сеулде миллионнан астам адам билікке қарсы көтеріліске шықты.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:2:18
+# text = Өзбекстанда 79 жасына қараған шағында мемлекет басшысы Ислам Каримов дүниеден озды.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:3:43
+# text = Қазақстанда жергілікті полиция қызметі өз жұмысын бастады.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:4:60
+# text = Қазақстан Еуразиялық Экономикалық Одаққа төрағалығын бастады.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:5:75
+# text = 8 қаңтар — Қазақстандық сиқыршы Руслан Иванченков бес сағат үздіксіз сиқыр көрсетіп Гиннестің рекордтар кітабына енді.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:6:110
+# text = УЕФА 1996 жылдан бергі футзал тарихында медаль алған алғашқы дебютант ел.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:7:135
+# text = Белгілі ғалым, академик Қаныш Сәтбаевтың үлкен қызы, медицина ғылымдарының докторы, профессор Қаниса Қанышқызы Сәтбаева қайтыс болды.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:8:176
+# text = Қазақстанның денсаулық сақтау министрі қызметін атқарған Салидат Қайырбекова ауыр сырқаттан көз жұмды.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:9:203
+# text = Футболдан Еуропа чемпионатының финалдық матчында Португалия құрамасы Франция командасын жеңіп Еуропа чемпионы атанды.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:10:232
+# text = Алматы қаласында лаңкестік әрекет орын алып, 5 полиция қызметкері мен 1 бейбіт тұрғын қаза тапты.
+# text[tur] = 
+
+# sent_id = wikipedia-news.tagged.txt:11:267
+# text = 5 полиция қызметкері жарақаттанған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:1:0
+# text = Өскеменнің ар жағында, Бұқтырманың оң жағында әлемге аян Алтай бар.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:2:24
+# text = Аттан!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:3:29
+# text = Манағы ала атты кім?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:4:40
+# text = Қыз алып қашқан орыстар кім?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:5:53
+# text = Бұларды қуам деп оққа ұшқан кім?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:6:68
+# text = Қане, осыны дауысқа саламын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:7:81
+# text = Атым — Бекболат.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:8:90
+# text = Ағам отау болып, енші алып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:9:107
+# text = Інім Семейде оқуда.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:10:116
+# text = Көршінің қатыны мен қожаның өсегі білінген соң, әкеміз шығарып жіберіп, содан кейін көзіміз ашылды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:11:151
+# text = Бірақ оған артық араласпаймын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:12:162
+# text = Төбелес болса жасаққа шығамын, қыз қашқан, қатын кеткен топтардан қалмаймын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:13:189
+# text = Не болғанымды білмедім.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:14:198
+# text = Адам лажсыз елінің тілегіне бағынады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:15:212
+# text = Қазақ солдаттан өлгенше қорқады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:16:223
+# text = Патшамен соғыс ашқанда, ел-жұрт, отанымды қорғауға, біз соғысқа бардық.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:17:250
+# text = Анығында қазақ мемлекетке не пайда келтіріп отыр?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:18:267
+# text = Патша қазақты қара жұмысқа алам дегенде, қандай қорқып, абыржып, қиратылып қалды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:19:298
+# text = Кім біледі, қолына қару берсе, орыс жұртына жау болып кетпесіне кімнің көзі жетеді?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:20:331
+# text = Онда ұлы Ресей кемиді, жері, елі азайып қалады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:21:354
+# text = Қазақта жер көп.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:22:363
+# text = Алдымыз қашып, Қытай жеріне өтіп кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:23:380
+# text = Ендеше, біз тіршілік қып жүрміз.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:24:395
+# text = Бірінен болмаса бірінен өлуіміз хақ.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:25:408
+# text = Біз әзір тіріміз.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:26:417
+# text = Жасым 35-те.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:27:424
+# text = Өліп бара жатырмын десең, қойға бір тайын мінгізбейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:28:445
+# text = Оны айтып жүрген өзіміздің қойшылар.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:29:458
+# text = Бірақ ұрлығымыз шығып қалды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:30:469
+# text = Қашағанды жалғыз ұстаймын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:31:478
+# text = Ертіс ағып, Өскемен, Зайсан, Семей сияқты қалаларды көрдім.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:32:503
+# text = Кедей жақтың келіншектеріне ет, май беріп, көңіл қостым.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:33:526
+# text = Жылқы бағып жүріп, қалың беріп, қатын алдым.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:34:547
+# text = Ақтар қашып, қызылдар келіп, қала-қалаға орнады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:35:570
+# text = Байдың малын, артық қатынын, жерін кедейге тартып әпереді деген лақаптар шыққан соң, жатсам ұйқым, тұрсам күлкім келмейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:36:615
+# text = Біреу қазақ жақсы деді, біреу орыс жақсы деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:37:636
+# text = Менен жұрт сескенейін деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:38:647
+# text = Елге келген соң ауыл-ауылдан мал, киіз, төсек-орын, ыдыс-сайман алып жүрген ақтардың адамына жолығып, іш пікірім ішімде соларға кісі болдым.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:39:708
+# text = Олар маған жақсы қыз тауып бер деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:40:725
+# text = Өмірі байдан, күштіден қорлық-зорлық көріп келдім.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:41:746
+# text = Енді оларды мен несіне аяйын?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:42:759
+# text = Алып келген манағы қолын артып жатқан жирен орыс екен.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:43:780
+# text = Бірақ енді қайта сүюге қызға ұмтылмады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:44:795
+# text = Жирен орыс манағыдай емес.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:45:806
+# text = Шайларын ішіп, шылымдарын тартысып болған соң, өзгелері тысқа шықты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:46:831
+# text = Орыстар тұра ұмтылды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:47:840
+# text = Өлген жирен орысты көп солдат алып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:48:857
+# text = Бірақ төбелесіп өлтіріспей, алыстан атып өлтіріскеніне түсіне алмады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:49:878
+# text = — Мына төре сені жақсы көрген.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:50:893
+# text = Бұл өзі үлкен төре.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:51:904
+# text = Қорықпайтын кісі.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:52:911
+# text = Анау жігіттен сені маған бер деп сұраған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:53:928
+# text = Саған ешкім тимейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:54:937
+# text = Ол бермеген.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:55:944
+# text = Екеуі дауласқан, шатақ шыққан.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:56:957
+# text = Сен қорықпа.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:57:964
+# text = Мына төре сені ешкімге бермейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:58:977
+# text = Бұл сені қатын қылады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:59:988
+# text = Бұл көп білетін ақылды жігіт.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:60:1001
+# text = Бұл кісі сені жақсы көреді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:61:1014
+# text = Сені күтеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:62:1021
+# text = Үлкен төре деп мақтайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:63:1032
+# text = Анда-санда қара мұрт оған сөз үйретіп тұрды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:64:1053
+# text = Оның көп сөзі миына қонбайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:65:1066
+# text = Ендеше, жақсы көргені рас.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:66:1079
+# text = Ел қайда?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:67:1086
+# text = Қара күшке, тағдырға не шара?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:68:1101
+# text = Жамандығынан мұндай болған жоқ.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:69:1110
+# text = Малына, жанына ие болып отырған қай қазақ бар?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:70:1131
+# text = Қызды алам деп жүргенде, бұл иттер шешесін атып өлтіріпті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:71:1154
+# text = Мұның арты үлкен дүрбелеңге шаппасын кім біледі?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:72:1171
+# text = Ағасы болмаса, бұ қызда не жазық бар еді?..
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:73:1196
+# text = Енді бұл беттен қайтуға өткел жоқ...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:74:1211
+# text = Дауа жоқ...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:75:1218
+# text = Бай неліктен бай болады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:76:1229
+# text = Қыстауға қонса, бата оқу болса, мал өлсе, құрбандық берсе, бас пен жамбас молданың алдына тартылатын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:77:1270
+# text = Онан өзгені іздемейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:78:1279
+# text = Кімге жалынсын, кімге сенсін?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:79:1292
+# text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:80:1365
+# text = Мұның бәрі оған құдайдың бұйырған жұмысы тәрізді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:81:1382
+# text = Бұл — құдайдың бұйрығы.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:82:1393
+# text = Бұрынғыдай емес, Алтынай тұрмысына енді риза.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:83:1410
+# text = Байы атқа мініп, кісі болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:84:1425
+# text = Кісі болғалы, үйі үй болып келеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:85:1442
+# text = Жоқ, Алтынайдың өзінше дәмі әбден бар.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:86:1459
+# text = — Бәйбіше қайда?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:87:1468
+# text = Қазақтың сондай телмірген әдеті құрысын!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:88:1481
+# text = Олар қайда?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:89:1488
+# text = Ол келген қазақ екен.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:90:1499
+# text = - Немене?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:91:1506
+# text = — Бәйбішені атып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:92:1517
+# text = — Ойбай!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:93:1524
+# text = — Е!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:94:1531
+# text = Сол шапқыншының бірі осы екен.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:95:1544
+# text = Өйткені ол жара атын атауға — адамның аузы жиренетін жара еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:96:1569
+# text = Және ол қашанғы дау?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:97:1580
+# text = Оған себеп мынау еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:98:1591
+# text = — Ойбай, үлкен оқиға боп қалды!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:99:1608
+# text = — Немене, жаным?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:100:1619
+# text = — Құдай оңдап елдің көзі бір ашылды...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:101:1636
+# text = Басқа бір дүниеге кіргендей болады...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:102:1649
+# text = Сол сөзді бітірген кезде тағы үш орыс келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:103:1668
+# text = Ай жоқ.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:104:1675
+# text = Қараңғылық қоюланып келеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:105:1684
+# text = "Осылай тұр!" дегендей екі иығынан басып қалды, бес-алты адымдай жерге барып тұра қалды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:106:1725
+# text = Алтыатары жерге түсіп кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:107:1736
+# text = — Мені неге атасың?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:108:1747
+# text = Мен саған тағы керек болмасымды қайдан білесің?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:109:1764
+# text = Сен бұл жолдан аман-есен қайтарсың, еліңе аман барарсың... — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:110:1795
+# text = Кімді әлдилеп, сыбырлап тұрсыңдар?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:111:1808
+# text = Түн түнереді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:112:1815
+# text = Бірақ дыбыс білінбейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:113:1824
+# text = Бұ немене?..
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:114:1835
+# text = — Енді қай жаққа барайын?..
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:115:1852
+# text = Қасқыр одан жаман өршеленеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:116:1863
+# text = Қасқыр күркілдейді...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:117:1870
+# text = Жалын қалай шықты, солай қасқырлардың қарасы өше берді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:118:1891
+# text = Қасқырлар жалт берді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:119:1900
+# text = Қорқақ аңдар, тілсіз жаулар!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:120:1913
+# text = Қаш, маңыма жолама!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:121:1924
+# text = Кімді ұрып жығатынын кім білсін, әйтеуір ала шықты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:122:1945
+# text = Асумен асып елге бара жатқан, елден мал, азық-түлік алып келе жатқан орыстарды талай көрген.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:123:1984
+# text = Оларға көзі түскенде күйінген, өкінген, жиренген, әйтеуір өзегін өртеген бір жаман сезім пайда болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:124:2021
+# text = Қарағысы келмеді, теріс айналды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:125:2034
+# text = Ауылына келгендей қуанып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:126:2045
+# text = Құдай жарылқады!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:127:2052
+# text = Бір қырдан асқанда көлденең созылған сай килікті...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:128:2069
+# text = Арғы қабақта жол жатыр.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:129:2080
+# text = Ағыны тас домалатқан тасты сайдың тар өзені екен.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:130:2099
+# text = "Оны біз білмейміз-ау!" деген ойлар келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:131:2121
+# text = Тарағысы келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:132:2128
+# text = Өзен бойындағы ел қайда?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:133:2139
+# text = Олардың жауы кім?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:134:2148
+# text = Қара шаттан қашып келе жатқаны лезде есіне түсе қалды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:135:2169
+# text = Ағыны бұжырланып жатыр.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:136:2178
+# text = Күн еңкейіп, түс қаңғып кетіпті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:137:2193
+# text = Әлі жүріп келеді, әлі жүріп келеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:138:2210
+# text = Өткел жоқ.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:139:2217
+# text = Жарты шақырымдай жерде бір дөңес көрінеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:140:2232
+# text = Соған шығып ел көздемек.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:141:2243
+# text = Елсіз дала емсіз жарадай көрінеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:142:2258
+# text = Ай, қу дала!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:143:2269
+# text = Бір мезгілде әлгі торғай жансыз тастай ағып түсті топ етіп.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:144:2292
+# text = Ол торғайдың түскен жері қалың шөп.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:145:2307
+# text = Торғайды ажалдан аман алып қалғанына қуанды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:146:2322
+# text = Жыланды өлтіргеніне ерленді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:147:2331
+# text = Әрі ырым көрді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:148:2340
+# text = Бір жапырақ етім бар.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:149:2351
+# text = Ол дүние жинамайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:150:2360
+# text = Үлкенді "әке", "аға" деп тұрады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:151:2383
+# text = Мейлі жаңа түскен келіншек болсын, қатын біткенді "шеше" дейді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:152:2410
+# text = Еркек, әйел деп айырмайды, бала біткенді "балақайым" дейді, кісіге өмірі қатты сөз айтпайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:153:2449
+# text = Ит біткен шулап артында жүреді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:154:2462
+# text = Бар мақтанатыны — жүйріктігі.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:155:2473
+# text = Бірінен қалдым деп айтпайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:156:2484
+# text = Кейде жұрт намаз оқып жатса, дәрет алмастан жалаң аяқ барып, қатарға отыра кетеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:157:2517
+# text = Бірталай жер жүрді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:158:2526
+# text = Әлден уақытта жүруге мұршасы келмей, дымы құрып отыра кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:159:2549
+# text = Үлкен еркектің мойнына дардай басымен мінуді ұят көрді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:160:2568
+# text = Кейбір қоралардың қасында қарауытқан мал көрінеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:161:2583
+# text = Оның оң жағындағы кішірек қорадан бір көлеңке қараңдап сол үйге таман кетіп барады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:162:2612
+# text = "Не бетіммен барам" деген ой келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:163:2631
+# text = Және осы күйсіз қалпында тәуір үйге бас сұғуға қорланды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:164:2652
+# text = Үй іші тастай қараңғы.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:165:2663
+# text = Үйдің іші сасық.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:166:2672
+# text = Неміз кетіп барады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:167:2681
+# text = Е, сол.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:168:2690
+# text = Киімі қандай екен?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:169:2699
+# text = Қызды біреуге беріп жіберуге кім даяр тұр?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:170:2716
+# text = Ол тағы білінбей қалмайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:171:2727
+# text = Шірік ит!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:172:2734
+# text = Ауыл кісілері тысқа шықты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:173:2745
+# text = Бір безер ит еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:174:2756
+# text = Ақтардың тұтылғанын сонда білді...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:175:2767
+# text = "Кәпірді" құшақтаған арам қолымды қайтіп әкемнің адал дастарқанына апарып, қайтіп бір табақтан ас ішермін?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:176:2804
+# text = Менің күйеуім ше?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:177:2813
+# text = Менде не сын қалды дейсің?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:178:2826
+# text = Мыналарды көргенде өзі жазылған соң, Бекболат: "ауру қалай жазылмасын?" — деп ойлады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:179:2863
+# text = Бекболат сыртқы есікті ашып тысқа шықты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:180:2878
+# text = Еліне тезірек қайтқысы келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:181:2889
+# text = Мен, міне, құдайдың жарық күнін көрдім, жазылдым.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:182:2912
+# text = Ол осы күнде не күйде екен?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:183:2927
+# text = Әлде орыстар өлтіріп тастады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:184:2938
+# text = Әлдебір сары орыспен құшақтасып отыр?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:185:2951
+# text = Сол кім екен?..
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:186:2964
+# text = Бекболат амандасты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:187:2971
+# text = Онымен таласқандай мұның не айбыны, не күші бар?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:188:2992
+# text = Бірақ Бекболат бұл ойын неге білдірсін?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:189:3007
+# text = Бірін қалдырмай ұстап әкелді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:190:3018
+# text = Оны естімедім.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:191:3025
+# text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:192:3080
+# text = Ақтардың өзін кеше кешке әкелді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:193:3093
+# text = Бірақ оның енді не керегі бар? — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:194:3114
+# text = Бүгін, ертең-ақ біліп беремін.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:195:3128
+# text = Бұл алмаса, оны кім алады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:196:3143
+# text = Онысы қандай болып шығады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:197:3154
+# text = Ол үміті болмайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:198:3163
+# text = — О не?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:199:3172
+# text = — Бәрібір, ішіне су құйылған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:200:3187
+# text = — Мені жауып отыра алмайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:201:3200
+# text = Өзі шала қазақ.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:202:3209
+# text = Соның қатыны қазақ болатын.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:203:3220
+# text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:204:3241
+# text = Бақша күзететін шал бұ не деп жетіп барса, екеуі екі жаққа қаша жөнеледі.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:205:3272
+# text = Бұ қыз кәпірге дауа жоқ...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:206:3285
+# text = Бекболат жымиып: — Ал, ал, — дей берді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:207:3310
+# text = — Қыз аман-есен үйіне келіпті, — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:208:3329
+# text = Бекболат шошып кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:209:3338
+# text = Танытатын жерге әлдеқашан жіберілген.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:210:3349
+# text = Бекболат амалсыз тыңдады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:211:3358
+# text = — Біз қайдан білейік?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:212:3369
+# text = — Мен білмеймін.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:213:3378
+# text = Осы істен қорыққаннан нашар ауылдар өздері шақырып семіз малын сойып беретін.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:214:3403
+# text = 52 жыл болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:215:3412
+# text = Бір миллион пұт тас көмір тасылған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:216:3427
+# text = Оларды шығарам деп көп ақшасын алды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:217:3442
+# text = — Жоқ, оны артынан сөйлесерміз...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:218:3457
+# text = Бір пулемет, қанша ат-арба, қанша киім, қанша ақша — баршаларын олжа қылған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:219:3490
+# text = Кім алғанын білмеймін, бір кісі қосып берейік, өздерің кісі жібер, солар жисын деп сұранған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:220:3527
+# text = — Рас.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:221:3534
+# text = Сол аттар баршасы кетті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:222:3545
+# text = — Бұған не айтасың?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:223:3556
+# text = 12. Мұнан кейін елге сайлаушы шықты.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:224:3573
+# text = — Біз қайдан білейік.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:225:3584
+# text = Ретін табамыз, — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:226:3597
+# text = Бекболат Жылтырға жолыққаннан бері бұл әңгімелерге әбден қанған.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:227:3616
+# text = Жылтыр: — Е, әбден болады, — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:228:3639
+# text = (Әлдеқашан жіберіліп қойған арыз екенімен жұмысы жоқ).
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:229:3660
+# text = — Е, ол арасы оңай.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:230:3675
+# text = Ол талай қызды алып қашқан, талайды тастаған, қатын алу, тастау оған тымақ ауыстырып кигенмен бір есеп.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:231:3716
+# text = — Мені қашан шығарасыз? — деп тағы сұрады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:232:3737
+# text = Аурухананың киімдерін тастап, өз киімін киген соң, адам сияқтанып қалды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:233:3764
+# text = — Қонақ келеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:234:3773
+# text = Бекболат екі-үш көшені айналып, салған бойымен Төлегеннің пәтеріне келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:235:3800
+# text = — Аман, аман, — деп тани кетті...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:236:3821
+# text = — Қандай қонақ?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:237:3830
+# text = — Жарайды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:238:3837
+# text = Бекболат көр-жерді айтысып тұрып, арғы үйге қарай жүрді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:239:3862
+# text = — О, құрып қал!
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:240:3875
+# text = Тап-таза екі бөлме.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:241:3884
+# text = Ауыз бөлмеде ортада үлкен үстел.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:242:3897
+# text = Мұнша аспаптар қайдан келген?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:243:3908
+# text = Бұлардың қайдан келгенін Бекболат қайдан білсін?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:244:3923
+# text = Алайда партияға кірген жолдастарымен пікірі, қызметі, ымы-жымы бір еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:245:3948
+# text = — Иә, естідім, жақсы болыпты, — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:246:3971
+# text = Мойындағы бір ауыр міндетті атқарғандай, өмірдің бір мақсаты сол шылымда тұрғандай сонша ықыласын қойғаны Бекболатқа жат көрінеді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:247:4010
+# text = — Қалай, Төлеген?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:248:4021
+# text = Бұл келген төрт жігіттің бірі қошқар туған қозыдай келбетті, бітімді Ақбала еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:249:4052
+# text = Әңгіменің көбі жалақы, пәтер, отын, темекі — қысқасы, күн-көріс жайынан болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:250:4085
+# text = Міне, мұндай нәрселерді білуге Ақбала құмар еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:251:4104
+# text = Кім қалай тұрады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:252:4113
+# text = Кімге сенуге, кіммен істесуге болады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:253:4128
+# text = Олар немен шұғылданады?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:254:4137
+# text = Қандай кітап оқиды?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:255:4146
+# text = Орыстармен арасы қандай?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:256:4155
+# text = Соңынан қарбыз сойылды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:257:4164
+# text = Тамақ мол болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:258:4173
+# text = Алдымен ортаға туралған ет қойылды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:259:4186
+# text = Оның артынан кеспе келді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:260:4197
+# text = — Ештеңе емес...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:261:4206
+# text = — Кішкене "боз жорға" еді, — деп Төлеген сыпайы қонағына қарап, жымиды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:262:4241
+# text = Алдында тұрған стақанды ұсынып: — Бұ жарықтықты әуре қылмай құйшы, қарағым! — деді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:263:4277
+# text = Бір бөтелке спирт бір жарым бөтелке арақ болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:264:4296
+# text = Арақ ішілген сайын, күлкі көбейіп, мәжіліс қызуға айналды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:265:4319
+# text = Ақбала губерния жұмысын үш есе арттыра мақтап, өздері тындырып жатқан болды.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:266:4346
+# text = Ауылдан кісі қатынасатын кезі болса керек еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:267:4363
+# text = Бекболат ептеп кіріп, босаға жақтағы бос орындыққа отырып, әңгімеге құлағын тікті.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:268:4392
+# text = — Бұл арыздағы сөздің бәрі рас...
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:269:4407
+# text = Елді жеумен, нашардың қанын сорумен, солардың еңбегімен бай болады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:270:4432
+# text = Меніңше оның көзін жою керек.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:271:4445
+# text = Төлеген қызарып төмен қарады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:272:4456
+# text = — Бұл шатақ жұмыс.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:273:4467
+# text = Жастарды мадақтай, бірлікке шақыра, дәнекер бола сөйледі.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:274:4488
+# text = Ашылмайтын жөні бар.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:275:4497
+# text = Бұл айтысты есітіп отырған Бекболаттың кімдікі дұрыс, кімдікі теріс екеніне ақылы жете алмады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:276:4530
+# text = Одан өзгесін артық керек қылмады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:277:4543
+# text = Бұл қалай болды?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:278:4552
+# text = Бұлардың бір ауыз бола алмаған себебі не?
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:279:4569
+# text = Неліктен оның сұлу қызға құмар боп жүргенін кейін естірсіз.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:280:4590
+# text = Әзір түсін ашпай тұра тұрайық.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:281:4603
+# text = Бұл өзі бір атақты болыстың баласы.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:282:4618
+# text = Қаза берсек, түпкі ойы — бір үлкен орын еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:283:4641
+# text = Төлегеннен гөрі бұл өтімді, тартымды, білімді, беделді, алғыр еді.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:284:4670
+# text = Дауыстарды санау басталғаннан кейін сайлаушылар (таңдаушылар) тізімдеріне өзгерістер енгізуге тыйым салынады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:285:4699
+# text = Сенат депутаттарын сайлау кезінде таңдаушылардың тізімдері жасалады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:286:4716
+# text = Нақтылы сайлау учаскесінде азаматты сайлаушылар тізіміне енгізу үшін оның осы сайлау учаскесінің аумағында тұрғылықты жері бойынша тіркелу фактісі негіз болады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:287:4759
+# text = Сайлаушылар тізімі әліпби тәртібімен немесе өзге тәртіппен жасалады.
+# text[tur] = 
+
+# sent_id = kdt.tagged.txt:288:4778
+# text = Сайлаушылардың тұрғылықты жері бойынша тізімін тиісті жергілікті атқарушы орган халықты есепке алуды жүзеге асыратын органдар ұсынған мәліметтердің негізінде жасайды.
+# text[tur] = 
+
+# sent_id = Радиан.tagged.txt:1:0
+# text = Радианның басқа да бірліктермен байланысы.
+# text[tur] = 
+
+# sent_id = Радиан.tagged.txt:2:11
+# text = Радианның басқа да бұрышты өлшеу бірліктерімен арақатынасы мына формуламен сипатталады:
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:1:0
+# text = Барлық адамдар тумысынан азат және қадір-қасиеті мен құқықтары тең болып дүниеге келеді.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:2:26
+# text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:3:59
+# text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:4:156
+# text = Сонымен қатар, ешкім де өзі тұратын елінің, не болмаса территорияның саяси, құқықтық, немесе халықаралық мәртебесінің негізі бойынша, және де ол территория тәуелсіз, әлде біреудің қарамағында, әлде өзін-өзі басқарушы емес, немесе оның егемендігі әртүрлі нысанда шектеулі болған күннің өзінде де, алаланбауы тиіс.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:5:256
+# text = Әр адам өмір сүруге, бостандықта болуға және оның жеке басына қол сұғылмауына құқылы.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:6:287
+# text = Ешкім де құлдықта немесе кіріптарлықта ұсталуы тиіс емес.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:7:305
+# text = Құлдық пен құл саудасына, қандай түрде болса да, тыйым салынады.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:8:331
+# text = Ешкім де азапталуға немесе қадір-қасиетін қорлайтындай адамшылыққа жатпайтын қатыгездік жолмен жәбірленуге, немесе жазалануға тиіс емес.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:9:365
+# text = Әр адам қай жерде жүрсе де, құқықтық субъектісі ретінде танылуына құқылы.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:10:391
+# text = Заң алдында жұрттың бәрі тең және де заң арқылы алаланбай, бірдей тең қорғалуға құқылы.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:11:423
+# text = Барлық адам осы Декларацияның ережелерін бұзатын кемсітуден және кемсітуге арандатушылықтың барлық түрінен тең қорғалуға құқылы.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:12:456
+# text = Ешкім де негізсіз тұтқындалуға, қамауда ұсталуға немесе қуғынға ұшыратылуға тиіс емес.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:13:483
+# text = Ешкім де жасаған әрекеті немесе әрекетсіздігі негізінде, егер ол әрекеті ұлттық заңдар мен халықаралық құқық бойынша қылмыс болып саналмаса, жауапқа тартылмайды.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:14:531
+# text = Әр адамның азаматтыққа құқығы бар.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:15:544
+# text = Ешкімді де азаматтығынан немесе азаматтығын өзгерту құқығынан еріксіз айыруға болмайды.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:16:566
+# text = Неке, тек екі жақтың өзара еркін және толық келісімі бойынша ғана қиылады.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:17:594
+# text = Отбасы қоғамның табиғи және негізгі ұясы болып табылады, және қоғам мен мемлекет тарапынан қорғалуға құқылы.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:18:629
+# text = Ешкім де өз мүлкінен еріксіз айрылмауға тиіс.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:19:645
+# text = Әр адамның бейбіт жиналыстар және ассоциацияларды құру бостандығына құқығы бар.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:20:668
+# text = Ешкімді де белгілі бір ассоциацияға зорлықпен кіргізуге болмайды.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:21:686
+# text = Ана және нәресте болу жағдайы айрықша қамқорлық пен көмек алуға құқық береді.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:22:713
+# text = Балалардың бәрі, некелі немесе некесіз туған, бірдей әлеуметтік қорғауды пайдаланады.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:23:740
+# text = Әр адамның білім алуға құқығы бар.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:24:755
+# text = Бастауыш білім баршаға міндетті болуы тиіс.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:25:770
+# text = Ата-аналардың өздерінің жас балаларына білім беру түрін таңдауда құқығы басымды.
+# text[tur] = 
+
+# sent_id = udhr.tagged.txt:26:793
+# text = Осы бостандықтар мен құқықтарды жүзеге асырылуы Біріккен Ұлттар мақсаттары мен қағидаларына қайшы келмеуі тиіс.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:1:0
+# text = Қалыңыз қалай?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:2:6
+# text = Рақмет, жақсы.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:3:15
+# text = Сіздің атыңыз кім?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:4:24
+# text = Сізбен танысқаныма қуаныштымын.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:5:34
+# text = Мен Қазақ тілінде жақсы сөйлей алмаймын.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:6:49
+# text = Сіз орысша сөйлейсіз бе?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:7:59
+# text = Осында орыс тілінде сөйлейтін адам бар ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:8:75
+# text = Мен түсінбеймін.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:9:82
+# text = Дәретхана қайда екен?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:10:91
+# text = Мен полицияны шақырамын.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:11:100
+# text = Ұрыны ұстаңдар.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:12:107
+# text = Маған көмек керек.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:13:116
+# text = Мен адасып кеттім.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:14:125
+# text = Мен сөмкемді жоғалтып алдым.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:15:136
+# text = Мен әмиянімді жоғалтып алдым.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:16:147
+# text = Мен ауырып тұрмын.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:17:156
+# text = Мен жаралымын.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:18:164
+# text = Маған дәрігер керек.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:19:173
+# text = Сізден қоңырау шалуға бола ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:20:185
+# text = Астанаға билет қанша тұрады?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:21:196
+# text = Астанаға бір билет беріңіз.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:22:207
+# text = Мына пойыз қайда барады?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:23:218
+# text = Астанаға баратын пойыз қайда?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:24:229
+# text = Мына автобус Астанаға тоқтай ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:25:241
+# text = Пойыз Астанаға қашан шығады?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:26:252
+# text = Мына пойыз Астанаға қашан жетеді?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:27:265
+# text = Сіз кітапхананы картадан көрсете аласыз ба?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:28:279
+# text = Сізде бос бөлмелер бар ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:29:291
+# text = Екі адамға бөлме қанша тұрады?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:30:304
+# text = Осы бөлмеде төсек жайма бар ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:31:318
+# text = Маған алдымен бөлмені қарап шығуға бола ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:32:334
+# text = Сізде бірдеме тазалау бар ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:33:346
+# text = Сіз басқа қонақ үйді ұсына аласыз ба?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:34:362
+# text = Сізде сейф бар ма?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:35:372
+# text = Таңғы ас енгізілген бе?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:36:382
+# text = Өтінемін, менің бөлмемді жинаңыз.
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:37:395
+# text = Мынау қанша тұрады?
+# text[tur] = 
+
+# sent_id = wikitravel.tagged.txt:38:404
+# text = Тіпті қымбат қой!
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:1:0
+# text = Балаларды оқытқан да жақсы, бірақ құлшылық қыларлық қана, түркі танырлық қана таза оқытса болады.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:2:31
+# text = Аның үшін бұл жер Дар-әл-Харб, мұнда әуел мал табу керек, онан соң ғараб, парсы керек.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:3:70
+# text = Қарны аш кісінің көңіліне ақыл, бойында ар, ғылымға құмарлық қайдан тұрсын?
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:4:99
+# text = Мал тапса, қарын тояды.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:5:112
+# text = Онан соң білім түгіл өнер керек екен.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:6:129
+# text = Соны үйренейін, не балама үйретейін деп ойына жақсы түседі.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:7:152
+# text = Орысша оқу керек, хикмет те, мал да, өнер де, ғылым да — бәрі орыста тұр.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:8:189
+# text = Зарарынан қашық болуға, пайдасына ортақ болуға тілін, оқуын, ғылымын білмек керек.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:9:220
+# text = Аның үшін олар дүниенің тілін білді, мұндай болды.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:10:241
+# text = Сен оның тілін білсең, көкірек-көзің ашылады.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:11:262
+# text = Әрбіреудің тілін өнерін білген кісі соныменен бірдейлік дағуасына кіреді, аса арсыздана жалынбайды.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:12:291
+# text = Дінге де жақсы — білгендік.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:13:303
+# text = Жорғалықпенен көңілін алсам екен деген надан әке-шешесін, ағайын-жұртын, дінін адамшылығын жаурыннан бір қаққанға сатады.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:14:336
+# text = Тек майырдың күлгені керек деп, көзі ашылса да қам жемейді.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:15:360
+# text = Орыстың ғылымы, өнері — дүниенің кілті, оны білгенге дүние арзанырақ түседі.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:16:389
+# text = Ләкин осы күнде орыс ғылымын баласына үйреткен жандар соның қаруымен тағы қазақты аңдысам екен дейді.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:17:420
+# text = Жоқ, олай ниет керек емес.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:18:435
+# text = Қазаққа күзетші болайын деп, біз де ел болып, жұрт білгенді біліп, жұрт қатарына қосылудың қамын жейік деп ниеттеніп үйрену керек.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:19:483
+# text = Қазірде орыстан оқыған балалардан артық жақсы кісі шыға алмай да тұр.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:20:507
+# text = Себебі: ата-анасы, ағайын-туғаны бір жағынан бұзып жатыр.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:21:528
+# text = Сөйтсе де осы оқыған балалар — ана оқымаған қазақ балаларынан үздік, озық.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:22:557
+# text = Не қылса да сөзді ұқтырса болады оларға.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:23:573
+# text = Жақсы атаның балалары да көп оқыған жоқ, қайта кедейдің баласын орысқа қорлап берді.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:24:601
+# text = Олар осыдан артық қайда барсын?
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:25:614
+# text = Және де кейбір қазақтар ағайынымен араздасқанда: “Сенің осы зорлығыңа көнгенше, баламды солдатқа беріп, басыма шаш, аузыма мұрт қойып кетпесем бе!” деуші еді.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:26:673
+# text = Осындай жаман сөзді, Құдайдан қорықпай, пендеден ұялмай айтқан қазақтардың баласы оқығанменен не бола қойсын?
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:27:708
+# text = Сонда да өзге қазақ балаларынан артық үйренгені немене, қай кеп үйреніпті?
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:28:735
+# text = Кірді, шықты, ілді, қайтты, түбегейлеп қуған бала да жоқ.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:29:763
+# text = Әкесі ел ақшасыменен оқығанға әрең оқытады, өз малын не қылып шығарсын?
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:30:790
+# text = Турасын ойлағанда, балаңа қатын әперме, енші берме, барыңды салсаң да, орыстың ғылымын үйрет!
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:31:826
+# text = Мына мен айтқан жол — мал аяр жол емес.
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:32:847
+# text = Құдайдан қорық, пендеден ұял, балаң бала болсын десең — оқыт, мал аяма!
+# text[tur] = 
+
+# sent_id = Жиырма_Бесінші_Сөз.tagged.txt:33:880
+# text = Әйтпесе, бір ит қазақ болып қалған соң, саған рақат көрсетер, өзі рақат көрер ме, яки жұртқа рақат көрсетер?
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:1:0
+# text = Футболдан әлем чемпионаты 2014 — ФИФА-ның 20-шы футболдан әлем чемпионаты, финалдық кезеңі 2014 жылдың 12 маусым мен 13 шілде күндері аралығында Бразилияда өтті.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:2:50
+# text = Ашылу матчы Сан-Паулуда, ал финалы Рио-де-Жанейродағы Маракана стадионында орын алды.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:3:75
+# text = Әлем чемпионаттары үшін құрлықтарды ротациялау қағидасына байланысты, 2014 жылдың чемпионаты Оңтүстік Америкада өту керек болды және Бразилия сол чемпионатты өткізуге ниет білдірген жалғыз ғана ел еді.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:4:131
+# text = Қалған оңтүстік америкалық елдер 2003 жылы Бразилия үміткерлігін қолдаған.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:5:152
+# text = Кейінірек ФИФА ротация принципі өзгеретінін жариялады.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:6:167
+# text = Енді 2018 жылдың чемпионатын өткізу құқығына қатысатын кандидаттар додасына, соңғы екі чемпионатты (КАФ және КОНМЕБОЛ) өткізген елдерден басқа, барлық конфедерациялардан елдер сынға түседі.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:7:224
+# text = Бразилия өз жерінде чемпионатты екі рет өткізген бесінші ел болды (Мексика, Италия, Франция және Германиядан кейін).
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:8:267
+# text = Осыған дейін Бразилияда футболдан әлем чемпионаты 1950 жылы өткен болатын.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:9:290
+# text = ӘЧ-2014 іріктеу айналымы 2011 жылдың маусым айында басталып, 2013 жылдың қараша айында аяқталды.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:10:325
+# text = Бразилия қабылдаушы ел ретінде автоматты түрде чемпионат қатысушысы болды.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:11:346
+# text = Барлық сегіз топтың жеңімпаздары мен екінші орын алған командалар 1 / 8 финалға шығады.
+# text[tur] = 
+
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377
+# text = Командалардың турнирлік кестедегі орны келесі көрсеткіштер бойынша анықталады:
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:1:0
+# text = Иран (1935 жылға дейін Парсы елі), Иран Ислам Республикасы — Азияның оңтүстік-батыс бөлігінде орналасқан мемлекет.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:2:38
+# text = Жер көлемі 1,648 млн. км².
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:3:51
+# text = Халқы 65,2 млн. адам (1999).
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:4:68
+# text = Халқының ұлттық құрамы: парсылар (51%), әзірбайжандар (27%), күрдтер (5%), арабтар, түрікмендер, белуджилер, армяндар, еврейлер, т.б.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:5:130
+# text = Қала халқы 58,3%.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:6:139
+# text = Астанасы — Тегеран қаласы (айналасын қосқанда 12 миллионнан астам).
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:7:164
+# text = Одан басқа Мешхед (1,5 млн.), Исфаһан (1 млн.), Тебриз (852 мың), Шираз (800 мың) сияқты ірі қалалар бар.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:8:225
+# text = Ресми тілі — парсы тілі.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:9:238
+# text = Мемлекеттік діні — ислам дінінің шиит тармағы.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:10:255
+# text = Иран — діни мемлекет.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:11:266
+# text = Елдегі саяси және діни билік аятолла Сейд Әли Хаменеидің қолында.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:12:289
+# text = Президент (1997 жылдан бастап Сейд Мохаммед Хатами) 4 жылға сайланады және Министр Кабинетін басқарады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:13:324
+# text = Жоғарғы заң шығарушы орган — бір палаталы парламент — Ислам кеңесі жиналысы (меджлис) 4 жыл сайын сайланып отыратын 290 депутаттан тұрады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:14:374
+# text = 1981 жылғы конституциясы бойынша, елде саяси және діни емес ұйымдарға тыйым салынған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:15:404
+# text = Ұлттық мейрамы 11 ақпан — Революция күні (1979).
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:16:427
+# text = Ұлттық ақша бірлігі — риал.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:17:440
+# text = Иран Армян таулы қыратының оңтүстік-шығысы мен Иран таулы қыратының батыс бөлігінде орналасқан.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:18:467
+# text = Шет жақтарында Солтүстік Иран (Эльбурс), Оңтүстік Иран (Загрос, Мекран), Шығыс Иран (Серхед, Пеленган, Боран, Келат) таулары, ортасында Кухруд жотасы, Деште-Кевир, Деште-Лух шөлдері орналасқан.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:19:546
+# text = Солтүстік-батысын Оңтүстік Каспий және Кура-Аракс ойпаттары, солтүстік-шығысын Горган жазығы, оңтүстігін — Гермезир шөлі алып жатыр.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:20:583
+# text = Жері, негізінен, таулы.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:21:596
+# text = Парсы және Оман шығанақтары жағалауларының климаты тропиктік.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:22:613
+# text = Қаңтардағы орташа температура 2°С-тан 19,4°С-қа дейін, шілде айында 29,4 — 32,5°С.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:23:640
+# text = Жауын-шашынның жылдық мөлш. 500 мм.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:24:653
+# text = Эльбурс тауы беткейінде 2000 мм, Систан ойысында 50 — 60 мм.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:25:680
+# text = Жер беті суы аз.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:26:691
+# text = Таулы аудандарда көптеген көлдер кездеседі.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:27:704
+# text = Иран жерінде сүтқоректілердің 100-ге тарта, құстардың 400-ге жуық, бауырымен жорғалаушылардың 80-ге жуық түрі бар.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:28:739
+# text = Шектес теңіздері балыққа бай.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:29:750
+# text = Иран жеріне адам баласы тым ерте заманнан бері қоныстанған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:30:771
+# text = Б.з.б. 3-мыңжылдықта қазіргі Иранның оңтүстік-батысында алғашқы мемлекеттер құрыла бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:31:796
+# text = Б.з.б. 2-мыңжылдықта бұл аймаққа Орталық Азиядан арий тайпалары келіп қоныстанды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:32:823
+# text = Б.з.б. 550 ж. өкімет билігі парсылық Ахемен әулетіне көшті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:33:844
+# text = Ахемен әулеті мемлекетін б.з.б. 330 ж. Александр Македонский талқандады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:34:865
+# text = Иран эллиндік мемлекеттердің билігіне көшіп, б.з.б. 2 ғасырдың орта тұсынан бастап Парфия патшалығына бағынды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:35:898
+# text = 224 ж. Парфия мемлекеті құлап, орнына Сасани әулеті мемлекеті құрылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:36:923
+# text = Сасани әулеті мемлекеті Оңтүстік Арабияны, Сирияны, Палестинаны, Мысырды жаулап алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:37:952
+# text = Византияға қауіп төндірді, Түрік қағанатымен соғыс жүргізді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:38:971
+# text = Бірақ Сасани әулеті мемлекеті арабтардың шабуылынан құлап, 7 ғасырдың 2-жартысында Иран Араб халифаты құрамына қосылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:39:1010
+# text = 8 ғасырда Араб халифатының билеушісі Әбу әл-Аббас әс-Саффах халифат астанасын Бағдадқа көшірді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:40:1037
+# text = Иран аумағы ұзақ жылдар бойы Аббас әулеті билеген Бағдад халифаты құрамында болып, мәдени және экономикалық дамуды басынан кешірді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:41:1078
+# text = 9 — 10 ғасырларда елде Араб халифатына шартты түрде ғана тәуелді болған әмірліктер құрылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:42:1108
+# text = Елде экономикалық және мәдени өрлеу байқалып, қалалар өсе бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:43:1131
+# text = Сондай әмірліктердің бірі Самани әулеті биліктен кеткеннен кейін Шығыс Иран Ауғанстанмен және Орта Азияның бір бөлігімен бірге түркі текті Ғазнауи әулеті билеген мемлекеттің құрамына кірді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:44:1185
+# text = 11 ғасырда Иранға түрік-оғыздар (салжұқ) басып кіре бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:45:1212
+# text = Көп ұзамай олар Ғазнауи әулеті әскерін талқандап, бүкіл Иранды және көрші елдерді басып алып салжұқтар мемлекетін құрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:46:1251
+# text = 12 ғасырда салжұқтар бірнеше сұлтандыққа бөлініп кетті де, осы ғасырдың аяғына таман бүкіл Иранды түркі қыпшақ тайпасынан шыққан Хорезм шаһы Текеш басып алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:47:1301
+# text = 1220 — 56 ж. Иранды Шыңғыс хан әулеті жаулап алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:48:1324
+# text = Олар елде Хулагу әулетіне қарайтын ильхандар мемлекетін құрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:49:1343
+# text = 14 ғасырдың 30-жылдары ильхандар мемлекеті бірнеше иелікке бөлініп кетті де, 1380 — 93 ж. Иранды Әмір Темір әскерлері басып алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:50:1391
+# text = Әмір Темір өлгеннен кейін Шығыс Иран Темір әулетінің билігінде қалып, Батыс Иранда Қарақойлы мемлекеті құрылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:51:1426
+# text = 16 ғасырда Кіші Азиядан шыққан түркі тайпалары (қызылбастар) Иранға басып кіріп, 1501 — 1610 ж. елді толығымен бағындырып, Сефеви әулеті мемлекетін құрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:52:1481
+# text = 17 — 18 ғасырларда Иранның экономикасы құлдырап, халықтың жағдайы нашарлап кетті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:53:1508
+# text = Ұсақ халықтар (ауғандар, түрікмендер, Әзірбайжандар, күрдтер, армян, грузиндер) орталықтың езгісіне қарсы жиі-жиі көтеріліс жасап тұрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:54:1555
+# text = Әсіресе, 18 ғасырдың 2-жартысында елдегі үстемдік үшін екі әулеттің (Зенд және Каджар) арасындағы үздіксіз соғыс халықты әбден қалжыратты.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:55:1604
+# text = 18 ғасырдың аяғында билікке Каджар әулеті келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:56:1621
+# text = Осы кезден елдің ішкі істеріне еуропалық мемлекеттер (Англия, Франция) араласа бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:57:1652
+# text = 19 ғасырдың басында болған орыс-иран соғысынан кейін елде шетелдіктердің билігі күшейіп кетті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:58:1683
+# text = 19 ғасырдың аяғына таман Иран еуропалық мемлекеттердің жартылай отарына айнала бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:59:1708
+# text = 1901 ж. ағылшындар Иран мұнайын шығаруға рұқсат алып, 1909 ж. бірлескен ағылшын-парсы мұнай компаниясы құрылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:60:1747
+# text = Елдің солтүстігіне Ресей, оңтүстігіне Ұлыбритания қожалық ете бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:61:1768
+# text = 1905 — 11 ж. елде шетелдіктерге қарсы ұлт-азаттық қозғалысы болып өтті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:62:1793
+# text = Оның барысында конституция жарияланып, меджлис шақырылды, ақсүйектік дәрежелер жойылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:63:1818
+# text = Бірақ 1918 ж. ағылшындар бүкіл Иранды басып алып, 1919 ж. оны кіріптарлық шарттарға қол қоюға мәжбүр етті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:64:1857
+# text = Елде ағылшын үстемдігіне қарсы жаңа толқулар басталды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:65:1874
+# text = 1921 ж. 21 ақпанда әскерилер Реза ханның басшылығымен мемлекеттік төңкеріс ұйымдастырып, жаңа үкімет құрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:66:1907
+# text = Жаңа үкімет халықтың қысымымен 1919 ж. ағылшын-парсы шартын жойылды деп жариялады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:67:1936
+# text = Армияға сүйенген Реза хан Орталықтың билігін күшейту үшін сепаратистік пиғылдағы Иран ақсүйектерімен үздіксіз күрес жүргізді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:68:1969
+# text = Елде нарықтық қатынастар тез дами бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:69:1984
+# text = Халықтың мәдени және тұрмыстық өмірінде көптеген өзгерістер болып өтті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:70:2005
+# text = Алайда, 1929 — 33 ж. болған дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:71:2036
+# text = Халықтың тұрмысы нашарлап, елде толқулар басталды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:72:2053
+# text = Ол толқулар күшпен басылып отырды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:73:2066
+# text = 1941 ж. 16 қыркүйекте Реза шаһ тақтан өз еркімен бас тартып, орнына баласы Мұхаммед Реза Пехлеви шаһ болды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:74:2107
+# text = 1942 ж. 29 қаңтарда Иран КСРО және Ұлыбритания мемлекеттерімен одақтастық туралы шартқа қол қойды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:75:2138
+# text = 1943 ж. 9 қыркүйекте Иран Германияға соғыс жариялады, бірақ соғыс қимылдарына араласқан жоқ.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:76:2167
+# text = Тегеран конференциясы кезінде 1943 ж. 1 желтоқсанда КСРО, АҚШ, Ұлыбритания үкіметтері Иранға территориялық тұтастығын сақтауға әзір екендіктерін мәлімдеді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:77:2210
+# text = Соғыстан кейін Иран үкіметі Батыс елдерімен тығыз байланыс орнатты.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:78:2231
+# text = 1953 ж. ел тәуелсіздігін күшейтуге тырысқан М. Мосаддық үкіметі құлатылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:79:2254
+# text = Иран шаһы М. Р. Пехлевидің көмегімен АҚШ елдің ішкі өміріне белсене араласа бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:80:2283
+# text = Ел 1955 ж. АҚШ-пен әскери келісімдер жасасты, 1960 жылдан бастап Батыс үлгісінде дами бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:81:2316
+# text = Елде шет ел капиталының үстемдік алуы, ұлттық құндылықтардың аяққа басылуы 1978 — 79 ж. халықтың шаһ үкіметіне қарсы жаппай бас көтеруіне алып келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:82:2367
+# text = Оны елдегі шиит дінбасылары басқарды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:83:2380
+# text = 1979 ж. 11 ақпанда болған революция нәтижесінде шаһ үкіметі құлап, 1 сәуірден бастап Иран Ислам Республикасы жарияланды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:84:2419
+# text = Үкімет басына шиит дінбасыларының көсемі аятолла Р. Хомейни келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:85:2440
+# text = Саяси партияларға тыйым салынды, шаһ үкіметі жойылды, Батыстың иелігіндегі барлық компаниялар мүлкі мемлекет меншігіне алынды, ел СЕАТО блогынан шығып, Блоктарға қосылмау қозғалысына мүше болып енді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:86:2501
+# text = 1980 – 1990 ж. болған Иран — Ирак соғысы ел экономикасына өте ауыр (700 млрд. АҚШ долларынан астам) зардаптар әкелді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:87:2548
+# text = Ел экономикасының негізі мұнай және мұнай мен газ өңдеу өнеркәсіптері.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:88:2571
+# text = Мемлекеттік кірістің 1 / 3 және экспорттың 90%-ына жуығы осы салалардан алынады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:89:2598
+# text = Экономиканың басқа салалары да дамыған, бірақ сыртқы экономикалық байланыстардың нашарлығынан және қаржы жетіспеушілігінен толық қуатымен жұмыс істей алмауда.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:90:2638
+# text = Өнеркәсіпке қажетті құрал-саймандар 90%-ға дейін шеттен әкелінеді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:91:2655
+# text = Ауыл шаруашылығы нашар дамыған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:92:2666
+# text = Соңғы жылдары туризм дами бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:93:2679
+# text = Ұлттық байлықтың 36%-ы өнеркәсіптен, 22%-ы ауыл шаруашылығынан, қалғаны қызмет көрсету секторынан тұрады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:94:2710
+# text = Мұнай экспортынан жыл сайын 16,3 млрд. АҚШ доллары түседі.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:95:2731
+# text = Ұлттық табыс 75 млрд. АҚШ доллар көлемінде, жан басына шаққанда — 1250 долл. шамасында.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:96:2764
+# text = Елдегі басты проблеманың бірі — жұмыссыздық (3,5 млн. адам).
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:97:2789
+# text = Мұнайдан басқа экспортқа кейбір өнеркәсіп тауарлары, ауыл шаруашылығы өнімдері, кілем, халық тұтыну тауарлары шығарылады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:98:2826
+# text = Шеттен — азық-түлік өнімдері (30%), машина, құрал-жабдықтар, кейбір өнеркәсіп шикізаттары әкелінеді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:99:2861
+# text = Негізгі сауда серіктестері: Германия, Жапония, Ұлыбритания, Италия, араб елдері, Түркия, Қазақстанмен дипломатиялық және экономикалық байланыс 1992 ж. орнады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:100:2914
+# text = Қазақстан Президенті Нұрсұлтан Назарбаев екі рет (1992; 1996) Иранда болып қайтты.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:101:2945
+# text = Сол кезегінде Иран басшылары да (1993 ж. А. Хашеми Рафсанджани, 1998 ж. М. Хатами) Қазақстанда болды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:102:2985
+# text = 2002 ж. Алматы — Тегеран бағытында темір жол байланысы орнатылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:103:3008
+# text = Иран әдебиетінің классикалық дәуірін (7 — 16 ғасырлар) парсы не парсы-тәжік әдебиеті деп атанды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:104:3047
+# text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:105:3068
+# text = Иран революциясы (1905 — 11) және азаматтық қозғалыс (1918 — 21) кезінде А. Фарахани, М. Кермани, М. Т. Бехар, т.б. ақындар демократиялық идеяның жыршысы болды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:106:3135
+# text = Хұзыстан, Курдстан жартастарындағы рельефтер, Сұзыдан табылған, асыл металдан жасалған көркем заттар Иран өнерінің өз заманында жоғары дәрежеде болғанын дәлелдейді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:107:3182
+# text = Иран жерінде сақтар тарихына қатысты мәдени ескерткіштер де мол сақталған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:108:3204
+# text = Сасани әулеті дәуірінде (3 — 7 ғасырлар) қалаларды қорған ішіне жүйелі жоба бойынша салу қанат жайды (мыс., Нишапур қаласы шахмат жүйесімен салынған).
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:109:3261
+# text = Мүсін жасау, жартастарға рельеф қашау елеулі орын алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:110:3282
+# text = Алтын, күміс, қола және әйнектен әр түрлі бұйымдар жасау, жүн және жібек мата тоқу өркен жайды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:111:3323
+# text = 14 ғасырдан кейін қолжазба көркемдеу, қабырғаға сурет салу дамыды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:112:3346
+# text = 15 ғасырда Иран миниатюрасының өркендеуіне Герат мектебі үлкен әсер етті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:113:3369
+# text = 16 — 17 ғасырларда пайда болған Тебриз, Шираз, Исфаһан (Риза Аббаси, т.б.) мектептері миниатюра өнерін жоғары дәрежеге көтерді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:114:3418
+# text = 18 — 19 ғасырларда еуропалық өнердің ықпалымен сулы және майлы бояумен орындалған алғашқы туындылар өмірге келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:115:3455
+# text = 20 ғасырда жаңа типті архитектуралық құрылыстар салына бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:116:3474
+# text = Иранның жаңа архитектуралық мұралары қазіргі стиль мен ұлттық үлгідегі сәулет өнерін ұштастырған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:117:3501
+# text = 20 ғасырдың басынан мүсін, графика, кескіндеме жанры дамып келеді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:118:3526
+# text = Сән және қосалқы өнердің дәстүрлі түрлері сақталған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:119:3543
+# text = Кәсіби және халық музыкасының ғасырлық дәстүрі бар.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:120:3560
+# text = Иран музыкасы, негізінен, монодиялық (бір дауысты) түрде кездеседі.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:121:3587
+# text = Арабтар жаулап алғаннан кейін Иран музыкасына мұсылмандық араб мәдениетінің ықпалы тиді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:122:3612
+# text = 9 ғасырдан бастап сарай өнері дамып, халық арасында мутребтердің (әнші-бишілер) даңқы жойылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:123:3645
+# text = 19 ғасырдың 2-жартысынан Иран музыкасына еуропалық музыка мәдениеті әсер етті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:124:3672
+# text = Театр өнерінің негізі халықтық салт-дәстүрлерде жатыр.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:125:3691
+# text = Ежелгі базигер театры жайлы деректер сақталған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:126:3706
+# text = Пантомима, көлеңке және қуыршақ театрлары болған.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:127:3723
+# text = 10 ғасырда пайда болған мистерия діни ғұрып шахсей-вахсейдің құрамына енді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:128:3746
+# text = 17 — 18 ғасырларда ол трагедиялық мистерия түрлерінің бірі — тазийенің негізін қалады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:129:3775
+# text = 20 ғасырдың 30-жылдарына дейін кезбе актерлер — масқарапаздар өнер көрсетіп келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:130:3804
+# text = 1911 — 12 ж. еуропалық театрлар тәжірибелерін пайдалана отырып Ұлттық театр, 1917 ж. Иранның комедия театры ашылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:131:3843
+# text = Бұл театрларды құруда актер Сейед Әли Нәсірдің еңбегі зор.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:132:3864
+# text = 1929 жылдан бастап әйел актерлер көріне бастады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:133:3881
+# text = 1930 — 40 ж. театр репертуарларынан өңделген Батыс Еуропа драмалары мен мелодрамалар орын алды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:134:3912
+# text = 1940 жылдан Иран театры дағдарысқа ұшырады, 1960 жылдардың басында қайта өрлеу жолына түсті.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:135:3943
+# text = 1963 ж. Тегеранда кәсіби актерлер дайындайтын драм. студия ашылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:136:3964
+# text = 1968 жылдан бастап Ширазда театр фестивалы өткізіліп тұрды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:137:3983
+# text = 20 ғасырдың 40-жылдарына дейін, көбінесе, шетелдік фильмдер көрсетіліп келді.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:138:4012
+# text = 1946 ж. Тегеранда “Митра-фильм” киностудиясы құрылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:139:4035
+# text = 1960 — 1970 ж. музыкалық комедияларға, шағын драмаларға, мифтік және тарихи сюжеттерге құрылған фильмдер қойылды.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:140:4072
+# text = Тегеранда 1955 жылдан халықаралық, 1970 жылдан ұлттық кинофестивальдер өткізіліп тұрады.
+# text[tur] = 
+
+# sent_id = Иран.tagged.txt:141:4097
+# text = Иран кинематографиясының дамуына реж. И. Кушан, М. Мисагие, Мохтасем, М. Мохсени, С. Ясеми, Ш. Рафия елеулі үлес қосты.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:1:0
+# text = Абонемент бөлімі кітаптар мен журналдарды үйге тегін береді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:2:18
+# text = Азамат соғысында рота командирі болған.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:3:31
+# text = Алап ауқымында қысым мен температураның қалыптан тыс мөлшерлері ұшырасқан жоқ.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:4:52
+# text = Алматы қаласына елбасының келуі көптеген мәселелерге жаңаша қарауға септігін тигізді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:5:75
+# text = Ауылда клуб директоры болып қызмет атқарды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:6:90
+# text = Біз өз жұмысымыздың әдістері мен стильдерін жетілдіріп, инновацияларды енгізіп отырамыз.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:7:115
+# text = Ендеше, осындай жағдаяттарда жол табуға болады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:8:132
+# text = Ендеше тілегімді берді, - деді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:9:147
+# text = Еуропаның өзге елдерінде де пайда болды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:10:161
+# text = Еуропаның тұщы су қоймаларында таралған.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:11:174
+# text = Жалғыз болсаң – топқа басың кіре алмас.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:12:191
+# text = Жас тобы ұзақ болып келеді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:13:204
+# text = Жауапты хатшы өзінің қызметін жүзеге асырған кезде Қазақстан Республикасының Президентіне, Премьер-Министрге, Министрге есеп береді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:14:239
+# text = Жауыңнан бұрын қимылда-жеріңе жамандық келмейді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:15:256
+# text = Жер бедері маңында Юра тау жүйесінің болуымен анықталады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:16:275
+# text = Жер бетінде мұндай ормандар қалмайды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:17:288
+# text = Жүрек тұсына массаж былай жасалады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:18:301
+# text = Жылдам жетіп ұстауға атқа мінді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:19:314
+# text = Инфляция қарқыны статистикалық көрсеткіш — тұтыну бағаларының индексі көмегімен анықталады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:20:337
+# text = Ислам діні-адамға ауырлық жүктемейді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:21:352
+# text = Кафедра «Менеджмент» мамандық бойынша бакалавр дайындайды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:22:371
+# text = Кезінде Кеңес әскерімен де күрескен.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:23:383
+# text = Кей түрінен дәрі алуға болады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:24:396
+# text = Композитордың аты Санкт-Петербург консерваториясының кіші залына берілді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:25:413
+# text = КСРО Ғылым Академиясының әлем әдебиеті институтында әдебиет теориясы бойынша филология ғылымының кандидаты дәрежесіне диссертация қорғады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:26:446
+# text = КСРО Мемлекеттік сыйлығына (1952) ие болды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:27:465
+# text = Мамандарды дайындау факультетте тек күндізгі бөлімде ғана жүргізіледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:28:483
+# text = Маусым – шілде айларында гүлдеп, тамызда жеміс береді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:29:504
+# text = Мәскеуде дүниеге келген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:30:513
+# text = Ұлы Отан соғысында ерлікпен қаза тапқан.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:31:528
+# text = Мұражайда үш экспозициялық зал жұмыс істейді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:32:543
+# text = Намыс қылып балаға мойын бұрды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:33:556
+# text = Нарықтық экономика жағдайында мемлекеттің рөлі өзгереді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:34:571
+# text = Некенің тоқтатылуы жаңадан некеге тұру құқығын туғызады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:35:588
+# text = Немере етін жеп, сүйегін қалдырады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:36:603
+# text = Непал мен Тибетке бет алды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:37:616
+# text = Несиенің шамасымен, сипатымен және мерзімімен айқындалады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:38:633
+# text = Практика жетекшісінің есебі жасалған.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:39:644
+# text = Он екі елі ішек төрт бөлікке бөлінген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:40:661
+# text = Орыс және грузин тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:41:674
+# text = Орыс және қазақ тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:42:687
+# text = Орыс және неміс тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:43:700
+# text = Орыс және түрік тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:44:713
+# text = Орыс және украин тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:45:726
+# text = Орыс және француз тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:46:739
+# text = Осы жылдары ауыл шаруашылығында маңызды өзгерістер болды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:47:756
+# text = Сабақтар қазақ және орыс тілдерінде жүреді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:48:771
+# text = Саратов экономикалық институтын «Халық шаруашылығын жоспарлау» мамандығы бойынша бітірген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:49:796
+# text = Саяси мемлекеттік қызметкерлер өз халқы мен Президентке ант береді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:50:817
+# text = Сергей Михайлович Бобров 1920-1994 жылдары Атырау облысында өмір сүрген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:51:842
+# text = Соғыстан кейін Федор Федорович Қарағандыда тұрды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:52:857
+# text = Михайлов зиратына жерленген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:53:866
+# text = Сөздерін екеуі де қабыл алды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:54:878
+# text = Сөйтіп, Алашордасының бастығына Ғ. Бөкейхан сайланды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:55:895
+# text = Сөйтіп практикалық қажеттілік астрономия ғылымының тууына ең басты түрткі болды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:56:918
+# text = Сөйтіп сүйек бұзылып, аяқ формасы өзгереді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:57:935
+# text = Сонымен қатар монғол шапқыншылығы Қазақстанның және көрші аймақтардың этностық құрамына едәуір өзгерістер енгізді, этностық шекараларды өзгертті.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:58:972
+# text = Сот билігі сот ісін жүргізудің заңмен белгіленген түрінде жүзеге асырылады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:59:995
+# text = Сүйсем де, сол сөзіне жарамаймын.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:60:1009
+# text = Съезде Алашорда үкіметінің мүшелігіне сайланады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:61:1022
+# text = Тек атқарушылық құжаттардың негізінде жүзеге асырылады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:62:1037
+# text = Темір тапшылығының кезеңдері кестеде көрсетілген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:63:1050
+# text = Тәсілмен деректер базасының құрылымы көрсетілген.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:64:1063
+# text = Тік көріп алды да жерге ұрды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:65:1077
+# text = Топырақ картасында топырақтың түрлері көрсетіледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:66:1090
+# text = Түбін бөлу және тұқымы арқылы көбейтеді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:67:1105
+# text = Украина статистикасы мәліметтері бойынша алынды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:68:1118
+# text = Украин және татар тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:69:1131
+# text = Халықаралық қатынастар бөлімінің бастығы болып жұмыс істеді.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:70:1148
+# text = Циклдық жұмыссыздық-өндірістің құлдырауынан туындайды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:71:1163
+# text = Чемпионаттың жеңімпазы Швеция құрамасы атанды.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:72:1176
+# text = Чуваш, қазақ және орыс тілдерін біледі.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:73:1193
+# text = Экватордан оңтүстікке қарай құрлық біршама аз болады.
+# text[tur] = 
+
+# sent_id = wikipedia.tagged.txt:74:1210
+# text = Экологиялық тәрбие экологиялық білім берумен толықтырылады.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:1:0
+# text = Баяғыда біреу той жасапты, тойға көп кісі жиналыпты, Қожа да келіпті.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:2:27
+# text = Қожанасырдың үстіндегі киімі жаман екен.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:3:40
+# text = Қожанасырды ешкім елемепті.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:4:49
+# text = «Төрге шық, тамақ іш», - демепті.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:5:72
+# text = Қожа үйден шығып кетеді де үйіне барып, тәуір киімдерін киіп, қайта келеді.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:6:102
+# text = Бұл жолы үй иесі Қожанасырды құрметтейді, төрден орын береді, ет келгенде: - Қожеке, алыңыз, алыңыз! - деп, қошеметтейді.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:7:155
+# text = Қожа етті жемей, табаққа шапанының жеңін малып: - Же, шапаным, же! - деп, отыра береді.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:8:200
+# text = Үй иесі: - Сіздің бұ не қылғаныңыз? Шапан ет жейтін бе еді? - дейді.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:9:236
+# text = Сонда Қожа: - Сен кісіні сыйламайды екенсің, киімді сыйлайды екенсің.
+# text[tur] = 
+
+# sent_id = Өлген_қазан.tagged.txt:10:259
+# text = Сондықтан шапаныма жегізіп отырғаным! - деп, жауап береді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:1:0
+# text = АЗАМАТ ҚАЙДА?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:2:6
+# text = Азамат пен Айгүл бақшада.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:3:17
+# text = Ауа райы бүгін әбден жақсы, жылы.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:4:34
+# text = Бірақ кеше өте суық еді!
+# text[tur] = 
+
+# sent_id = story.tagged.txt:5:47
+# text = Осы себептен олар далада ойнай алмады.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:6:62
+# text = Азамат пен Айгүл ойнағанды жақсы көреді, олар әрдайым үлкен үйдің алдындағы бақшада бірге ойнайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:7:95
+# text = Азамат алты жасар кішкентай бала.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:8:108
+# text = Қыз оның қарындасы, ол бес жаста.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:9:125
+# text = Азаматтың кішкентай бір күшігі бар, қазір ол да бақшада.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:10:147
+# text = Күшік балалармен ойнағанды жақсы көреді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:11:160
+# text = Күшігі қазір өте қуанышты.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:12:171
+# text = Ал Айгүлдің күшігі бар ма?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:13:183
+# text = Жоқ, Айгүлдің күшігі жоқ, оның мысығы бар.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:14:204
+# text = Бірақ мысығы үйде, ұйықтап жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:15:219
+# text = Олардың анасы мысығымен бірге үйде, ол терезеден Азамат пен Айгүлдің ойнағанына қарап тұр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:16:250
+# text = Азамат ескі үлкен бір ағашқа қарай қатты жүгіріп бара жатыр, ол сол ағаштың артына Айгүлден жасырынып жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:17:289
+# text = Не үшін екенін білесіз бе?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:18:301
+# text = Айгүл қолымен көздерін жауып отыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:19:314
+# text = Ол еш нәрсені көріп тұрған жоқ, ол санап жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:20:333
+# text = Ол не үшін бүйтіп жатыр?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:21:346
+# text = Ал Азамат ағаштың жанында не істеп жатыр?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:22:363
+# text = Бұл ойын.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:23:370
+# text = Айгүл санап біткеннен кейін айналасына қарады.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:24:385
+# text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:25:417
+# text = Айгүл Азаматтың қайда екенін білмейді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:26:430
+# text = Күшіктен "Азаматты көрдің бе?" деп сұрайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:27:450
+# text = Ал күшік, әлбетте, сөйлей алмайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:28:467
+# text = Демек, Айгүл өз сұрағына жауап ала алмайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:29:486
+# text = Адамдар итпен сөйлескенде одан еш қашан жауап ала алмайды!
+# text[tur] = 
+
+# sent_id = story.tagged.txt:30:507
+# text = Айгүл терезеде тұрған анасына қарайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:31:520
+# text = Айгүл анасының жымиғанын көріп ол Азаматтың қай жерге кеткенін біледі деп ойлайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:32:547
+# text = "Азамат қайда, айтшы!" деп сұрайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:33:569
+# text = "Жоқ, Айгүл, айта алмаймын" деп анасы жауап береді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:34:596
+# text = Ол Азаматтың қайда екенін білсе де айтқысы келген жоқ.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:35:614
+# text = Айгүл бақшаның ішінде ақырын басып жүр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:36:629
+# text = Әлі де Азаматты табуға әрекет етіп жүр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:37:646
+# text = Үстел және орындықтардың астына қарап жатыр, бірақ Азамат онда жоқ.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:38:671
+# text = Ол барлық жерді қарап жүр, бірақ Азаматты таба алмай жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:39:696
+# text = Одан кейін ол бір дыбысты естиді, ол дыбыс ескі үлкен ағаштың артынан шығып жатыр.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:40:729
+# text = Мүмкін бұл Азамат шығар?
+# text[tur] = 
+
+# sent_id = story.tagged.txt:41:739
+# text = Ол дыбыс қайта естіледі!
+# text[tur] = 
+
+# sent_id = story.tagged.txt:42:750
+# text = Айгүл оны ақырын тыңдайды.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:43:761
+# text = Ол аң да, құс та емес.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:44:776
+# text = Ол енді ол дыбысты анығырақ ести бастады.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:45:793
+# text = Бұл Азамат болу керек!
+# text[tur] = 
+
+# sent_id = story.tagged.txt:46:804
+# text = Одан кейін оған кішкентай бір қол көрінеді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:47:821
+# text = Жақынырақ келгенде ол оның басын да көреді.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:48:837
+# text = "Сені таптым!" деп күледі.
+# text[tur] = 
+
+# sent_id = story.tagged.txt:49:854
+# text = Олар екеуі де көңілді үйге қарай келе жатыр, бір нәрсе жеп, су ішетін уақыт болды!
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:1:0
+# text = Шымкент — Қазақстандағы қала, Оңтүстік Қазақстан облысының орталығы.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:2:20
+# text = Тұрғыны шамамен 683,273 адам (2014 жыл).
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:3:39
+# text = Қазақстанның басқа қалаларымен салыстырғанда тұрғыны жөнінен 3-ші орында (Алматы мен Астанадан кейін).
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:4:70
+# text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:5:103
+# text = Бірқатар археолог-ғалымдардың пікірлері бойынша, бұл жерде үлкен қорым болған, егер бұл расталса, онда қаланың пайда болған мерзімі қайта қаралуы мүмкін.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:6:156
+# text = Қандай болғанда да, қала ескі заманнан-ақ адамдардың өмір сүруіне қолайлы мекен болған.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:7:185
+# text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:8:216
+# text = Тау етегінде өзен бойындағы алқаптарда егіншілік пен жүзімдік, ал көгалды таулы жайылымдарда-мал шаруашылығы дамыған.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:9:253
+# text = 1914 жылы Қазақстанның Ресей империясына қосылуының 50 жылдығына орай қалаға орыс генералы Черняевтің есімі берілді, бірақ 1921 жылы қала Шымкент атауына қайта ие болды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:10:306
+# text = XX ғасырда қала тарихының жаңа кезеңі басталды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:11:323
+# text = Қала халқы елдегі үлкен өзгерістер нәтижесінде жаңа жетістіктерге жете бастады.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:12:346
+# text = Қалада жаңа өндіріс орындары салынып, оқу орындары мен ғылыми, мәдениет ошақтары ашылды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:13:377
+# text = Қала келбеті жаңа тұрғын үйлер, гүлзар, көшелері, саябақтарымен ажарлана түсті.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:14:406
+# text = 30-шы жылдары Шымкентте қорғасын зауыты салынды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:15:421
+# text = Бұл алып өндіріс орны КСРО-дағы өндірілетін қорғасынның 70%-ін беріп отырды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:16:444
+# text = Қалада май комбинаты, шұлық және айна фабрикалары іске қосылды.
+# text[tur] = 
+
+# sent_id = Шымкент.tagged.txt:17:467
+# text = 1932 жылы ауылшаруашылық авиациясының базасы құрылып, бұл Шымкент әуежайының негізін қалады.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:1:0
+# text = Ерте заманда Ерназар деген кісі болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:2:14
+# text = Ерназардың өзі бай болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:3:25
+# text = Төрт түлік малы сай болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:4:38
+# text = Қора толған қойлары болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:5:49
+# text = Келе-келе түйелері болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:6:58
+# text = Өріс толған жылқылары болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:7:69
+# text = Ерназардың сегіз ұлы болыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:8:80
+# text = Бір жылы үлкен жұт болып, ел малын алысқа, отарға айдап кетіпті.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:9:109
+# text = Ерназардың сегіз ұлы да соның ішінде кетіпті.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:10:125
+# text = Бір қыстық азығын алып, кемпірі мен Ерназар үйінде қалыпты.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:11:148
+# text = Ерназардың сегіз ұлы сол кеткеннен хабарсыз кетеді, айлар өтеді, келмейді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:12:176
+# text = Ерназардың азығы таусылады, ашығады, жейтін тамақ таппайды.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:13:197
+# text = Кемпірі екеуінің тұруға әлдері әрең-әрең келеді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:14:212
+# text = Бір күні кешке жақын кемпірі төсегінен тұрып, үйінің түндігін ашады.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:15:237
+# text = Тұруға мұршасы келмей жатқан шал шаңыраққа қараса, шаңырақтың күлдіреуішінде керулі тұрған кер биенің төстігі көзіне түседі.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:16:274
+# text = Ерназар қуанып, есі шығады.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:17:287
+# text = Төстік бір күні ауылдың арасында отырған тарғақты садақпен тартып қалады.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:18:310
+# text = Садақ тарғақтың қанатын үзіп кетеді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:19:323
+# text = Тарғақ жығылмай, бір қанатын сабалап, қаша береді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:20:344
+# text = Төстік ұстайын деп қуып жүреді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:21:357
+# text = Сөйтіп жүргенде, тарғақ бір кемпірдің өрмегінің үстінен қарғып өтеді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:22:380
+# text = Қуып келе жатқан Төстік те өрмектен секіреді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:23:396
+# text = Сөйткенде Төстіктің бір бақайы өрмекті іліп кетеді.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:24:413
+# text = Өрмектің бірсыпыра жібі үзіліп қалады.
+# text[tur] = 
+
+# sent_id = Ер_Төстік.tagged.txt:25:426
+# text = Төстік бұрын ағалары бар екенін естіген жоқ екен.
+# text[tur] = 
+

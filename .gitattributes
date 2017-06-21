@@ -27,5 +27,6 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/puupankki.txt -text
 texts/tatoeba.kaz.txt -text
 texts/tatoeba.tur.txt -text
