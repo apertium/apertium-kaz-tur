@@ -40,7 +40,7 @@
 
 # sent_id = akorda-random.tagged.txt:9:145
 # text = Бұл өте тиімді келісімшарт.
-# text[tur] = 
+# text[tur] = Bu çok karlı bir sözleşmedir.
 
 # sent_id = akorda-random.tagged.txt:10:156
 # text = Әлемде мұндай тәжірибе бар.
