@@ -1,6 +1,6 @@
 # sent_id = Eurovision_ән_конкурсы_2010.tagged.txt:1:0
 # text = Еуровидение 2010 ән конкурсы Еуровидениенің 55-ші конкурсы болады.
-# text[tur] = Eurovision 2010 en rakabetçı Eurovisionın 55-şi rakabetçi olacak.
+# text[tur] = Eurovision 2010 şarkı yarışma Eurovisionın 55  rakabetçi olacak.
 
 # sent_id = әртүрлі.tagged.txt:1:0
 # text = Қой, қазақ бұлармен не ғып соғыса алсын?
@@ -8,15 +8,15 @@
 
 # sent_id = akorda-random.tagged.txt:1:0
 # text = Қазақстан осы өңірдегі бейбітшілікті қолдайды.
-# text[tur] = Kazakısatn odur bölgede barış destekler.
+# text[tur] = Kazakıstan odur bölgede barışı destekler.
 
 # sent_id = akorda-random.tagged.txt:2:12
 # text = Дмитрий Медведевтің Астанаға сапары 22 мамырға жоспарланып отыр.
-# text[tur] = 
+# text[tur] = Dimitri Medvedev'in Astana'ya ziyareti 22 Mayısa planlanmaktadır.
 
 # sent_id = akorda-random.tagged.txt:3:31
 # text = Біздің елде сізге ерекше құрметпен қарайды.
-# text[tur] = ülkemiz size özel hürmet duyar.
+# text[tur] = Ülkemiz size özel hürmet duyar.
 
 # sent_id = akorda-random.tagged.txt:4:46
 # text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
@@ -36,7 +36,7 @@
 
 # sent_id = akorda-random.tagged.txt:8:120
 # text = Жобаны 5 кезеңге бөліп, 12 жылда жүзеге асыру жоспарланып отыр.
-# text[tur] = Proje 5 kezse bölüp, 12 yılda uygulanması planlamaktadır
+# text[tur] = Proje 5 kereye bölünüp, 12 yılda uygulanması planlamaktadır
 
 # sent_id = akorda-random.tagged.txt:9:145
 # text = Бұл өте тиімді келісімшарт.
@@ -60,7 +60,7 @@
 
 # sent_id = akorda-random.tagged.txt:14:221
 # text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
-# text[tur] = Başkan bügün Astana büyük ilimizin iyliğne olduğu tebliğatını hitap ett. 
+# text[tur] = Başkan bügün Astana büyük ilimizin iyiliğine olduğu tebliğatını hitap ett. 
 
 # sent_id = akorda-random.tagged.txt:15:244
 # text = Қалыптасу кезеңі табысты аяқталды.
@@ -68,15 +68,15 @@
 
 # sent_id = akorda-random.tagged.txt:16:255
 # text = Астанада барлық қажетті жабдықтармен жабдықталған ірі медициналық орталықтар бар.
-# text[tur] = 
+# text[tur] = Astana'da tüm gerekli ekipman ile donatılmış büyük tıbbi merkezleri var.
 
 # sent_id = akorda-random.tagged.txt:17:276
 # text = Өзінің базалық өлшемі бойынша ол орындалды.
-# text[tur] = 
+# text[tur] = Onun bazı ölçümü boyutuna göre ayarlanır.
 
 # sent_id = akorda-random.tagged.txt:18:291
 # text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
-# text[tur] = 
+# text[tur] = Şuan 1 milyar. ABD doları kadar kar birleşik fon oluşturdu.
 
 # sent_id = akorda-random.tagged.txt:19:318
 # text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
@@ -84,19 +84,19 @@
 
 # sent_id = akorda-random.tagged.txt:20:338
 # text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады.
-# text[tur] = 
+# text[tur] = Şimdi bu temelde siyasi sistemin kademeli demokratikleşmeside olmuştur
 
 # sent_id = akorda-random.tagged.txt:21:357
 # text = Бұл Қазақстанның бәсекеге қабілетті әлеуеті бар салалар.
-# text[tur] = 
+# text[tur] = Bu Kazakistanın rekabet kabliyetine sahip sektörler.
 
 # sent_id = akorda-random.tagged.txt:22:374
 # text = Тұрғын үй кешені 487 пәтерден тұрады.
-# text[tur] = 
+# text[tur] = Konut ev Kompleksi 487 daireden oluşmaktadır.
 
 # sent_id = akorda-random.tagged.txt:23:389
 # text = Біздің өңір үшін – бұл стратегиялық жол.
-# text[tur] = 
+# text[tur] = Bölgemiz için - stratijik yol.
 
 # sent_id = akorda-random.tagged.txt:24:406
 # text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
@@ -104,11 +104,11 @@
 
 # sent_id = akorda-random.tagged.txt:25:425
 # text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
-# text[tur] = 
+# text[tur] = Bu benim sizin sermayaya üçüncü yatırımım.
 
 # sent_id = akorda-random.tagged.txt:26:442
 # text = Конкурсқа қатысуға 296 кәсіпорын ниет білдірген.
-# text[tur] = 
+# text[tur] = Yarışmaya katılmak için 296 kasıb niteini bildirdi
 
 # sent_id = akorda-random.tagged.txt:27:457
 # text = Жобаның 1-кезеңінің (кеме жасау зауыты) аяқталуы – 2006 жылдың тамыз айы.
