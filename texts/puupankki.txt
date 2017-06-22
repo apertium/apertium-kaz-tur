@@ -1,6 +1,6 @@
 # sent_id = Eurovision_ән_конкурсы_2010.tagged.txt:1:0
 # text = Еуровидение 2010 ән конкурсы Еуровидениенің 55-ші конкурсы болады.
-# text[tur] = Eurovision 2010 şarkı yarışma Eurovisionın 55  rakabetçi olacak.
+# text[tur] = Eurovision 2010 şarkı yarışma Eurovisionın 55 inci  rakabetçi olacak.
 
 # sent_id = әртүрлі.tagged.txt:1:0
 # text = Қой, қазақ бұлармен не ғып соғыса алсын?
@@ -100,7 +100,7 @@
 
 # sent_id = akorda-random.tagged.txt:24:406
 # text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
-# text[tur] = 
+# text[tur] = XXI yüzyıda bizim anayasa yeni bir okuma gerektirir.
 
 # sent_id = akorda-random.tagged.txt:25:425
 # text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
@@ -112,39 +112,39 @@
 
 # sent_id = akorda-random.tagged.txt:27:457
 # text = Жобаның 1-кезеңінің (кеме жасау зауыты) аяқталуы – 2006 жылдың тамыз айы.
-# text[tur] = 
+# text[tur] = Projenın 1-kez nın ()sonu -2006 yılın Ağostus ayında 
 
 # sent_id = akorda-random.tagged.txt:28:490
 # text = Біз осы берекелі бірлігіміз арқылы биік белестерді бағындырдық.
-# text[tur] = 
+# text[tur] = Bizim zarefet birliğmiz büyük yükseklikleri fethetti.
 
 # sent_id = akorda-random.tagged.txt:29:509
 # text = Бізде әлемдегі үздік үлгілерді осында әкелудің бірегей мүмкіндігі бар.
-# text[tur] = 
+# text[tur] = Bizdeki alemin mükümel örnekleri burdada ithaletin benzersiz yeteneğı var.
 
 # sent_id = akorda-random.tagged.txt:30:530
 # text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев бірқатар Заңдарға қол қойды.
-# text[tur] = 
+# text[tur] = Bugün devlet başkanı Nursultan Nazarbayev bir kater yasalar imzalamıştır. 
 
 # sent_id = akorda-random.tagged.txt:31:551
 # text = Болашақта бұл көрсеткіш өсе бермек.
-# text[tur] = 
+# text[tur] = Gelecekte bu index büyüyecek.
 
 # sent_id = akorda-random.tagged.txt:32:564
 # text = Біз қазір мемлекет дамуының жаңа үлгісін әзірлеп жатырмыз.
-# text[tur] = 
+# text[tur] = Biz şuan devlet gelişmine yeni model geliştiriyoruz.
 
 # sent_id = akorda-random.tagged.txt:33:583
 # text = Осының бәрі терең құрметке лайық.
-# text[tur] = 
+# text[tur] = Sonuç olarak herkes derin hürmete layık.
 
 # sent_id = akorda-random.tagged.txt:34:596
 # text = Мұнай өндіру 20 миллион тоннаға дейін ұлғайды.
-# text[tur] = 
+# text[tur] = Yağ üretimi 20 miliyona yükseldi.
 
 # sent_id = akorda-random.tagged.txt:35:613
 # text = Алматы облысы – еліміздің халық тығыз топтасқан өңірлерінің бірі.
-# text[tur] = 
+# text[tur] = Almatı bölgesi - ilimizin  nüfüs tıknazlığı bölgelerinden biri.
 
 # sent_id = akorda-random.tagged.txt:36:634
 # text = Осы оқиғаларды үлкен өкінішпен бақылап отырмын.
