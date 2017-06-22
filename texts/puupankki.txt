@@ -1,6 +1,6 @@
 # sent_id = Eurovision_ән_конкурсы_2010.tagged.txt:1:0
 # text = Еуровидение 2010 ән конкурсы Еуровидениенің 55-ші конкурсы болады.
-# text[tur] = 
+# text[tur] = Eurovision 2010 en rakabetçı Eurovisionın 55-şi rakabetçi olacak.
 
 # sent_id = әртүрлі.tagged.txt:1:0
 # text = Қой, қазақ бұлармен не ғып соғыса алсын?
@@ -16,7 +16,7 @@
 
 # sent_id = akorda-random.tagged.txt:3:31
 # text = Біздің елде сізге ерекше құрметпен қарайды.
-# text[tur] = Bizim ülke size özel hürmet duyar.
+# text[tur] = ülkemiz size özel hürmet duyar.
 
 # sent_id = akorda-random.tagged.txt:4:46
 # text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
@@ -32,11 +32,11 @@
 
 # sent_id = akorda-random.tagged.txt:7:107
 # text = Кәсіпорында сапа менеджментінің жүйесі енгізілген.
-# text[tur] = 
+# text[tur] = Kuruluşlar kalite yöntim systemine dahil.
 
 # sent_id = akorda-random.tagged.txt:8:120
 # text = Жобаны 5 кезеңге бөліп, 12 жылда жүзеге асыру жоспарланып отыр.
-# text[tur] = 
+# text[tur] = Proje 5 kezse bölüp, 12 yılda uygulanması planlamaktadır
 
 # sent_id = akorda-random.tagged.txt:9:145
 # text = Бұл өте тиімді келісімшарт.
@@ -44,27 +44,27 @@
 
 # sent_id = akorda-random.tagged.txt:10:156
 # text = Әлемде мұндай тәжірибе бар.
-# text[tur] = 
+# text[tur] = Alemde(Dünyada) bundan deneyim var.
 
 # sent_id = akorda-random.tagged.txt:11:167
 # text = Есірткі бизнесі де Орталық Азия аймағы үшін қауіп болып отыр.
-# text[tur] = 
+# text[tur] = Uyuşturucu kaçaklığı da Orta Asya için tehlikeli olur.
 
 # sent_id = akorda-random.tagged.txt:12:189
 # text = Кірпіш өндіруге жергілікті шикізат пайдаланылады.
-# text[tur] = 
+# text[tur] = Kerpiç üretiminde yerel ham madde kullanılır.
 
 # sent_id = akorda-random.tagged.txt:13:202
 # text = - Бас прокуратураның және Бас прокурордың жұмысын қолдаймын.
-# text[tur] = 
+# text[tur] = Baş savcılık ve baş savcı çalışmalarına destek.
 
 # sent_id = akorda-random.tagged.txt:14:221
 # text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
-# text[tur] = 
+# text[tur] = Başkan bügün Astana büyük ilimizin iyliğne olduğu tebliğatını hitap ett. 
 
 # sent_id = akorda-random.tagged.txt:15:244
 # text = Қалыптасу кезеңі табысты аяқталды.
-# text[tur] = 
+# text[tur] = Oluşumu başarıyla tamamlanmıştır.
 
 # sent_id = akorda-random.tagged.txt:16:255
 # text = Астанада барлық қажетті жабдықтармен жабдықталған ірі медициналық орталықтар бар.
