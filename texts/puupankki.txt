@@ -256,51 +256,51 @@
 
 # sent_id = akorda-random.tagged.txt:63:1093
 # text = Осы орайда Нұрсұлтан Назарбаев төрт басым бағыттарды белгіледі.
-# text[tur] = 
+# text[tur] = Bu arada Nursultan Nazarbayev dört öncellik alanları belirledi.
 
 # sent_id = akorda-random.tagged.txt:64:1112
 # text = Бұл Стратегия сіздерге арналған.
-# text[tur] = 
+# text[tur] = Bu strateji sizlere uygun.
 
 # sent_id = akorda-random.tagged.txt:65:1123
 # text = Инвестициялық саладағы ынтымақтастық табысты дамуда.
-# text[tur] = 
+# text[tur] = Yatırımın sağladığı işbirliği başarıyla gelişti.
 
 # sent_id = akorda-random.tagged.txt:66:1136
 # text = Компания сондай-ақ жүк вагондарын жинау жөніндегі өндірісті жолға қою ниетінде.
-# text[tur] = 
+# text[tur] = Şirket yanı sıra yök vagounların bir koleksiyon kurma niyetinde.
 
 # sent_id = akorda-random.tagged.txt:67:1159
 # text = - Мен осы мерекеге арналған шараларға үлкен толғаныспен қатысамын.
-# text[tur] = 
+# text[tur] = ben bu bayrama tahsis edilen etkiniğe büyük coşkuyla katılırm.
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
-# text[tur] = 
+# text[tur] = Bugünde onun tüm koşuları yapil.
 
 # sent_id = akorda-random.tagged.txt:69:1193
 # text = Соның өзінде, біз бұл жаман көрсеткіш емес деп санаймыз.
-# text[tur] = 
+# text[tur] = şunun kendisinde, biz bu kötü gösterge değil sanıyouz.
 
 # sent_id = akorda-random.tagged.txt:70:1216
 # text = Нысанның жалпы құны 8,6 миллиард теңге.
-# text[tur] = 
+# text[tur] = Nesnenin genel farkı 8,6 milyon denge.
 
 # sent_id = akorda-random.tagged.txt:71:1231
 # text = – Бұл – халықтың ұлы мерекесі, күн мен түннің теңелуінің белгісі.
-# text[tur] = 
+# text[tur] = Bu- halkın ulu bayramı,............?
 
 # sent_id = akorda-random.tagged.txt:72:1258
 # text = 2007 жылы өзара сауда айналымының көлемі 531 миллион АҚШ долларын құраған.
-# text[tur] = 
+# text[tur] = 2007 yılı karşılıklı ticaret hacmi 531 milyon dolar yaptı. 
 
 # sent_id = akorda-random.tagged.txt:73:1283
 # text = - Біздің компания да осы процеске белсене қатысқысы келеді.
-# text[tur] = 
+# text[tur] = Bizim şirket de bu süreç etkin bir katkı getidri. 
 
 # sent_id = akorda-random.tagged.txt:74:1303
 # text = Асханаға өткен жылы күрделі жөндеу жасалып, жаңа құрал-жабдық алынған.
-# text[tur] = 
+# text[tur] = Cantine geçen yıl zor bakım yapıldı, yeni enstrüman-alet alındı.
 
 # sent_id = akorda-random.tagged.txt:75:1326
 # text = «Үмітсіз» кредиттердің үлесі – 7,2 пайызға дейін арта түскен.
