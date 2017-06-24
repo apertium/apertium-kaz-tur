@@ -208,11 +208,11 @@
 
 # sent_id = akorda-random.tagged.txt:51:881
 # text = Зейнетақы жинақтарының көлемі 2,2 трлн. теңгеге артты.
-# text[tur] = 
+# text[tur] = Emeklilik tasarruf hacmı 2.2 trilyon. kadar artdı.
 
 # sent_id = akorda-random.tagged.txt:52:898
 # text = Ол солай бола береді деп ойлаймын.
-# text[tur] = 
+# text[tur] = Öylese böyle olaağını düşünüyorum.
 
 # sent_id = akorda-random.tagged.txt:53:913
 # text = Соған қарамастан мен тәртіп орнатуға қарсы үлкен қарсылықты сезіп тұрмын.
@@ -220,11 +220,11 @@
 
 # sent_id = akorda-random.tagged.txt:54:936
 # text = Түстен кейін Президент Павлодар ауданындағы емхананы аралады.
-# text[tur] = 
+# text[tur] = Öğleden sonra Başkan Pavlodar bölgesinde bir poliklinik ziyaret etti. 
 
 # sent_id = akorda-random.tagged.txt:55:953
 # text = – Біз жаттығулар барысын мұқият бақылап отырдық.
-# text[tur] = 
+# text[tur] = Biz egzersizlerin ilerleyişini dikkatle izliyorduk
 
 # sent_id = akorda-random.tagged.txt:56:970
 # text = Кешендегі 46 пәтердің барлығы тұрмыстық техникамен жабдықталған.
@@ -232,19 +232,19 @@
 
 # sent_id = akorda-random.tagged.txt:57:987
 # text = – Бізге жұмыс форматын елеулі түрде қайта қарау керек.
-# text[tur] = 
+# text[tur] = Bizde iş formatın önemi tekrar gözden geçirmek gerekir.
 
 # sent_id = akorda-random.tagged.txt:58:1008
 # text = Біз осы дәстүрді қастерлеп сақтаймыз және нығайтамыз.
-# text[tur] = 
+# text[tur] = Biz bu gelenğe saygı besleriz ve değerlendiririz.
 
 # sent_id = akorda-random.tagged.txt:59:1025
 # text = Саммит жұмысының қорытындысында «Стамбұл Декларациясы» қабылданды.
-# text[tur] = 
+# text[tur] = Zirve işinin sonucunda «İstanbul Deklarasyonu» kabul edilmiştir.
 
 # sent_id = akorda-random.tagged.txt:60:1044
 # text = Заңдардың мәтіндері баспасөзде жарияланады.
-# text[tur] = 
+# text[tur] = yasaların metinleri basında yayınladı.
 
 # sent_id = akorda-random.tagged.txt:61:1055
 # text = Осы Жарлық қол қойылған күннен бастап қолданысқа енгізіледі.
@@ -252,7 +252,7 @@
 
 # sent_id = akorda-random.tagged.txt:62:1074
 # text = Бұл ұсыныс біздің көршілеріміз тарапынан қолдау тауып отыр.
-# text[tur] = 
+# text[tur] = Bu kararname imzalandığı günden itibarne etkili olur.
 
 # sent_id = akorda-random.tagged.txt:63:1093
 # text = Осы орайда Нұрсұлтан Назарбаев төрт басым бағыттарды белгіледі.
