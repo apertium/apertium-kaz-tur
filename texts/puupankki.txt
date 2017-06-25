@@ -276,7 +276,7 @@
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
-# text[tur] = Bugünde onun tüm koşuları yapil.
+# text[tur] = Bugünde onun tüm koşuları yapildı.
 
 # sent_id = akorda-random.tagged.txt:69:1193
 # text = Соның өзінде, біз бұл жаман көрсеткіш емес деп санаймыз.
@@ -304,19 +304,19 @@
 
 # sent_id = akorda-random.tagged.txt:75:1326
 # text = «Үмітсіз» кредиттердің үлесі – 7,2 пайызға дейін арта түскен.
-# text[tur] = 
+# text[tur] = «ümitsiz» kredilerin faizi – 7,2 yüzde ......?
 
 # sent_id = akorda-random.tagged.txt:76:1351
 # text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.
-# text[tur] = 
+# text[tur] = Bu tüm valiler ve köy tarımsal mal üreticlerin görevi.
 
 # sent_id = akorda-random.tagged.txt:77:1372
 # text = Бұл-біздің үлкен жетістігіміз.
-# text[tur] = 
+# text[tur] = bu-bizim büyük başarlarmız.
 
 # sent_id = akorda-random.tagged.txt:78:1385
 # text = Оны түсіндіре білу керек.
-# text[tur] = 
+# text[tur] = onu yorumlaya bilmek gerek.
 
 # sent_id = akorda-random.tagged.txt:79:1396
 # text = Кездесу кезінде екіжақты ынтымақтастықтың мәселесі талқыланды.
@@ -328,7 +328,7 @@
 
 # sent_id = akorda-random.tagged.txt:81:1426
 # text = Мемлекет басшысы екі заңға қол қойды.
-# text[tur] = 
+# text[tur] = Başkan iki yasaya el koydu.
 
 # sent_id = akorda-random.tagged.txt:82:1441
 # text = Макроэкономикалық көрсеткіштер жаман емес, - деді Г. Марченко.
@@ -336,11 +336,11 @@
 
 # sent_id = akorda-random.tagged.txt:83:1462
 # text = Мен таң қалып отырмын.
-# text[tur] = 
+# text[tur] = sabahtan kalkıyorum.
 
 # sent_id = akorda-random.tagged.txt:84:1473
 # text = Одан кейін еліміздің Президенті дала асханасынан дәм татты.
-# text[tur] = 
+# text[tur] = Daha sonra ilimizin başkanı dış kantinden tatdı.
 
 # sent_id = akorda-random.tagged.txt:85:1492
 # text = Оң серпін ағымдағы жылы да сақталып отыр.
@@ -348,23 +348,23 @@
 
 # sent_id = akorda-random.tagged.txt:86:1508
 # text = Сіздерді ұлық мереке – Құрбан айт мейрамымен шын жүректен құттықтаймын!
-# text[tur] = 
+# text[tur] = sizlerin ulu bayarm - kurbana ait münasebetini yürekten kutlarım.
 
 # sent_id = akorda-random.tagged.txt:87:1531
 # text = Жылдың басында дағдарысқа қарсы бағдарлама бекітілді.
-# text[tur] = 
+# text[tur] = Yılın başında kirize karşı program onaylandı.
 
 # sent_id = akorda-random.tagged.txt:88:1546
 # text = – Қазір біз іске асыра алмайтындай жоба жоқ.
-# text[tur] = 
+# text[tur] = şimdi uygulaması olamaz proje yok.
 
 # sent_id = akorda-random.tagged.txt:89:1565
 # text = Қымбатты ханымдар!
-# text[tur] = 
+# text[tur] = Kimetli bayanlar! 
 
 # sent_id = akorda-random.tagged.txt:90:1572
 # text = Кәсіпкерлердің қырық пайызға жуығы әйелдер.
-# text[tur] = 
+# text[tur] = Girişimcilerin yüzde kırkten çoğu kandınlar. 
 
 # sent_id = akorda-random.tagged.txt:91:1585
 # text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды.
@@ -372,11 +372,11 @@
 
 # sent_id = akorda-random.tagged.txt:92:1608
 # text = Қымбатты отандастар!
-# text[tur] = 
+# text[tur] = Kimetli vatandaşlar.
 
 # sent_id = akorda-random.tagged.txt:93:1615
 # text = Содан кейін Мемлекет басшысы «Шапағат» коммуналдық базарында болды.
-# text[tur] = 
+# text[tur] = Sonra memlekt başkanı «Şapagat» toplumsal pazarında bulundu.
 
 # sent_id = akorda-random.tagged.txt:94:1638
 # text = Қазақстан халқын абыроймен алға бастап, тағы да тарихи тамаша жеңістерге жетіңіз.
@@ -384,7 +384,7 @@
 
 # sent_id = akorda-random.tagged.txt:95:1664
 # text = Мемлекет басшысы Нұрсұлтан Назарбаев қысқа мерзімді демалысқа шықты.
-# text[tur] = 
+# text[tur] = Memleket başaknı Nursultan Nazarbayev kısa müddet dinenlemeye çıktı.
 
 # sent_id = akorda-random.tagged.txt:96:1683
 # text = Дик Чейнидің аузынан Астананың атына ешқандай айыптау айтылмады.
@@ -392,15 +392,15 @@
 
 # sent_id = akorda-random.tagged.txt:97:1702
 # text = - Президент Пирамиданы маған резиденция терезесінен көрсетті.
-# text[tur] = 
+# text[tur] = Başkan piramit bana ikamet iznini gösterdi.
 
 # sent_id = akorda-random.tagged.txt:98:1719
 # text = Санаулы сәттерден кейін біз жаңа 2012 жылға қадам басамыз.
-# text[tur] = 
+# text[tur] = Birkaç saniyelerden sonre biz yeni 2012 yıla adım basıcağız.
 
 # sent_id = akorda-random.tagged.txt:99:1740
 # text = Бұл халықаралық қоғамдастық үшін жақсы жағынан үлгі болады.
-# text[tur] = 
+# text[tur] = Bu uluslararası toplum için iyi örnek olacak.
 
 # sent_id = akorda-random.tagged.txt:100:1759
 # text = Бұл мәселеде де біз Нұрсұлтан Әбішұлының қолдауын сезінеміз.
