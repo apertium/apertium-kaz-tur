@@ -404,55 +404,55 @@
 
 # sent_id = akorda-random.tagged.txt:100:1759
 # text = Бұл мәселеде де біз Нұрсұлтан Әбішұлының қолдауын сезінеміз.
-# text[tur] = 
+# text[tur] = Bu mecelede de biz Nursultan Nazarbayev'nın kolladığnı hisediyoruz.
 
 # sent_id = akorda-random.tagged.txt:101:1777
 # text = Ол стратегиялық әріптестікке және өзара сенімге құрылған.
-# text[tur] = 
+# text[tur] = Bu stratijic ortaklık ve karşılıklı güven kurdu.
 
 # sent_id = akorda-random.tagged.txt:102:1794
 # text = Австрия Қазақстанның басты сауда серіктестері арасында жетінші орын алады.
-# text[tur] = 
+# text[tur] = Avusturya Kazakistan'ın başlıca ticaret ortakları arasında yedinci sırada yer alıyor.
 
 # sent_id = akorda-random.tagged.txt:103:1815
 # text = Олардың арасында Қытай, Түркия, Корея, Жапония бар.
-# text[tur] = 
+# text[tur] = Onların arasında Çin, Türkiye, Kore, Japonya var.
 
 # sent_id = akorda-random.tagged.txt:104:1838
 # text = - Біз Қазақстанның табыстары мен жетістіктерін жіті бақылап отырмыз.
-# text[tur] = 
+# text[tur] = Biz Kazakısatnın kazançlarını ve başarlarını sık izliyoruz.
 
 # sent_id = akorda-random.tagged.txt:105:1859
 # text = «Мен Алматы маңындағы осы тамаша жерге келгендеріңіз үшін ризашылығымды білдіремін.
-# text[tur] = 
+# text[tur] = Ben Almatı mekanından bu harika yere geldiğniz için teşekkürlermi bildiririm. 
 
 # sent_id = akorda-random.tagged.txt:106:1884
 # text = Халықаралық күн тәртібіндегі өзекті мәселелер де талқыланды.
-# text[tur] = 
+# text[tur] = Uluslararası gündemindeki güncel meseleler de tartışıldı.
 
 # sent_id = akorda-random.tagged.txt:107:1900
 # text = Еліміздің қорғаныс қабілеті жоғары болуы үшін қолдан келгенді жасау қажет.
-# text[tur] = 
+# text[tur] = İlimizin savunma kabiliyeti daha yüksek olması için elimizden geleni yapmak gerek.
 
 # sent_id = akorda-random.tagged.txt:108:1923
 # text = Еліміздегі орташа жас – 35.
-# text[tur] = 
+# text[tur] = İlimizde ortalama yaş -35.
 
 # sent_id = akorda-random.tagged.txt:109:1936
 # text = - Қазақстан өзінің Грузиямен байланысында нақты экономикалық мүдделерді көздейді.
-# text[tur] = 
+# text[tur] = Kazakistan'nın Gürcistan bağlantılarında somut ekonomi çıkaralar hedefledi.
 
 # sent_id = akorda-random.tagged.txt:110:1957
 # text = 1995 жылдан бері аталған компания екі миллиард долларға жуық инвестиция салды.
-# text[tur] = 
+# text[tur] = 1995 yılından beri adı geçen  şirket iki milyon dolar yaklaşık yatırım sağladı.
 
 # sent_id = akorda-random.tagged.txt:111:1982
 # text = Міне, сонда ғана ол тұрақты болады.
-# text[tur] = 
+# text[tur] = İşte, şunda sadece o duraklık oluyor.
 
 # sent_id = akorda-random.tagged.txt:112:1998
 # text = Сізге тағы да «қош келдіңіз» деймін.
-# text[tur] = 
+# text[tur] = siz daha da «hoş geldiniz» diyorum.
 
 # sent_id = akorda-random.tagged.txt:113:2016
 # text = Әр нысан, әр салынған ғимарат бірегей болуы керек.
