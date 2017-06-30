@@ -820,71 +820,71 @@
 
 # sent_id = akorda-random.tagged.txt:204:3658
 # text = «Қазақ халқы елімізде тұратын басқа халықтардың басын біріктіруі керек.
-# text[tur] = 
+# text[tur] = «Kazak halkı ülkemizde yaşayan başka halklarla birlik olmalı. 
 
 # sent_id = akorda-random.tagged.txt:205:3681
 # text = Жарыс «Дәулет» ұлттық теннис орталығында өтті.
-# text[tur] = 
+# text[tur] = Yarışmak «Daulet» ulusal tenis merkezi gerçekleştirdi.
 
 # sent_id = akorda-random.tagged.txt:206:3700
 # text = Содан кейін Италия Үкіметінің басшысы Астананың көрікті жерлерімен танысты.
-# text[tur] = 
+# text[tur] = Sonra İtalya hükümet başkanı Astana'nın güzel yerlerini gördü.
 
 # sent_id = akorda-random.tagged.txt:207:3721
 # text = Мен олай деп санамаймын.
-# text[tur] = 
+# text[tur] = Ben öyle olduğunu sanmıyorum.
 
 # sent_id = akorda-random.tagged.txt:208:3732
 # text = Салтанатты ашылу рәсіміне Мемлекет басшысы Нұрсұлтан Назарбаев қатысты.
-# text[tur] = 
+# text[tur] = Törenin açılışına memleket başkanı Nursultan Nazarbayev katıldı. 
 
 # sent_id = akorda-random.tagged.txt:209:3751
 # text = - Біздің елдеріміз арасында ешқашан ешқандай да қайшылықтар болған емес.
-# text[tur] = 
+# text[tur] = Ülkelermiz arasında her hangi bir çelişki olmadı. 
 
 # sent_id = akorda-random.tagged.txt:210:3771
 # text = - Парламенттің ең басты міндеті – заң шығару жұмысы.
-# text[tur] = 
+# text[tur] = Parlamentonun en temel görevi- yasa çalışmaları.
 
 # sent_id = akorda-random.tagged.txt:211:3792
 # text = Мемлекет басшысы сондай-ақ университеттің кітапханасында болды.
-# text[tur] = 
+# text[tur] = Memleket başkanı ayrıca üniversitenin kütüphanesinde ziyaret te bulundu.
 
 # sent_id = akorda-random.tagged.txt:212:3807
 # text = Үшінші басым бағыт партияның өңірлердегі белсенді жұмысы болуы тиіс.
-# text[tur] = 
+# text[tur] = Üçüncü öncelik partinin bölgelerde aktive çalışması olmalıdır.
 
 # sent_id = akorda-random.tagged.txt:213:3828
 # text = Қадірлі жамағат!
-# text[tur] = 
+# text[tur] = Kimetli topluluk.
 
 # sent_id = akorda-random.tagged.txt:214:3835
 # text = Қазіргі сенім мен достық қатынастар жалғасын табады.
-# text[tur] = 
+# text[tur] = Şimdiki güven ve dostluklar devam edecektir.
 
 # sent_id = akorda-random.tagged.txt:215:3852
 # text = - Мен үшін Қазақстан да өз Отаным.
-# text[tur] = 
+# text[tur] = Benim için Kazakistan da öz vatanım.
 
 # sent_id = akorda-random.tagged.txt:216:3868
 # text = - Құрметті Дмитрий Анатольевич, жоғары деңгейдегі біздің кездесуіміз өте табысты өтуде.
-# text[tur] = 
+# text[tur] = Kimetli Dimitri Anatolyevich, üst düzeyde bizim ile çok başarlı toplantı olmalı.
 
 # sent_id = akorda-random.tagged.txt:217:3895
 # text = Біз олардың қайғыларын бөлісеміз.
-# text[tur] = 
+# text[tur] = Biz onların üzüntülerini paylaşırız.
 
 # sent_id = akorda-random.tagged.txt:218:3906
 # text = Олар үшін Қазақстан кедергісіз аймаққа айналуға тиіс.
-# text[tur] = 
+# text[tur] = onlar için Kazakistan kedersiz bölge dönemine gelmelidir.
 
 # sent_id = akorda-random.tagged.txt:219:3924
 # text = Мен біздің тарапымызды да қабылданған шешім қанағаттандыруы тиіс деп ойлаймын.
-# text[tur] = 
+# text[tur] = Ben sizin tarafında kabuledilen bu karardan memnum olcağını düşünüyorum. 
 
 # sent_id = akorda-random.tagged.txt:220:3946
 # text = Мен Малайзияның әр азаматына осы кітапты оқып шығуды ұсынғым келеді.
-# text[tur] = 
+# text[tur] = Ben Malezyanın her vatandaşına bu kitabı okuma teklifi geldi.
 
 # sent_id = akorda-random.tagged.txt:221:3969
 # text = Нәтижесінде ішкі саяси жағдай бақылаудан шығып кетті.
