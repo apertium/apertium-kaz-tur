@@ -1285,67 +1285,67 @@
 
 # sent_id = wikipedia-news.tagged.txt:1:0
 # text = Сеулде миллионнан астам адам билікке қарсы көтеріліске шықты.
-# text[tur] = 
+# text[tur] = Seul millyondan ziyade adam otoritelere karşı isyana çıktı.
 
 # sent_id = wikipedia-news.tagged.txt:2:18
 # text = Өзбекстанда 79 жасына қараған шағында мемлекет басшысы Ислам Каримов дүниеден озды.
-# text[tur] = 
+# text[tur] = Özbekistan 79 yaşına olan memleket başkanı Islam Karimov dunyadan gitti...?
 
 # sent_id = wikipedia-news.tagged.txt:3:43
 # text = Қазақстанда жергілікті полиция қызметі өз жұмысын бастады.
-# text[tur] = 
+# text[tur] = Kazakisatnda yerli polis hizmeti kendi işini başlattı.
 
 # sent_id = wikipedia-news.tagged.txt:4:60
 # text = Қазақстан Еуразиялық Экономикалық Одаққа төрағалығын бастады.
-# text[tur] = 
+# text[tur] = Kazakistan avrasya ekonomik ittifğa başkanlığı başlatı.
 
 # sent_id = wikipedia-news.tagged.txt:5:75
 # text = 8 қаңтар — Қазақстандық сиқыршы Руслан Иванченков бес сағат үздіксіз сиқыр көрсетіп Гиннестің рекордтар кітабына енді.
-# text[tur] = 
+# text[tur] = 8 ocak - kazakh sihirbaz Ruslan Ivançenkov 5 saat devamlı büyücülük sergileyip guinness rekorlar kitabına girdi. 
 
 # sent_id = wikipedia-news.tagged.txt:6:110
 # text = УЕФА 1996 жылдан бергі футзал тарихында медаль алған алғашқы дебютант ел.
-# text[tur] = 
+# text[tur] =  UEFA 1996 yıldan beri spor tarihinde madalya almış ilk başta ülke.
 
 # sent_id = wikipedia-news.tagged.txt:7:135
 # text = Белгілі ғалым, академик Қаныш Сәтбаевтың үлкен қызы, медицина ғылымдарының докторы, профессор Қаниса Қанышқызы Сәтбаева қайтыс болды.
-# text[tur] = 
+# text[tur] = saygın alim, akademik Kanysh Satpayevnın büyük kızı, tıp bilimlernin doktorı,profesör Kani Qanışqızı Satpayev vafat etti.
 
 # sent_id = wikipedia-news.tagged.txt:8:176
 # text = Қазақстанның денсаулық сақтау министрі қызметін атқарған Салидат Қайырбекова ауыр сырқаттан көз жұмды.
-# text[tur] = 
+# text[tur] = Kazakistanın sağlık hizmeti bakanı  hizmetini tahliye etmiş Salad Kairbekov ağır hastalıktan öldü.
 
 # sent_id = wikipedia-news.tagged.txt:9:203
 # text = Футболдан Еуропа чемпионатының финалдық матчында Португалия құрамасы Франция командасын жеңіп Еуропа чемпионы атанды.
-# text[tur] = 
+# text[tur] = Futboldan Avrupa şampiyonanın final maçında Portekiz birleşmesi Franca takımı yenip avrupa şampiyonu atandı.
 
-# sent_id = wikipedia-news.tagged.txt:10:232
+# sent_id = wikipedia-news.tagged.txt:10:232 
 # text = Алматы қаласында лаңкестік әрекет орын алып, 5 полиция қызметкері мен 1 бейбіт тұрғын қаза тапты.
-# text[tur] = 
+# text[tur] = Almatı şehrinde terör hareket mavki muazzam, 5 polis memuru ve 1 barışçı yerleşim öldü.
 
 # sent_id = wikipedia-news.tagged.txt:11:267
 # text = 5 полиция қызметкері жарақаттанған.
-# text[tur] = 
+# text[tur] = 5 polis memur yaralanmış.
 
 # sent_id = kdt.tagged.txt:1:0
-# text = Өскеменнің ар жағында, Бұқтырманың оң жағында әлемге аян Алтай бар.
-# text[tur] = 
+# text = Өскеменнің ар жағында, Бұқтырманың оң жағында әлемге аян Алтай бар.....?
+# text[tur] = Oskemenin ....?
 
 # sent_id = kdt.tagged.txt:2:24
 # text = Аттан!
-# text[tur] = 
+# text[tur] = Hadi gidelim? 
 
 # sent_id = kdt.tagged.txt:3:29
 # text = Манағы ала атты кім?
-# text[tur] = 
+# text[tur] = Sonuncu alacalı süvari kim?
 
 # sent_id = kdt.tagged.txt:4:40
 # text = Қыз алып қашқан орыстар кім?
-# text[tur] = 
+# text[tur] = Kız muthiş kaçırmış ruslar kim?.....?
 
 # sent_id = kdt.tagged.txt:5:53
 # text = Бұларды қуам деп оққа ұшқан кім?
-# text[tur] = 
+# text[tur] = Bunları izler konuşup uçmuş kim ?
 
 # sent_id = kdt.tagged.txt:6:68
 # text = Қане, осыны дауысқа саламын.
@@ -1353,107 +1353,108 @@
 
 # sent_id = kdt.tagged.txt:7:81
 # text = Атым — Бекболат.
-# text[tur] = 
+# text[tur] = Adım - Bekbolat.
 
 # sent_id = kdt.tagged.txt:8:90
 # text = Ағам отау болып, енші алып кетті.
-# text[tur] = 
+# text[tur] = Kardeşim evlenip , miras alıp gitti....?
 
 # sent_id = kdt.tagged.txt:9:107
 # text = Інім Семейде оқуда.
-# text[tur] = 
+# text[tur] = Küçük kardeşimi Semeyda ara....?
 
 # sent_id = kdt.tagged.txt:10:116
 # text = Көршінің қатыны мен қожаның өсегі білінген соң, әкеміз шығарып жіберіп, содан кейін көзіміз ашылды.
-# text[tur] = 
+# text[tur] = Komşunun kadını ve ev sahibi dedikodusu bilinmiş son, bablarmız çıkarıp, daha sonra gözlermiz açıldı.
 
 # sent_id = kdt.tagged.txt:11:151
 # text = Бірақ оған артық араласпаймын.
-# text[tur] = 
+# text[tur] = Fakat o gereksiz yere dolaşmam.
 
 # sent_id = kdt.tagged.txt:12:162
 # text = Төбелес болса жасаққа шығамын, қыз қашқан, қатын кеткен топтардан қалмаймын.
-# text[tur] = 
+# text[tur] = Dovüş gerçekleşirse askere çıkılır, kız kaçmış,,kadın gidermiş gruptan kalamam.
 
 # sent_id = kdt.tagged.txt:13:189
 # text = Не болғанымды білмедім.
-# text[tur] = 
+# text[tur] = Ne bulmuşumu bilemedim.
+
 
 # sent_id = kdt.tagged.txt:14:198
 # text = Адам лажсыз елінің тілегіне бағынады.
-# text[tur] = 
+# text[tur] = Adam umutsuz ülkenin isteğine itaat eder. 
 
 # sent_id = kdt.tagged.txt:15:212
 # text = Қазақ солдаттан өлгенше қорқады.
-# text[tur] = 
+# text[tur] = Kazakh askerden ölümüne korkar.
 
 # sent_id = kdt.tagged.txt:16:223
 # text = Патшамен соғыс ашқанда, ел-жұрт, отанымды қорғауға, біз соғысқа бардық.
-# text[tur] = 
+# text[tur] = Kralla savaş açmışta, tüm-insanlar,vatanımı korumaya, biz savaşa vardık.....?
 
 # sent_id = kdt.tagged.txt:17:250
 # text = Анығында қазақ мемлекетке не пайда келтіріп отыр?
-# text[tur] = 
+# text[tur] = Şüphesiz kazak memlektte ne fayda getriyor?
 
 # sent_id = kdt.tagged.txt:18:267
 # text = Патша қазақты қара жұмысқа алам дегенде, қандай қорқып, абыржып, қиратылып қалды.
-# text[tur] = 
+# text[tur] = Kıral Kazaktı kara göreve kuralsizim.....?
 
 # sent_id = kdt.tagged.txt:19:298
 # text = Кім біледі, қолына қару берсе, орыс жұртына жау болып кетпесіне кімнің көзі жетеді?
-# text[tur] = 
+# text[tur] = Kim bilir, elle yapılanına silah verse,rus yerine saldırgan olmaması kiminin görüşür?...?
 
 # sent_id = kdt.tagged.txt:20:331
 # text = Онда ұлы Ресей кемиді, жері, елі азайып қалады.
-# text[tur] = 
+# text[tur] = Onda büyük Rusya zayıflar, yeri, ülkesi azalırdı.
 
 # sent_id = kdt.tagged.txt:21:354
 # text = Қазақта жер көп.
-# text[tur] = 
+# text[tur] = Kazakta yer çok.
 
 # sent_id = kdt.tagged.txt:22:363
 # text = Алдымыз қашып, Қытай жеріне өтіп кетті.
-# text[tur] = 
+# text[tur] = Önümüzü kaçırıp, Çin yerine geçti.
 
 # sent_id = kdt.tagged.txt:23:380
 # text = Ендеше, біз тіршілік қып жүрміз.
-# text[tur] = 
+# text[tur] = Böylece, biz yaşam yapıyoruz.
 
 # sent_id = kdt.tagged.txt:24:395
 # text = Бірінен болмаса бірінен өлуіміз хақ.
-# text[tur] = 
+# text[tur] = Birinden bulmasa birinden ölümüz hakikat.
 
 # sent_id = kdt.tagged.txt:25:408
 # text = Біз әзір тіріміз.
-# text[tur] = 
+# text[tur] = Biz şimdi diriyiz.
 
 # sent_id = kdt.tagged.txt:26:417
 # text = Жасым 35-те.
-# text[tur] = 
+# text[tur] = Yaşım 35-te.
 
 # sent_id = kdt.tagged.txt:27:424
 # text = Өліп бара жатырмын десең, қойға бір тайын мінгізбейді.
-# text[tur] = 
+# text[tur] = Ölüp gidiyorum dese, koyuna bir yıllığı bindirmez.
 
 # sent_id = kdt.tagged.txt:28:445
 # text = Оны айтып жүрген өзіміздің қойшылар.
-# text[tur] = 
+# text[tur] = Onu bahsedip gitmiş(bahsediyormuş) kendimizin çobanlar.....?
 
 # sent_id = kdt.tagged.txt:29:458
 # text = Бірақ ұрлығымыз шығып қалды.
-# text[tur] = 
+# text[tur] = Fakat hırsızlığmız çıktı.
 
 # sent_id = kdt.tagged.txt:30:469
 # text = Қашағанды жалғыз ұстаймын.
-# text[tur] = 
+# text[tur] = kaçmışı yanlız tutarım.
 
 # sent_id = kdt.tagged.txt:31:478
 # text = Ертіс ағып, Өскемен, Зайсан, Семей сияқты қалаларды көрдім.
-# text[tur] = 
+# text[tur] = İrtiş akıp, Oskemen, Zaisan, Semey aynı şekilde şehirleri gördüm.
 
 # sent_id = kdt.tagged.txt:32:503
 # text = Кедей жақтың келіншектеріне ет, май беріп, көңіл қостым.
-# text[tur] = 
+# text[tur] = Muhtaç kredinin bayanlarına et, tereyağı verip, duyarlılık ekledim
 
 # sent_id = kdt.tagged.txt:33:526
 # text = Жылқы бағып жүріп, қалың беріп, қатын алдым.
