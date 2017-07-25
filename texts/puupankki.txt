@@ -20,11 +20,11 @@
 
 # sent_id = akorda-random.tagged.txt:4:46
 # text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
-# text[tur] = Bizim hükümet bu projeyi zorunlu destekleyecek. 
+# text[tur] = Bizim hükümet bu projeyi zorunlu destekler. 
 
 # sent_id = akorda-random.tagged.txt:5:65
 # text = - Көші-қон мәселелерін реттеу Қазақстан үшін маңызды болып саналады.
-# text[tur] = Göç meselelerini düzenlemek Kazakistan için önemli olduğu sayılır.
+# text[tur] = Göç meselelerini düzenlemek Kazakistan için önemli sayılır.
 
 # sent_id = akorda-random.tagged.txt:6:86
 # text = Қазіргі кезде қаланың ішкі өңірлік өнімі 20 есе өсті.
@@ -36,7 +36,7 @@
 
 # sent_id = akorda-random.tagged.txt:8:120
 # text = Жобаны 5 кезеңге бөліп, 12 жылда жүзеге асыру жоспарланып отыр.
-# text[tur] = Proje 5 kereye bölünüp, 12 yılda uygulanması planlanmaktadır....?
+# text[tur] = Proje 5 kereye bölünüp, 12 yılda uygulanması planlanıyor.
 
 # sent_id = akorda-random.tagged.txt:9:145
 # text = Бұл өте тиімді келісімшарт.
@@ -56,7 +56,7 @@
 
 # sent_id = akorda-random.tagged.txt:13:202
 # text = - Бас прокуратураның және Бас прокурордың жұмысын қолдаймын.
-# text[tur] = Baş savcılık ve baş savcı çalışmalarını destekler.
+# text[tur] = Baş savcılığnın ve baş savcının çalışmasını destekler.
 
 # sent_id = akorda-random.tagged.txt:14:221
 # text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
@@ -84,7 +84,7 @@
 
 # sent_id = akorda-random.tagged.txt:20:338
 # text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады.
-# text[tur] = Şu an şu temelde siyasi sistemin giderek demokratikleşmeside başladı.
+# text[tur] = Şimdi şu temelde siyasi sistemin giderek demokratikleşmesinde başladı.
 
 # sent_id = akorda-random.tagged.txt:21:357
 # text = Бұл Қазақстанның бәсекеге қабілетті әлеуеті бар салалар.
@@ -100,7 +100,7 @@
 
 # sent_id = akorda-random.tagged.txt:24:406
 # text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
-# text[tur] = XXI yüzyıda anayasamızı farklı şekilde  okumak gerek.
+# text[tur] = XXI yüzyılda anayasamızı farklı şekilde  okumak gerek.
 
 # sent_id = akorda-random.tagged.txt:25:425
 # text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
@@ -108,7 +108,7 @@
 
 # sent_id = akorda-random.tagged.txt:26:442
 # text = Конкурсқа қатысуға 296 кәсіпорын ниет білдірген.
-# text[tur] = Yarışmaya katılmda 296 işletme niteini bildirdi
+# text[tur] = Yarışmaya katılmda 296 işletme niteini bildirmiş.
 
 # sent_id = akorda-random.tagged.txt:27:457
 # text = Жобаның 1-кезеңінің (кеме жасау зауыты) аяқталуы – 2006 жылдың тамыз айы.
@@ -144,7 +144,7 @@
 
 # sent_id = akorda-random.tagged.txt:35:613
 # text = Алматы облысы – еліміздің халық тығыз топтасқан өңірлерінің бірі.
-# text[tur] = Almatı bölgesi - ilimizin  nüfüs sık yoğunlaşmış bölgelerinin biri.
+# text[tur] = Almatı bölgesi - ülkemizin  nüfüs sık yoğunlaşan bölgelerinin biri.
 
 # sent_id = akorda-random.tagged.txt:36:634
 # text = Осы оқиғаларды үлкен өкінішпен бақылап отырмын.
@@ -225,7 +225,7 @@
 
 # sent_id = akorda-random.tagged.txt:55:953
 # text = – Біз жаттығулар барысын мұқият бақылап отырдық.
-# text[tur] = Biz egzersizlerin sürecini dikkatlice izliyorduk
+# text[tur] = Biz egzersizlerin sürecini dikkatlice izliyorduk.
 
 # sent_id = akorda-random.tagged.txt:56:970
 # text = Кешендегі 46 пәтердің барлығы тұрмыстық техникамен жабдықталған.
@@ -297,11 +297,11 @@
 
 # sent_id = akorda-random.tagged.txt:73:1283
 # text = - Біздің компания да осы процеске белсене қатысқысы келеді.
-# text[tur] = Bizim şirket de bu süreçe etkin katılark geldi. 
+# text[tur] = Bizim şirket de bu süreçe etkin katılark gelir. 
 
 # sent_id = akorda-random.tagged.txt:74:1303
 # text = Асханаға өткен жылы күрделі жөндеу жасалып, жаңа құрал-жабдық алынған.
-# text[tur] = Cantine geçen yıl bakım yapıldı, yeni enstrüman-alet alınmış.
+# text[tur] = Cantine geçen yıl bakım yapılıp, yeni enstrüman-alet alınmış.
 
 # sent_id = akorda-random.tagged.txt:75:1326
 # text = «Үмітсіз» кредиттердің үлесі – 7,2 пайызға дейін арта түскен.
@@ -401,7 +401,7 @@
 
 # sent_id = akorda-random.tagged.txt:99:1740
 # text = Бұл халықаралық қоғамдастық үшін жақсы жағынан үлгі болады.
-# text[tur] = Bu uluslararası toplum için iyi yandan örnek olacak.
+# text[tur] = Bu uluslararası toplum için iyi yandan örnek olur.
 
 # sent_id = akorda-random.tagged.txt:100:1759
 # text = Бұл мәселеде де біз Нұрсұлтан Әбішұлының қолдауын сезінеміз.
@@ -1313,7 +1313,7 @@
 
 # sent_id = wikipedia-news.tagged.txt:8:176
 # text = Қазақстанның денсаулық сақтау министрі қызметін атқарған Салидат Қайырбекова ауыр сырқаттан көз жұмды.
-# text[tur] = Kazakistanın sağlık hizmeti bakanı  hizmetini tahliye etmiş Salad Kairbekov ağır hastalıktan öldü.
+# text[tur] = Kazakistan'ın sağlık hizmeti bakanı  hizmetini tahliye etmiş Salidat Kayırbekova ağır hastalıktan öldü.
 
 # sent_id = wikipedia-news.tagged.txt:9:203
 # text = Футболдан Еуропа чемпионатының финалдық матчында Португалия құрамасы Франция командасын жеңіп Еуропа чемпионы атанды.
@@ -1454,51 +1454,52 @@
 
 # sent_id = kdt.tagged.txt:32:503
 # text = Кедей жақтың келіншектеріне ет, май беріп, көңіл қостым.
-# text[tur] = Muhtaç kredinin bayanlarına et, tereyağı verip, duyarlılık ekledim
+# text[tur] = Yoksul kişinin bayanlarına et, tereyağ verip, duyarlılık ekledim.
 
 # sent_id = kdt.tagged.txt:33:526
 # text = Жылқы бағып жүріп, қалың беріп, қатын алдым.
-# text[tur] = 
+# text[tur] = At besliyor, fidye verip, kadın aldım.
 
 # sent_id = kdt.tagged.txt:34:547
 # text = Ақтар қашып, қызылдар келіп, қала-қалаға орнады.
-# text[tur] = 
+# text[tur] = Beyazlar kaçıp, kırmızılar gelip, şehir-şehre kuruldu....?
 
 # sent_id = kdt.tagged.txt:35:570
 # text = Байдың малын, артық қатынын, жерін кедейге тартып әпереді деген лақаптар шыққан соң, жатсам ұйқым, тұрсам күлкім келмейді.
-# text[tur] = 
+# text[tur] = Zenginin malını, gereksiz kadını, yerini mahrumiyete verir demiş rumuzlar çıkmış son,yatsam uykumu, dursam gülmem gelmezdi.
 
 # sent_id = kdt.tagged.txt:36:615
 # text = Біреу қазақ жақсы деді, біреу орыс жақсы деді.
-# text[tur] = 
+# text[tur] = Birisi kazak iyi dedi, birisi rus iyi dedi.
 
 # sent_id = kdt.tagged.txt:37:636
 # text = Менен жұрт сескенейін деді.
-# text[tur] = 
+# text[tur] = Benden dünya korkayım dedi.
 
 # sent_id = kdt.tagged.txt:38:647
 # text = Елге келген соң ауыл-ауылдан мал, киіз, төсек-орын, ыдыс-сайман алып жүрген ақтардың адамына жолығып, іш пікірім ішімде соларға кісі болдым.
-# text[tur] = 
+# text[tur] = Ülkeye gelmiş son köy-köyden mal, keçe, yatak-takım, sofra eşyası-takım kormuş beyazlarının insanlarına eskiden kalıp,iç görüşüm içimde şunlarda gencliği buldum.
 
 # sent_id = kdt.tagged.txt:39:708
 # text = Олар маған жақсы қыз тауып бер деді.
-# text[tur] = 
+# text[tur] = Onlar bana iyi kız bul dedi.
 
 # sent_id = kdt.tagged.txt:40:725
 # text = Өмірі байдан, күштіден қорлық-зорлық көріп келдім.
-# text[tur] = 
+# text[tur] = Hayatı zenginden, güçlüden aşağlama-şiddet gördüm.
 
 # sent_id = kdt.tagged.txt:41:746
 # text = Енді оларды мен несіне аяйын?
-# text[tur] = 
+# text[tur] = Şimdi onları ben nesine acıyım?
 
 # sent_id = kdt.tagged.txt:42:759
 # text = Алып келген манағы қолын артып жатқан жирен орыс екен.
-# text[tur] = 
+# text[tur] = Vurulmuş sonuncu sürüsü büyüyormuş kırmızı rus
 
 # sent_id = kdt.tagged.txt:43:780
 # text = Бірақ енді қайта сүюге қызға ұмтылмады.
-# text[tur] = 
+# text[tur] = Fakat şimdi tekrar sevmye kıza sıkıştırmadı....?
+
 
 # sent_id = kdt.tagged.txt:44:795
 # text = Жирен орыс манағыдай емес.
