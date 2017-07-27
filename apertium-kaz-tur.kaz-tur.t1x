@@ -7,12 +7,23 @@
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
+<def-cat n="past">
+      <cat-item tags="v.*.past.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
 
  <def-cat n="fut">
       <cat-item tags="v.*.fut.*"/>
+    </def-cat>
+
+<def-cat n="prc_impf">
+      <cat-item tags="v.*.prc_impf"/>
+    </def-cat>
+
+<def-cat n="fut_plan">
+      <cat-item tags="vaux.fut_plan.*"/>
     </def-cat>
 
 
@@ -51,7 +62,10 @@
 <def-attr n="a_aspect">
       <attr-item tags="aor"/>
       <attr-item tags="prc_perf"/>
+     <attr-item tags="fut"/>
+<attr-item tags="prc_impf"/>
 <attr-item tags="prog"/>
+<attr-item tags="past"/>
     </def-attr>
   </section-def-attrs>
 
@@ -104,6 +118,76 @@
       </action>
     </rule>
 
+
+  <rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="past"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="past"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+<rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="fut_plan"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="fut"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 <rule comment="REGLA: fut">
        <pattern>
         <pattern-item n="fut"/>    

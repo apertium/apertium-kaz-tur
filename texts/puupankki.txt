@@ -1333,7 +1333,7 @@
 
 # sent_id = kdt.tagged.txt:2:24
 # text = Аттан!
-# text[tur] = Hadi gidelim? 
+# text[tur] = gidelim! 
 
 # sent_id = kdt.tagged.txt:3:29
 # text = Манағы ала атты кім?
@@ -1503,131 +1503,131 @@
 
 # sent_id = kdt.tagged.txt:44:795
 # text = Жирен орыс манағыдай емес.
-# text[tur] = 
+# text[tur] = Kızıl saçlı rus geçenlerde yok.
 
 # sent_id = kdt.tagged.txt:45:806
 # text = Шайларын ішіп, шылымдарын тартысып болған соң, өзгелері тысқа шықты.
-# text[tur] = 
+# text[tur] = Çayları içip, sigaraları tartışmış sonra, diğerleri sağa çıktı.
 
 # sent_id = kdt.tagged.txt:46:831
 # text = Орыстар тұра ұмтылды.
-# text[tur] = 
+# text[tur] =Ruslar ....? 
 
 # sent_id = kdt.tagged.txt:47:840
 # text = Өлген жирен орысты көп солдат алып кетті.
-# text[tur] = 
+# text[tur] =  Ölmüş kızıl saçlı rusu birçok asker götürdü.
 
 # sent_id = kdt.tagged.txt:48:857
 # text = Бірақ төбелесіп өлтіріспей, алыстан атып өлтіріскеніне түсіне алмады.
-# text[tur] = 
+# text[tur] = Fakat dövüşüp öldürmeyip,  uzakta atıp öldümüşüne anlamadı....? 
 
 # sent_id = kdt.tagged.txt:49:878
 # text = — Мына төре сені жақсы көрген.
-# text[tur] = 
+# text[tur] = Bu patron seni sevmiş.
 
 # sent_id = kdt.tagged.txt:50:893
 # text = Бұл өзі үлкен төре.
-# text[tur] = 
+# text[tur] = Bu kendi büyük patron.
 
 # sent_id = kdt.tagged.txt:51:904
 # text = Қорықпайтын кісі.
-# text[tur] = 
+# text[tur] = korkmayan kişi.
 
 # sent_id = kdt.tagged.txt:52:911
 # text = Анау жігіттен сені маған бер деп сұраған.
-# text[tur] = 
+# text[tur] = O yiğitan seni bana ver deyip sormuş.
 
 # sent_id = kdt.tagged.txt:53:928
 # text = Саған ешкім тимейді.
-# text[tur] = 
+# text[tur] = Sana hiç kimse dokunmaz.
 
 # sent_id = kdt.tagged.txt:54:937
 # text = Ол бермеген.
-# text[tur] = 
+# text[tur] = O vermemiş.
 
 # sent_id = kdt.tagged.txt:55:944
 # text = Екеуі дауласқан, шатақ шыққан.
-# text[tur] = 
+# text[tur] = İkisi tartışmış, karışık çıkmış.
 
 # sent_id = kdt.tagged.txt:56:957
 # text = Сен қорықпа.
-# text[tur] = 
+# text[tur] = sen korkmayın.
 
 # sent_id = kdt.tagged.txt:57:964
 # text = Мына төре сені ешкімге бермейді.
-# text[tur] = 
+# text[tur] = Bu patron seni hiç kimseye vermez.
 
 # sent_id = kdt.tagged.txt:58:977
 # text = Бұл сені қатын қылады.
-# text[tur] = 
+# text[tur] = Bu seni kadın yapar.
 
 # sent_id = kdt.tagged.txt:59:988
 # text = Бұл көп білетін ақылды жігіт.
-# text[tur] = 
+# text[tur] = Bu çok bilinen akıllı yiğit.
 
 # sent_id = kdt.tagged.txt:60:1001
 # text = Бұл кісі сені жақсы көреді.
-# text[tur] = 
+# text[tur] = Bu Kişi seni seni sever.
 
 # sent_id = kdt.tagged.txt:61:1014
 # text = Сені күтеді.
-# text[tur] = 
+# text[tur] = Seni umursar.
 
 # sent_id = kdt.tagged.txt:62:1021
 # text = Үлкен төре деп мақтайды.
-# text[tur] = 
+# text[tur] = Büyük adam deyip övünür.
 
 # sent_id = kdt.tagged.txt:63:1032
 # text = Анда-санда қара мұрт оған сөз үйретіп тұрды.
-# text[tur] = 
+# text[tur] = Ara-sıra kara bıyık ona söz yetiştirdi.
 
 # sent_id = kdt.tagged.txt:64:1053
 # text = Оның көп сөзі миына қонбайды.
-# text[tur] = 
+# text[tur] = Onun çok sözü beynine yerleştirmez.
 
 # sent_id = kdt.tagged.txt:65:1066
 # text = Ендеше, жақсы көргені рас.
-# text[tur] = 
+# text[tur] = Böylelikle, sevmişi gerçek. 
 
 # sent_id = kdt.tagged.txt:66:1079
 # text = Ел қайда?
-# text[tur] = 
+# text[tur] = Millet nerde?
 
 # sent_id = kdt.tagged.txt:67:1086
 # text = Қара күшке, тағдырға не шара?
-# text[tur] = 
+# text[tur] = Kara kuvvette, halke ne önlem?
 
 # sent_id = kdt.tagged.txt:68:1101
 # text = Жамандығынан мұндай болған жоқ.
-# text[tur] = 
+# text[tur] = Şeytanından böyle olmadı.
 
 # sent_id = kdt.tagged.txt:69:1110
 # text = Малына, жанына ие болып отырған қай қазақ бар?
-# text[tur] = 
+# text[tur] = Malına, cevherine sahip olumuş hangi kazak var?
 
 # sent_id = kdt.tagged.txt:70:1131
 # text = Қызды алам деп жүргенде, бұл иттер шешесін атып өлтіріпті.
-# text[tur] = 
+# text[tur] = Kızdı dünya söylemişte, bu itler annesini bas bas bağrıp öldürüptü.
 
 # sent_id = kdt.tagged.txt:71:1154
 # text = Мұның арты үлкен дүрбелеңге шаппасын кім біледі?
-# text[tur] = 
+# text[tur] = Bunun sanatı büyük panik aramayacağını kim bilir?
 
 # sent_id = kdt.tagged.txt:72:1171
 # text = Ағасы болмаса, бұ қызда не жазық бар еді?..
-# text[tur] = 
+# text[tur] = Kardeşi bolmasa, bu kızda ne güzellik vardı?
 
 # sent_id = kdt.tagged.txt:73:1196
 # text = Енді бұл беттен қайтуға өткел жоқ...
-# text[tur] = 
+# text[tur] =şimdi  bu yüzden dönmeye feribot yok...
 
 # sent_id = kdt.tagged.txt:74:1211
 # text = Дауа жоқ...
-# text[tur] = 
+# text[tur] = Uyuşmazlık yok...
 
 # sent_id = kdt.tagged.txt:75:1218
 # text = Бай неліктен бай болады?
-# text[tur] = 
+# text[tur] = Zengin neden zengin olur?
 
 # sent_id = kdt.tagged.txt:76:1229
 # text = Қыстауға қонса, бата оқу болса, мал өлсе, құрбандық берсе, бас пен жамбас молданың алдына тартылатын.
@@ -1635,11 +1635,11 @@
 
 # sent_id = kdt.tagged.txt:77:1270
 # text = Онан өзгені іздемейді.
-# text[tur] = 
+# text[tur] = ondan ötekini arar.
 
 # sent_id = kdt.tagged.txt:78:1279
 # text = Кімге жалынсын, кімге сенсін?
-# text[tur] = 
+# text[tur] = kime yarvalsın, kime  güvensin?
 
 # sent_id = kdt.tagged.txt:79:1292
 # text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
@@ -1647,87 +1647,87 @@
 
 # sent_id = kdt.tagged.txt:80:1365
 # text = Мұның бәрі оған құдайдың бұйырған жұмысы тәрізді.
-# text[tur] = 
+# text[tur] = Bunun hepsi ona tanrının söylemiş işini benzer.
 
 # sent_id = kdt.tagged.txt:81:1382
 # text = Бұл — құдайдың бұйрығы.
-# text[tur] = 
+# text[tur] = Bu tanrının emri.
 
 # sent_id = kdt.tagged.txt:82:1393
 # text = Бұрынғыдай емес, Алтынай тұрмысына енді риза.
-# text[tur] = 
+# text[tur] = Evvelkiyi değil, Altınay hayatında şimdi mutlu. 
 
 # sent_id = kdt.tagged.txt:83:1410
 # text = Байы атқа мініп, кісі болды.
-# text[tur] = 
+# text[tur] = Zengin adamın ata biniyip, kişi buldu.
 
 # sent_id = kdt.tagged.txt:84:1425
 # text = Кісі болғалы, үйі үй болып келеді.
-# text[tur] = 
+# text[tur] = kişi bulduktan sonra, evi ev yapar.
 
 # sent_id = kdt.tagged.txt:85:1442
 # text = Жоқ, Алтынайдың өзінше дәмі әбден бар.
-# text[tur] = 
+# text[tur] = Yok, Altınayının özellikle merakı fazlasıyla var.
 
 # sent_id = kdt.tagged.txt:86:1459
 # text = — Бәйбіше қайда?
-# text[tur] = 
+# text[tur] = Koça nerde?
 
 # sent_id = kdt.tagged.txt:87:1468
 # text = Қазақтың сондай телмірген әдеті құрысын!
-# text[tur] = 
+# text[tur] = Kazakistan gibi adeti.....?
 
 # sent_id = kdt.tagged.txt:88:1481
 # text = Олар қайда?
-# text[tur] = 
+# text[tur] = Onlar nerde?
 
 # sent_id = kdt.tagged.txt:89:1488
 # text = Ол келген қазақ екен.
-# text[tur] = 
+# text[tur] =O gelmiş kazakmış.
 
 # sent_id = kdt.tagged.txt:90:1499
 # text = - Немене?
-# text[tur] = 
+# text[tur] = neyi?
 
 # sent_id = kdt.tagged.txt:91:1506
 # text = — Бәйбішені атып кетті.
-# text[tur] = 
+# text[tur] =Kocayı vurdu.
 
 # sent_id = kdt.tagged.txt:92:1517
 # text = — Ойбай!
-# text[tur] = 
+# text[tur] = oh!
 
 # sent_id = kdt.tagged.txt:93:1524
 # text = — Е!
-# text[tur] = 
+# text[tur] = E!
 
 # sent_id = kdt.tagged.txt:94:1531
 # text = Сол шапқыншының бірі осы екен.
-# text[tur] = 
+# text[tur] = Şu eşkıyanın biri o .
 
 # sent_id = kdt.tagged.txt:95:1544
 # text = Өйткені ол жара атын атауға — адамның аузы жиренетін жара еді.
-# text[tur] = 
+# text[tur] = Because o yara adın ada - adamnın ağzı .....?
 
 # sent_id = kdt.tagged.txt:96:1569
 # text = Және ол қашанғы дау?
-# text[tur] = 
+# text[tur] =Ve o eski yarışma?
 
 # sent_id = kdt.tagged.txt:97:1580
 # text = Оған себеп мынау еді.
-# text[tur] = 
+# text[tur] = O sebep buydu.
 
 # sent_id = kdt.tagged.txt:98:1591
 # text = — Ойбай, үлкен оқиға боп қалды!
-# text[tur] = 
+# text[tur] = Oh, büyük majara oldu!
 
 # sent_id = kdt.tagged.txt:99:1608
 # text = — Немене, жаным?
-# text[tur] = 
+# text[tur] =  Ne bu, canım? 
 
 # sent_id = kdt.tagged.txt:100:1619
 # text = — Құдай оңдап елдің көзі бір ашылды...
-# text[tur] = 
+# text[tur] = Tanrı ülkenin gözü bir 
 
 # sent_id = kdt.tagged.txt:101:1636
 # text = Басқа бір дүниеге кіргендей болады...
@@ -1739,7 +1739,7 @@
 
 # sent_id = kdt.tagged.txt:103:1668
 # text = Ай жоқ.
-# text[tur] = 
+# text[tur] = Ay yok.
 
 # sent_id = kdt.tagged.txt:104:1675
 # text = Қараңғылық қоюланып келеді.
