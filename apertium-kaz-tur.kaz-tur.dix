@@ -202,7 +202,7 @@
     
      <e><p><l>мына<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
-
+     <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
  
      <!-- SECTION: Determiners -->      
 
@@ -257,6 +257,7 @@
 
      <e><p><l>оңтүстік<s n="n"/></l><r>güney<s n="n"/></r></p></e>
      <e><p><l>солтүстік<s n="n"/></l><r>kuzey<s n="n"/></r></p></e>
+<e><p><l>Алтыа<s n="n"/></l><r>tabanca<s n="n"/></r></p></e>
      <e><p><l>шығыс<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
 <e><p><l>шапқыншы<s n="n"/></l><r>eşkıya<s n="n"/></r></p></e>
 <e><p><l>бай<s n="n"/></l><r>zengin<b/>adam<s n="n"/></r></p></e>
@@ -5425,6 +5426,7 @@
 <e><p><l>анда-санда<s n="adv"/></l><r>ara-sıra<s n="adv"/></r></p></e>
      <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="loc"/></r></p></e>
      <e><p><l>неге<s n="adv"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
+<e><p><l>неге<s n="adv"/><s n="itg"/></l><r>niye<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
      <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="dat"/></r></p></e>
      <e><p><l>сияқты<s n="adv"/></l><r>aynı<b/>şekilde<s n="adv"/></r></p></e>
      <e><p><l>сосын<s n="adv"/></l><r>böylece<s n="adv"/></r></p></e>
@@ -5802,6 +5804,7 @@
      <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>kalk<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>түс<s n="v"/><s n="iv"/></l><r>bin<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>түс<s n="v"/><s n="iv"/></l><r>in<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>түс<s n="v"/><s n="iv"/></l><r>düş<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>тұт<s n="v"/><s n="tv"/></l><r>tut<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>тық<s n="v"/><s n="tv"/></l><r>gizle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>тық<s n="v"/><s n="tv"/></l><r>kat<s n="v"/><s n="tv"/></r></p></e>
@@ -6431,6 +6434,7 @@
 <e><p><l>Кедендік<s n="n"/></l><r>gelenek<s n="n"/></r></p></e>
 <e><p><l>кедергісіз<s n="n"/></l><r>engelsiz<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>an<s n="n"/></r></p></e>
+<e><p><l>кез<s n="n"/></l><r>zaman<b/>dilimi<s n="n"/></r></p></e>
 <e><p><l>кездес<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
 <e><p><l>кездес<s n="v"/><s n="iv"/></l><r>görüş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>кездес<s n="v"/><s n="iv"/></l><r>yönel<s n="v"/><s n="iv"/></r></p></e>
@@ -6838,6 +6842,7 @@
 <e><p><l>табысты<s n="adj"/></l><r>kazançlı<s n="adj"/></r></p></e>
 <e><p><l>табысты<s n="n"/></l><r>avantaj<s n="n"/></r></p></e>
 <e><p><l>тағы<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
+<e><p><l>тағы<s n="adv"/></l><r>yine<s n="adv"/></r></p></e>
 <e><p><l>тақ<s n="n"/></l><r>tek<s n="adj"/></r></p></e>
 <e><p><l>тақырып<s n="n"/></l><r>konu<s n="n"/></r></p></e>
 <e><p><l>талант<s n="n"/></l><r>yetenek<s n="n"/></r></p></e>

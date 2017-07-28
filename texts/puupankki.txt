@@ -1727,15 +1727,15 @@
 
 # sent_id = kdt.tagged.txt:100:1619
 # text = — Құдай оңдап елдің көзі бір ашылды...
-# text[tur] = Tanrı ülkenin gözü bir 
+# text[tur] = Tanrı ülkenin gözü bir ....?
 
 # sent_id = kdt.tagged.txt:101:1636
 # text = Басқа бір дүниеге кіргендей болады...
-# text[tur] = 
+# text[tur] = Başka bir dünyaya ......bulur
 
 # sent_id = kdt.tagged.txt:102:1649
 # text = Сол сөзді бітірген кезде тағы үш орыс келді.
-# text[tur] = 
+# text[tur] = O sözü bitirilmiş anda  yine üç rus geldi.
 
 # sent_id = kdt.tagged.txt:103:1668
 # text = Ай жоқ.
@@ -1743,15 +1743,15 @@
 
 # sent_id = kdt.tagged.txt:104:1675
 # text = Қараңғылық қоюланып келеді.
-# text[tur] = 
+# text[tur] = Siyah ......
 
 # sent_id = kdt.tagged.txt:105:1684
 # text = "Осылай тұр!" дегендей екі иығынан басып қалды, бес-алты адымдай жерге барып тұра қалды.
-# text[tur] = 
+# text[tur] = "Böyle dürmuş!" demişce  eki omuzundan....., beş-altı adımlıyarak yere ....?
 
 # sent_id = kdt.tagged.txt:106:1725
 # text = Алтыатары жерге түсіп кетті.
-# text[tur] = 
+# text[tur] =Tabancaları yere düştü.
 
 # sent_id = kdt.tagged.txt:107:1736
 # text = — Мені неге атасың?
