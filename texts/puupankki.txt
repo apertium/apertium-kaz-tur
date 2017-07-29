@@ -1999,31 +1999,31 @@
 
 # sent_id = kdt.tagged.txt:168:2690
 # text = Киімі қандай екен?
-# text[tur] = 
+# text[tur] = Giysi ...?
 
 # sent_id = kdt.tagged.txt:169:2699
 # text = Қызды біреуге беріп жіберуге кім даяр тұр?
-# text[tur] = 
+# text[tur] = Kızı birisine verip bağışlamaya kim hazır durusun?
 
 # sent_id = kdt.tagged.txt:170:2716
 # text = Ол тағы білінбей қалмайды.
-# text[tur] = 
+# text[tur] = O üstelik bilmeyerk kalmazdı.
 
 # sent_id = kdt.tagged.txt:171:2727
 # text = Шірік ит!
-# text[tur] = 
+# text[tur] = Sıracalı köpek!
 
 # sent_id = kdt.tagged.txt:172:2734
 # text = Ауыл кісілері тысқа шықты.
-# text[tur] = 
+# text[tur] = Köy insanları dışa çıktı.
 
 # sent_id = kdt.tagged.txt:173:2745
 # text = Бір безер ит еді.
-# text[tur] = 
+# text[tur] =Bir...? 
 
 # sent_id = kdt.tagged.txt:174:2756
 # text = Ақтардың тұтылғанын сонда білді...
-# text[tur] = 
+# text[tur] = Beyazlarnın hoşgörülmüşünü sonra bildi
 
 # sent_id = kdt.tagged.txt:175:2767
 # text = "Кәпірді" құшақтаған арам қолымды қайтіп әкемнің адал дастарқанына апарып, қайтіп бір табақтан ас ішермін?
@@ -2031,11 +2031,11 @@
 
 # sent_id = kdt.tagged.txt:176:2804
 # text = Менің күйеуім ше?
-# text[tur] = 
+# text[tur] = Benim şartim ....? 
 
 # sent_id = kdt.tagged.txt:177:2813
 # text = Менде не сын қалды дейсің?
-# text[tur] = 
+# text[tur] = Bende ne eleştiri kaldı dermisin?
 
 # sent_id = kdt.tagged.txt:178:2826
 # text = Мыналарды көргенде өзі жазылған соң, Бекболат: "ауру қалай жазылмасын?" — деп ойлады.
@@ -2043,11 +2043,11 @@
 
 # sent_id = kdt.tagged.txt:179:2863
 # text = Бекболат сыртқы есікті ашып тысқа шықты.
-# text[tur] = 
+# text[tur] = Bekbolat dış kapıyı açıp dışa çıktı.
 
 # sent_id = kdt.tagged.txt:180:2878
 # text = Еліне тезірек қайтқысы келді.
-# text[tur] = 
+# text[tur] = eline ....?
 
 # sent_id = kdt.tagged.txt:181:2889
 # text = Мен, міне, құдайдың жарық күнін көрдім, жазылдым.

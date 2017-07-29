@@ -2153,6 +2153,7 @@
 <e><p><l>мұрша<s n="n"/></l><r>iktidar<s n="n"/></r></p></e>
 <e><p><l>дым<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
      <e><p><l>ұғым<s n="n"/></l><r>anlam<s n="n"/></r></p></e>
+<e><p><l>есік<s n="n"/></l><r>kapı<s n="n"/></r></p></e>
      <e><p><l>ұғым<s n="n"/></l><r>kavram<s n="n"/></r></p></e>
      <e><p><l>ұғым<s n="n"/></l><r>önem<s n="n"/></r></p></e>
      <e><p><l>уәде<s n="n"/></l><r>vaat<s n="n"/></r></p></e>
@@ -4121,6 +4122,8 @@
      <e><p><l>Аустралия<s n="np"/><s n="top"/></l><r>Avustralya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Африка<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Ахмет<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+<e><p><l>Бекболат<s n="np"/><s n="ant"/><s n="m"/></l><r>Bekbolat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Багдад<s n="np"/><s n="top"/></l><r>Bağdat<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Баку<s n="np"/><s n="top"/></l><r>Bakü<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Бангладеш<s n="np"/><s n="top"/></l><r>Bangladeş<s n="np"/><s n="top"/></r></p></e>
@@ -5047,6 +5050,8 @@
      <e><p><l>алып<s n="adj"/></l><r>muazzam<s n="adj"/></r></p></e>
      <e><p><l>алып<s n="adj"/></l><r>müthiş<s n="adj"/></r></p></e>
      <e><p><l>аз<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
+<e><p><l>шірік<s n="adj"/></l><r>sıracalı<s n="adj"/></r></p></e>
+<e><p><l>даяр<s n="adj"/></l><r>hazır<s n="adj"/></r></p></e>
 <e><p><l>аман<s n="adj"/></l><r>sağlıklı<s n="adj"/></r></p></e>
 <e><p><l>қу<s n="adj"/></l><r>sinsi<s n="adj"/></r></p></e>
 <e><p><l>тәрізді<s n="adj"/></l><r>benzer<s n="adj"/></r></p></e>
@@ -5613,6 +5618,7 @@
      <e><p><l>ауна<s n="v"/><s n="iv"/></l><r>ağın<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>соз<s n="v"/><s n="iv"/></l><r>esne<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ауна<s n="v"/><s n="iv"/></l><r>ağna<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>жібер<s n="v"/><s n="tv"/></l><r>bağışla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>ауыр<s n="v"/><s n="iv"/></l><r>acı<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ауыр<s n="v"/><s n="iv"/></l><r>ağır<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>аш<s n="v"/><s n="tv"/></l><r>aç<s n="v"/><s n="tv"/></r></p></e>
@@ -6882,6 +6888,7 @@
 <e><p><l>сөз<s n="n"/></l><r>laf<s n="n"/></r></p></e>
 <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>сонда<s n="cnjadv"/></l><r>öyleyse<s n="cnjadv"/></r></p></e>
+<e><p><l>сонда<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
 <e><p><l>сондай-ақ<s n="cnjcoo"/></l><r>yanı-sıra<s n="cnjcoo"/></r></p></e>
 <e><p><l>сондықтан<s n="cnjadv"/></l><r>sonra<s n="cnjadv"/></r></p></e>
 <e><p><l>спорт<s n="n"/></l><r>spor<s n="n"/></r></p></e>
@@ -6893,6 +6900,8 @@
 <e><p><l>стратегиялық<s n="adj"/></l><r>stratijik<s n="adj"/></r></p></e>
 <e><p><l>Съез<s n="n"/></l><r>kongre<s n="n"/></r></p></e>
 <e><p><l>Съезд<s n="n"/></l><r>kongre<s n="n"/></r></p></e>
+
+<e><p><l>сын<s n="n"/></l><r>eleştiri<s n="n"/></r></p></e>
 <e><p><l>Съезд<s n="n"/></l><r>kongre<s n="n"/></r></p></e>
 <e><p><l>сынақ<s n="n"/></l><r>sınav<s n="n"/></r></p></e>
 <e><p><l>табиғи<s n="adj"/></l><r>doğal<s n="adj"/></r></p></e>
