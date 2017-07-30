@@ -1999,7 +1999,7 @@
 
 # sent_id = kdt.tagged.txt:168:2690
 # text = Киімі қандай екен?
-# text[tur] = Giysi ...?
+# text[tur] = Giysisi neydi?
 
 # sent_id = kdt.tagged.txt:169:2699
 # text = Қызды біреуге беріп жіберуге кім даяр тұр?
@@ -2019,7 +2019,7 @@
 
 # sent_id = kdt.tagged.txt:173:2745
 # text = Бір безер ит еді.
-# text[tur] =Bir...? 
+# text[tur] =Bir inantçı köpekti. 
 
 # sent_id = kdt.tagged.txt:174:2756
 # text = Ақтардың тұтылғанын сонда білді...
@@ -2031,7 +2031,7 @@
 
 # sent_id = kdt.tagged.txt:176:2804
 # text = Менің күйеуім ше?
-# text[tur] = Benim şartim ....? 
+# text[tur] = benim kocam ne olur?
 
 # sent_id = kdt.tagged.txt:177:2813
 # text = Менде не сын қалды дейсің?
@@ -2051,43 +2051,43 @@
 
 # sent_id = kdt.tagged.txt:181:2889
 # text = Мен, міне, құдайдың жарық күнін көрдім, жазылдым.
-# text[tur] = 
+# text[tur] = Ben ,burada, tanrının mühteşem gününü gördüm
 
 # sent_id = kdt.tagged.txt:182:2912
 # text = Ол осы күнде не күйде екен?
-# text[tur] = 
+# text[tur] = O şu günde ne gündeydi?
 
 # sent_id = kdt.tagged.txt:183:2927
 # text = Әлде орыстар өлтіріп тастады?
-# text[tur] = 
+# text[tur] = Güçlülükte ruslar öldürüp vazgeçti?
 
 # sent_id = kdt.tagged.txt:184:2938
 # text = Әлдебір сары орыспен құшақтасып отыр?
-# text[tur] = 
+# text[tur] = Manavi sarı rusla sarılıp oturun?
 
 # sent_id = kdt.tagged.txt:185:2951
 # text = Сол кім екен?..
-# text[tur] = 
+# text[tur] = Şu kimdi?
 
 # sent_id = kdt.tagged.txt:186:2964
 # text = Бекболат амандасты.
-# text[tur] = 
+# text[tur] = Bekbolat alkışlandı.
 
 # sent_id = kdt.tagged.txt:187:2971
 # text = Онымен таласқандай мұның не айбыны, не күші бар?
-# text[tur] = 
+# text[tur] = Onunla tartışmaydı bunun ne azamti, ne gücü var?
 
 # sent_id = kdt.tagged.txt:188:2992
 # text = Бірақ Бекболат бұл ойын неге білдірсін?
-# text[tur] = 
+# text[tur] = Fakat Bekbolat bu oyun niye bildirsin?
 
 # sent_id = kdt.tagged.txt:189:3007
 # text = Бірін қалдырмай ұстап әкелді.
-# text[tur] = 
+# text[tur] = Birini ihmal etmemyi neşelendirip geldi.
 
 # sent_id = kdt.tagged.txt:190:3018
 # text = Оны естімедім.
-# text[tur] = 
+# text[tur] = Onu işitmedim.
 
 # sent_id = kdt.tagged.txt:191:3025
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
@@ -2095,47 +2095,47 @@
 
 # sent_id = kdt.tagged.txt:192:3080
 # text = Ақтардың өзін кеше кешке әкелді.
-# text[tur] = 
+# text[tur] = Beyazlarnın kendisini dün akşama  getirdi.
 
 # sent_id = kdt.tagged.txt:193:3093
 # text = Бірақ оның енді не керегі бар? — деді.
-# text[tur] = 
+# text[tur] = fakat onun şimdi ne gereği var ? - dedi.
 
 # sent_id = kdt.tagged.txt:194:3114
 # text = Бүгін, ертең-ақ біліп беремін.
-# text[tur] = 
+# text[tur] = Bugün, yarın bilirim.
 
 # sent_id = kdt.tagged.txt:195:3128
 # text = Бұл алмаса, оны кім алады?
-# text[tur] = 
+# text[tur] = Bu almasa, onu kim alır? 
 
 # sent_id = kdt.tagged.txt:196:3143
 # text = Онысы қандай болып шығады?
-# text[tur] = 
+# text[tur] = onu nedir bulur?
 
 # sent_id = kdt.tagged.txt:197:3154
 # text = Ол үміті болмайды.
-# text[tur] = 
+# text[tur] = o ümidini bulamaz.
 
 # sent_id = kdt.tagged.txt:198:3163
 # text = — О не?
-# text[tur] = 
+# text[tur] = O ne?
 
 # sent_id = kdt.tagged.txt:199:3172
 # text = — Бәрібір, ішіне су құйылған.
-# text[tur] = 
+# text[tur] = Neyse, içine cu koyulmuş.
 
 # sent_id = kdt.tagged.txt:200:3187
 # text = — Мені жауып отыра алмайды.
-# text[tur] = 
+# text[tur] = Beni kapatıp oturamaz.
 
 # sent_id = kdt.tagged.txt:201:3200
 # text = Өзі шала қазақ.
-# text[tur] = 
+# text[tur] = Kendisi kısmi kazak. 
 
 # sent_id = kdt.tagged.txt:202:3209
 # text = Соның қатыны қазақ болатын.
-# text[tur] = 
+# text[tur] = Onun kadını kazak bulan.
 
 # sent_id = kdt.tagged.txt:203:3220
 # text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.
@@ -2147,35 +2147,35 @@
 
 # sent_id = kdt.tagged.txt:205:3272
 # text = Бұ қыз кәпірге дауа жоқ...
-# text[tur] = 
+# text[tur] = Bu kız dinsiz  metot yok...
 
 # sent_id = kdt.tagged.txt:206:3285
 # text = Бекболат жымиып: — Ал, ал, — дей берді.
-# text[tur] = 
+# text[tur] =Bekbolat gülümseyip: — Alın, alın - dedi.
 
 # sent_id = kdt.tagged.txt:207:3310
 # text = — Қыз аман-есен үйіне келіпті, — деді.
-# text[tur] = 
+# text[tur] = Kız sağlıklı-sıhatlı evine keldi, dedi.
 
 # sent_id = kdt.tagged.txt:208:3329
 # text = Бекболат шошып кетті.
-# text[tur] = 
+# text[tur] = Bekbolat korktu.
 
 # sent_id = kdt.tagged.txt:209:3338
 # text = Танытатын жерге әлдеқашан жіберілген.
-# text[tur] = 
+# text[tur] = Tanınmış arsaya zaten gönderilmiş.
 
 # sent_id = kdt.tagged.txt:210:3349
 # text = Бекболат амалсыз тыңдады.
-# text[tur] = 
+# text[tur] = Bekbolat yöntemsiz dinledi.
 
 # sent_id = kdt.tagged.txt:211:3358
 # text = — Біз қайдан білейік?
-# text[tur] = 
+# text[tur] = Biz nedir bileydik?
 
 # sent_id = kdt.tagged.txt:212:3369
 # text = — Мен білмеймін.
-# text[tur] = 
+# text[tur] = Ben bilemem.
 
 # sent_id = kdt.tagged.txt:213:3378
 # text = Осы істен қорыққаннан нашар ауылдар өздері шақырып семіз малын сойып беретін.
@@ -2183,19 +2183,19 @@
 
 # sent_id = kdt.tagged.txt:214:3403
 # text = 52 жыл болды.
-# text[tur] = 
+# text[tur] = 52 yıl oldu.
 
 # sent_id = kdt.tagged.txt:215:3412
 # text = Бір миллион пұт тас көмір тасылған.
-# text[tur] = 
+# text[tur] = Bir milyon put taş kömür taşınılmış.
 
 # sent_id = kdt.tagged.txt:216:3427
 # text = Оларды шығарам деп көп ақшасын алды.
-# text[tur] = 
+# text[tur] = Onları alırım  deyip  birçok parasını aldı.
 
 # sent_id = kdt.tagged.txt:217:3442
 # text = — Жоқ, оны артынан сөйлесерміз...
-# text[tur] = 
+# text[tur] = Yok, onu fazlasından söyleyeceklermiz.
 
 # sent_id = kdt.tagged.txt:218:3457
 # text = Бір пулемет, қанша ат-арба, қанша киім, қанша ақша — баршаларын олжа қылған.
@@ -2207,43 +2207,43 @@
 
 # sent_id = kdt.tagged.txt:220:3527
 # text = — Рас.
-# text[tur] = 
+# text[tur] = Hakikat.
 
 # sent_id = kdt.tagged.txt:221:3534
 # text = Сол аттар баршасы кетті.
-# text[tur] = 
+# text[tur] = Şu atlar tümüsü gitti.
 
 # sent_id = kdt.tagged.txt:222:3545
 # text = — Бұған не айтасың?
-# text[tur] = 
+# text[tur] = Buna ne söyler?
 
 # sent_id = kdt.tagged.txt:223:3556
 # text = 12. Мұнан кейін елге сайлаушы шықты.
-# text[tur] = 
+# text[tur] = 12.bundan sonra ülkede seçilecek çıktı.
 
 # sent_id = kdt.tagged.txt:224:3573
 # text = — Біз қайдан білейік.
-# text[tur] = 
+# text[tur] = Biz nerden bileydik.
 
 # sent_id = kdt.tagged.txt:225:3584
 # text = Ретін табамыз, — деді.
-# text[tur] = 
+# text[tur] = Zamanın buluruz, -dedi.
 
 # sent_id = kdt.tagged.txt:226:3597
 # text = Бекболат Жылтырға жолыққаннан бері бұл әңгімелерге әбден қанған.
-# text[tur] = 
+# text[tur] = Bekbolat parlağa çıkılmışından beri bu hikayelere feci. 
 
 # sent_id = kdt.tagged.txt:227:3616
 # text = Жылтыр: — Е, әбден болады, — деді.
-# text[tur] = 
+# text[tur] = Berrak: - E, feci bulur, -dedi.
 
 # sent_id = kdt.tagged.txt:228:3639
 # text = (Әлдеқашан жіберіліп қойған арыз екенімен жұмысы жоқ).
-# text[tur] = 
+# text[tur] =(Zaten gönderilip koyulmuş şikayet ekimile  çalışma yok).
 
 # sent_id = kdt.tagged.txt:229:3660
 # text = — Е, ол арасы оңай.
-# text[tur] = 
+# text[tur] = -E, o kolay.
 
 # sent_id = kdt.tagged.txt:230:3675
 # text = Ол талай қызды алып қашқан, талайды тастаған, қатын алу, тастау оған тымақ ауыстырып кигенмен бір есеп.
