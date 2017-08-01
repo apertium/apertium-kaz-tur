@@ -2527,7 +2527,7 @@
 
 # sent_id = udhr.tagged.txt:10:391
 # text = Заң алдында жұрттың бәрі тең және де заң арқылы алаланбай, бірдей тең қорғалуға құқылы.
-# text[tur] = Kanun altında yurdunun hepsi eşit ve yasa boyunca...., birce eşit korunmaya hakkına sahib.  
+# text[tur] = Kanun altında yurdunun hepsi eşit ve yasa boyunca ayrımcılıksız, birce eşit korunmaya hakkına sahib.  
 
 # sent_id = udhr.tagged.txt:11:423
 # text = Барлық адам осы Декларацияның ережелерін бұзатын кемсітуден және кемсітуге арандатушылықтың барлық түрінен тең қорғалуға құқылы.
@@ -2535,7 +2535,7 @@
 
 # sent_id = udhr.tagged.txt:12:456
 # text = Ешкім де негізсіз тұтқындалуға, қамауда ұсталуға немесе қуғынға ұшыратылуға тиіс емес.
-# text[tur] = Hiçkimse esassız tutuklamaya,  
+# text[tur] = Hiçkimse esassız tutuklamaya, hapse atmaya veya  kovmaya maruz ...?
 
 # sent_id = udhr.tagged.txt:13:483
 # text = Ешкім де жасаған әрекеті немесе әрекетсіздігі негізінде, егер ол әрекеті ұлттық заңдар мен халықаралық құқық бойынша қылмыс болып саналмаса, жауапқа тартылмайды.
@@ -2543,15 +2543,16 @@
 
 # sent_id = udhr.tagged.txt:14:531
 # text = Әр адамның азаматтыққа құқығы бар.
-# text[tur] = 
+# text[tur] = Her insanın vatandaşlığa yetkisi var.
 
 # sent_id = udhr.tagged.txt:15:544
 # text = Ешкімді де азаматтығынан немесе азаматтығын өзгерту құқығынан еріксіз айыруға болмайды.
-# text[tur] = 
+# text[tur] = Hiç kimseyi vatandaşlığından veya vatandaşlığın değişiklik yetkisinden iradesiz yabancılaştırma olmadı. 
 
 # sent_id = udhr.tagged.txt:16:566
 # text = Неке, тек екі жақтың өзара еркін және толық келісімі бойынша ғана қиылады.
-# text[tur] = 
+# text[tur] = Nikah, fakat iki tarafın karşılıklı bağımsız ve mutlak anlaşmaya ....boyunca yeterince kesildi.?
+
 
 # sent_id = udhr.tagged.txt:17:594
 # text = Отбасы қоғамның табиғи және негізгі ұясы болып табылады, және қоғам мен мемлекет тарапынан қорғалуға құқылы.
@@ -2559,19 +2560,19 @@
 
 # sent_id = udhr.tagged.txt:18:629
 # text = Ешкім де өз мүлкінен еріксіз айрылмауға тиіс.
-# text[tur] = 
+# text[tur] = Hiç kimsede mülkünden iradesiz kaybetmemeye lazım.
 
 # sent_id = udhr.tagged.txt:19:645
 # text = Әр адамның бейбіт жиналыстар және ассоциацияларды құру бостандығына құқығы бар.
-# text[tur] = 
+# text[tur] = Her insan huzurlu meclisler ve dernekler kurma özgürlüğüne yetkisi var.
 
 # sent_id = udhr.tagged.txt:20:668
 # text = Ешкімді де белгілі бір ассоциацияға зорлықпен кіргізуге болмайды.
-# text[tur] = 
+# text[tur] = Hiç kimsede belirli bir derneğe şiddetle yazamaya olmuyor.
 
 # sent_id = udhr.tagged.txt:21:686
 # text = Ана және нәресте болу жағдайы айрықша қамқорлық пен көмек алуға құқық береді.
-# text[tur] = 
+# text[tur] = Ana ve bebek olma şartı ekstra dikkat ve infak  almaya yetki veriyor. 
 
 # sent_id = udhr.tagged.txt:22:713
 # text = Балалардың бәрі, некелі немесе некесіз туған, бірдей әлеуметтік қорғауды пайдаланады.
@@ -2579,15 +2580,15 @@
 
 # sent_id = udhr.tagged.txt:23:740
 # text = Әр адамның білім алуға құқығы бар.
-# text[tur] = 
+# text[tur] = Her insanın bilim hukuku var.
 
 # sent_id = udhr.tagged.txt:24:755
 # text = Бастауыш білім баршаға міндетті болуы тиіс.
-# text[tur] = 
+# text[tur] = Ana bilim bütüne zorunlu olması lazım
 
 # sent_id = udhr.tagged.txt:25:770
 # text = Ата-аналардың өздерінің жас балаларына білім беру түрін таңдауда құқығы басымды.
-# text[tur] = 
+# text[tur] = Ata-anaların kendilerinin genç evlatlarına bilim verme türünü seçmede yetkisi üstün. 
 
 # sent_id = udhr.tagged.txt:26:793
 # text = Осы бостандықтар мен құқықтарды жүзеге асырылуы Біріккен Ұлттар мақсаттары мен қағидаларына қайшы келмеуі тиіс.
