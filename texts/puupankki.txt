@@ -2391,7 +2391,7 @@
 
 # sent_id = kdt.tagged.txt:266:4346
 # text = Ауылдан кісі қатынасатын кезі болса керек еді.
-# text[tur] = 
+# text[tur] = Köyden kişi  anaı olsa gereti.?...?
 
 # sent_id = kdt.tagged.txt:267:4363
 # text = Бекболат ептеп кіріп, босаға жақтағы бос орындыққа отырып, әңгімеге құлағын тікті.
@@ -2403,7 +2403,7 @@
 
 # sent_id = kdt.tagged.txt:269:4407
 # text = Елді жеумен, нашардың қанын сорумен, солардың еңбегімен бай болады.
-# text[tur] = 
+# text[tur] = ülkeyi yemeyle,zayıfın kanını emmeyle, şunların emekiyle zengin oluyor.
 
 # sent_id = kdt.tagged.txt:270:4432
 # text = Меніңше оның көзін жою керек.
@@ -2419,7 +2419,7 @@
 
 # sent_id = kdt.tagged.txt:273:4467
 # text = Жастарды мадақтай, бірлікке шақыра, дәнекер бола сөйледі.
-# text[tur] = 
+# text[tur] = gençleri övgüce, birliğe çağrark, temsilci olarak söyledi.
 
 # sent_id = kdt.tagged.txt:274:4488
 # text = Ашылмайтын жөні бар.
@@ -2443,7 +2443,7 @@
 
 # sent_id = kdt.tagged.txt:279:4569
 # text = Неліктен оның сұлу қызға құмар боп жүргенін кейін естірсіз.
-# text[tur] = 
+# text[tur] = Neden onun güzel kıza tutku olduğunu sonra söyleyin.
 
 # sent_id = kdt.tagged.txt:280:4590
 # text = Әзір түсін ашпай тұра тұрайық.
@@ -2467,7 +2467,7 @@
 
 # sent_id = kdt.tagged.txt:285:4699
 # text = Сенат депутаттарын сайлау кезінде таңдаушылардың тізімдері жасалады.
-# text[tur] = 
+# text[tur] = Senato Milletvekilerini seçme anaında seçileceklerin listeleri yapılıyor.
 
 # sent_id = kdt.tagged.txt:286:4716
 # text = Нақтылы сайлау учаскесінде азаматты сайлаушылар тізіміне енгізу үшін оның осы сайлау учаскесінің аумағында тұрғылықты жері бойынша тіркелу фактісі негіз болады.
@@ -2475,7 +2475,7 @@
 
 # sent_id = kdt.tagged.txt:287:4759
 # text = Сайлаушылар тізімі әліпби тәртібімен немесе өзге тәртіппен жасалады.
-# text[tur] = 
+# text[tur] = Seçilecekler listesi alfabe tertibile veya öbür tertiple yapılıyor.
 
 # sent_id = kdt.tagged.txt:288:4778
 # text = Сайлаушылардың тұрғылықты жері бойынша тізімін тиісті жергілікті атқарушы орган халықты есепке алуды жүзеге асыратын органдар ұсынған мәліметтердің негізінде жасайды.
@@ -2483,15 +2483,15 @@
 
 # sent_id = Радиан.tagged.txt:1:0
 # text = Радианның басқа да бірліктермен байланысы.
-# text[tur] = 
+# text[tur] = Radyanın başka da birimlerile bağlantısı.
 
 # sent_id = Радиан.tagged.txt:2:11
 # text = Радианның басқа да бұрышты өлшеу бірліктерімен арақатынасы мына формуламен сипатталады:
-# text[tur] = 
+# text[tur] =Radyanın başka da açı boyut birimlerile oranı bu förmüle niteledi.
 
 # sent_id = udhr.tagged.txt:1:0
 # text = Барлық адамдар тумысынан азат және қадір-қасиеті мен құқықтары тең болып дүниеге келеді.
-# text[tur] = 
+# text[tur] = Bütün insanlar doğuştan serbest ve onur-husuiyet ve yetkileri denk olup dünyaya geliyor.
 
 # sent_id = udhr.tagged.txt:2:26
 # text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
@@ -2507,15 +2507,15 @@
 
 # sent_id = udhr.tagged.txt:5:256
 # text = Әр адам өмір сүруге, бостандықта болуға және оның жеке басына қол сұғылмауына құқылы.
-# text[tur] = 
+# text[tur] = Her insan yaşmaya, özgürlükte ve onun kişilikine  dokunulmazlık hakına sahip.
 
 # sent_id = udhr.tagged.txt:6:287
 # text = Ешкім де құлдықта немесе кіріптарлықта ұсталуы тиіс емес.
-# text[tur] = 
+# text[tur] = Hiç kimse de esarette ve bağımlılıkta bağlanması lazım değil.  
 
 # sent_id = udhr.tagged.txt:7:305
 # text = Құлдық пен құл саудасына, қандай түрде болса да, тыйым салынады.
-# text[tur] = 
+# text[tur] = Kölelik ve kul ticaretinde, hangi türde olsa da ,yasaklnıyor. 
 
 # sent_id = udhr.tagged.txt:8:331
 # text = Ешкім де азапталуға немесе қадір-қасиетін қорлайтындай адамшылыққа жатпайтын қатыгездік жолмен жәбірленуге, немесе жазалануға тиіс емес.
@@ -2523,11 +2523,11 @@
 
 # sent_id = udhr.tagged.txt:9:365
 # text = Әр адам қай жерде жүрсе де, құқықтық субъектісі ретінде танылуына құқылы.
-# text[tur] = 
+# text[tur] = Her adam ne yerde yürse de, hukuki konusu  vaktinde tanılmasına hakına sahip.
 
 # sent_id = udhr.tagged.txt:10:391
 # text = Заң алдында жұрттың бәрі тең және де заң арқылы алаланбай, бірдей тең қорғалуға құқылы.
-# text[tur] = 
+# text[tur] = Kanun altında yurdunun hepsi eşit ve yasa boyunca...., birce eşit korunmaya hakkına sahib.  
 
 # sent_id = udhr.tagged.txt:11:423
 # text = Барлық адам осы Декларацияның ережелерін бұзатын кемсітуден және кемсітуге арандатушылықтың барлық түрінен тең қорғалуға құқылы.
@@ -2535,7 +2535,7 @@
 
 # sent_id = udhr.tagged.txt:12:456
 # text = Ешкім де негізсіз тұтқындалуға, қамауда ұсталуға немесе қуғынға ұшыратылуға тиіс емес.
-# text[tur] = 
+# text[tur] = Hiçkimse esassız tutuklamaya,  
 
 # sent_id = udhr.tagged.txt:13:483
 # text = Ешкім де жасаған әрекеті немесе әрекетсіздігі негізінде, егер ол әрекеті ұлттық заңдар мен халықаралық құқық бойынша қылмыс болып саналмаса, жауапқа тартылмайды.
