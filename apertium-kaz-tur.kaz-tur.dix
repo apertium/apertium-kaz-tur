@@ -97,6 +97,8 @@
     <sdef n="rpar"            c="Right parenthesis"/>
     <sdef n="lquot"           c="Left quote"/>
     <sdef n="rquot"           c="Right quote"/>
+   
+
 
   </sdefs>
 
@@ -163,6 +165,8 @@
      <e><p><l>бойы<s n="post"/></l><r>dolu<s n="post"/></r></p></e>
      <e><p><l>басқа<s n="post"/></l><r>başka<s n="post"/></r></p></e>
      <e><p><l>кейін<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
+<e r="LR"><p><l></l><r>ғана<s n="postadv"/></r></p></e>
+<e r="LR"><p><l></l><r>ма<s n="qst"/></r></p></e>
 
      <!-- SECTION: Pronouns -->
 
@@ -203,6 +207,7 @@
      <e><p><l>нәрсе<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>не<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>қандай<s n="prn"/><s n="itg"/></l><r>nedir<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>кім<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>кім<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>қайсы<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
 
@@ -211,6 +216,7 @@
      <e><p><l>мына<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
+
  
      <!-- SECTION: Determiners -->      
 
@@ -275,6 +281,7 @@
 <e><p><l>арақатынас<s n="n"/></l><r>oran<s n="n"/></r></p></e>
 <e><p><l>ой<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
 <e><p><l>ой<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
+<e><p><l>орысша<s n="n"/></l><r>rusça<s n="n"/></r></p></e>
 <e><p><l>қамқорлық<s n="n"/></l><r>dikkat<s n="n"/></r></p></e>
 <e><p><l>көмек<s n="n"/></l><r>infak<s n="n"/></r></p></e>
 <e><p><l>Бастауыш<s n="n"/></l><r>ana<s n="n"/></r></p></e>
@@ -5309,6 +5316,7 @@
      <e><p><l>құнды<s n="adj"/></l><r>kadir<s n="adj"/></r></p></e>
      <e><p><l>құр<s n="adj"/></l><r>kurak<s n="adj"/></r></p></e>
      <e><p><l>құр<s n="adj"/></l><r>kuru<s n="adj"/></r></p></e>
+<e><p><l>қуанышты<s n="adj"/></l><r>mutlu<s n="adj"/></r></p></e>
      <e><p><l>құрғақ<s n="adj"/></l><r>kurak<s n="adj"/></r></p></e>
      <e><p><l>құрғақ<s n="adj"/></l><r>kuru<s n="adj"/></r></p></e>
      <e><p><l>күрделі<s n="adj"/></l><r>bileşik<s n="adj"/></r></p></e>
@@ -5709,6 +5717,7 @@
      <e><p><l>аяқта<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>бағала<s n="v"/><s n="tv"/></l><r>fiyatla<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>байла<s n="v"/><s n="tv"/></l><r>bağla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>Қал<s n="v"/><s n="tv"/></l><r>hal<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бақ<s n="v"/><s n="tv"/></l><r>besle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>есті<s n="v"/><s n="tv"/></l><r>işit<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>килік<s n="v"/><s n="tv"/></l><r>geç<s n="v"/><s n="tv"/></r></p></e>
@@ -5915,6 +5924,7 @@
      <e><p><l>сүй<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sor<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сыйла<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
+<e r="RL"><p><l></l><r>ал<s n="vaux"/></r></p></e>
      <e><p><l>сын<s n="v"/><s n="iv"/></l><r>sın<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>сына<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сына<s n="v"/><s n="tv"/></l><r>sına<s n="v"/><s n="tv"/></r></p></e>
@@ -6031,6 +6041,7 @@
      <e><p><l>иә<s n="ij"/></l><r>evet<s n="ij"/></r></p></e>
      <e><p><l>өтінем<s n="ij"/></l><r>lütfen<s n="ij"/></r></p></e>
 <e><p><l>иә<s n="ij"/></l><r>evet<s n="ij"/></r></p></e>
+<e><p><l>рақмет<s n="ij"/></l><r>teşekkürler<s n="ij"/></r></p></e>
      <!-- SECTION: Abbreviations -->
 
      <e r="LR"><p><l>ж.<s n="abbr"/></l><r>yıl<s n="n"/><s n="nom"/></r></p></e>
@@ -6405,7 +6416,7 @@
 <e><p><l>жақ<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
 <e><p><l>жақ<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
 <e><p><l>жақсы<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
-<e><p><l>жақсы<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
+
 <e><p><l>жақсы<s n="adv"/></l><r>epey<s n="adv"/></r></p></e>
 <e><p><l>жалақы<b/>көлем<s n="n"/></l><r>maaş<s n="n"/></r></p></e>
 <e><p><l>жалғас<s n="n"/></l><r>devam<s n="n"/></r></p></e>

@@ -2551,7 +2551,7 @@
 
 # sent_id = udhr.tagged.txt:16:566
 # text = Неке, тек екі жақтың өзара еркін және толық келісімі бойынша ғана қиылады.
-# text[tur] = Nikah, fakat iki tarafın karşılıklı bağımsız ve mutlak anlaşmaya ....boyunca yeterince kesildi.?
+# text[tur] = Nikah, fakat iki tarafın karşılıklı bağımsız ve mutlak anlaşmsı yanlız  kesiliyor.
 
 
 # sent_id = udhr.tagged.txt:17:594
@@ -2576,7 +2576,7 @@
 
 # sent_id = udhr.tagged.txt:22:713
 # text = Балалардың бәрі, некелі немесе некесіз туған, бірдей әлеуметтік қорғауды пайдаланады.
-# text[tur] = 
+# text[tur] = Evlatların hepsi, nikahlı veya nikahsız doğan, birce asosyal korumayı kullanıyor.
 
 # sent_id = udhr.tagged.txt:23:740
 # text = Әр адамның білім алуға құқығы бар.
@@ -2596,27 +2596,27 @@
 
 # sent_id = wikitravel.tagged.txt:1:0
 # text = Қалыңыз қалай?
-# text[tur] = 
+# text[tur] = Nasılsınız?
 
 # sent_id = wikitravel.tagged.txt:2:6
 # text = Рақмет, жақсы.
-# text[tur] = 
+# text[tur] = Teşekkürler, iyi.
 
 # sent_id = wikitravel.tagged.txt:3:15
 # text = Сіздің атыңыз кім?
-# text[tur] = 
+# text[tur] = Sizin adınız ne?
 
 # sent_id = wikitravel.tagged.txt:4:24
 # text = Сізбен танысқаныма қуаныштымын.
-# text[tur] = 
+# text[tur] = Sizinile tanıştığma mutluyum.
 
 # sent_id = wikitravel.tagged.txt:5:34
 # text = Мен Қазақ тілінде жақсы сөйлей алмаймын.
-# text[tur] = 
+# text[tur] = Ben Kazak dilinde iyi konuşamıyorum.
 
 # sent_id = wikitravel.tagged.txt:6:49
 # text = Сіз орысша сөйлейсіз бе?
-# text[tur] = 
+# text[tur] = Siz rusça konuşabilir misiniz?
 
 # sent_id = wikitravel.tagged.txt:7:59
 # text = Осында орыс тілінде сөйлейтін адам бар ма?
