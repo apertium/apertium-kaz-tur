@@ -2620,131 +2620,131 @@
 
 # sent_id = wikitravel.tagged.txt:7:59
 # text = Осында орыс тілінде сөйлейтін адам бар ма?
-# text[tur] = 
+# text[tur] =  Şurda rus dilinde konuşan insan var mı ?
 
 # sent_id = wikitravel.tagged.txt:8:75
 # text = Мен түсінбеймін.
-# text[tur] = 
+# text[tur] = Ben analayamadım.
 
 # sent_id = wikitravel.tagged.txt:9:82
 # text = Дәретхана қайда екен?
-# text[tur] = 
+# text[tur] = Tuvalet nerdeymiş?
 
 # sent_id = wikitravel.tagged.txt:10:91
 # text = Мен полицияны шақырамын.
-# text[tur] = 
+# text[tur] = Ben polisi çağrırım.
 
 # sent_id = wikitravel.tagged.txt:11:100
 # text = Ұрыны ұстаңдар.
-# text[tur] = 
+# text[tur] = Hırsızı yakalayın.
 
 # sent_id = wikitravel.tagged.txt:12:107
 # text = Маған көмек керек.
-# text[tur] = 
+# text[tur] = Bana yardım kerek.
 
 # sent_id = wikitravel.tagged.txt:13:116
 # text = Мен адасып кеттім.
-# text[tur] = 
+# text[tur] = Ben kaybettim.
 
 # sent_id = wikitravel.tagged.txt:14:125
 # text = Мен сөмкемді жоғалтып алдым.
-# text[tur] = 
+# text[tur] = Ben çantamı küçülttüm.
 
 # sent_id = wikitravel.tagged.txt:15:136
 # text = Мен әмиянімді жоғалтып алдым.
-# text[tur] = 
+# text[tur] = Ben cüzdanımı küçülttüm.
 
 # sent_id = wikitravel.tagged.txt:16:147
 # text = Мен ауырып тұрмын.
-# text[tur] = 
+# text[tur] = ben acıyorum.
 
 # sent_id = wikitravel.tagged.txt:17:156
 # text = Мен жаралымын.
-# text[tur] = 
+# text[tur] = Ben yaralıyım.
 
 # sent_id = wikitravel.tagged.txt:18:164
 # text = Маған дәрігер керек.
-# text[tur] = 
+# text[tur] = Bana doktor gerek
 
 # sent_id = wikitravel.tagged.txt:19:173
 # text = Сізден қоңырау шалуға бола ма?
-# text[tur] = 
+# text[tur] = Sizden çağırmaya olur mu?
 
 # sent_id = wikitravel.tagged.txt:20:185
 # text = Астанаға билет қанша тұрады?
-# text[tur] = 
+# text[tur] = Astanaya bilet 
 
 # sent_id = wikitravel.tagged.txt:21:196
 # text = Астанаға бір билет беріңіз.
-# text[tur] = 
+# text[tur] = Astanya bir bilet veriniz.
 
 # sent_id = wikitravel.tagged.txt:22:207
 # text = Мына пойыз қайда барады?
-# text[tur] = 
+# text[tur] = Bu tren nereye gidiyor?
 
 # sent_id = wikitravel.tagged.txt:23:218
 # text = Астанаға баратын пойыз қайда?
-# text[tur] = 
+# text[tur] =Astanaya giden tren nerde? 
 
 # sent_id = wikitravel.tagged.txt:24:229
 # text = Мына автобус Астанаға тоқтай ма?
-# text[tur] = 
+# text[tur] = Bu otobüs Astana'ya devam ediyorm mu?
 
 # sent_id = wikitravel.tagged.txt:25:241
 # text = Пойыз Астанаға қашан шығады?
-# text[tur] = 
+# text[tur] = Tern Astana'ya ne zaman çıkıyor?
 
 # sent_id = wikitravel.tagged.txt:26:252
 # text = Мына пойыз Астанаға қашан жетеді?
-# text[tur] = 
+# text[tur] = Bu tren Astana'ya ne zaman gidiyor?
 
 # sent_id = wikitravel.tagged.txt:27:265
 # text = Сіз кітапхананы картадан көрсете аласыз ба?
-# text[tur] = 
+# text[tur] = Siz kütühanyı haritadan göstere bilir misiniz?
 
 # sent_id = wikitravel.tagged.txt:28:279
 # text = Сізде бос бөлмелер бар ма?
-# text[tur] = 
+# text[tur] = Sizde boş odalar var mı?
 
 # sent_id = wikitravel.tagged.txt:29:291
 # text = Екі адамға бөлме қанша тұрады?
-# text[tur] = 
+# text[tur] = İki adama oda ne kadar duruyor?
 
 # sent_id = wikitravel.tagged.txt:30:304
 # text = Осы бөлмеде төсек жайма бар ма?
-# text[tur] = 
+# text[tur] = Şu odada çarçaf var mı?
 
 # sent_id = wikitravel.tagged.txt:31:318
 # text = Маған алдымен бөлмені қарап шығуға бола ма?
-# text[tur] = 
+# text[tur] = Bana önceden odayı görsterme olur mu ?
 
 # sent_id = wikitravel.tagged.txt:32:334
 # text = Сізде бірдеме тазалау бар ма?
-# text[tur] = 
+# text[tur] = Sizde birşey temizleme var mı ?
 
 # sent_id = wikitravel.tagged.txt:33:346
 # text = Сіз басқа қонақ үйді ұсына аласыз ба?
-# text[tur] = 
+# text[tur] = siz başka oteli gösterir misiniz?
 
 # sent_id = wikitravel.tagged.txt:34:362
 # text = Сізде сейф бар ма?
-# text[tur] = 
+# text[tur] = Sizde kasa var mı ?
 
 # sent_id = wikitravel.tagged.txt:35:372
 # text = Таңғы ас енгізілген бе?
-# text[tur] = 
+# text[tur] = Kahvaltı içerildi mi?
 
 # sent_id = wikitravel.tagged.txt:36:382
 # text = Өтінемін, менің бөлмемді жинаңыз.
-# text[tur] = 
+# text[tur] = Lütfen, benim odamı toparlayınız.
 
 # sent_id = wikitravel.tagged.txt:37:395
 # text = Мынау қанша тұрады?
-# text[tur] = 
+# text[tur] = Bu ne kadar?
 
 # sent_id = wikitravel.tagged.txt:38:404
 # text = Тіпті қымбат қой!
-# text[tur] = 
+# text[tur] = çok pahalı!
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:1:0
 # text = Балаларды оқытқан да жақсы, бірақ құлшылық қыларлық қана, түркі танырлық қана таза оқытса болады.
