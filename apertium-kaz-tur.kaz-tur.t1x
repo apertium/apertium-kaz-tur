@@ -35,11 +35,16 @@
       <cat-item tags="vaux.ifi.*"/>
     </def-cat>
 
+<def-cat n="pres">
+      <cat-item tags="vaux.pres.*"/>
+    </def-cat>
+
 
 <def-cat n="yat_pres">
 <cat-item lemma="жат" tags="vaux.pres.*"/>
 <cat-item lemma="тұр" tags="vaux.pres.*"/>
 <cat-item lemma="жүр" tags="vaux.pres.*"/>
+
 </def-cat>
 
  <def-cat n="otyr_pres">
@@ -124,6 +129,8 @@
         </out>
       </action>
     </rule>
+
+
 
 
   <rule comment="REGLA: AOR">
@@ -258,6 +265,65 @@
 <rule comment="REGLA: ifi">
        <pattern>
         <pattern-item n="ifi"/>    
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="pres"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="whole"/><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: pres">
+       <pattern>
+        <pattern-item n="pres"/>    
       </pattern>
       <action>
         <let>

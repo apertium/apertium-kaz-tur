@@ -132,7 +132,7 @@
 
 # sent_id = akorda-random.tagged.txt:32:564
 # text = Біз қазір мемлекет дамуының жаңа үлгісін әзірлеп жатырмыз.
-# text[tur] = Biz şuan devlet gelişiminin yeni modelini geliştiriyoruz.
+# text[tur] = Biz şuan devlet gelişiminin yeni modelini hazırlıyorz.
 
 # sent_id = akorda-random.tagged.txt:33:583
 # text = Осының бәрі терең құрметке лайық.
@@ -144,7 +144,7 @@
 
 # sent_id = akorda-random.tagged.txt:35:613
 # text = Алматы облысы – еліміздің халық тығыз топтасқан өңірлерінің бірі.
-# text[tur] = Almatı bölgesi - ülkemizin  nüfüs sık yoğunlaşan bölgelerinin biri.
+# text[tur] = Almatı bölgesi - ülkemizin  nüfüs sık yoğunlaşmış bölgelerinin biri.
 
 # sent_id = akorda-random.tagged.txt:36:634
 # text = Осы оқиғаларды үлкен өкінішпен бақылап отырмын.
@@ -2748,7 +2748,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:1:0
 # text = Балаларды оқытқан да жақсы, бірақ құлшылық қыларлық қана, түркі танырлық қана таза оқытса болады.
-# text[tur] = 
+# text[tur] = Evlatları okutduk da güzel, fakat kölelik yaptıracak yeterince, türki bilecek saf okutsa oluyor.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:2:31
 # text = Аның үшін бұл жер Дар-әл-Харб, мұнда әуел мал табу керек, онан соң ғараб, парсы керек.
@@ -2756,27 +2756,28 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:3:70
 # text = Қарны аш кісінің көңіліне ақыл, бойында ар, ғылымға құмарлық қайдан тұрсын?
-# text[tur] = 
+# text[tur] = Midesi aç kişinin iradesine akıl, yapısında vicdan, ilime hırs nerdeden olsun?
+
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:4:99
 # text = Мал тапса, қарын тояды.
-# text[tur] = 
+# text[tur] = Mal bulsa, karın doydu.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:5:112
 # text = Онан соң білім түгіл өнер керек екен.
-# text[tur] = 
+# text[tur] = Ondan sonra bilim ve sanat gerekmiş.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:6:129
 # text = Соны үйренейін, не балама үйретейін деп ойына жақсы түседі.
-# text[tur] = 
+# text[tur] = şunu öğreneyim, ne evladıma öğreteyim deyip idasına epey yararı oluyor.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:7:152
 # text = Орысша оқу керек, хикмет те, мал да, өнер де, ғылым да — бәрі орыста тұр.
-# text[tur] = 
+# text[tur] = Rusça eğitim gerek, akıl da, mal da, sanat te, ilim de - hepsi rusta var.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:8:189
 # text = Зарарынан қашық болуға, пайдасына ортақ болуға тілін, оқуын, ғылымын білмек керек.
-# text[tur] = 
+# text[tur] = Zararından uzak olmaya, faydasına ortak olmaya dilini, okumasını, ilimini bilmek gerek.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:9:220
 # text = Аның үшін олар дүниенің тілін білді, мұндай болды.
@@ -2784,7 +2785,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:10:241
 # text = Сен оның тілін білсең, көкірек-көзің ашылады.
-# text[tur] = 
+# text[tur] = Sen onun dilini bilsen, göğüs-gözün açılır.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:11:262
 # text = Әрбіреудің тілін өнерін білген кісі соныменен бірдейлік дағуасына кіреді, аса арсыздана жалынбайды.
@@ -2792,7 +2793,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:12:291
 # text = Дінге де жақсы — білгендік.
-# text[tur] = 
+# text[tur] =Dinde güzel- bilmiştik. 
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:13:303
 # text = Жорғалықпенен көңілін алсам екен деген надан әке-шешесін, ағайын-жұртын, дінін адамшылығын жаурыннан бір қаққанға сатады.
@@ -2800,19 +2801,19 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:14:336
 # text = Тек майырдың күлгені керек деп, көзі ашылса да қам жемейді.
-# text[tur] = 
+# text[tur] =Tek memurun güldüğü gerek diyip, gözü açılsa da gam yemez. 
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:15:360
 # text = Орыстың ғылымы, өнері — дүниенің кілті, оны білгенге дүние арзанырақ түседі.
-# text[tur] = 
+# text[tur] = Rusun ilimi, sanatı — dünyanın anahtarı, onu bildiğine dünya daha ucuz oluyor.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:16:389
 # text = Ләкин осы күнде орыс ғылымын баласына үйреткен жандар соның қаруымен тағы қазақты аңдысам екен дейді.
-# text[tur] = 
+# text[tur] = Fakat şu günde Rus ilimini evlatına öğrettik yanlar şunun gücüyle daha kazak aşısamış diyor ...?
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:17:420
 # text = Жоқ, олай ниет керек емес.
-# text[tur] = 
+# text[tur] = Hayır, öyle niyet gerekli değil.....?again translate
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:18:435
 # text = Қазаққа күзетші болайын деп, біз де ел болып, жұрт білгенді біліп, жұрт қатарына қосылудың қамын жейік деп ниеттеніп үйрену керек.
@@ -2820,27 +2821,28 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:19:483
 # text = Қазірде орыстан оқыған балалардан артық жақсы кісі шыға алмай да тұр.
-# text[tur] = 
+# text[tur] = Şimdi Rustan okumuş evlatlardan artık iyi kişi çıkarark 
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:20:507
 # text = Себебі: ата-анасы, ағайын-туғаны бір жағынан бұзып жатыр.
-# text[tur] = 
+# text[tur] = Sebebi: ata-anası, akraba-doğum günü bir yönünden bozuyor.
+
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:21:528
 # text = Сөйтсе де осы оқыған балалар — ана оқымаған қазақ балаларынан үздік, озық.
-# text[tur] = 
+# text[tur] = Ancak şu okumuş evlatlar - ana okumamış kazak evlatlarından mükkemel, yenilikçi.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:22:557
 # text = Не қылса да сөзді ұқтырса болады оларға.
-# text[tur] = 
+# text[tur] = Ne yapsa da sözü açıklasa oluyor onlara.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:23:573
 # text = Жақсы атаның балалары да көп оқыған жоқ, қайта кедейдің баласын орысқа қорлап берді.
-# text[tur] = 
+# text[tur] = İyi babanın evlatları çok okumadı, gene muhtaçın evladını rusa aşağıladı.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:24:601
 # text = Олар осыдан артық қайда барсын?
-# text[tur] = 
+# text[tur] = Onlar şundan artık nerde alsın?
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:25:614
 # text = Және де кейбір қазақтар ағайынымен араздасқанда: “Сенің осы зорлығыңа көнгенше, баламды солдатқа беріп, басыма шаш, аузыма мұрт қойып кетпесем бе!” деуші еді.
@@ -2852,15 +2854,15 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:27:708
 # text = Сонда да өзге қазақ балаларынан артық үйренгені немене, қай кеп үйреніпті?
-# text[tur] = 
+# text[tur] = Şunda da öbür kazak evlatlarından artık öğrendiği ne, hangisi öğretti?
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:28:735
 # text = Кірді, шықты, ілді, қайтты, түбегейлеп қуған бала да жоқ.
-# text[tur] = 
+# text[tur] = girdi, çıktı, astı, dödü, ..... kovaladı evlat da yok.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:29:763
 # text = Әкесі ел ақшасыменен оқығанға әрең оқытады, өз малын не қылып шығарсын?
-# text[tur] = 
+# text[tur] =Babası  
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:30:790
 # text = Турасын ойлағанда, балаңа қатын әперме, енші берме, барыңды салсаң да, орыстың ғылымын үйрет!
