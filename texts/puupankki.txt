@@ -2858,7 +2858,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:28:735
 # text = Кірді, шықты, ілді, қайтты, түбегейлеп қуған бала да жоқ.
-# text[tur] = girdi, çıktı, astı, dödü, ..... kovaladı evlat da yok.
+# text[tur] = girdi, çıktı, astı, döndü, hakıyla kovaladık evlat da yok.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:29:763
 # text = Әкесі ел ақшасыменен оқығанға әрең оқытады, өз малын не қылып шығарсын?
@@ -2870,15 +2870,15 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:31:826
 # text = Мына мен айтқан жол — мал аяр жол емес.
-# text[tur] = 
+# text[tur] = Bu ben söyledik yol- sığır acıyacak yol değil...?
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:32:847
 # text = Құдайдан қорық, пендеден ұял, балаң бала болсын десең — оқыт, мал аяма!
-# text[tur] = 
+# text[tur] = Tanrıdan kork, insandan utan, evladın evlat olsun desen- okut, mal acıma! 
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:33:880
 # text = Әйтпесе, бір ит қазақ болып қалған соң, саған рақат көрсетер, өзі рақат көрер ме, яки жұртқа рақат көрсетер?
-# text[tur] = 
+# text[tur] = Yoksa, bir köpek kazak olmuş son
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:1:0
 # text = Футболдан әлем чемпионаты 2014 — ФИФА-ның 20-шы футболдан әлем чемпионаты, финалдық кезеңі 2014 жылдың 12 маусым мен 13 шілде күндері аралығында Бразилияда өтті.
@@ -2886,7 +2886,7 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:2:50
 # text = Ашылу матчы Сан-Паулуда, ал финалы Рио-де-Жанейродағы Маракана стадионында орын алды.
-# text[tur] = 
+# text[tur] = Açılış maçı Sao Paulo da, sırasında finalı Rio de Janeiroda Maracana stadyumunda yer aldı.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:3:75
 # text = Әлем чемпионаттары үшін құрлықтарды ротациялау қағидасына байланысты, 2014 жылдың чемпионаты Оңтүстік Америкада өту керек болды және Бразилия сол чемпионатты өткізуге ниет білдірген жалғыз ғана ел еді.
@@ -2894,11 +2894,11 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:4:131
 # text = Қалған оңтүстік америкалық елдер 2003 жылы Бразилия үміткерлігін қолдаған.
-# text[tur] = 
+# text[tur] = Kalmış güney amerikan ülkeler 2003 yılı Brezilya adaylıkını korumuş.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:5:152
 # text = Кейінірек ФИФА ротация принципі өзгеретінін жариялады.
-# text[tur] = 
+# text[tur] = Sonradan FIFA dönüş prensipi değiştiren yayınladı.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:6:167
 # text = Енді 2018 жылдың чемпионатын өткізу құқығына қатысатын кандидаттар додасына, соңғы екі чемпионатты (КАФ және КОНМЕБОЛ) өткізген елдерден басқа, барлық конфедерациялардан елдер сынға түседі.
@@ -2910,71 +2910,73 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:8:267
 # text = Осыған дейін Бразилияда футболдан әлем чемпионаты 1950 жылы өткен болатын.
-# text[tur] = 
+# text[tur] = Şuna dek Brezilya'da futboldan evren şampiyonası 1950 yılı ettik #ol..?
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:9:290
 # text = ӘЧ-2014 іріктеу айналымы 2011 жылдың маусым айында басталып, 2013 жылдың қараша айында аяқталды.
-# text[tur] = 
+# text[tur] = Dünya Şampiyonası-2014 eleme turu 2011 yılın Haziran ayında başlanıp, 2013 yılın Kasım ayında bitrildi.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:10:325
 # text = Бразилия қабылдаушы ел ретінде автоматты түрде чемпионат қатысушысы болды.
-# text[tur] = 
+# text[tur] = Brezilya konukçu ülke olarak otomatik türde şampiyona üyesi oldu. "disam problem"
+
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:11:346
 # text = Барлық сегіз топтың жеңімпаздары мен екінші орын алған командалар 1 / 8 финалға шығады.
-# text[tur] = 
+# text[tur] = Fakat sekiz gurubun kazananları ve ikinci yeri alan ekipler 1 / 8 finaline çıkıyor.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377
 # text = Командалардың турнирлік кестедегі орны келесі көрсеткіштер бойынша анықталады:
-# text[tur] = 
+# text[tur] = Ekiplerin/Ekiplerin turnuva tablodaki yeri sonraki kılavuzlar boyunca tanımlanıyor:
 
 # sent_id = Иран.tagged.txt:1:0
 # text = Иран (1935 жылға дейін Парсы елі), Иран Ислам Республикасы — Азияның оңтүстік-батыс бөлігінде орналасқан мемлекет.
-# text[tur] = 
+# text[tur] = Iran (1935 yıla dek Acem ülkesi), Iran Islam Cumhuriyeti — Asya'nın güney-batı bölgesinde konaklamış memleket.
 
 # sent_id = Иран.tagged.txt:2:38
 # text = Жер көлемі 1,648 млн. км².
-# text[tur] = 
+# text[tur] = Yer hacimi 1,648 milyon. km².
 
 # sent_id = Иран.tagged.txt:3:51
 # text = Халқы 65,2 млн. адам (1999).
-# text[tur] = 
+# text[tur] = Halkı 65,2 milyon. adam (1999).
 
 # sent_id = Иран.tagged.txt:4:68
 # text = Халқының ұлттық құрамы: парсылар (51%), әзірбайжандар (27%), күрдтер (5%), арабтар, түрікмендер, белуджилер, армяндар, еврейлер, т.б.
-# text[tur] = 
+# text[tur] = Halkının ulusal kapsamı: acemler (#51), #azeri (#27), kürtler (#5), araplar/Araplar, Türkmenler/türkmenler, beluclar, Ermeniler, Yahudiler, *т.*б.
+
 
 # sent_id = Иран.tagged.txt:5:130
 # text = Қала халқы 58,3%.
-# text[tur] = 
+# text[tur] = Kent halkı %58,3.
 
 # sent_id = Иран.tagged.txt:6:139
 # text = Астанасы — Тегеран қаласы (айналасын қосқанда 12 миллионнан астам).
-# text[tur] = 
+# text[tur] = Başkenti — Tahran kenti (etrafını .... 12 milyondan ziyade).
 
 # sent_id = Иран.tagged.txt:7:164
 # text = Одан басқа Мешхед (1,5 млн.), Исфаһан (1 млн.), Тебриз (852 мың), Шираз (800 мың) сияқты ірі қалалар бар.
-# text[tur] = 
+# text[tur] = Ondan başa Meşhed (1,5 milyon.), İsfahan (1 milyon.), Tebriz (852 bin), Şiraz (800 bin) aynı şekilde büyük kentler var.
 
 # sent_id = Иран.tagged.txt:8:225
 # text = Ресми тілі — парсы тілі.
-# text[tur] = 
+# text[tur] = Resmen dili — acem dili.
 
 # sent_id = Иран.tagged.txt:9:238
 # text = Мемлекеттік діні — ислам дінінің шиит тармағы.
-# text[tur] = 
+# text[tur] = Milli dini — Islam dininin şii branşı
 
 # sent_id = Иран.tagged.txt:10:255
 # text = Иран — діни мемлекет.
-# text[tur] = 
+# text[tur] = İran — dini memleket.
 
 # sent_id = Иран.tagged.txt:11:266
 # text = Елдегі саяси және діни билік аятолла Сейд Әли Хаменеидің қолында.
-# text[tur] = 
+# text[tur] = Ülkedeki siyasi ve dini yetki ayetullah Seid Ali Hamaney'in kolunda.
 
 # sent_id = Иран.tagged.txt:12:289
 # text = Президент (1997 жылдан бастап Сейд Мохаммед Хатами) 4 жылға сайланады және Министр Кабинетін басқарады.
-# text[tur] = 
+# text[tur] = Başkan (1997 yıldan başlayıp Seid Muhammed Hatemi) 4 yıla saylanıyor ve Bakan Kabinesini yönetiyor.
 
 # sent_id = Иран.tagged.txt:13:324
 # text = Жоғарғы заң шығарушы орган — бір палаталы парламент — Ислам кеңесі жиналысы (меджлис) 4 жыл сайын сайланып отыратын 290 депутаттан тұрады.
@@ -2982,19 +2984,19 @@
 
 # sent_id = Иран.tagged.txt:14:374
 # text = 1981 жылғы конституциясы бойынша, елде саяси және діни емес ұйымдарға тыйым салынған.
-# text[tur] = 
+# text[tur] = 1981 yıl anayasası boyunca, ülkede siyasi ve dini değil örgütler yasaklanmış.
 
 # sent_id = Иран.tagged.txt:15:404
 # text = Ұлттық мейрамы 11 ақпан — Революция күні (1979).
-# text[tur] = 
+# text[tur] = Ulusal bayramı 11 Şubat — Inkılap günü (1979).
 
 # sent_id = Иран.tagged.txt:16:427
 # text = Ұлттық ақша бірлігі — риал.
-# text[tur] = 
+# text[tur] = Ulusal para birimi — rial.
 
 # sent_id = Иран.tagged.txt:17:440
 # text = Иран Армян таулы қыратының оңтүстік-шығысы мен Иран таулы қыратының батыс бөлігінде орналасқан.
-# text[tur] = 
+# text[tur] = İran Ermeni dağlık bayırının güney-doğusu ve İran dağlık bayırının batı bölgesinde konaklamış.
 
 # sent_id = Иран.tagged.txt:18:467
 # text = Шет жақтарында Солтүстік Иран (Эльбурс), Оңтүстік Иран (Загрос, Мекран), Шығыс Иран (Серхед, Пеленган, Боран, Келат) таулары, ортасында Кухруд жотасы, Деште-Кевир, Деште-Лух шөлдері орналасқан.
@@ -3006,15 +3008,17 @@
 
 # sent_id = Иран.tagged.txt:20:583
 # text = Жері, негізінен, таулы.
-# text[tur] = 
+# text[tur] = Yeri, esasından, dağlık.
 
 # sent_id = Иран.tagged.txt:21:596
 # text = Парсы және Оман шығанақтары жағалауларының климаты тропиктік.
-# text[tur] = 
+# text[tur] = Acem ve Umman koyları kıyılarının iklimi/İklimi tropikal.
+
 
 # sent_id = Иран.tagged.txt:22:613
 # text = Қаңтардағы орташа температура 2°С-тан 19,4°С-қа дейін, шілде айында 29,4 — 32,5°С.
-# text[tur] = 
+# text[tur] = Ocaktaki ortalama sıcaklık 2°С-bil 19,4°С-қа de, Temmuz ayında 29,4 — 32,5°С.
+
 
 # sent_id = Иран.tagged.txt:23:640
 # text = Жауын-шашынның жылдық мөлш. 500 мм.
@@ -3026,7 +3030,7 @@
 
 # sent_id = Иран.tagged.txt:25:680
 # text = Жер беті суы аз.
-# text[tur] = 
+# text[tur] = Yer yüzü suyu az.
 
 # sent_id = Иран.tagged.txt:26:691
 # text = Таулы аудандарда көптеген көлдер кездеседі.
