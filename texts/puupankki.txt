@@ -3022,11 +3022,11 @@
 
 # sent_id = Иран.tagged.txt:23:640
 # text = Жауын-шашынның жылдық мөлш. 500 мм.
-# text[tur] = 
+# text[tur] = Atıkın senelik miktar. 500 мм.
 
 # sent_id = Иран.tagged.txt:24:653
 # text = Эльбурс тауы беткейінде 2000 мм, Систан ойысында 50 — 60 мм.
-# text[tur] = 
+# text[tur] = Elburz dağı pateninde 2000/2000 #mm, *Систан içbükeyinde 50 — 60 #mm.
 
 # sent_id = Иран.tagged.txt:25:680
 # text = Жер беті суы аз.
@@ -3034,35 +3034,36 @@
 
 # sent_id = Иран.tagged.txt:26:691
 # text = Таулы аудандарда көптеген көлдер кездеседі.
-# text[tur] = 
+# text[tur] = Dağlık bölgelerde birçok göller yöneliyor.
 
 # sent_id = Иран.tagged.txt:27:704
 # text = Иран жерінде сүтқоректілердің 100-ге тарта, құстардың 400-ге жуық, бауырымен жорғалаушылардың 80-ге жуық түрі бар.
-# text[tur] = 
+# text[tur] = İran yerinde memelilerlerin 100'e dair, kuşların 400'e yakın, karaciğeriyle sürüngenlerin 80'e yakın türü var.
+
 
 # sent_id = Иран.tagged.txt:28:739
 # text = Шектес теңіздері балыққа бай.
-# text[tur] = 
+# text[tur] = Komşu denizleri balığa zengin.
 
 # sent_id = Иран.tagged.txt:29:750
 # text = Иран жеріне адам баласы тым ерте заманнан бері қоныстанған.
-# text[tur] = 
+# text[tur] = İran yerine insan oğlu çok erken zamandan beri 
 
 # sent_id = Иран.tagged.txt:30:771
 # text = Б.з.б. 3-мыңжылдықта қазіргі Иранның оңтүстік-батысында алғашқы мемлекеттер құрыла бастады.
-# text[tur] = 
+# text[tur] = Б.з.б. 3-bin yılda çağdaş İran'ın güney-batısında ilk memleketler yapıldı.
 
 # sent_id = Иран.tagged.txt:31:796
 # text = Б.з.б. 2-мыңжылдықта бұл аймаққа Орталық Азиядан арий тайпалары келіп қоныстанды.
-# text[tur] = 
+# text[tur] = Б.з.б. 2-bin yılda bu semte orta Asya'dan arya boyları gelip *қоныстанды.
 
 # sent_id = Иран.tagged.txt:32:823
 # text = Б.з.б. 550 ж. өкімет билігі парсылық Ахемен әулетіне көшті.
-# text[tur] = 
+# text[tur] = Б.з.б. 550 yıl devlet yetkisi pers baltacı askerler hanedanına göçtü.
 
 # sent_id = Иран.tagged.txt:33:844
 # text = Ахемен әулеті мемлекетін б.з.б. 330 ж. Александр Македонский талқандады.
-# text[tur] = 
+# text[tur] = baltacı askerler hanedanı memleketini *б.*з.*б. 330 yıl Aleksander Makedonya sarstı.
 
 # sent_id = Иран.tagged.txt:34:865
 # text = Иран эллиндік мемлекеттердің билігіне көшіп, б.з.б. 2 ғасырдың орта тұсынан бастап Парфия патшалығына бағынды.
@@ -3070,23 +3071,23 @@
 
 # sent_id = Иран.tagged.txt:35:898
 # text = 224 ж. Парфия мемлекеті құлап, орнына Сасани әулеті мемлекеті құрылды.
-# text[tur] = 
+# text[tur] = 224 yıl Parfiya memleketi çöküp, yerine Sasani hanedanı memleketi yapıldı.
 
 # sent_id = Иран.tagged.txt:36:923
 # text = Сасани әулеті мемлекеті Оңтүстік Арабияны, Сирияны, Палестинаны, Мысырды жаулап алды.
-# text[tur] = 
+# text[tur] = Sasani hanedanı memleketi Güney Arabistan'ı, Suriye'yi, Filistin'i, Mısır'ı kazandı.
 
 # sent_id = Иран.tagged.txt:37:952
 # text = Византияға қауіп төндірді, Түрік қағанатымен соғыс жүргізді.
-# text[tur] = 
+# text[tur] = Bizans'a cesaret etti, Türk kaganatıyla savaş yönetti.
 
 # sent_id = Иран.tagged.txt:38:971
 # text = Бірақ Сасани әулеті мемлекеті арабтардың шабуылынан құлап, 7 ғасырдың 2-жартысында Иран Араб халифаты құрамына қосылды.
-# text[tur] = 
+# text[tur] = Ama Sasani hanedanı memleketi arapların/Arapların çapulundan çöküp, 7 asırın 2-yarısında İran arap/Arap hilafeti kapsamına katıldı.
 
 # sent_id = Иран.tagged.txt:39:1010
 # text = 8 ғасырда Араб халифатының билеушісі Әбу әл-Аббас әс-Саффах халифат астанасын Бағдадқа көшірді.
-# text[tur] = 
+# text[tur] = 8 asırda arap/Arap hilafetinin #yönet Abu Al-Abbas Al-Saffah hilafet merkezini Bağdat'a götürdü.
 
 # sent_id = Иран.tagged.txt:40:1037
 # text = Иран аумағы ұзақ жылдар бойы Аббас әулеті билеген Бағдад халифаты құрамында болып, мәдени және экономикалық дамуды басынан кешірді.
@@ -3094,11 +3095,11 @@
 
 # sent_id = Иран.tagged.txt:41:1078
 # text = 9 — 10 ғасырларда елде Араб халифатына шартты түрде ғана тәуелді болған әмірліктер құрылды.
-# text[tur] = 
+# text[tur] = 9 — 10 asırlarda ülkede arap/Arap hilafetine koşullu türde  bağlı olan emirlikler yapıldı.
 
 # sent_id = Иран.tagged.txt:42:1108
 # text = Елде экономикалық және мәдени өрлеу байқалып, қалалар өсе бастады.
-# text[tur] = 
+# text[tur] = Ülkede ekonomik ve medeni gelişme farketilip, kentler #büyü.
 
 # sent_id = Иран.tagged.txt:43:1131
 # text = Сондай әмірліктердің бірі Самани әулеті биліктен кеткеннен кейін Шығыс Иран Ауғанстанмен және Орта Азияның бір бөлігімен бірге түркі текті Ғазнауи әулеті билеген мемлекеттің құрамына кірді.
@@ -3106,7 +3107,7 @@
 
 # sent_id = Иран.tagged.txt:44:1185
 # text = 11 ғасырда Иранға түрік-оғыздар (салжұқ) басып кіре бастады.
-# text[tur] = 
+# text[tur] = 11 asırda İran'a türk-oğuzlar (selcuk) #bas.
 
 # sent_id = Иран.tagged.txt:45:1212
 # text = Көп ұзамай олар Ғазнауи әулеті әскерін талқандап, бүкіл Иранды және көрші елдерді басып алып салжұқтар мемлекетін құрды.
@@ -3118,7 +3119,7 @@
 
 # sent_id = Иран.tagged.txt:47:1301
 # text = 1220 — 56 ж. Иранды Шыңғыс хан әулеті жаулап алды.
-# text[tur] = 
+# text[tur] = 1220 — 56 yıl İran'ı Cengiz han hanedanı kazandı.
 
 # sent_id = Иран.tagged.txt:48:1324
 # text = Олар елде Хулагу әулетіне қарайтын ильхандар мемлекетін құрды.

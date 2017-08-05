@@ -204,6 +204,44 @@
       </action>
     </rule>
 
+
+
+<rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="ifi"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="REGLA: fut">
        <pattern>
         <pattern-item n="fut"/>    
