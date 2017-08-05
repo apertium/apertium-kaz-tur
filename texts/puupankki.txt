@@ -2351,7 +2351,7 @@
 
 # sent_id = kdt.tagged.txt:256:4155
 # text = Соңынан қарбыз сойылды.
-# text[tur] = sonundan karpuz kesildi.
+# text[tur] = sonundan karpuz ...?
 
 # sent_id = kdt.tagged.txt:257:4164
 # text = Тамақ мол болды.
@@ -2781,7 +2781,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:9:220
 # text = Аның үшін олар дүниенің тілін білді, мұндай болды.
-# text[tur] = 
+# text[tur] = Onun için onlar dünyanın dilini bildi, böyle oldu.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:10:241
 # text = Сен оның тілін білсең, көкірек-көзің ашылады.
@@ -3139,7 +3139,7 @@
 
 # sent_id = Иран.tagged.txt:52:1481
 # text = 17 — 18 ғасырларда Иранның экономикасы құлдырап, халықтың жағдайы нашарлап кетті.
-# text[tur] = 
+# text[tur] = 17 — 18 asırlarda İran'ın ekonomisi düşüp, halkın şartı fenalaştı.
 
 # sent_id = Иран.tagged.txt:53:1508
 # text = Ұсақ халықтар (ауғандар, түрікмендер, Әзірбайжандар, күрдтер, армян, грузиндер) орталықтың езгісіне қарсы жиі-жиі көтеріліс жасап тұрды.
@@ -3151,19 +3151,20 @@
 
 # sent_id = Иран.tagged.txt:55:1604
 # text = 18 ғасырдың аяғында билікке Каджар әулеті келді.
-# text[tur] = 
+# text[tur] = 18 asırın sonunda yetkiye Kajar hanedanı geldi.
 
 # sent_id = Иран.tagged.txt:56:1621
 # text = Осы кезден елдің ішкі істеріне еуропалық мемлекеттер (Англия, Франция) араласа бастады.
-# text[tur] = 
+# text[tur] = Şu andan ülkenin iç işlerine avrupa memleketlerler (Ingiltere, Fransa) #karış.
+
 
 # sent_id = Иран.tagged.txt:57:1652
 # text = 19 ғасырдың басында болған орыс-иран соғысынан кейін елде шетелдіктердің билігі күшейіп кетті.
-# text[tur] = 
+# text[tur] = 19 asırın başında olduk rus-iran savaşından sonra ülkede yabancıların yetkisi *күшейіп gitti.
 
 # sent_id = Иран.tagged.txt:58:1683
 # text = 19 ғасырдың аяғына таман Иран еуропалық мемлекеттердің жартылай отарына айнала бастады.
-# text[tur] = 
+# text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine #karıştır.
 
 # sent_id = Иран.tagged.txt:59:1708
 # text = 1901 ж. ағылшындар Иран мұнайын шығаруға рұқсат алып, 1909 ж. бірлескен ағылшын-парсы мұнай компаниясы құрылды.
@@ -3171,31 +3172,31 @@
 
 # sent_id = Иран.tagged.txt:60:1747
 # text = Елдің солтүстігіне Ресей, оңтүстігіне Ұлыбритания қожалық ете бастады.
-# text[tur] = 
+# text[tur] = Ülkenin kuzeyine Rusya, güneyine Birleşik Krallık çiftlik #et.
 
 # sent_id = Иран.tagged.txt:61:1768
 # text = 1905 — 11 ж. елде шетелдіктерге қарсы ұлт-азаттық қозғалысы болып өтті.
-# text[tur] = 
+# text[tur] = 1905 — 11 yıl ülkede yabancılara karşı ırk-fidye hareketi olup geçti.
 
 # sent_id = Иран.tagged.txt:62:1793
 # text = Оның барысында конституция жарияланып, меджлис шақырылды, ақсүйектік дәрежелер жойылды.
-# text[tur] = 
+# text[tur] = Onun sürecinde anayasa yayınlanıp, meclis çağırıldı, aristokratik dereceler imha etti.
 
 # sent_id = Иран.tagged.txt:63:1818
 # text = Бірақ 1918 ж. ағылшындар бүкіл Иранды басып алып, 1919 ж. оны кіріптарлық шарттарға қол қоюға мәжбүр етті.
-# text[tur] = 
+# text[tur] = Ama 1918 yıl biyolojiler #tüm İran'ı işgal edip, 1919 yıl onu bağımlılık şartlara imzalamaya mecbur etti.
 
 # sent_id = Иран.tagged.txt:64:1857
 # text = Елде ағылшын үстемдігіне қарсы жаңа толқулар басталды.
-# text[tur] = 
+# text[tur] =Ülkede biyoloji üstünlüğüne karşı yeni heyecanlar başlandı. 
 
 # sent_id = Иран.tagged.txt:65:1874
 # text = 1921 ж. 21 ақпанда әскерилер Реза ханның басшылығымен мемлекеттік төңкеріс ұйымдастырып, жаңа үкімет құрды.
-# text[tur] = 
+# text[tur] = 1921 yıl 21 Şubat'ta #askeri Rıza hanın lideriyle milli devir/devir düzenleyip, yeni hükümet yaptı.
 
 # sent_id = Иран.tagged.txt:66:1907
 # text = Жаңа үкімет халықтың қысымымен 1919 ж. ағылшын-парсы шартын жойылды деп жариялады.
-# text[tur] = 
+# text[tur] = Yeni hükümet halkın basınçıyla 1919 yıl biyoloji-acem şartını imha etti diyip yayınladı.
 
 # sent_id = Иран.tagged.txt:67:1936
 # text = Армияға сүйенген Реза хан Орталықтың билігін күшейту үшін сепаратистік пиғылдағы Иран ақсүйектерімен үздіксіз күрес жүргізді.
@@ -3203,23 +3204,23 @@
 
 # sent_id = Иран.tagged.txt:68:1969
 # text = Елде нарықтық қатынастар тез дами бастады.
-# text[tur] = 
+# text[tur] = Ülkede satılabilir ilişkiler çabucak #geliş.
 
 # sent_id = Иран.tagged.txt:69:1984
 # text = Халықтың мәдени және тұрмыстық өмірінде көптеген өзгерістер болып өтті.
-# text[tur] = 
+# text[tur] = Halkın medeni ve ailevi ömüründe birçok dönüşümler olup geçti.
 
 # sent_id = Иран.tagged.txt:70:2005
 # text = Алайда, 1929 — 33 ж. болған дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады.
-# text[tur] = 
+# text[tur] = Ancak, 1929 — 33 yıl olduk dünya çapındaki ekonomik kriz İran ekonomisini *тұралатып bıraktı.
 
 # sent_id = Иран.tagged.txt:71:2036
 # text = Халықтың тұрмысы нашарлап, елде толқулар басталды.
-# text[tur] = 
+# text[tur] = Halkın hayatı fenalaşıp, ülkede heyecanlar başlandı
 
 # sent_id = Иран.tagged.txt:72:2053
 # text = Ол толқулар күшпен басылып отырды.
-# text[tur] = 
+# text[tur] = O heyecanlar güçle #bas.
 
 # sent_id = Иран.tagged.txt:73:2066
 # text = 1941 ж. 16 қыркүйекте Реза шаһ тақтан өз еркімен бас тартып, орнына баласы Мұхаммед Реза Пехлеви шаһ болды.
