@@ -3224,15 +3224,15 @@
 
 # sent_id = Иран.tagged.txt:73:2066
 # text = 1941 ж. 16 қыркүйекте Реза шаһ тақтан өз еркімен бас тартып, орнына баласы Мұхаммед Реза Пехлеви шаһ болды.
-# text[tur] = 
+# text[tur] = 1941 yıl 16 Eylül'de Rıza şah hakimiten kendi bağımsız bırakıp, yerine evlatı Muhammed Rıza Pehlevi şah oldu
 
 # sent_id = Иран.tagged.txt:74:2107
 # text = 1942 ж. 29 қаңтарда Иран КСРО және Ұлыбритания мемлекеттерімен одақтастық туралы шартқа қол қойды.
-# text[tur] = 
+# text[tur] = 1942 yıl 29 Ocakta İran SSCB ve Birleşik Krallık memleketleriyle anlaşma ile ilgili şarta imzaladı.
 
 # sent_id = Иран.tagged.txt:75:2138
 # text = 1943 ж. 9 қыркүйекте Иран Германияға соғыс жариялады, бірақ соғыс қимылдарына араласқан жоқ.
-# text[tur] = 
+# text[tur] = 1943 yıl 9 Eylül'de İran Almanya'ya savaş yayınladı, ama savaş fiillerine karışmadı.
 
 # sent_id = Иран.tagged.txt:76:2167
 # text = Тегеран конференциясы кезінде 1943 ж. 1 желтоқсанда КСРО, АҚШ, Ұлыбритания үкіметтері Иранға территориялық тұтастығын сақтауға әзір екендіктерін мәлімдеді.
@@ -3240,19 +3240,20 @@
 
 # sent_id = Иран.tagged.txt:77:2210
 # text = Соғыстан кейін Иран үкіметі Батыс елдерімен тығыз байланыс орнатты.
-# text[tur] = 
+# text[tur] = Savaştan sonra İran hükümeti Batı ülkeleriyle sıkı bağlantı yaptı.
 
 # sent_id = Иран.tagged.txt:78:2231
 # text = 1953 ж. ел тәуелсіздігін күшейтуге тырысқан М. Мосаддық үкіметі құлатылды.
-# text[tur] = 
+# text[tur] = 1953 yıl ülke bağımsızlığını güçlendirmeye kalkıştık M. Mosaddıq hükümeti yıkıldı.
+
 
 # sent_id = Иран.tagged.txt:79:2254
 # text = Иран шаһы М. Р. Пехлевидің көмегімен АҚШ елдің ішкі өміріне белсене араласа бастады.
-# text[tur] = 
+# text[tur] = Iran şahı #M. *Р. Pehlevi'nin infakıyla ABC ülkenin iç yaşamına bilfiil #karış.
 
 # sent_id = Иран.tagged.txt:80:2283
 # text = Ел 1955 ж. АҚШ-пен әскери келісімдер жасасты, 1960 жылдан бастап Батыс үлгісінде дами бастады.
-# text[tur] = 
+# text[tur] = Ülke 1955 yıl ABC'la askeri anlaşmalar yaptı, 1960 yıldan başlayıp Batı emsalında #geliş.
 
 # sent_id = Иран.tagged.txt:81:2316
 # text = Елде шет ел капиталының үстемдік алуы, ұлттық құндылықтардың аяққа басылуы 1978 — 79 ж. халықтың шаһ үкіметіне қарсы жаппай бас көтеруіне алып келді.
@@ -3260,7 +3261,7 @@
 
 # sent_id = Иран.tagged.txt:82:2367
 # text = Оны елдегі шиит дінбасылары басқарды.
-# text[tur] = 
+# text[tur] = Onu ülkedeki şii rahipleri yönetti.
 
 # sent_id = Иран.tagged.txt:83:2380
 # text = 1979 ж. 11 ақпанда болған революция нәтижесінде шаһ үкіметі құлап, 1 сәуірден бастап Иран Ислам Республикасы жарияланды.
@@ -3268,7 +3269,7 @@
 
 # sent_id = Иран.tagged.txt:84:2419
 # text = Үкімет басына шиит дінбасыларының көсемі аятолла Р. Хомейни келді.
-# text[tur] = 
+# text[tur] = Hükümet başına şii rahplerinin  lideri ayetullah Р. Humeyni geldi.
 
 # sent_id = Иран.tagged.txt:85:2440
 # text = Саяси партияларға тыйым салынды, шаһ үкіметі жойылды, Батыстың иелігіндегі барлық компаниялар мүлкі мемлекет меншігіне алынды, ел СЕАТО блогынан шығып, Блоктарға қосылмау қозғалысына мүше болып енді.
@@ -3276,11 +3277,12 @@
 
 # sent_id = Иран.tagged.txt:86:2501
 # text = 1980 – 1990 ж. болған Иран — Ирак соғысы ел экономикасына өте ауыр (700 млрд. АҚШ долларынан астам) зардаптар әкелді.
-# text[tur] = 
+# text[tur] = 1980 – 1990 yıl olduk İran — Irak savaşı ülke ekonomisine çok acı (700 milyar. ABC dolarından ziyade) zararlar getirdi.
+
 
 # sent_id = Иран.tagged.txt:87:2548
 # text = Ел экономикасының негізі мұнай және мұнай мен газ өңдеу өнеркәсіптері.
-# text[tur] = 
+# text[tur] = Ülke ekonomisinin esası benzin ve petrol ve gaz yapım endüstrileri.
 
 # sent_id = Иран.tagged.txt:88:2571
 # text = Мемлекеттік кірістің 1 / 3 және экспорттың 90%-ына жуығы осы салалардан алынады.
