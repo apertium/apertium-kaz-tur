@@ -3286,7 +3286,7 @@
 
 # sent_id = Иран.tagged.txt:88:2571
 # text = Мемлекеттік кірістің 1 / 3 және экспорттың 90%-ына жуығы осы салалардан алынады.
-# text[tur] = 
+# text[tur] = Milli kazançın 1 / 3 ve ihracatın #90 çoku şu alanlardan alınıyor.
 
 # sent_id = Иран.tagged.txt:89:2598
 # text = Экономиканың басқа салалары да дамыған, бірақ сыртқы экономикалық байланыстардың нашарлығынан және қаржы жетіспеушілігінен толық қуатымен жұмыс істей алмауда.
@@ -3298,27 +3298,27 @@
 
 # sent_id = Иран.tagged.txt:91:2655
 # text = Ауыл шаруашылығы нашар дамыған.
-# text[tur] = 
+# text[tur] = Tarımı kötü gelişen.
 
 # sent_id = Иран.tagged.txt:92:2666
 # text = Соңғы жылдары туризм дами бастады.
-# text[tur] = 
+# text[tur] = Sonrakı yılları turizm gelişti.
 
 # sent_id = Иран.tagged.txt:93:2679
 # text = Ұлттық байлықтың 36%-ы өнеркәсіптен, 22%-ы ауыл шаруашылығынан, қалғаны қызмет көрсету секторынан тұрады.
-# text[tur] = 
+# text[tur] = Ulusal servetin #36 endüstriden, #22 tarımından, kalanı hizmet етma sektöründen alıyor.
 
 # sent_id = Иран.tagged.txt:94:2710
 # text = Мұнай экспортынан жыл сайын 16,3 млрд. АҚШ доллары түседі.
-# text[tur] = 
+# text[tur] = Benzin ihracatından yıllık olarak 16,3 milyar. ABC doları yararlanıyor.
 
 # sent_id = Иран.tagged.txt:95:2731
 # text = Ұлттық табыс 75 млрд. АҚШ доллар көлемінде, жан басына шаққанда — 1250 долл. шамасында.
-# text[tur] = 
+# text[tur] = Ulusal irat 75 milyar. ABC dolar haciminde, yan başına *шаққанда — 1250 dolar. oranında.
 
 # sent_id = Иран.tagged.txt:96:2764
 # text = Елдегі басты проблеманың бірі — жұмыссыздық (3,5 млн. адам).
-# text[tur] = 
+# text[tur] = Ülkedeki başçıl sorunun biri — işsizlik (3,5 milyon. adam).
 
 # sent_id = Иран.tagged.txt:97:2789
 # text = Мұнайдан басқа экспортқа кейбір өнеркәсіп тауарлары, ауыл шаруашылығы өнімдері, кілем, халық тұтыну тауарлары шығарылады.
@@ -3334,23 +3334,23 @@
 
 # sent_id = Иран.tagged.txt:100:2914
 # text = Қазақстан Президенті Нұрсұлтан Назарбаев екі рет (1992; 1996) Иранда болып қайтты.
-# text[tur] = 
+# text[tur] = Kazakistan Başkanı Nursultan *Назарбаев iki defa (1992; 1996) İran'da olup döndü.
 
 # sent_id = Иран.tagged.txt:101:2945
 # text = Сол кезегінде Иран басшылары да (1993 ж. А. Хашеми Рафсанджани, 1998 ж. М. Хатами) Қазақстанда болды.
-# text[tur] = 
+# text[tur] = Sol kezinde İran halefleri da (1993 yıl *А. Haşimi Rafsancani, 1998 yıl #M. Hatemi) Kazakistan'da oldu.
 
 # sent_id = Иран.tagged.txt:102:2985
 # text = 2002 ж. Алматы — Тегеран бағытында темір жол байланысы орнатылды.
-# text[tur] = 
+# text[tur] = 2002 yıl Almatı — Tahran alanında demir yol bağlantısı yapıldı.
 
 # sent_id = Иран.tagged.txt:103:3008
 # text = Иран әдебиетінің классикалық дәуірін (7 — 16 ғасырлар) парсы не парсы-тәжік әдебиеті деп атанды.
-# text[tur] = 
+# text[tur] = Iran edebiyatının klasik devrini/devirini (7 — 16 asırlar) acem ya da acem-tacik edebiyatı diyip #atan 
 
 # sent_id = Иран.tagged.txt:104:3047
 # text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.
-# text[tur] = 
+# text[tur] = Iran edebiyatının iyleşan anı — 13 — 14 asırlar.
 
 # sent_id = Иран.tagged.txt:105:3068
 # text = Иран революциясы (1905 — 11) және азаматтық қозғалыс (1918 — 21) кезінде А. Фарахани, М. Кермани, М. Т. Бехар, т.б. ақындар демократиялық идеяның жыршысы болды.
@@ -3362,7 +3362,7 @@
 
 # sent_id = Иран.tagged.txt:107:3182
 # text = Иран жерінде сақтар тарихына қатысты мәдени ескерткіштер де мол сақталған.
-# text[tur] = 
+# text[tur] = Iran yerinde korunacak tarihine alakayı medeni anılar da çok korunmuş.
 
 # sent_id = Иран.tagged.txt:108:3204
 # text = Сасани әулеті дәуірінде (3 — 7 ғасырлар) қалаларды қорған ішіне жүйелі жоба бойынша салу қанат жайды (мыс., Нишапур қаласы шахмат жүйесімен салынған).
@@ -3374,7 +3374,7 @@
 
 # sent_id = Иран.tagged.txt:110:3282
 # text = Алтын, күміс, қола және әйнектен әр түрлі бұйымдар жасау, жүн және жібек мата тоқу өркен жайды.
-# text[tur] = 
+# text[tur] = Altın, gümüş, bronz ve camdan değişik stoklar yapma, yün ve ipek tekstil dokuma ürün yaydı.
 
 # sent_id = Иран.tagged.txt:111:3323
 # text = 14 ғасырдан кейін қолжазба көркемдеу, қабырғаға сурет салу дамыды.
