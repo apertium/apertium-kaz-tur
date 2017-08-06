@@ -2351,7 +2351,7 @@
 
 # sent_id = kdt.tagged.txt:256:4155
 # text = Соңынан қарбыз сойылды.
-# text[tur] = sonundan karpuz ...?
+# text[tur] = sonundan karpuz kesildi.
 
 # sent_id = kdt.tagged.txt:257:4164
 # text = Тамақ мол болды.
@@ -3047,7 +3047,7 @@
 
 # sent_id = Иран.tagged.txt:29:750
 # text = Иран жеріне адам баласы тым ерте заманнан бері қоныстанған.
-# text[tur] = İran yerine insan oğlu çok erken zamandan beri 
+# text[tur] = İran yerine insan oğlu çok erken zamandan beri yaşamış.
 
 # sent_id = Иран.tagged.txt:30:771
 # text = Б.з.б. 3-мыңжылдықта қазіргі Иранның оңтүстік-батысында алғашқы мемлекеттер құрыла бастады.
@@ -3160,8 +3160,7 @@
 
 # sent_id = Иран.tagged.txt:57:1652
 # text = 19 ғасырдың басында болған орыс-иран соғысынан кейін елде шетелдіктердің билігі күшейіп кетті.
-# text[tur] = 19 asırın başında olduk rus-iran savaşından sonra ülkede yabancıların yetkisi *күшейіп gitti.
-
+# text[tur] = 19 asırın başında olduk rus-iran savaşından sonra ülkede yabancıların yetkisi şiddetlendi.
 # sent_id = Иран.tagged.txt:58:1683
 # text = 19 ғасырдың аяғына таман Иран еуропалық мемлекеттердің жартылай отарына айнала бастады.
 # text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine #karıştır.
@@ -3212,7 +3211,7 @@
 
 # sent_id = Иран.tagged.txt:70:2005
 # text = Алайда, 1929 — 33 ж. болған дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады.
-# text[tur] = Ancak, 1929 — 33 yıl olduk dünya çapındaki ekonomik kriz İran ekonomisini *тұралатып bıraktı.
+# text[tur] = Ancak, 1929 — 33 yıl olduk dünya çapındaki ekonomik kriz İran ekonomisini salıverdi.
 
 # sent_id = Иран.tagged.txt:71:2036
 # text = Халықтың тұрмысы нашарлап, елде толқулар басталды.
@@ -3294,7 +3293,7 @@
 
 # sent_id = Иран.tagged.txt:90:2638
 # text = Өнеркәсіпке қажетті құрал-саймандар 90%-ға дейін шеттен әкелінеді.
-# text[tur] = 
+# text[tur] = Endüstriye gerekli alet-takımlar %90 dek dışarıdan getiriliyor.
 
 # sent_id = Иран.tagged.txt:91:2655
 # text = Ауыл шаруашылығы нашар дамыған.
@@ -3314,7 +3313,7 @@
 
 # sent_id = Иран.tagged.txt:95:2731
 # text = Ұлттық табыс 75 млрд. АҚШ доллар көлемінде, жан басына шаққанда — 1250 долл. шамасында.
-# text[tur] = Ulusal irat 75 milyar. ABC dolar haciminde, yan başına *шаққанда — 1250 dolar. oranında.
+# text[tur] = Ulusal irat 75 milyar. ABC dolar haciminde, yan başına oluşturlanda  — 1250 dolar. oranında.
 
 # sent_id = Иран.tagged.txt:96:2764
 # text = Елдегі басты проблеманың бірі — жұмыссыздық (3,5 млн. адам).
@@ -3326,7 +3325,7 @@
 
 # sent_id = Иран.tagged.txt:98:2826
 # text = Шеттен — азық-түлік өнімдері (30%), машина, құрал-жабдықтар, кейбір өнеркәсіп шикізаттары әкелінеді.
-# text[tur] = 
+# text[tur] = Dışarıdan — gida üretimleri (#30), makine, alet-donatacak, birkaç endüstri hamları getiriliyor.
 
 # sent_id = Иран.tagged.txt:99:2861
 # text = Негізгі сауда серіктестері: Германия, Жапония, Ұлыбритания, Италия, араб елдері, Түркия, Қазақстанмен дипломатиялық және экономикалық байланыс 1992 ж. орнады.
@@ -3334,11 +3333,11 @@
 
 # sent_id = Иран.tagged.txt:100:2914
 # text = Қазақстан Президенті Нұрсұлтан Назарбаев екі рет (1992; 1996) Иранда болып қайтты.
-# text[tur] = Kazakistan Başkanı Nursultan *Назарбаев iki defa (1992; 1996) İran'da olup döndü.
+# text[tur] = Kazakistan Başkanı Nursultan *Назарбаев iki defa (1992; 1996) İran'da ziyart etti.
 
 # sent_id = Иран.tagged.txt:101:2945
 # text = Сол кезегінде Иран басшылары да (1993 ж. А. Хашеми Рафсанджани, 1998 ж. М. Хатами) Қазақстанда болды.
-# text[tur] = Sol kezinde İran halefleri da (1993 yıl *А. Haşimi Rafsancani, 1998 yıl #M. Hatemi) Kazakistan'da oldu.
+# text[tur] = Şu sırada İran halefleri da (1993 yıl *А. Haşimi Rafsancani, 1998 yıl #M. Hatemi) Kazakistan'da oldu.
 
 # sent_id = Иран.tagged.txt:102:2985
 # text = 2002 ж. Алматы — Тегеран бағытында темір жол байланысы орнатылды.
@@ -3370,7 +3369,7 @@
 
 # sent_id = Иран.tagged.txt:109:3261
 # text = Мүсін жасау, жартастарға рельеф қашау елеулі орын алды.
-# text[tur] = 
+# text[tur] = Heykel yapma, kayalara dublör oyma fakedilir yer aldı.
 
 # sent_id = Иран.tagged.txt:110:3282
 # text = Алтын, күміс, қола және әйнектен әр түрлі бұйымдар жасау, жүн және жібек мата тоқу өркен жайды.
@@ -3378,11 +3377,11 @@
 
 # sent_id = Иран.tagged.txt:111:3323
 # text = 14 ғасырдан кейін қолжазба көркемдеу, қабырғаға сурет салу дамыды.
-# text[tur] = 
+# text[tur] = 14 asırdan sonra elyazısı dekor etme, kaburgaya çizme gelişti.
 
 # sent_id = Иран.tagged.txt:112:3346
 # text = 15 ғасырда Иран миниатюрасының өркендеуіне Герат мектебі үлкен әсер етті.
-# text[tur] = 
+# text[tur] = 15 asırda İran minyatürünün medenileştirmaya Herat okulu #iri etkiledi.
 
 # sent_id = Иран.tagged.txt:113:3369
 # text = 16 — 17 ғасырларда пайда болған Тебриз, Шираз, Исфаһан (Риза Аббаси, т.б.) мектептері миниатюра өнерін жоғары дәрежеге көтерді.
@@ -3390,15 +3389,16 @@
 
 # sent_id = Иран.tagged.txt:114:3418
 # text = 18 — 19 ғасырларда еуропалық өнердің ықпалымен сулы және майлы бояумен орындалған алғашқы туындылар өмірге келді.
-# text[tur] = 
+# text[tur] = 18 — 19 asırlarda avrupa sanatın etkisiyle sulu ve yağlı boyamayla uyguladık ilk türevler yaşama geldi.
 
 # sent_id = Иран.tagged.txt:115:3455
 # text = 20 ғасырда жаңа типті архитектуралық құрылыстар салына бастады.
-# text[tur] = 
+# text[tur] = 20 asırda yeni tipik mimarlıkla ilgili yapımlar #koy
+
 
 # sent_id = Иран.tagged.txt:116:3474
 # text = Иранның жаңа архитектуралық мұралары қазіргі стиль мен ұлттық үлгідегі сәулет өнерін ұштастырған.
-# text[tur] = 
+# text[tur] = Iranın yeni mimarlıkla ilgili mirasları çağdaş tarz ve ulusal emsaldaki resim sanatını bağlanmış.
 
 # sent_id = Иран.tagged.txt:117:3501
 # text = 20 ғасырдың басынан мүсін, графика, кескіндеме жанры дамып келеді.
