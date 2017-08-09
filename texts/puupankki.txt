@@ -3402,15 +3402,15 @@
 
 # sent_id = Иран.tagged.txt:117:3501
 # text = 20 ғасырдың басынан мүсін, графика, кескіндеме жанры дамып келеді.
-# text[tur] = 
+# text[tur] = 20 asırın başından heykel, grafik, resim janrı gelişip geliyor.
 
 # sent_id = Иран.tagged.txt:118:3526
 # text = Сән және қосалқы өнердің дәстүрлі түрлері сақталған.
-# text[tur] = 
+# text[tur] = Moda ve tamamlayıcı sanatın geleneksel türleri korunmuş.
 
 # sent_id = Иран.tagged.txt:119:3543
 # text = Кәсіби және халық музыкасының ғасырлық дәстүрі бар.
-# text[tur] = 
+# text[tur] = Profesyonel ve halk müzikinin asırlık geleneki var.
 
 # sent_id = Иран.tagged.txt:120:3560
 # text = Иран музыкасы, негізінен, монодиялық (бір дауысты) түрде кездеседі.
@@ -3418,7 +3418,7 @@
 
 # sent_id = Иран.tagged.txt:121:3587
 # text = Арабтар жаулап алғаннан кейін Иран музыкасына мұсылмандық араб мәдениетінің ықпалы тиді.
-# text[tur] = 
+# text[tur] = araplar/Araplar kapladıktan sonra İran müzikine müsülman arap/Arap kültürünün etkisi dokundu.
 
 # sent_id = Иран.tagged.txt:122:3612
 # text = 9 ғасырдан бастап сарай өнері дамып, халық арасында мутребтердің (әнші-бишілер) даңқы жойылды.
@@ -3426,19 +3426,19 @@
 
 # sent_id = Иран.tagged.txt:123:3645
 # text = 19 ғасырдың 2-жартысынан Иран музыкасына еуропалық музыка мәдениеті әсер етті.
-# text[tur] = 
+# text[tur] = 19 asırın 2-yarısından İran müzikine avrupa müzik kültürü etkiledi.
 
 # sent_id = Иран.tagged.txt:124:3672
 # text = Театр өнерінің негізі халықтық салт-дәстүрлерде жатыр.
-# text[tur] = 
+# text[tur] = Tiyatro sanatının tamamıyla millet gelenek-göreneklerde #+i.
 
 # sent_id = Иран.tagged.txt:125:3691
 # text = Ежелгі базигер театры жайлы деректер сақталған.
-# text[tur] = 
+# text[tur] = Ilkel *базигер tiyatrosu koşulu  veriler korunmuş.....????should translate again
 
 # sent_id = Иран.tagged.txt:126:3706
 # text = Пантомима, көлеңке және қуыршақ театрлары болған.
-# text[tur] = 
+# text[tur] = Pandomim, gölge ve oyuncak bebek tiyatroları olmuş.
 
 # sent_id = Иран.tagged.txt:127:3723
 # text = 10 ғасырда пайда болған мистерия діни ғұрып шахсей-вахсейдің құрамына енді.
@@ -3450,43 +3450,44 @@
 
 # sent_id = Иран.tagged.txt:129:3775
 # text = 20 ғасырдың 30-жылдарына дейін кезбе актерлер — масқарапаздар өнер көрсетіп келді.
-# text[tur] = 
+# text[tur] = 20 asırın 30-yıllarına dek göçebe aktörler — palyaçolar sanat gösterdi.
+
 
 # sent_id = Иран.tagged.txt:130:3804
 # text = 1911 — 12 ж. еуропалық театрлар тәжірибелерін пайдалана отырып Ұлттық театр, 1917 ж. Иранның комедия театры ашылды.
-# text[tur] = 
+# text[tur] = 1911 — 12 yıl avrupa tiyatrolar deneyimlerini kullanmış? Ulusal tiyatro, 1917 yıl İran'ın komedi tiyatrosu açıldı.
 
 # sent_id = Иран.tagged.txt:131:3843
 # text = Бұл театрларды құруда актер Сейед Әли Нәсірдің еңбегі зор.
-# text[tur] = 
+# text[tur] = Bu tiyatroları yapmada aktör Seyed Ali Nasirdin emeki büyük.
 
 # sent_id = Иран.tagged.txt:132:3864
 # text = 1929 жылдан бастап әйел актерлер көріне бастады.
-# text[tur] = 
+# text[tur] = 1929 yıldan başlayıp kadın aktörler gördü.
 
 # sent_id = Иран.tagged.txt:133:3881
 # text = 1930 — 40 ж. театр репертуарларынан өңделген Батыс Еуропа драмалары мен мелодрамалар орын алды.
-# text[tur] = 
+# text[tur] = 1930 — 40 yıl tiyatro repertuarlarından işlenmiş Batı Avrupa dramları ve melodramlar yer aldı.
 
 # sent_id = Иран.tagged.txt:134:3912
 # text = 1940 жылдан Иран театры дағдарысқа ұшырады, 1960 жылдардың басында қайта өрлеу жолына түсті.
-# text[tur] = 
+# text[tur] = 1940 yıldan İran tiyatrosu krize uğradı, 1960 yılların başında gene gelişme yoluna açıldı.
 
 # sent_id = Иран.tagged.txt:135:3943
 # text = 1963 ж. Тегеранда кәсіби актерлер дайындайтын драм. студия ашылды.
-# text[tur] = 
+# text[tur] = 1963 yıl Tahran'da profesyonel aktörler hazırlayacı dram. stüdyo açıldı.
 
 # sent_id = Иран.tagged.txt:136:3964
 # text = 1968 жылдан бастап Ширазда театр фестивалы өткізіліп тұрды.
-# text[tur] = 
+# text[tur] = 1968 yıldan başlayıp Şiraz'da tiyatro festivali/festivalsi yönetildi.
 
 # sent_id = Иран.tagged.txt:137:3983
 # text = 20 ғасырдың 40-жылдарына дейін, көбінесе, шетелдік фильмдер көрсетіліп келді.
-# text[tur] = 
+# text[tur] = 20 asırın 40-yıllarına dek, çoğu, yabancı filmler gösterildi.
 
 # sent_id = Иран.tagged.txt:138:4012
 # text = 1946 ж. Тегеранда “Митра-фильм” киностудиясы құрылды.
-# text[tur] = 
+# text[tur] = 1946 yıl Tahran'da “Açıölçer-film” stüdyosu yapıldı.
 
 # sent_id = Иран.tagged.txt:139:4035
 # text = 1960 — 1970 ж. музыкалық комедияларға, шағын драмаларға, мифтік және тарихи сюжеттерге құрылған фильмдер қойылды.
@@ -3494,7 +3495,7 @@
 
 # sent_id = Иран.tagged.txt:140:4072
 # text = Тегеранда 1955 жылдан халықаралық, 1970 жылдан ұлттық кинофестивальдер өткізіліп тұрады.
-# text[tur] = 
+# text[tur] = Tahran'da 1955 yıldan uluslararası, 1970 yıldan ulusal #film festival yönetildi. 
 
 # sent_id = Иран.tagged.txt:141:4097
 # text = Иран кинематографиясының дамуына реж. И. Кушан, М. Мисагие, Мохтасем, М. Мохсени, С. Ясеми, Ш. Рафия елеулі үлес қосты.
@@ -3502,51 +3503,52 @@
 
 # sent_id = wikipedia.tagged.txt:1:0
 # text = Абонемент бөлімі кітаптар мен журналдарды үйге тегін береді.
-# text[tur] = 
+# text[tur] = Abonelik bölümü kitaplar ve dergileri eve bedava veriyor.
+
 
 # sent_id = wikipedia.tagged.txt:2:18
 # text = Азамат соғысында рота командирі болған.
-# text[tur] = 
+# text[tur] = Sivil savaşında şirket komutanı olmuş.
 
 # sent_id = wikipedia.tagged.txt:3:31
 # text = Алап ауқымында қысым мен температураның қалыптан тыс мөлшерлері ұшырасқан жоқ.
-# text[tur] = 
+# text[tur] = Vadi kapsamında baskı ve sıcaklığın rutinden ofsayt miktarları olmadı
 
 # sent_id = wikipedia.tagged.txt:4:52
 # text = Алматы қаласына елбасының келуі көптеген мәселелерге жаңаша қарауға септігін тигізді.
-# text[tur] = 
+# text[tur] = Almatı kentine devlet başkanının gelmesi birçok meselelere farklı şekilde bakmaya etkisini koydu.
 
 # sent_id = wikipedia.tagged.txt:5:75
 # text = Ауылда клуб директоры болып қызмет атқарды.
-# text[tur] = 
+# text[tur] = Köyde kulüp direktörü olup hizmet kurdu.
 
 # sent_id = wikipedia.tagged.txt:6:90
 # text = Біз өз жұмысымыздың әдістері мен стильдерін жетілдіріп, инновацияларды енгізіп отырамыз.
-# text[tur] = 
+# text[tur] = Biz kendi kurumumuzun yolları ve tarzlarını eğitip, yenilikleri ekleriz.
 
 # sent_id = wikipedia.tagged.txt:7:115
 # text = Ендеше, осындай жағдаяттарда жол табуға болады.
-# text[tur] = 
+# text[tur] = Böylelikle, #şu durumlarda yol bulmaya oluyor.
 
 # sent_id = wikipedia.tagged.txt:8:132
 # text = Ендеше тілегімді берді, - деді.
-# text[tur] = 
+# text[tur] = Böylelikle dileğimi verdi, - dedi.
 
 # sent_id = wikipedia.tagged.txt:9:147
 # text = Еуропаның өзге елдерінде де пайда болды.
-# text[tur] = 
+# text[tur] = Avrupa'nın öbür ülkelerinde da bulundu.
 
 # sent_id = wikipedia.tagged.txt:10:161
 # text = Еуропаның тұщы су қоймаларында таралған.
-# text[tur] = 
+# text[tur] = Avrupa'nın tatlı su havuzlarında yayılmış.
 
 # sent_id = wikipedia.tagged.txt:11:174
-# text = Жалғыз болсаң – топқа басың кіре алмас.
+# text = басЖалғыз болсаң – топқа басың кіре алмас.
 # text[tur] = 
 
 # sent_id = wikipedia.tagged.txt:12:191
 # text = Жас тобы ұзақ болып келеді.
-# text[tur] = 
+# text[tur] = Genç takımı uzağa gidiyor.
 
 # sent_id = wikipedia.tagged.txt:13:204
 # text = Жауапты хатшы өзінің қызметін жүзеге асырған кезде Қазақстан Республикасының Президентіне, Премьер-Министрге, Министрге есеп береді.
@@ -3554,7 +3556,7 @@
 
 # sent_id = wikipedia.tagged.txt:14:239
 # text = Жауыңнан бұрын қимылда-жеріңе жамандық келмейді.
-# text[tur] = 
+# text[tur] = Duşmanından önce aksiyonda-yerine şeytan gelmiyor
 
 # sent_id = wikipedia.tagged.txt:15:256
 # text = Жер бедері маңында Юра тау жүйесінің болуымен анықталады.
@@ -3562,35 +3564,35 @@
 
 # sent_id = wikipedia.tagged.txt:16:275
 # text = Жер бетінде мұндай ормандар қалмайды.
-# text[tur] = 
+# text[tur] = Yer yüzünde böyle ormanlar kalmıyor.
 
 # sent_id = wikipedia.tagged.txt:17:288
 # text = Жүрек тұсына массаж былай жасалады.
-# text[tur] = 
+# text[tur] = Kalp yönüne masaj böyle yapılıyor.
 
 # sent_id = wikipedia.tagged.txt:18:301
 # text = Жылдам жетіп ұстауға атқа мінді.
-# text[tur] = 
+# text[tur] = Hızla ulaşıp tutmaya ada bindi
 
 # sent_id = wikipedia.tagged.txt:19:314
 # text = Инфляция қарқыны статистикалық көрсеткіш — тұтыну бағаларының индексі көмегімен анықталады.
-# text[tur] = 
+# text[tur] = Enflasyon temposu istatistik kılavuz — tüketim fiyatlarının indeksi infakıyla tanımlanıyor.
 
 # sent_id = wikipedia.tagged.txt:20:337
 # text = Ислам діні-адамға ауырлық жүктемейді.
-# text[tur] = 
+# text[tur] = Islam dini-adama ağırlık yüklemiyor.
 
 # sent_id = wikipedia.tagged.txt:21:352
 # text = Кафедра «Менеджмент» мамандық бойынша бакалавр дайындайды.
-# text[tur] = 
+# text[tur] = Kürsü «Yönetim» uzmanlık boyunca lisans hazırlıyor.
 
 # sent_id = wikipedia.tagged.txt:22:371
 # text = Кезінде Кеңес әскерімен де күрескен.
-# text[tur] = 
+# text[tur] = Anında Heyet ordusuyla da çarpışmış.
 
 # sent_id = wikipedia.tagged.txt:23:383
 # text = Кей түрінен дәрі алуға болады.
-# text[tur] = 
+# text[tur] = Herhangi türünden ilaç almaya oluyor.
 
 # sent_id = wikipedia.tagged.txt:24:396
 # text = Композитордың аты Санкт-Петербург консерваториясының кіші залына берілді.
@@ -3602,103 +3604,105 @@
 
 # sent_id = wikipedia.tagged.txt:26:446
 # text = КСРО Мемлекеттік сыйлығына (1952) ие болды.
-# text[tur] = 
+# text[tur] = SSCB Milli hediyesine (1952) sahip oldu.
 
 # sent_id = wikipedia.tagged.txt:27:465
 # text = Мамандарды дайындау факультетте тек күндізгі бөлімде ғана жүргізіледі.
-# text[tur] = 
+# text[tur] = Uzmanları hazırlama fakültede tek gündüz bölümde  yönetiliyor.
 
 # sent_id = wikipedia.tagged.txt:28:483
 # text = Маусым – шілде айларында гүлдеп, тамызда жеміс береді.
-# text[tur] = 
+# text[tur] = Haziran – Temmuz aylarında çiçeklenip, Temmuz'da meyve veriyor.
 
 # sent_id = wikipedia.tagged.txt:29:504
 # text = Мәскеуде дүниеге келген.
-# text[tur] = 
+# text[tur] = Moskova'da dünyaya gelmiş.
 
 # sent_id = wikipedia.tagged.txt:30:513
 # text = Ұлы Отан соғысында ерлікпен қаза тапқан.
-# text[tur] = 
+# text[tur] = Oğlu vatan savaşında kahramanlıkla ölmüş.
 
 # sent_id = wikipedia.tagged.txt:31:528
 # text = Мұражайда үш экспозициялық зал жұмыс істейді.
-# text[tur] = 
+# text[tur] = Müzede üç #gösteri hol çalışıyor.
 
 # sent_id = wikipedia.tagged.txt:32:543
 # text = Намыс қылып балаға мойын бұрды.
-# text[tur] = 
+# text[tur] = Gurur yapıp evlata boyun çevirdi.
 
 # sent_id = wikipedia.tagged.txt:33:556
 # text = Нарықтық экономика жағдайында мемлекеттің рөлі өзгереді.
-# text[tur] = 
+# text[tur] = Satılabilir ekonomi şartında memleketin rolu değişiyor.
 
 # sent_id = wikipedia.tagged.txt:34:571
 # text = Некенің тоқтатылуы жаңадан некеге тұру құқығын туғызады.
-# text[tur] = 
+# text[tur] = Nikahın durdurulması yeniden nikaha durma yetkisini sebebiyet veriyor.
 
 # sent_id = wikipedia.tagged.txt:35:588
 # text = Немере етін жеп, сүйегін қалдырады.
-# text[tur] = 
+# text[tur] = Torun etini yiyip, kemiğini bırakıyor.
 
 # sent_id = wikipedia.tagged.txt:36:603
 # text = Непал мен Тибетке бет алды.
-# text[tur] = 
+# text[tur] = ...........?
 
 # sent_id = wikipedia.tagged.txt:37:616
 # text = Несиенің шамасымен, сипатымен және мерзімімен айқындалады.
-# text[tur] = 
+# text[tur] = Kredinin oranıyla, kaliteyle ve mevsimiyle tanımlanıyor.
 
 # sent_id = wikipedia.tagged.txt:38:633
 # text = Практика жетекшісінің есебі жасалған.
-# text[tur] = 
+# text[tur] = Uygulama reisinin skoru yapılmış.
 
 # sent_id = wikipedia.tagged.txt:39:644
 # text = Он екі елі ішек төрт бөлікке бөлінген.
-# text[tur] = 
+# text[tur] = Onikiparmakbağırsağı dört bölgeye bölünmüş.
+
 
 # sent_id = wikipedia.tagged.txt:40:661
 # text = Орыс және грузин тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve gürcüce dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:41:674
 # text = Орыс және қазақ тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve kazak dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:42:687
 # text = Орыс және неміс тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve almanca dillerini biliyor. 
 
 # sent_id = wikipedia.tagged.txt:43:700
 # text = Орыс және түрік тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve türk dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:44:713
 # text = Орыс және украин тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve ukraynaca dillerini biliyor.
+
 
 # sent_id = wikipedia.tagged.txt:45:726
 # text = Орыс және француз тілдерін біледі.
-# text[tur] = 
+# text[tur] = Rus ve fransızca dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:46:739
 # text = Осы жылдары ауыл шаруашылығында маңызды өзгерістер болды.
-# text[tur] = 
+# text[tur] = Şu yılları tarımında önemli dönüşümler oldu.
 
 # sent_id = wikipedia.tagged.txt:47:756
 # text = Сабақтар қазақ және орыс тілдерінде жүреді.
-# text[tur] = 
+# text[tur] = Dersler kazak ve rus dillerinde yürütülüyor.
 
 # sent_id = wikipedia.tagged.txt:48:771
 # text = Саратов экономикалық институтын «Халық шаруашылығын жоспарлау» мамандығы бойынша бітірген.
-# text[tur] = 
+# text[tur] = Saratov ekonomik enstitüsünü «Halk ekonomisini planlama» uzmanlıkı boyunca bitmiş.
 
 # sent_id = wikipedia.tagged.txt:49:796
 # text = Саяси мемлекеттік қызметкерлер өз халқы мен Президентке ант береді.
-# text[tur] = 
+# text[tur] = Siyasi milli hizmetkarlar kendi halkı ve Başkana ant veriyor.
 
 # sent_id = wikipedia.tagged.txt:50:817
 # text = Сергей Михайлович Бобров 1920-1994 жылдары Атырау облысында өмір сүрген.
-# text[tur] = 
+# text[tur] = Sergey Mihayloviç #Bobrov 1920-1994 yılları Atırav bölgesinde yaşamış.
 
 # sent_id = wikipedia.tagged.txt:51:842
 # text = Соғыстан кейін Федор Федорович Қарағандыда тұрды.
