@@ -5290,6 +5290,8 @@
 
      <e><p><l>авторитарлық<s n="adj"/></l><r>otoriter<s n="adj"/></r></p></e>
 <e><p><l>практикалық<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
+<e><p><l>циклдық<s n="adj"/></l><r>periyodik<s n="adj"/></r></p></e>
+<e><p><l>атқарушылық<s n="adj"/></l><r>idari<s n="adj"/></r></p></e>
 <e><p><l>экологиялық<s n="adj"/></l><r>ekolojik<s n="adj"/></r></p></e>
 <e><p><l>күндізгі<s n="adj"/></l><r>gündüz<s n="adj"/></r></p></e>
      <e><p><l>адал<s n="adj"/></l><r>dürüst<s n="adj"/></r></p></e>
@@ -5776,6 +5778,7 @@
      <e><p><l>анда<s n="adv"/></l><r>ora<s n="adv"/></r></p></e>
 
 <e><p><l>әрі<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
+<e><p><l>тік<s n="adv"/></l><r>dosdoğru<s n="adv"/></r></p></e>
 <e><p><l>анда-санда<s n="adv"/></l><r>ara-sıra<s n="adv"/></r></p></e>
 <e><p><l>тегін<s n="adv"/></l><r>bedava<s n="adv"/></r></p></e>
 <e><p><l>бұрын<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
@@ -5901,11 +5904,15 @@
      <!-- SECTION: Verbs -->
 
      <e><p><l>е<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+<e><p><l>ұр<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>орында<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жүзеге<b/>асыр<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сайла<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>толықтыр<s n="v"/><s n="tv"/></l><r>tümle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>атан<s n="v"/><s n="iv"/></l><r>ata<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ту<s n="v"/><s n="iv"/></l><r>doğ<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>жара<s n="v"/><s n="iv"/></l><r>eşleş<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>қабыл<b/>ал<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жерлен<s n="v"/><s n="iv"/></l><r>yerleş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>туында<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>түс<s n="v"/><s n="iv"/></l><r>yararlan<s n="v"/><s n="iv"/></r></p></e>

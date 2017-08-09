@@ -3714,7 +3714,7 @@
 
 # sent_id = wikipedia.tagged.txt:53:866
 # text = Сөздерін екеуі де қабыл алды.
-# text[tur] = 
+# text[tur] = Sözlerini ikisi da kabul etti.
 
 # sent_id = wikipedia.tagged.txt:54:878
 # text = Сөйтіп, Алашордасының бастығына Ғ. Бөкейхан сайланды.
@@ -3722,7 +3722,7 @@
 
 # sent_id = wikipedia.tagged.txt:55:895
 # text = Сөйтіп практикалық қажеттілік астрономия ғылымының тууына ең басты түрткі болды.
-# text[tur] = 
+# text[tur] = Böyle pratik ihtiyaç/ihtiyaç astronomi iliminin doğmasına başlıca motivasyon oldu.
 
 # sent_id = wikipedia.tagged.txt:56:918
 # text = Сөйтіп сүйек бұзылып, аяқ формасы өзгереді.
@@ -3738,7 +3738,7 @@
 
 # sent_id = wikipedia.tagged.txt:59:995
 # text = Сүйсем де, сол сөзіне жарамаймын.
-# text[tur] = Sevsem da, şu sözüne *жарамаймын.
+# text[tur] = Sevsem da, şu sözüne eşleşmiyorum.
 
 # sent_id = wikipedia.tagged.txt:60:1009
 # text = Съезде Алашорда үкіметінің мүшелігіне сайланады.
@@ -3746,7 +3746,7 @@
 
 # sent_id = wikipedia.tagged.txt:61:1022
 # text = Тек атқарушылық құжаттардың негізінде жүзеге асырылады.
-# text[tur] = 
+# text[tur] = Tek idari dosyaların esasında yerine getiriliyor. 
 
 # sent_id = wikipedia.tagged.txt:62:1037
 # text = Темір тапшылығының кезеңдері кестеде көрсетілген.
@@ -3758,7 +3758,7 @@
 
 # sent_id = wikipedia.tagged.txt:64:1063
 # text = Тік көріп алды да жерге ұрды.
-# text[tur] = 
+# text[tur] = Dosdoğru gördü da yere vurdu.
 
 # sent_id = wikipedia.tagged.txt:65:1077
 # text = Топырақ картасында топырақтың түрлері көрсетіледі.
@@ -3782,7 +3782,7 @@
 
 # sent_id = wikipedia.tagged.txt:70:1148
 # text = Циклдық жұмыссыздық-өндірістің құлдырауынан туындайды.
-# text[tur] = *Циклдық işsizlik-imalatın düşüşünden çıkıyor.
+# text[tur] = Periyodik işsizlik-imalatın düşüşünden çıkıyor.
 
 # sent_id = wikipedia.tagged.txt:71:1163
 # text = Чемпионаттың жеңімпазы Швеция құрамасы атанды.
