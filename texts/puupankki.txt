@@ -3706,11 +3706,11 @@
 
 # sent_id = wikipedia.tagged.txt:51:842
 # text = Соғыстан кейін Федор Федорович Қарағандыда тұрды.
-# text[tur] = 
+# text[tur] = Savaştan sonra Fedor Fedorovich Karağandı'da durdu.
 
 # sent_id = wikipedia.tagged.txt:52:857
 # text = Михайлов зиратына жерленген.
-# text[tur] = 
+# text[tur] = Mihaylov mezarlığına yerleşmiş.
 
 # sent_id = wikipedia.tagged.txt:53:866
 # text = Сөздерін екеуі де қабыл алды.
@@ -3718,7 +3718,7 @@
 
 # sent_id = wikipedia.tagged.txt:54:878
 # text = Сөйтіп, Алашордасының бастығына Ғ. Бөкейхан сайланды.
-# text[tur] = 
+# text[tur] = Böyle, Alaşorda'sının başkanına Ğ. Bokeikhan seçildi.
 
 # sent_id = wikipedia.tagged.txt:55:895
 # text = Сөйтіп практикалық қажеттілік астрономия ғылымының тууына ең басты түрткі болды.
@@ -3726,7 +3726,7 @@
 
 # sent_id = wikipedia.tagged.txt:56:918
 # text = Сөйтіп сүйек бұзылып, аяқ формасы өзгереді.
-# text[tur] = 
+# text[tur] = Böyle kemik bozulup, son formu değişiyor.
 
 # sent_id = wikipedia.tagged.txt:57:935
 # text = Сонымен қатар монғол шапқыншылығы Қазақстанның және көрші аймақтардың этностық құрамына едәуір өзгерістер енгізді, этностық шекараларды өзгертті.
@@ -3734,15 +3734,15 @@
 
 # sent_id = wikipedia.tagged.txt:58:972
 # text = Сот билігі сот ісін жүргізудің заңмен белгіленген түрінде жүзеге асырылады.
-# text[tur] = 
+# text[tur] = Hakem yetkisi hakem işini yönetmenin yasayla atanılan türünde yerine getiriliyor.
 
 # sent_id = wikipedia.tagged.txt:59:995
 # text = Сүйсем де, сол сөзіне жарамаймын.
-# text[tur] = 
+# text[tur] = Sevsem da, şu sözüne *жарамаймын.
 
 # sent_id = wikipedia.tagged.txt:60:1009
 # text = Съезде Алашорда үкіметінің мүшелігіне сайланады.
-# text[tur] = 
+# text[tur] = kongrede Alaşorda hükümetinin üyeliğine seçiliyor.
 
 # sent_id = wikipedia.tagged.txt:61:1022
 # text = Тек атқарушылық құжаттардың негізінде жүзеге асырылады.
@@ -3750,11 +3750,11 @@
 
 # sent_id = wikipedia.tagged.txt:62:1037
 # text = Темір тапшылығының кезеңдері кестеде көрсетілген.
-# text[tur] = 
+# text[tur] = Demir eksikliğinin aşamaları tabloda gösterilmiş.
 
 # sent_id = wikipedia.tagged.txt:63:1050
 # text = Тәсілмен деректер базасының құрылымы көрсетілген.
-# text[tur] = 
+# text[tur] = Metotla veriler bazının aleti gösterilmiş.
 
 # sent_id = wikipedia.tagged.txt:64:1063
 # text = Тік көріп алды да жерге ұрды.
@@ -3762,7 +3762,7 @@
 
 # sent_id = wikipedia.tagged.txt:65:1077
 # text = Топырақ картасында топырақтың түрлері көрсетіледі.
-# text[tur] = 
+# text[tur] = Toprak haritasında toprakın türleri gösteriliyor.
 
 # sent_id = wikipedia.tagged.txt:66:1090
 # text = Түбін бөлу және тұқымы арқылы көбейтеді.
@@ -3770,35 +3770,35 @@
 
 # sent_id = wikipedia.tagged.txt:67:1105
 # text = Украина статистикасы мәліметтері бойынша алынды.
-# text[tur] = 
+# text[tur] = Ukrayna istatistiki bilgileri boyunca alındı.
 
 # sent_id = wikipedia.tagged.txt:68:1118
 # text = Украин және татар тілдерін біледі.
-# text[tur] = 
+# text[tur] = Ukraynaca ve tatarca dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:69:1131
 # text = Халықаралық қатынастар бөлімінің бастығы болып жұмыс істеді.
-# text[tur] = 
+# text[tur] = Uluslararası ilişkiler bölümünün başkanı olup çalıştı.
 
 # sent_id = wikipedia.tagged.txt:70:1148
 # text = Циклдық жұмыссыздық-өндірістің құлдырауынан туындайды.
-# text[tur] = 
+# text[tur] = *Циклдық işsizlik-imalatın düşüşünden çıkıyor.
 
 # sent_id = wikipedia.tagged.txt:71:1163
 # text = Чемпионаттың жеңімпазы Швеция құрамасы атанды.
-# text[tur] = 
+# text[tur] = Şampiyonanın kazananı İsveç bileşimi atadı.
 
 # sent_id = wikipedia.tagged.txt:72:1176
 # text = Чуваш, қазақ және орыс тілдерін біледі.
-# text[tur] = 
+# text[tur] = Çuvaşça, kazak ve rus dillerini biliyor.
 
 # sent_id = wikipedia.tagged.txt:73:1193
 # text = Экватордан оңтүстікке қарай құрлық біршама аз болады.
-# text[tur] = 
+# text[tur] = Ekvatordan güneye karşı kıta nispeten az oluyor.
 
 # sent_id = wikipedia.tagged.txt:74:1210
 # text = Экологиялық тәрбие экологиялық білім берумен толықтырылады.
-# text[tur] = 
+# text[tur] = Ekolojik eğitim ekolojik bilim gitmeyle tümleniyor.
 
 # sent_id = Өлген_қазан.tagged.txt:1:0
 # text = Баяғыда біреу той жасапты, тойға көп кісі жиналыпты, Қожа да келіпті.
