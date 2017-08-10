@@ -3802,23 +3802,23 @@
 
 # sent_id = Өлген_қазан.tagged.txt:1:0
 # text = Баяғыда біреу той жасапты, тойға көп кісі жиналыпты, Қожа да келіпті.
-# text[tur] = 
+# text[tur] = Çoktan #biri düğün #yap, düğüne çok #genclik #toparla, Ev sahibi da #gel
 
 # sent_id = Өлген_қазан.tagged.txt:2:27
 # text = Қожанасырдың үстіндегі киімі жаман екен.
-# text[tur] = 
+# text[tur] = Kozhanasyr'ın üstündeki kılığı kötüymüş.
 
 # sent_id = Өлген_қазан.tagged.txt:3:40
 # text = Қожанасырды ешкім елемепті.
-# text[tur] = 
+# text[tur] = Kozhanasyr'ı hiç kimse #tanıma.
 
 # sent_id = Өлген_қазан.tagged.txt:4:49
 # text = «Төрге шық, тамақ іш», - демепті.
-# text[tur] = 
+# text[tur] = Baş koltuğa, çık, ye iç, ....?
 
 # sent_id = Өлген_қазан.tagged.txt:5:72
 # text = Қожа үйден шығып кетеді де үйіне барып, тәуір киімдерін киіп, қайта келеді.
-# text[tur] = 
+# text[tur] = Ev sahibi evden #çık #git da evine alıp, doğru kılıklarını giyip, döndü.
 
 # sent_id = Өлген_қазан.tagged.txt:6:102
 # text = Бұл жолы үй иесі Қожанасырды құрметтейді, төрден орын береді, ет келгенде: - Қожеке, алыңыз, алыңыз! - деп, қошеметтейді.
@@ -3826,15 +3826,15 @@
 
 # sent_id = Өлген_қазан.tagged.txt:7:155
 # text = Қожа етті жемей, табаққа шапанының жеңін малып: - Же, шапаным, же! - деп, отыра береді.
-# text[tur] = 
+# text[tur] = Ev sahibi eti yemeyip, tabaka paltosunun kolunu sarıp: - Ye, paltom, ye! - diyip, oturdu.
 
 # sent_id = Өлген_қазан.tagged.txt:8:200
 # text = Үй иесі: - Сіздің бұ не қылғаныңыз? Шапан ет жейтін бе еді? - дейді.
-# text[tur] = 
+# text[tur] = Ev sahibi: - Sizin bu ya da yaptığınız? Palto et yemeklik mi idi? - diyor.
 
 # sent_id = Өлген_қазан.tagged.txt:9:236
 # text = Сонда Қожа: - Сен кісіні сыйламайды екенсің, киімді сыйлайды екенсің.
-# text[tur] = 
+# text[tur] = Şunda Ev sahibi: - Sen kişiyi #ödüllendir, kılığı #say.
 
 # sent_id = Өлген_қазан.tagged.txt:10:259
 # text = Сондықтан шапаныма жегізіп отырғаным! - деп, жауап береді.
@@ -3842,23 +3842,23 @@
 
 # sent_id = story.tagged.txt:1:0
 # text = АЗАМАТ ҚАЙДА?
-# text[tur] = 
+# text[tur] = AZAMAT NERDE?
 
 # sent_id = story.tagged.txt:2:6
 # text = Азамат пен Айгүл бақшада.
-# text[tur] = 
+# text[tur] = Azamat ve Aygül bahçede.
 
 # sent_id = story.tagged.txt:3:17
 # text = Ауа райы бүгін әбден жақсы, жылы.
-# text[tur] = 
+# text[tur] = Hava bugün pek güzel, ılık.
 
 # sent_id = story.tagged.txt:4:34
 # text = Бірақ кеше өте суық еді!
-# text[tur] = 
+# text[tur] = Ama dün çok soğuktu! 
 
 # sent_id = story.tagged.txt:5:47
 # text = Осы себептен олар далада ойнай алмады.
-# text[tur] = 
+# text[tur] = Şu sebepten onlar kapıda oynamıyor.
 
 # sent_id = story.tagged.txt:6:62
 # text = Азамат пен Айгүл ойнағанды жақсы көреді, олар әрдайым үлкен үйдің алдындағы бақшада бірге ойнайды.
@@ -3866,43 +3866,43 @@
 
 # sent_id = story.tagged.txt:7:95
 # text = Азамат алты жасар кішкентай бала.
-# text[tur] = 
+# text[tur] = Azamat altı yapacak küçük evlat
 
 # sent_id = story.tagged.txt:8:108
 # text = Қыз оның қарындасы, ол бес жаста.
-# text[tur] = 
+# text[tur] = Kız onun kız kardeşi, o beş yaşta. 
 
 # sent_id = story.tagged.txt:9:125
 # text = Азаматтың кішкентай бір күшігі бар, қазір ол да бақшада.
-# text[tur] = 
+# text[tur] = Azamatin küçük bir köpeği var, şimdi o da bahçede.
 
 # sent_id = story.tagged.txt:10:147
 # text = Күшік балалармен ойнағанды жақсы көреді.
-# text[tur] = 
+# text[tur] = Köpek evlatlarla oynadığını seviyor.
 
 # sent_id = story.tagged.txt:11:160
 # text = Күшігі қазір өте қуанышты.
-# text[tur] = 
+# text[tur] = Köpeği şimdi çok mutlu.
 
 # sent_id = story.tagged.txt:12:171
 # text = Ал Айгүлдің күшігі бар ма?
-# text[tur] = 
+# text[tur] = Aygül'ün köpeği var mı?
 
 # sent_id = story.tagged.txt:13:183
 # text = Жоқ, Айгүлдің күшігі жоқ, оның мысығы бар.
-# text[tur] = 
+# text[tur] = Hayır, Aygül'ün köpeği yok, onun kedisi var.
 
 # sent_id = story.tagged.txt:14:204
 # text = Бірақ мысығы үйде, ұйықтап жатыр.
-# text[tur] = 
+# text[tur] = Ama kedisi evde, uyuyor.
 
 # sent_id = story.tagged.txt:15:219
 # text = Олардың анасы мысығымен бірге үйде, ол терезеден Азамат пен Айгүлдің ойнағанына қарап тұр.
-# text[tur] = 
+# text[tur] = Onların anası kedisiyle bire evde, o pencereden Azamat ve Aygül'ün oynadığına bakıyor.
 
 # sent_id = story.tagged.txt:16:250
 # text = Азамат ескі үлкен бір ағашқа қарай қатты жүгіріп бара жатыр, ол сол ағаштың артына Айгүлден жасырынып жатыр.
-# text[tur] = 
+# text[tur] = Azamat eski iri bir ağaca karşı ....koşarak  gitti, o şu ağacın arkasına Aygül'den sığınıyor.
 
 # sent_id = story.tagged.txt:17:289
 # text = Не үшін екенін білесіз бе?
@@ -3910,7 +3910,7 @@
 
 # sent_id = story.tagged.txt:18:301
 # text = Айгүл қолымен көздерін жауып отыр.
-# text[tur] = 
+# text[tur] = Aygül koluyla gözlerini örtüyor.
 
 # sent_id = story.tagged.txt:19:314
 # text = Ол еш нәрсені көріп тұрған жоқ, ол санап жатыр.
@@ -3918,59 +3918,59 @@
 
 # sent_id = story.tagged.txt:20:333
 # text = Ол не үшін бүйтіп жатыр?
-# text[tur] = 
+# text[tur] = O ne için buluyor?
 
 # sent_id = story.tagged.txt:21:346
 # text = Ал Азамат ағаштың жанында не істеп жатыр?
-# text[tur] = 
+# text[tur] = Azamat ağacın yanında ya da çalışıyor?
 
 # sent_id = story.tagged.txt:22:363
 # text = Бұл ойын.
-# text[tur] = 
+# text[tur] = Bu oyun.
 
 # sent_id = story.tagged.txt:23:370
 # text = Айгүл санап біткеннен кейін айналасына қарады.
-# text[tur] = 
+# text[tur] = Aygül sayıp bittikten sonra etrafına baktı.
 
 # sent_id = story.tagged.txt:24:385
 # text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.
-# text[tur] = 
+# text[tur] = O Azamat hangi yere gitti? Onu gördünüz mı? deyip arıyor
 
 # sent_id = story.tagged.txt:25:417
 # text = Айгүл Азаматтың қайда екенін білмейді.
-# text[tur] = 
+# text[tur] = Aygül Azamat'ın  bilmiyor. ....?
 
 # sent_id = story.tagged.txt:26:430
 # text = Күшіктен "Азаматты көрдің бе?" деп сұрайды.
-# text[tur] = 
+# text[tur] = Köpekten Azamat'ı gördün mı? deyip/diyip soruyor.
 
 # sent_id = story.tagged.txt:27:450
 # text = Ал күшік, әлбетте, сөйлей алмайды.
-# text[tur] = 
+# text[tur] = Köpek, hakikaten konuşmuyor.
 
 # sent_id = story.tagged.txt:28:467
 # text = Демек, Айгүл өз сұрағына жауап ала алмайды.
-# text[tur] = 
+# text[tur] = Demek, Aygül kendi sorusuna yanıt alamadı.
 
 # sent_id = story.tagged.txt:29:486
 # text = Адамдар итпен сөйлескенде одан еш қашан жауап ала алмайды!
-# text[tur] = 
+# text[tur] = Adamlar itle konuştukta ondan hiç yanıt alamadı! 
 
 # sent_id = story.tagged.txt:30:507
 # text = Айгүл терезеде тұрған анасына қарайды.
-# text[tur] = 
+# text[tur] = Aygül pencerede durmuş anasına bakıyor.
 
 # sent_id = story.tagged.txt:31:520
 # text = Айгүл анасының жымиғанын көріп ол Азаматтың қай жерге кеткенін біледі деп ойлайды.
-# text[tur] = 
+# text[tur] = Aygül anasının gülümsediğini görüp o Azamat'ın hangi yere gittiğini biliyor deyip/diyip sandı.
 
 # sent_id = story.tagged.txt:32:547
 # text = "Азамат қайда, айтшы!" деп сұрайды.
-# text[tur] = 
+# text[tur] = Azamat nerde, söyleyin! deyip/diyip soruyor.
 
 # sent_id = story.tagged.txt:33:569
 # text = "Жоқ, Айгүл, айта алмаймын" деп анасы жауап береді.
-# text[tur] = 
+# text[tur] = "Hayır, Aygül, söyleyemiyor" deyip/diyip anası yanıt veriyor.
 
 # sent_id = story.tagged.txt:34:596
 # text = Ол Азаматтың қайда екенін білсе де айтқысы келген жоқ.
@@ -3978,63 +3978,65 @@
 
 # sent_id = story.tagged.txt:35:614
 # text = Айгүл бақшаның ішінде ақырын басып жүр.
-# text[tur] = 
+# text[tur] = Aygül bahçenin içinde dikkatli basıyor.
 
 # sent_id = story.tagged.txt:36:629
 # text = Әлі де Азаматты табуға әрекет етіп жүр.
-# text[tur] = 
+# text[tur] = Hâlâ da Azamat'ı bulmaya gayret ediyor.
 
 # sent_id = story.tagged.txt:37:646
 # text = Үстел және орындықтардың астына қарап жатыр, бірақ Азамат онда жоқ.
-# text[tur] = 
+# text[tur] = Masa ve sandalyelerin altına deniyor, ama Azamat orda yok
 
 # sent_id = story.tagged.txt:38:671
 # text = Ол барлық жерді қарап жүр, бірақ Азаматты таба алмай жатыр.
-# text[tur] = 
+# text[tur] = O bütün yeri seyrediyor, ama Azamat'ı #bul #al #+i.
 
 # sent_id = story.tagged.txt:39:696
 # text = Одан кейін ол бір дыбысты естиді, ол дыбыс ескі үлкен ағаштың артынан шығып жатыр.
-# text[tur] = 
+# text[tur] = Ondan sonra o bir ses işitiyor, o gürültü eski iri ağacın arkasından çıkıyor.
+
 
 # sent_id = story.tagged.txt:40:729
 # text = Мүмкін бұл Азамат шығар?
-# text[tur] = 
+# text[tur] = Muhtemel bu Azamat @шығар?
 
 # sent_id = story.tagged.txt:41:739
 # text = Ол дыбыс қайта естіледі!
-# text[tur] = 
+# text[tur] = O ses gene işitiliyor!
 
 # sent_id = story.tagged.txt:42:750
 # text = Айгүл оны ақырын тыңдайды.
-# text[tur] = 
+# text[tur] = Aygül onu dikkatli duyuyor.
 
 # sent_id = story.tagged.txt:43:761
 # text = Ол аң да, құс та емес.
-# text[tur] = 
+# text[tur] = O hayvan da, kuş ta değil.
 
 # sent_id = story.tagged.txt:44:776
 # text = Ол енді ол дыбысты анығырақ ести бастады.
-# text[tur] = 
+# text[tur] = O şimdi o ses barrak işitmeye başladı.
 
 # sent_id = story.tagged.txt:45:793
 # text = Бұл Азамат болу керек!
-# text[tur] = 
+# text[tur] = Bu Azamat olma gerek!
 
 # sent_id = story.tagged.txt:46:804
 # text = Одан кейін оған кішкентай бір қол көрінеді.
-# text[tur] = 
+# text[tur] = Ondan sonra ona küçük bir el görülüyor.
+
 
 # sent_id = story.tagged.txt:47:821
 # text = Жақынырақ келгенде ол оның басын да көреді.
-# text[tur] = 
+# text[tur] = yakın geldiğinde  o onun başını da görüyor.
 
 # sent_id = story.tagged.txt:48:837
 # text = "Сені таптым!" деп күледі.
-# text[tur] = 
+# text[tur] = Seni buldum! deyip/diyip gülüyor.
 
 # sent_id = story.tagged.txt:49:854
 # text = Олар екеуі де көңілді үйге қарай келе жатыр, бір нәрсе жеп, су ішетін уақыт болды!
-# text[tur] = 
+# text[tur] = Onlar ikisi da neşeli eve döndü, bir şey yiyip, su içip vakit oldu!
 
 # sent_id = Шымкент.tagged.txt:1:0
 # text = Шымкент — Қазақстандағы қала, Оңтүстік Қазақстан облысының орталығы.
