@@ -43,6 +43,14 @@
       <cat-item lemma="баста" tags="vaux.*"/>
     </def-cat>
 
+<def-cat n="adj">
+      <cat-item  tags="adj.*"/>
+      <cat-item  tags="adj"/>
+    </def-cat>
+
+<def-cat n="cop">
+      <cat-item  tags="cop.*"/>
+    </def-cat>
 
 
 
@@ -68,6 +76,12 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
+
+<def-attr n="evid">
+      <attr-item tags="evid"/>
+      <attr-item tags="dub"/>
+    </def-attr>
+
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
       <attr-item tags="p2.sg"/>
@@ -459,6 +473,43 @@
     </rule>
 
 
+<rule comment="REGLA: cop">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+     
+      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="evid"/></equal></test>
+                             
+        
+      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="dub"/></let>
+    </when>
+</choose>
+
+        <out>
+
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+         
+           <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          
+          </mlu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 

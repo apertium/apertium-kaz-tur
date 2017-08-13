@@ -1770,8 +1770,8 @@
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:111:1808
-# text = Түн түнереді.......not analysed
-# text[tur] = 
+# text = Түн түнереді
+# text[tur] = Gece somurtuyor
 
 # sent_id = kdt.tagged.txt:112:1815
 # text = Бірақ дыбыс білінбейді.
@@ -4040,19 +4040,19 @@
 
 # sent_id = Шымкент.tagged.txt:1:0
 # text = Шымкент — Қазақстандағы қала, Оңтүстік Қазақстан облысының орталығы.
-# text[tur] = 
+# text[tur] = Çimkent — Kazakistan'daki kent, Güney Kazakistan bölgesinin kökeni.
 
 # sent_id = Шымкент.tagged.txt:2:20
 # text = Тұрғыны шамамен 683,273 адам (2014 жыл).
-# text[tur] = 
+# text[tur] = Sakini takriben 683,273 adam (2014 yıl).
 
 # sent_id = Шымкент.tagged.txt:3:39
 # text = Қазақстанның басқа қалаларымен салыстырғанда тұрғыны жөнінен 3-ші орында (Алматы мен Астанадан кейін).
-# text[tur] = 
+# text[tur] = Kazakistan'ın başka kentleriyle kıyaslandığında  konutu yönünden 3'üncü yerde (Almatı ve Astana'dan sonra).
 
 # sent_id = Шымкент.tagged.txt:4:70
 # text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.
-# text[tur] = 
+# text[tur] = Şununla ayrıca, Çimkent Kazakistan'ın başlıca endüstri, ticari ve medeni kökenlerinin biri oluyor.
 
 # sent_id = Шымкент.tagged.txt:5:103
 # text = Бірқатар археолог-ғалымдардың пікірлері бойынша, бұл жерде үлкен қорым болған, егер бұл расталса, онда қаланың пайда болған мерзімі қайта қаралуы мүмкін.
@@ -4060,7 +4060,7 @@
 
 # sent_id = Шымкент.tagged.txt:6:156
 # text = Қандай болғанда да, қала ескі заманнан-ақ адамдардың өмір сүруіне қолайлы мекен болған.
-# text[tur] = 
+# text[tur] = herhangi olan da, kalarak eski zamandan yeterince adamların yaşamasına yatkın @мекен olmuş.
 
 # sent_id = Шымкент.tagged.txt:7:185
 # text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.
@@ -4076,47 +4076,47 @@
 
 # sent_id = Шымкент.tagged.txt:10:306
 # text = XX ғасырда қала тарихының жаңа кезеңі басталды.
-# text[tur] = 
+# text[tur] = XX asırda kent tarihinin yeni dönemi başlandı.
 
 # sent_id = Шымкент.tagged.txt:11:323
 # text = Қала халқы елдегі үлкен өзгерістер нәтижесінде жаңа жетістіктерге жете бастады.
-# text[tur] = 
+# text[tur] = Kent halkı ülkedeki büyük dönüşümler neticesinde yeni başarılara ulaşmaya başladı.
 
 # sent_id = Шымкент.tagged.txt:12:346
 # text = Қалада жаңа өндіріс орындары салынып, оқу орындары мен ғылыми, мәдениет ошақтары ашылды.
-# text[tur] = 
+# text[tur] = Kentte yeni imalat yerleri koyulup, okuma yerleri ben bilimsel, kültür ocakları açıldı.
 
 # sent_id = Шымкент.tagged.txt:13:377
 # text = Қала келбеті жаңа тұрғын үйлер, гүлзар, көшелері, саябақтарымен ажарлана түсті.
-# text[tur] = 
+# text[tur] = Kent ihtişamı yeni merkez evler, bulvar, caddeleri, parklarıyla güzelleşerek açıldı.
 
 # sent_id = Шымкент.tagged.txt:14:406
 # text = 30-шы жылдары Шымкентте қорғасын зауыты салынды.
-# text[tur] = 
+# text[tur] = 30'uncu yılları Çimkent'te kurşun fabrikası koyuldu.
 
 # sent_id = Шымкент.tagged.txt:15:421
 # text = Бұл алып өндіріс орны КСРО-дағы өндірілетін қорғасынның 70%-ін беріп отырды.
-# text[tur] = 
+# text[tur] = Bu müthiş imalat yeri SSCB'daki üreten kurşunun #70 gitti.
 
 # sent_id = Шымкент.tagged.txt:16:444
 # text = Қалада май комбинаты, шұлық және айна фабрикалары іске қосылды.
-# text[tur] = 
+# text[tur] = Kentte yağ kombinası, çorap ve ayna fabrikaları işe katıldı.
 
 # sent_id = Шымкент.tagged.txt:17:467
 # text = 1932 жылы ауылшаруашылық авиациясының базасы құрылып, бұл Шымкент әуежайының негізін қалады.
-# text[tur] = 
+# text[tur] = 1932 yılı *ауылшаруашылық havacılıkının bazı yapılıp, bu Çimkent havaalanının esasını istedi.
 
 # sent_id = Ер_Төстік.tagged.txt:1:0
 # text = Ерте заманда Ерназар деген кісі болыпты.
-# text[tur] = 
+# text[tur] = Eski zamanda Ernazar dedik/dedik kişi #ol.
 
 # sent_id = Ер_Төстік.tagged.txt:2:14
 # text = Ерназардың өзі бай болыпты.
-# text[tur] = 
+# text[tur] = Ernazar'ın kendisi zengin #ol.
 
 # sent_id = Ер_Төстік.tagged.txt:3:25
 # text = Төрт түлік малы сай болыпты.
-# text[tur] = 
+# text[tur] = Dört stok malı hazır olmuş.
 
 # sent_id = Ер_Төстік.tagged.txt:4:38
 # text = Қора толған қойлары болыпты.
@@ -4132,35 +4132,35 @@
 
 # sent_id = Ер_Төстік.tagged.txt:7:69
 # text = Ерназардың сегіз ұлы болыпты.
-# text[tur] = 
+# text[tur] = Ernazar'ın sekiz oğlu olmuş
 
 # sent_id = Ер_Төстік.tagged.txt:8:80
 # text = Бір жылы үлкен жұт болып, ел малын алысқа, отарға айдап кетіпті.
-# text[tur] = 
+# text[tur] = Bir yılı büyük jüt olup, ülke malını uzaka, koloniye sürdü.
 
 # sent_id = Ер_Төстік.tagged.txt:9:109
 # text = Ерназардың сегіз ұлы да соның ішінде кетіпті.
-# text[tur] = 
+# text[tur] = Ernazar'ın sekiz oğlu da şunun içinde gitmiş.
 
 # sent_id = Ер_Төстік.tagged.txt:10:125
 # text = Бір қыстық азығын алып, кемпірі мен Ерназар үйінде қалыпты.
-# text[tur] = 
+# text[tur] = Bir kışlık gıdasını #müthiş, kocakarısı ve Ernazar evinde kadırmış
 
 # sent_id = Ер_Төстік.tagged.txt:11:148
 # text = Ерназардың сегіз ұлы сол кеткеннен хабарсыз кетеді, айлар өтеді, келмейді.
-# text[tur] = 
+# text[tur] = Ernazar'ın sekiz oğlu şu ..... mesajsız gidiyor, aylar gidiyor, gelmiyor.
 
 # sent_id = Ер_Төстік.tagged.txt:12:176
 # text = Ерназардың азығы таусылады, ашығады, жейтін тамақ таппайды.
-# text[tur] = 
+# text[tur] = Ernazar'ın gıdası bitiliyor, ekşiyor, yemeklik yemek bulmuyor.
 
 # sent_id = Ер_Төстік.tagged.txt:13:197
 # text = Кемпірі екеуінің тұруға әлдері әрең-әрең келеді.
-# text[tur] = 
+# text[tur] = Kocakarısı #iki durmaya güçleri zar zor geliyor.
 
 # sent_id = Ер_Төстік.tagged.txt:14:212
 # text = Бір күні кешке жақын кемпірі төсегінен тұрып, үйінің түндігін ашады.
-# text[tur] = 
+# text[tur] = Bir günü akşama yakın kocakarısı döşekinden durup, evinin ocakını açıyor.
 
 # sent_id = Ер_Төстік.tagged.txt:15:237
 # text = Тұруға мұршасы келмей жатқан шал шаңыраққа қараса, шаңырақтың күлдіреуішінде керулі тұрған кер биенің төстігі көзіне түседі.
@@ -4168,7 +4168,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:16:274
 # text = Ерназар қуанып, есі шығады.
-# text[tur] = 
+# text[tur] = Ernazar neşelenip, çıldırıyor.
 
 # sent_id = Ер_Төстік.tagged.txt:17:287
 # text = Төстік бір күні ауылдың арасында отырған тарғақты садақпен тартып қалады.
