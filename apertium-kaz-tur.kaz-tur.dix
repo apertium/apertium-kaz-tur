@@ -299,6 +299,7 @@
      <e><p><l>оңтүстік<s n="n"/></l><r>güney<s n="n"/></r></p></e>
 <e><p><l>іш<s n="n"/></l><r>karın<s n="n"/></r></p></e>
 <e><p><l>тәуір<s n="n"/></l><r>hak<s n="n"/></r></p></e>
+<e><p><l>өріс<s n="n"/></l><r>otlak<s n="n"/></r></p></e>
 <e><p><l>гүлзар<s n="n"/></l><r>bulvar<s n="n"/></r></p></e>
 <e><p><l>дыбыс<s n="n"/></l><r>gürültü<s n="n"/></r></p></e>
 <e><p><l>ауа<b/>райы<s n="n"/></l><r>hava<s n="n"/></r></p></e>
@@ -5821,6 +5822,8 @@
 <e><p><l>бұрын<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
 <e><p><l>әлбетте<s n="adv"/></l><r>hakikaten<s n="adv"/></r></p></e>
 <e><p><l>онда<s n="adv"/></l><r>orada<s n="adv"/></r></p></e>
+
+<e><p><l>келе<b/>-келе<s n="adv"/></l><r>ara<b/>-sıra<s n="adv"/></r></p></e>
      <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/><s n="loc"/></r></p></e>
      <e><p><l>неге<s n="adv"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
 <e><p><l>неге<s n="adv"/><s n="itg"/></l><r>niye<s n="prn"/><s n="itg"/><s n="abl"/></r></p></e>
@@ -5954,6 +5957,8 @@
 <e><p><l>орында<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жүзеге<b/>асыр<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сайла<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>тол<s n="v"/><s n="iv"/></l><r>dol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ажарлан<s n="v"/><s n="iv"/></l><r>güzelleş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>сөйлес<s n="v"/><s n="iv"/></l><r>konuş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>мал<s n="v"/><s n="tv"/></l><r>sar<s n="v"/><s n="tv"/></r></p></e>

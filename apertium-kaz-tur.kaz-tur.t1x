@@ -78,8 +78,8 @@
     </def-attr>
 
 <def-attr n="evid">
-      <attr-item tags="evid"/>
-      <attr-item tags="dub"/>
+      <attr-item tags="aor.evid"/>
+      <attr-item tags="dub.aor"/>
     </def-attr>
 
     <def-attr n="a_pers_nbr">
@@ -483,10 +483,10 @@
 <choose>
    <when>
      
-      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="evid"/></equal></test>
+      <test><equal><clip pos="2" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
                              
         
-      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="dub"/></let>
+      <let><clip pos="2" side="tl" part="evid"/><lit-tag v="dub.aor"/></let>
     </when>
 </choose>
 

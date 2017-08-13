@@ -4124,11 +4124,11 @@
 
 # sent_id = Ер_Төстік.tagged.txt:5:49
 # text = Келе-келе түйелері болыпты.
-# text[tur] = 
+# text[tur] = Ara sıra develeri olmuş.
 
 # sent_id = Ер_Төстік.tagged.txt:6:58
 # text = Өріс толған жылқылары болыпты.
-# text[tur] = 
+# text[tur] = otlak dolan atları olmuş. 
 
 # sent_id = Ер_Төстік.tagged.txt:7:69
 # text = Ерназардың сегіз ұлы болыпты.
