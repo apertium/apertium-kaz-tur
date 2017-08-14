@@ -4108,7 +4108,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:1:0
 # text = Ерте заманда Ерназар деген кісі болыпты.
-# text[tur] = Eski zamanda Ernazar dedik/dedik kişi #ol.
+# text[tur] = Eski zamanda Ernazar diyen kişi #ol.
 
 # sent_id = Ер_Төстік.tagged.txt:2:14
 # text = Ерназардың өзі бай болыпты.
@@ -4120,7 +4120,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:4:38
 # text = Қора толған қойлары болыпты.
-# text[tur] = 
+# text[tur] = Avlu dolan koyunları olmuş.
 
 # sent_id = Ер_Төстік.tagged.txt:5:49
 # text = Келе-келе түйелері болыпты.
@@ -4172,19 +4172,19 @@
 
 # sent_id = Ер_Төстік.tagged.txt:17:287
 # text = Төстік бір күні ауылдың арасында отырған тарғақты садақпен тартып қалады.
-# text[tur] = 
+# text[tur] = Tostik bir günü köyün arasında oturan tavuğu yayla çekiyor.
 
 # sent_id = Ер_Төстік.tagged.txt:18:310
 # text = Садақ тарғақтың қанатын үзіп кетеді.
-# text[tur] = 
+# text[tur] = Yay tavuğun kanadını kırıyor.
 
 # sent_id = Ер_Төстік.tagged.txt:19:323
 # text = Тарғақ жығылмай, бір қанатын сабалап, қаша береді.
-# text[tur] = 
+# text[tur] = Tavuk düşümeyerk, bir kanatını vurup, kaçıyor.
 
 # sent_id = Ер_Төстік.tagged.txt:20:344
 # text = Төстік ұстайын деп қуып жүреді.
-# text[tur] = 
+# text[tur] = .....tutan deyip kovaladı.
 
 # sent_id = Ер_Төстік.tagged.txt:21:357
 # text = Сөйтіп жүргенде, тарғақ бір кемпірдің өрмегінің үстінен қарғып өтеді.
@@ -4204,5 +4204,5 @@
 
 # sent_id = Ер_Төстік.tagged.txt:25:426
 # text = Төстік бұрын ағалары бар екенін естіген жоқ екен.
-# text[tur] = 
+# text[tur] = Tostik önce amcaları #var işitmemiş.
 
