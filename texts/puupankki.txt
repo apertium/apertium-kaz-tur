@@ -4,79 +4,79 @@
 
 # sent_id = әртүрлі.tagged.txt:1:0
 # text = Қой, қазақ бұлармен не ғып соғыса алсын?
-# text[tur] = Dur, kazaklar bunlarla niçin savaşabilsin ?
+# text[tur] = Dur, kazaklar bunlarla ne yaparak savaşabilsin?
 
 # sent_id = akorda-random.tagged.txt:1:0
 # text = Қазақстан осы өңірдегі бейбітшілікті қолдайды.
-# text[tur] = Kazakistan şu bölgedeki barışı destekler.
+# text[tur] = Kazakistan şu bölgedeki barışı destekliyor.
 
 # sent_id = akorda-random.tagged.txt:2:12
 # text = Дмитрий Медведевтің Астанаға сапары 22 мамырға жоспарланып отыр.
-# text[tur] = Dimitri Medvedev'in Astana'ya ziyareti 22 Mayısta planlanmaktadır.
+# text[tur] = Dimitri Medvedev Astana'ya seferi 22 Mayıs'a planlanıyor.
 
 # sent_id = akorda-random.tagged.txt:3:31
 # text = Біздің елде сізге ерекше құрметпен қарайды.
-# text[tur] = Ülkemizde size özel hürmet duyar.
+# text[tur] = Bizim ülkede size özel itibarla baktı.
 
 # sent_id = akorda-random.tagged.txt:4:46
 # text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
-# text[tur] = Bizim hükümet bu projeyi zorunlu destekler. 
+# text[tur] = Bizim Hükümet bu projeyi zorunlu olarak destekliyor.
 
 # sent_id = akorda-random.tagged.txt:5:65
 # text = - Көші-қон мәселелерін реттеу Қазақстан үшін маңызды болып саналады.
-# text[tur] = Göç meselelerini düzenlemek Kazakistan için önemli sayılır.
+# text[tur] = Göç meselelerini düzenleme Kazakistan için özü dikkate alıyor.
 
 # sent_id = akorda-random.tagged.txt:6:86
 # text = Қазіргі кезде қаланың ішкі өңірлік өнімі 20 есе өсті.
-# text[tur] = Şu anda şehrin iç bölgesel önemi 20 kat artı.
+# text[tur] = Şimdiki anda kentin iç bölgesel üretimi 20 kat çoğalttı.
 
 # sent_id = akorda-random.tagged.txt:7:107
 # text = Кәсіпорында сапа менеджментінің жүйесі енгізілген.
-# text[tur] = İşletmeye kalite yönetim sistemi eklendi.
+# text[tur] = Kuruluşta kalite yönetiminin sistemi eklenmiş.
 
 # sent_id = akorda-random.tagged.txt:8:120
 # text = Жобаны 5 кезеңге бөліп, 12 жылда жүзеге асыру жоспарланып отыр.
-# text[tur] = Proje 5 kereye bölünüp, 12 yılda uygulanması planlanıyor.
+# text[tur] = Projeyi 5 aşamaya bölüp, 12 yılda gerçekleştirme planlanıyor.
 
 # sent_id = akorda-random.tagged.txt:9:145
 # text = Бұл өте тиімді келісімшарт.
-# text[tur] = Bu çok karlı bir sözleşme.
+# text[tur] = Bu çok karlı kontrat.
 
 # sent_id = akorda-random.tagged.txt:10:156
 # text = Әлемде мұндай тәжірибе бар.
-# text[tur] = Alemde(Dünyada) bundan deneyim var.
+# text[tur] = Evrende böyle deneyim var.
 
 # sent_id = akorda-random.tagged.txt:11:167
 # text = Есірткі бизнесі де Орталық Азия аймағы үшін қауіп болып отыр.
-# text[tur] = Uyuşturucu kaçaklığı da Orta Asya bölgesi için tehlikeli olur.
+# text[tur] = Uyuşturucu işi da orta Asya bölgesi için tehlike oluyor.
 
 # sent_id = akorda-random.tagged.txt:12:189
 # text = Кірпіш өндіруге жергілікті шикізат пайдаланылады.
-# text[tur] = Kerpiç üretiminde yerel ham madde kullanılır.
+# text[tur] = Kerpiç üretmeye yerel ham kullanılıyor.
 
 # sent_id = akorda-random.tagged.txt:13:202
 # text = - Бас прокуратураның және Бас прокурордың жұмысын қолдаймын.
-# text[tur] = Baş savcılığnın ve baş savcının çalışmasını destekler.
+# text[tur] = Baş savcılığın ve Baş savcının kurumunu koruyorum.
 
 # sent_id = akorda-random.tagged.txt:14:221
 # text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
-# text[tur] = Başkan bügünde Astana büyük ilimizin iyiliğine olduğu tebliğatını hitap etti. 
+# text[tur] = Başkan bugünde Astana #tüm ülkemizin başarısı olanını dikkate aldı.
 
 # sent_id = akorda-random.tagged.txt:15:244
 # text = Қалыптасу кезеңі табысты аяқталды.
-# text[tur] = Oluşumu başarıyla tamamlanmıştır.
+# text[tur] = Şekillendirme aşaması kazançlı bitirildi.
 
 # sent_id = akorda-random.tagged.txt:16:255
 # text = Астанада барлық қажетті жабдықтармен жабдықталған ірі медициналық орталықтар бар.
-# text[tur] = Astana'da tüm gerekli ekipmanala donatılmış büyük tıbbi merkezler var.
+# text[tur] = Astana'da bütün zarureti ekipmanla donatılan büyük tıbbi merkezler var.
 
 # sent_id = akorda-random.tagged.txt:17:276
 # text = Өзінің базалық өлшемі бойынша ол орындалды.
-# text[tur] = kendisinin esas ölçümü  göre ayarlanır.-------------------------------------must translate again
+# text[tur] = kendisinin esas ölçümü  boyunca o uyguladı.-------------------------------------must translate again
 
 # sent_id = akorda-random.tagged.txt:18:291
 # text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
-# text[tur] = Şimdi 1 milyar. ABD dolarına değin  karı var  birlikte esas oluşturdu.......translate again
+# text[tur] = Şimdi 1 milyar. ABC dolarına kadar geliri var birleşik mal yapılıyor.
 
 # sent_id = akorda-random.tagged.txt:19:318
 # text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
@@ -4184,11 +4184,11 @@
 
 # sent_id = Ер_Төстік.tagged.txt:20:344
 # text = Төстік ұстайын деп қуып жүреді.
-# text[tur] = .....tutan deyip kovaladı.
+# text[tur] = Tostik tutun deyip kovalayor.
 
 # sent_id = Ер_Төстік.tagged.txt:21:357
 # text = Сөйтіп жүргенде, тарғақ бір кемпірдің өрмегінің үстінен қарғып өтеді.
-# text[tur] = 
+# text[tur] = Şöyle ederekte, tavuk bir kocakarının ağının üstünden atlayıp gidiyor.
 
 # sent_id = Ер_Төстік.tagged.txt:22:380
 # text = Қуып келе жатқан Төстік те өрмектен секіреді.
