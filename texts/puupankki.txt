@@ -80,7 +80,7 @@
 
 # sent_id = akorda-random.tagged.txt:19:318
 # text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
-# text[tur] = 
+# text[tur] = Halkın ümiti ben Sizin #inanç #ağart aldığıma mutluyum.
 
 # sent_id = akorda-random.tagged.txt:20:338
 # text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады.
@@ -1735,7 +1735,7 @@
 
 # sent_id = kdt.tagged.txt:102:1649
 # text = Сол сөзді бітірген кезде тағы үш орыс келді.
-# text[tur] = O sözü bitirilmiş anda üstelik  üç rus geldi.
+# text[tur] = O sözü bitiren anda daha üç rus geldi.
 
 # sent_id = kdt.tagged.txt:103:1668
 # text = Ай жоқ.
@@ -1823,7 +1823,7 @@
 
 # sent_id = kdt.tagged.txt:124:2021
 # text = Қарағысы келмеді, теріс айналды.
-# text[tur] = Bakmadı , negetive düşündü.
+# text[tur] = Bakmak istemiyor, negative düşündü.
 
 # sent_id = kdt.tagged.txt:125:2034
 # text = Ауылына келгендей қуанып кетті.

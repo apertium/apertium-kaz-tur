@@ -330,7 +330,7 @@
 <e><p><l>Отан<s n="n"/></l><r>vatan<s n="n"/></r></p></e>
 <e><p><l>құрама<s n="n"/></l><r>bileşim<s n="n"/></r></p></e>
 <e><p><l>мүшелік<s n="n"/></l><r>üyelik<s n="n"/></r></p></e>
-<e><p><l>экспозициялық<s n="adj"/></l><r>gösteri<s n="n"/></r></p></e>
+<e><p><l>экспозициялық<s n="adj"/></l><r>gösteri<s n="n"/><s n="attr"/></r></p></e>
 <e><p><l>ерлік<s n="n"/></l><r>kahramanlık<s n="n"/></r></p></e>
 <e><p><l>дәрі<s n="n"/></l><r>ilaç<s n="n"/></r></p></e>
 <e><p><l>немере<s n="n"/></l><r>torun<s n="n"/></r></p></e>
@@ -6134,7 +6134,7 @@
  <e><p><l>ашық<s n="v"/><s n="iv"/></l><r>ekşi<s n="v"/><s n="iv"/></r></p></e>    
      <e><p><l>бағала<s n="v"/><s n="tv"/></l><r>fiyatla<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>байла<s n="v"/><s n="tv"/></l><r>bağla<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>Қал<s n="v"/><s n="tv"/></l><r>hal<s n="v"/><s n="tv"/></r></p></e>
+<!--<e><p><l>Қал<s n="v"/><s n="tv"/></l><r>hal<s n="v"/><s n="tv"/></r></p></e>-->
      <e><p><l>бақ<s n="v"/><s n="tv"/></l><r>besle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>есті<s n="v"/><s n="tv"/></l><r>işit<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>килік<s n="v"/><s n="tv"/></l><r>geç<s n="v"/><s n="tv"/></r></p></e>
@@ -6244,6 +6244,7 @@
      <e><p><l>іш<s n="v"/><s n="tv"/></l><r>iç<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>қабылда<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>қал<s n="v"/><s n="iv"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>қал<s n="v"/><s n="iv"/></l><r>çekin<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>қала<s n="v"/><s n="tv"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>қамты<s n="v"/><s n="tv"/></l><r>kapsa<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>қара<s n="v"/><s n="tv"/></l><r>bak<s n="v"/><s n="iv"/></r></p></e>
@@ -6439,7 +6440,7 @@
      <e><p><l>жұмыста<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>істе<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
     
-     <e><p><l>бітір<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>бітір<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>түгес<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тауыс<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тауар<b/>айналым<s n="n"/></l><r>ticaret<s n="v"/></r></p></e>

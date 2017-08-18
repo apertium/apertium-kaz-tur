@@ -27,9 +27,15 @@
       <cat-item tags="vaux.fut_plan.*"/>
     </def-cat>
 
+<def-cat n="vaux-aor">
+      <cat-item tags="vaux.aor.*"/>
+    </def-cat>
+
 <def-cat n="prc_perf">
       <cat-item tags="v.*.prc_perf"/>
     </def-cat>
+
+
 
 <def-cat n="ifi">
       <cat-item tags="vaux.ifi.*"/>
@@ -123,11 +129,11 @@
 
 <choose>
    <when>
-       <!-- IF: a_pers_nbr IS p2.frm.sg -->
-      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+
+     <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
                              <lit-tag v="p2.frm.sg"/></equal></test>
-        <!-- THEN: LET a_pers_nbr BE p2.pl -->
-      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+  
+     <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
     </when>
 </choose>
 <let>
@@ -153,7 +159,7 @@
 
 
 
-  <rule comment="REGLA: AOR">
+  <rule comment="REGLA: past">
       <pattern>
         <pattern-item n="past"/>
       </pattern>
@@ -188,7 +194,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: AOR">
+<rule comment="REGLA: fut plan">
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="fut_plan"/>
@@ -250,7 +256,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: AOR">
+<rule comment="REGLA: ifi">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="ifi"/>
@@ -286,6 +292,7 @@
         </out>
       </action>
     </rule>
+
 <rule comment="REGLA: ifi">
        <pattern>
         <pattern-item n="ifi"/>    
@@ -308,7 +315,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: AOR">
+<rule comment="REGLA: pres">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="pres"/>
@@ -326,6 +333,44 @@
 </choose>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="whole"/><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: aor">
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux-aor"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+      
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+      
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
 </let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
@@ -417,6 +462,8 @@
 
 
 
+
+
     <rule comment="REGLA: prc_perf yat_pres">
       <pattern>
         <pattern-item n="prc_perf"/>
@@ -475,7 +522,7 @@
 
 <rule comment="REGLA: cop">
       <pattern>
-        <pattern-item n="adj"/>
+      <pattern-item n="adj"/>
         <pattern-item n="cop"/>
       </pattern>
       <action>
@@ -499,13 +546,12 @@
           <mlu>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-            </lu>
-         
-           <lu>
+             </lu> 
+             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
-          
           </mlu>
+          
           </chunk>
         </out>
       </action>
