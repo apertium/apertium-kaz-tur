@@ -5724,7 +5724,8 @@
      <e><p><l>терең<s n="adj"/></l><r>derin<s n="adj"/></r></p></e>
      <e><p><l>тәріздес<s n="adj"/></l><r>aynı<s n="adj"/></r></p></e>
      <e><p><l>тәріздес<s n="adj"/></l><r>benzer<s n="adj"/></r></p></e>
-     <e><p><l>теріс<s n="adj"/></l><r>negatif<s n="adj"/></r></p></e>
+    
+<e><p><l>теріс<s n="adj"/><s n="advl"/></l><r>ters<s n="adj"/></r></p></e>
      <e><p><l>тәуелді<s n="adj"/></l><r>has<s n="adj"/></r></p></e>
      <e><p><l>тәуелді<s n="adj"/></l><r>mensup<s n="adj"/></r></p></e>
      <e><p><l>тәуелсіз<s n="adj"/></l><r>bağımsız<s n="adj"/></r></p></e>
@@ -6887,7 +6888,7 @@
 <e><p><l>жарияла<s n="v"/><s n="tv"/></l><r>yayınla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>орна<s n="v"/><s n="iv"/></l><r>kurul<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жарлық<s n="n"/></l><r>kararname<s n="n"/></r></p></e>
-<e><p><l>қара<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>жас<s n="n"/></l><r>yaş<s n="n"/></r></p></e>
 <e><p><l>жас<s n="n"/></l><r>genç<s n="n"/></r></p></e>
 <e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
@@ -7079,7 +7080,8 @@
 <e><p><l>кейін<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
 <e><p><l>ретінде<s n="post"/></l><r>olarak<s n="post"/></r></p></e>
 <e><p><l>кейінгі<s n="adj"/></l><r>sonraki<s n="adj"/></r></p></e>
-<e><p><l>кел<s n="vaux"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>кел<s n="vaux"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>кел<s n="vaux"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>кел<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>келесі<s n="adj"/></l><r>gelecek<s n="adj"/></r></p></e>
@@ -7222,7 +7224,7 @@
 <e><p><l>мамыр<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
 <e><p><l>маң<s n="n"/></l><r>yakın<s n="n"/></r></p></e>
 
-<e><p><l>маңызды<s n="adj"/></l><r>önemli<s n="adj"/></r></p></e>
+<e><p><l>маңызды<s n="adv"/></l><r>önemli<s n="adj"/></r></p></e>
 <e><p><l>Марченко<s n="np"/><s n="cog"/><s n="mf"/></l><r>Marchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Медведев<s n="np"/><s n="cog"/><s n="mf"/></l><r>Medvedev<s n="np"/><s n="top"/><s n="mf"/></r></p></e>
 <e><p><l>медициналық<s n="adj"/><s n="pl"/></l><r>tıbbi<s n="adj"/></r></p></e>

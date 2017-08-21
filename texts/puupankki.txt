@@ -1823,7 +1823,7 @@
 
 # sent_id = kdt.tagged.txt:124:2021
 # text = Қарағысы келмеді, теріс айналды.
-# text[tur] = Bakmak istemiyor, negative düşündü.
+# text[tur] = Bakmak istemdi, ters döndü.
 
 # sent_id = kdt.tagged.txt:125:2034
 # text = Ауылына келгендей қуанып кетті.

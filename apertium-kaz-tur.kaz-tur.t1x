@@ -27,6 +27,14 @@
       <cat-item tags="vaux.fut_plan.*"/>
     </def-cat>
 
+<def-cat n="prc_vol">
+      <cat-item tags="v.*.prc_vol.*"/>
+    </def-cat>
+
+<def-cat n="gpr_past">
+      <cat-item tags="v.*.gpr_past.*"/>
+    </def-cat>
+
 <def-cat n="vaux-aor">
       <cat-item tags="vaux.aor.*"/>
     </def-cat>
@@ -34,6 +42,8 @@
 <def-cat n="prc_perf">
       <cat-item tags="v.*.prc_perf"/>
     </def-cat>
+
+
 
 
 
@@ -47,6 +57,10 @@
 
 <def-cat n="баста">
       <cat-item lemma="баста" tags="vaux.*"/>
+    </def-cat>
+
+<def-cat n="кел">
+      <cat-item lemma="кел" tags="vaux.*"/>
     </def-cat>
 
 <def-cat n="adj">
@@ -87,6 +101,36 @@
       <attr-item tags="aor.evid"/>
       <attr-item tags="dub.aor"/>
     </def-attr>
+
+
+
+<def-attr n="tenses">
+      <attr-item tags="ifi"/>
+      <attr-item tags="fut"/>
+     <attr-item tags="past"/>
+<attr-item tags="aor"/>
+    </def-attr>
+
+<def-attr n="neg">
+      <attr-item tags="neg"/>
+      
+    </def-attr>
+
+
+
+
+
+<def-attr n="V_trans">
+     <attr-item tags="iv"/>
+     <attr-item tags="tv"/>
+
+   </def-attr>
+  <def-attr n="POS">
+     <attr-item tags="v"/>
+     <attr-item tags="n"/>
+     <attr-item tags="adj"/>
+     <attr-item tags="adv"/>
+   </def-attr>
 
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -551,6 +595,42 @@
               <clip pos="2" side="tl" part="whole"/>
             </lu>
           </mlu>
+          
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: prc_vol+кел">
+      <pattern>
+      <pattern-item n="prc_vol"/> 
+<pattern-item n="кел"/>
+      </pattern>
+      <action>
+
+<!--<choose>
+   <when>
+     
+      <test><equal><clip pos="2" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
+                             
+        
+      <let><clip pos="2" side="tl" part="evid"/><lit-tag v="dub.aor"/></let>
+    </when>
+</choose>-->
+
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+         
+            <lu>
+              <clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="POS"/><clip pos="1" side="tl" part="V_trans"/><lit-tag v="ger_inf"/><lit-tag v="nom"/></lu>
+             <b/> 
+             <lu>
+              <clip pos="2" side="tl" part="lem"/><clip pos="2" side="tl" part="POS"/><clip pos="2" side="tl" part="V_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
           
           </chunk>
         </out>
