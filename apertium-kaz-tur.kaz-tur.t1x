@@ -32,7 +32,7 @@
     </def-cat>
 
 <def-cat n="gpr_past">
-      <cat-item tags="v.*.gpr_past.*"/>
+      <cat-item tags="v.*.gpr_past"/>
     </def-cat>
 
 <def-cat n="vaux-aor">
@@ -108,7 +108,7 @@
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
      <attr-item tags="past"/>
-<attr-item tags="aor"/>
+     <attr-item tags="aor"/>
     </def-attr>
 
 <def-attr n="neg">
@@ -123,6 +123,12 @@
 <def-attr n="V_trans">
      <attr-item tags="iv"/>
      <attr-item tags="tv"/>
+
+   </def-attr>
+
+<def-attr n="a_gpr">
+     <attr-item tags="gpr_past"/>
+     <attr-item tags="gpr_rsub"/>
 
    </def-attr>
   <def-attr n="POS">
@@ -148,6 +154,7 @@
 <attr-item tags="prc_impf"/>
 <attr-item tags="prog"/>
 <attr-item tags="past"/>
+
     </def-attr>
   </section-def-attrs>
 
@@ -203,7 +210,7 @@
 
 
 
-  <rule comment="REGLA: past">
+  <rule comment="REGLA: past" >
       <pattern>
         <pattern-item n="past"/>
       </pattern>
@@ -237,8 +244,7 @@
         </out>
       </action>
     </rule>
-
-<rule comment="REGLA: fut plan">
+<rule comment="REGLA: fut plan" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="fut_plan"/>
@@ -278,7 +284,7 @@
 
 
 
-<rule comment="REGLA: fut">
+<rule comment="REGLA: fut" >
        <pattern>
         <pattern-item n="fut"/>    
       </pattern>
@@ -300,7 +306,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: ifi">
+<rule comment="REGLA: ifi" >
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="ifi"/>
@@ -359,6 +365,54 @@
       </action>
     </rule>
 
+
+<!--<rule-group>-->
+<rule comment="REGLA: gpr_past - gpr_past" >
+       <pattern>
+        <pattern-item n="gpr_past"/>    
+      </pattern>
+      <action>
+
+<let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="px3sp"/></concat>
+        </let>
+       
+        <out>
+          <chunk name="gpr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: gpr_past - gpr_rsub">
+       <pattern>
+        <pattern-item n="gpr_past"/>    
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_gpr"/>
+          <lit-tag v="gpr_rsub"/>
+        </let>
+        <out>
+          <chunk name="gpr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+   <!--</rule-group>-->
 <rule comment="REGLA: pres">
       <pattern>
         <pattern-item n="prc_perf"/>

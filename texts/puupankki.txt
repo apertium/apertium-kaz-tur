@@ -20,7 +20,7 @@
 
 # sent_id = akorda-random.tagged.txt:4:46
 # text = - Біздің Үкімет бұл жобаны міндетті түрде қолдайды.
-# text[tur] = Bizim Hükümet bu projeyi zorunlu olarak destekliyor.
+# text[tur] = Bizim Hükümet bu projeyi zorunlu türde destekliyor.
 
 # sent_id = akorda-random.tagged.txt:5:65
 # text = - Көші-қон мәселелерін реттеу Қазақстан үшін маңызды болып саналады.
@@ -72,7 +72,7 @@
 
 # sent_id = akorda-random.tagged.txt:17:276
 # text = Өзінің базалық өлшемі бойынша ол орындалды.
-# text[tur] = kendisinin esas ölçümü  boyunca o uyguladı.-------------------------------------must translate again
+# text[tur] = kendisinin esas ölçümü  boyunca o uyguladı.
 
 # sent_id = akorda-random.tagged.txt:18:291
 # text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
@@ -176,8 +176,8 @@
 # text[tur] = Ondan sonra memleket başkanın çalışma ziyareti Temirtau şehrinde devam etti.
 
 # sent_id = akorda-random.tagged.txt:43:758
-# text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес......?must transalte 
-# text[tur] = Tek dış krediye güvenmek akıllıca değil.
+# text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес......?must transalte????????? 
+# text[tur] = Tek dış krediye güvenmek akıllılık değil.
 
 # sent_id = akorda-random.tagged.txt:44:775
 # text = - Сіздер осында тұрып жатырсыздар, ал Астанада жұмыс істейсіздер.
@@ -4200,7 +4200,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:24:413
 # text = Өрмектің бірсыпыра жібі үзіліп қалады.
-# text[tur] = 
+# text[tur] = Aniden bazı kuruağaç kesilecek.
 
 # sent_id = Ер_Төстік.tagged.txt:25:426
 # text = Төстік бұрын ағалары бар екенін естіген жоқ екен.
