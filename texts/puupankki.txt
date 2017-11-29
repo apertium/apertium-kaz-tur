@@ -60,7 +60,7 @@
 
 # sent_id = akorda-random.tagged.txt:14:221
 # text = Президент бүгінде Астана бүкіл еліміздің игілігі болып табылатынын атап өтті.
-# text[tur] = Başkan bugünde Astana #tüm ülkemizin başarısı olanını dikkate aldı.
+# text[tur] = Başkan bugünde Astana tüm ülkemizin iyiliği olanını dikkate aldı.
 
 # sent_id = akorda-random.tagged.txt:15:244
 # text = Қалыптасу кезеңі табысты аяқталды.
@@ -76,7 +76,7 @@
 
 # sent_id = akorda-random.tagged.txt:18:291
 # text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
-# text[tur] = Şimdi 1 milyar. ABC dolarına kadar geliri var birleşik mal yapılıyor.
+# text[tur] = Şimdi 1 milyar. ABC dolarına kadar geliri var birleşik mal yapılıyor.   Burdakaldım
 
 # sent_id = akorda-random.tagged.txt:19:318
 # text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
@@ -176,7 +176,7 @@
 # text[tur] = Ondan sonra memleket başkanın çalışma ziyareti Temirtau şehrinde devam etti.
 
 # sent_id = akorda-random.tagged.txt:43:758
-# text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес......?must transalte????????? 
+# text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес.
 # text[tur] = Tek dış krediye güvenmek akıllılık değil.
 
 # sent_id = akorda-random.tagged.txt:44:775

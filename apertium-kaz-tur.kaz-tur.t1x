@@ -113,6 +113,7 @@
       <attr-item tags="fut"/>
      <attr-item tags="past"/>
      <attr-item tags="aor"/>
+     
     </def-attr>
 
 <def-attr n="neg">
@@ -158,6 +159,8 @@
 <attr-item tags="prc_impf"/>
 <attr-item tags="prog"/>
 <attr-item tags="past"/>
+<attr-item tags="imp"/>
+
 
     </def-attr>
   </section-def-attrs>
@@ -174,8 +177,11 @@
           </let>
     </def-macro>
   </section-def-macros>
+  
+  
 
-  <section-rules>
+<section-rules>
+
     <rule comment="REGLA: AOR" id="Aor">
       <pattern>
         <pattern-item n="aor"/>
@@ -225,7 +231,7 @@
                              <lit-tag v="p2.frm.sg"/></equal></test>
         <!-- THEN: LET a_pers_nbr BE p2.pl -->
       <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
-    </when>
+   </when>
 </choose>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="imp"/>
@@ -233,7 +239,7 @@
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="abil"/><clip pos="2" side="tl" part="imp"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -285,6 +291,7 @@
         </out>
       </action>
     </rule>
+    
 <rule comment="REGLA: fut plan" >
       <pattern>
         <pattern-item n="prc_impf"/>
@@ -300,7 +307,7 @@
         <!-- THEN: LET a_pers_nbr BE p2.pl -->
       <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
     </when>
-</choose>
+</choose> 
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="fut"/>
 </let>
