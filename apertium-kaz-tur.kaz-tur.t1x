@@ -161,6 +161,7 @@
 <attr-item tags="prog"/>
 <attr-item tags="past"/>
 <attr-item tags="imp"/>
+<attr-item tags="gna_impf"/>
 
 
 
@@ -169,6 +170,10 @@
  <def-attr n="v_iv">
 <attr-item tags="v.iv"/>
 
+ </def-attr>
+ 
+ <def-attr n="v_tv">
+<attr-item tags="v.tv"/>
  </def-attr>
  
   </section-def-attrs>
@@ -211,6 +216,32 @@
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
+ <rule comment="REGLA: prc_perf" >
+      <pattern>
+        <pattern-item n="prc_perf"/>
+      </pattern>
+      <action>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="gna_impf"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_tv"/><lit-tag v="gna_impf"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
