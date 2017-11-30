@@ -22,6 +22,7 @@
 <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
+
     
 <def-cat n="opt">
       <cat-item tags="vaux.opt.*"/>
@@ -162,7 +163,14 @@
 <attr-item tags="imp"/>
 
 
+
     </def-attr>
+    
+ <def-attr n="v_iv">
+<attr-item tags="v.iv"/>
+
+ </def-attr>
+ 
   </section-def-attrs>
 
   <section-def-vars>
@@ -224,22 +232,14 @@
       </pattern>
       <action>
 
-<choose>
-   <when>
-       <!-- IF: a_pers_nbr IS p2.frm.sg -->
-      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
-                             <lit-tag v="p2.frm.sg"/></equal></test>
-        <!-- THEN: LET a_pers_nbr BE p2.pl -->
-      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
-   </when>
-</choose>
+
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="imp"/>
 </let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="abil"/><clip pos="2" side="tl" part="imp"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_iv"/><lit-tag v="abil"/><lit-tag v="imp"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
