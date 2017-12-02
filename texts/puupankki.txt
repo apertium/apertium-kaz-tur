@@ -76,19 +76,19 @@
 
 # sent_id = akorda-random.tagged.txt:18:291
 # text = Қазір 1 млрд. АҚШ долларына дейінгі қаражаты бар бірлескен қор құрылып жатыр.
-# text[tur] = Şimdi 1 milyar. ABC dolarına kadar geliri var birleşik mal yapılıyor.   Burdakaldım
+# text[tur] = Şimdi 1 milyar. ABC dolarına kadar geliri var karşılıklı mal yapılıyor.   
 
 # sent_id = akorda-random.tagged.txt:19:318
-# text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.
-# text[tur] = Halkın ümiti ben Sizin #inanç #ağart aldığıma mutluyum.
+# text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.  "!ақта"
+# text[tur] = Halkın ümiti ben Sizin #inanç #ağar aldığıma mutluyum.
 
 # sent_id = akorda-random.tagged.txt:20:338
-# text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады.
-# text[tur] = Şimdi şu temelde siyasi sistemin giderek demokratikleşmesinde başladı.
+# text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады. "Енді!"
+# text[tur] = Şimdi şu temelde siyasi sistemin giderek demokratikleştirmeyi başladı.
 
 # sent_id = akorda-random.tagged.txt:21:357
 # text = Бұл Қазақстанның бәсекеге қабілетті әлеуеті бар салалар.
-# text[tur] = Bu Kazakistanın rekabetde iyi  potansiyeli var olan alanlar.
+# text[tur] = Bu Kazakistan'ın rekabete iyi potansiyeli var alanlar.
 
 # sent_id = akorda-random.tagged.txt:22:374
 # text = Тұрғын үй кешені 487 пәтерден тұрады.
@@ -96,35 +96,35 @@
 
 # sent_id = akorda-random.tagged.txt:23:389
 # text = Біздің өңір үшін – бұл стратегиялық жол.
-# text[tur] = Bölgemiz için - stratijik yol.
+# text[tur] = Bizim yöre için – bu stratejik yol.
 
 # sent_id = akorda-random.tagged.txt:24:406
 # text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
-# text[tur] = XXI yüzyılda anayasamızı farklı şekilde  okumak gerek.
+# text[tur] = XX*I asırda bizim Anayasamızı farklı şekilde okuma zaruret. "!XXI"
 
 # sent_id = akorda-random.tagged.txt:25:425
 # text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
-# text[tur] = Bu benim sizin sermayaya üçüncü yatırımım.
+# text[tur] = Bu benim sizin #başkent(başkentnize) üçüncü siyahetim.  "!başkent"
 
 # sent_id = akorda-random.tagged.txt:26:442
 # text = Конкурсқа қатысуға 296 кәсіпорын ниет білдірген.
-# text[tur] = Yarışmaya katılmda 296 işletme niteini bildirmiş.
+# text[tur] = Yarışmaya katılmaya 296 kuruluş niyet bildirmiş.
 
 # sent_id = akorda-random.tagged.txt:27:457
 # text = Жобаның 1-кезеңінің (кеме жасау зауыты) аяқталуы – 2006 жылдың тамыз айы.
-# text[tur] = Projenın 1-kez nın (Gemi fabrikası)sonu -2006 yılın Ağostus ayında .........not sure
-
+# text[tur] = Projenin 1-aşamasının (gemi yapma fabrikası) bitirilmesi – 2006 yılın Ağustos ayı.
+.
 # sent_id = akorda-random.tagged.txt:28:490
 # text = Біз осы берекелі бірлігіміз арқылы биік белестерді бағындырдық.
 # text[tur] = Biz şu  kazançlı  birliğmiz  sonunda büyük aşamaları fethettik.
 
 # sent_id = akorda-random.tagged.txt:29:509
 # text = Бізде әлемдегі үздік үлгілерді осында әкелудің бірегей мүмкіндігі бар.
-# text[tur] = Bizde alemdeki seçkin örnekleri oraya getirerek benzersiz yeteneğı var.
+# text[tur] = Bizde evrendeki seçkin emsalları şunda getirmenin benzersiz yeteneki var.
 
 # sent_id = akorda-random.tagged.txt:30:530
 # text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев бірқатар Заңдарға қол қойды.
-# text[tur] = Bugün devlet başkanı Nursultan Nazarbayev birkaç Za imzalamıştır. 
+# text[tur] = Bugün Memleket başkanı Nursultan #Nazarbayev #birkaç Za'ınıza imzaladı. ?????? 
 
 # sent_id = akorda-random.tagged.txt:31:551
 # text = Болашақта бұл көрсеткіш өсе бермек.
