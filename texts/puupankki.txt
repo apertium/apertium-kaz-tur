@@ -168,7 +168,7 @@
 
 # sent_id = akorda-random.tagged.txt:41:711
 # text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы....???
-# text[tur] = Astana ülkemize  hayırlı ve uğurlu , - dedi Memleket başkanı. **burdakaldım* ????
+# text[tur] = Astana ülkemize  hayırlı ve uğurlu şehir oldu, - dedi Memleket başkanı. **burdakaldım* ????
 
 
 # sent_id = akorda-random.tagged.txt:42:737
@@ -189,7 +189,7 @@
 
 # sent_id = akorda-random.tagged.txt:46:816
 # text = Жұмыстың ерекшелігі-алынған нәтижелердің инновациялық бағыты.
-# text[tur] = 
+# text[tur] = Kurumun ayrıcalığı-alınmış neticelerin yaratıcı alanı.
 
 # sent_id = akorda-random.tagged.txt:47:833
 # text = Кореяның Қазақстанға салған инвестициясының көлемі 2 миллиард доллардан асып түсті.
@@ -209,15 +209,15 @@
 
 # sent_id = akorda-random.tagged.txt:51:881
 # text = Зейнетақы жинақтарының көлемі 2,2 трлн. теңгеге артты.
-# text[tur] = Emeklilik birikiminin hacmı 2.2 trilyon. engeye artdı.
+# text[tur] = Emeklilik birikiminin hacmı 2.2 trilyon. Tengeye artdı.
 
 # sent_id = akorda-random.tagged.txt:52:898
-# text = Ол солай бола береді деп ойлаймын.
+# text = Ол солай бола береді деп ойлаймын......???
 # text[tur] = o şöyle olmaya  devam eder  düşünürüm.?
 
 # sent_id = akorda-random.tagged.txt:53:913
 # text = Соған қарамастан мен тәртіп орнатуға қарсы үлкен қарсылықты сезіп тұрмын.
-# text[tur] = 
+# text[tur] = Şuna rağmen ben tavır yapmaya karşı büyük tepkiyi....
 
 # sent_id = akorda-random.tagged.txt:54:936
 # text = Түстен кейін Президент Павлодар ауданындағы емхананы аралады.
@@ -225,11 +225,11 @@
 
 # sent_id = akorda-random.tagged.txt:55:953
 # text = – Біз жаттығулар барысын мұқият бақылап отырдық.
-# text[tur] = Biz egzersizlerin sürecini dikkatlice izliyorduk.
+# text[tur] = Biz çalışmalar sürecini dikkatlice izledik.
 
 # sent_id = akorda-random.tagged.txt:56:970
 # text = Кешендегі 46 пәтердің барлығы тұрмыстық техникамен жабдықталған.
-# text[tur] = 
+# text[tur] = Bloktaki 46 dairenin bütünü ailevi teknikle donatılmış.
 
 # sent_id = akorda-random.tagged.txt:57:987
 # text = – Бізге жұмыс форматын елеулі түрде қайта қарау керек.

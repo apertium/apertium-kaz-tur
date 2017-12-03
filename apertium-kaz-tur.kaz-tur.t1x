@@ -49,9 +49,6 @@
     </def-cat>
 
 
-
-
-
 <def-cat n="ifi">
       <cat-item tags="vaux.ifi.*"/>
     </def-cat>
@@ -146,6 +143,7 @@
      <attr-item tags="n"/>
      <attr-item tags="adj"/>
      <attr-item tags="adv"/>
+     <attr-item tags="diff.name"/>
    </def-attr>
 
     <def-attr n="a_pers_nbr">
@@ -161,10 +159,12 @@
       <attr-item tags="aor"/>
       <attr-item tags="prc_perf"/>
      <attr-item tags="fut"/>
+
 <attr-item tags="prc_impf"/>
 <attr-item tags="prog"/>
 <attr-item tags="past"/>
 <attr-item tags="imp"/>
+
 <attr-item tags="gna_impf"/>
 
 
@@ -240,12 +240,11 @@
         <pattern-item n="frm"/>    
       </pattern>
       <action>
-      <let>
-<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="a_pers_nbr"/>
-</let>
+      
+      
         <let>
-          <clip pos="1" side="tl" part="whole"/>
-          <concat><clip pos="1" side="tl" part="lem"/><lit-tag v="n"/><lit-tag v="px2pl"/><lit-tag v="dat"/></concat>
+          <clip pos="1" side="tl" part="diff.name"/>
+          <lit v=""/>
         </let>
         <out>
           <chunk name="n" case="caseFirstWord">
@@ -285,6 +284,7 @@
         </out>
       </action>
     </rule>
+    
     
 <rule comment="REGLA: imp" >
       <pattern>
