@@ -76,6 +76,10 @@
 <def-cat n="cop">
       <cat-item  tags="cop.*"/>
     </def-cat>
+    
+<def-cat n="frm">
+      <cat-item tags="n.*.frm.*"/>
+    </def-cat>
 
 
 
@@ -195,7 +199,7 @@
 
 <section-rules>
 
-    <rule comment="REGLA: AOR" id="Aor">
+<rule comment="REGLA: AOR" >
       <pattern>
         <pattern-item n="aor"/>
       </pattern>
@@ -231,7 +235,30 @@
     </rule>
     
     
- <rule comment="REGLA: prc_perf" >
+<rule comment="REGLA: Formal" >
+       <pattern>
+        <pattern-item n="frm"/>    
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="n"/><clip pos="1" side="tl" part="a_pers_nbr"/><clip pos="1" side="tl" part="dat"/></concat>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
+<rule comment="REGLA: prc_perf" >
       <pattern>
         <pattern-item n="prc_perf"/>
       </pattern>
@@ -286,7 +313,7 @@
     </rule>
     
 
-    <rule comment="REGLA: gpr_past - gpr_past" id= "gpr_past-gpr_past" >
+<rule comment="REGLA: gpr_past - gpr_past" id= "gpr_past-gpr_past" >
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -335,7 +362,7 @@
 
 
 
-  <rule comment="REGLA: past" >
+<rule comment="REGLA: past" >
       <pattern>
         <pattern-item n="past"/>
       </pattern>
@@ -431,6 +458,7 @@
         </out>
       </action>
     </rule>
+    
 
 <rule comment="REGLA: ifi" >
       <pattern>
@@ -468,6 +496,7 @@
         </out>
       </action>
     </rule>
+    
 
 <rule comment="REGLA: ifi">
        <pattern>
@@ -533,7 +562,7 @@
     </rule>
 
 
-<rule comment="REGLA: aor">
+<rule comment="REGLA: prc_perf+vaux-aor">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-aor"/>
@@ -643,8 +672,7 @@
 
 
 
-
-    <rule comment="REGLA: prc_perf yat_pres">
+ <rule comment="REGLA: prc_perf+yat_pres">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="yat_pres"/>
@@ -672,7 +700,7 @@
     </rule>
 
 
-<rule comment="REGLA: prc_perf otyr_pres">
+<rule comment="REGLA: prc_perf+otyr_pres">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="otyr_pres"/>
@@ -700,6 +728,7 @@
     </rule>
 
 
+
 <rule comment="REGLA: cop">
       <pattern>
       <pattern-item n="adj"/>
@@ -719,7 +748,8 @@
 
         <out>
 
-          <chunk name="v" case="caseFirstWord">
+          <chunk name="v" case=
+          "caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -745,15 +775,7 @@
       </pattern>
       <action>
 
-<!--<choose>
-   <when>
-     
-      <test><equal><clip pos="2" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
-                             
-        
-      <let><clip pos="2" side="tl" part="evid"/><lit-tag v="dub.aor"/></let>
-    </when>
-</choose>-->
+
 
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -772,8 +794,6 @@
         </out>
       </action>
     </rule>
-
-
 
 
 

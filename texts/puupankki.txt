@@ -144,7 +144,7 @@
 
 # sent_id = akorda-random.tagged.txt:35:613
 # text = Алматы облысы – еліміздің халық тығыз топтасқан өңірлерінің бірі.
-# text[tur] = Almatı bölgesi - ülkemizin  nüfüs sık yoğunlaşmış bölgelerinin biri.
+# text[tur] = Almatı bölgesi – ülkemizin halk sık yoğunlaştığı yörelerinin biri.
 
 # sent_id = akorda-random.tagged.txt:36:634
 # text = Осы оқиғаларды үлкен өкінішпен бақылап отырмын.
@@ -156,7 +156,7 @@
 
 # sent_id = akorda-random.tagged.txt:38:664
 # text = Қазіргі уақыттағы дағдарыс біз үшін нағыз сынақ болды.
-# text[tur] = Şu vakitte kiriz bizim için hakiki sınav oldu.
+# text[tur] = Şu vakitte kiriz biz için hakiki sınav oldu.
 
 # sent_id = akorda-random.tagged.txt:39:683
 # text = Елдің болашағын барша халықпен бірге жасаңыздар!
@@ -164,11 +164,11 @@
 
 # sent_id = akorda-random.tagged.txt:40:698
 # text = Бюджетке ақшаның түсуі көбейгені рас.
-# text[tur] =Bütçeye para gelirinin artması iyi gelir.
+# text[tur] =Bütçeye paranın düşmesi arttığı gerçek.
 
 # sent_id = akorda-random.tagged.txt:41:711
-# text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы.
-# text[tur] = Astana ülkemize  hayırlı ve uğurlu şehir oldu, - dedi Memleket başkanı
+# text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы....???
+# text[tur] = Astana ülkemize  hayırlı ve uğurlu , - dedi Memleket başkanı. **burdakaldım* ????
 
 
 # sent_id = akorda-random.tagged.txt:42:737
@@ -177,7 +177,7 @@
 
 # sent_id = akorda-random.tagged.txt:43:758
 # text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес.
-# text[tur] = Tek dış krediye güvenmek akıllılık değil.
+# text[tur] = Tek dış ödünç vermeye ümit büyüme #akıllıca değil. "!akıllıca"
 
 # sent_id = akorda-random.tagged.txt:44:775
 # text = - Сіздер осында тұрып жатырсыздар, ал Астанада жұмыс істейсіздер.
