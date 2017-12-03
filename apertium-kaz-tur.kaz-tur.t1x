@@ -240,9 +240,12 @@
         <pattern-item n="frm"/>    
       </pattern>
       <action>
+      <let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="a_pers_nbr"/>
+</let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
-          <concat><clip pos="1" side="tl" part="n"/><clip pos="1" side="tl" part="a_pers_nbr"/><clip pos="1" side="tl" part="dat"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><lit-tag v="n"/><lit-tag v="px2pl"/><lit-tag v="dat"/></concat>
         </let>
         <out>
           <chunk name="n" case="caseFirstWord">
