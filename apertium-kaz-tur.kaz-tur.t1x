@@ -96,10 +96,11 @@
 </def-cat>
 
    
-  </section-def-cats>
+</section-def-cats>
 
-  <section-def-attrs>
-    <def-attr n="a_cas">
+<section-def-attrs>
+
+<def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
 
@@ -108,91 +109,83 @@
       <attr-item tags="dub.aor"/>
     </def-attr>
 
-
-
 <def-attr n="tenses">
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
      <attr-item tags="past"/>
-     <attr-item tags="aor"/>
-     
+     <attr-item tags="aor"/>  
     </def-attr>
 
 <def-attr n="neg">
-      <attr-item tags="neg"/>
-      
+      <attr-item tags="neg"/> 
     </def-attr>
-
-
-
-
 
 <def-attr n="V_trans">
      <attr-item tags="iv"/>
      <attr-item tags="tv"/>
-
    </def-attr>
 
 <def-attr n="a_gpr">
      <attr-item tags="gpr_past"/>
      <attr-item tags="gpr_rsub"/>
-
    </def-attr>
-  <def-attr n="POS">
+   
+<def-attr n="POS">
      <attr-item tags="v"/>
      <attr-item tags="n"/>
      <attr-item tags="adj"/>
      <attr-item tags="adv"/>
      <attr-item tags="diff.name"/>
    </def-attr>
+   
+<def-attr n="diff.name">
+     <attr-item tags="frm"/>
+  </def-attr>
 
-    <def-attr n="a_pers_nbr">
+<def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
       <attr-item tags="p2.sg"/>
       <attr-item tags="p3.sg"/>
       <attr-item tags="p1.pl"/>
       <attr-item tags="p2.pl"/>
       <attr-item tags="p3.pl"/>
- <attr-item tags="p2.frm.sg"/> 
-    </def-attr>
-<def-attr n="a_aspect">
-      <attr-item tags="aor"/>
-      <attr-item tags="prc_perf"/>
-     <attr-item tags="fut"/>
-
-<attr-item tags="prc_impf"/>
-<attr-item tags="prog"/>
-<attr-item tags="past"/>
-<attr-item tags="imp"/>
-
-<attr-item tags="gna_impf"/>
-
-
-
+      <attr-item tags="p2.frm.sg"/> 
     </def-attr>
     
- <def-attr n="v_iv">
-<attr-item tags="v.iv"/>
-
- </def-attr>
+<def-attr n="a_aspect">
+     <attr-item tags="aor"/>
+     <attr-item tags="prc_perf"/>
+     <attr-item tags="fut"/>
+     <attr-item tags="prc_impf"/>
+     <attr-item tags="prog"/>
+     <attr-item tags="past"/>
+     <attr-item tags="imp"/>
+     <attr-item tags="gna_impf"/>
+    </def-attr>
+    
+<def-attr n="v_iv">
+     <attr-item tags="v.iv"/>
+  </def-attr>
  
- <def-attr n="v_tv">
-<attr-item tags="v.tv"/>
- </def-attr>
- 
-  </section-def-attrs>
+<def-attr n="v_tv">
+    <attr-item tags="v.tv"/>
+  </def-attr>
+  
+ </section-def-attrs>
 
-  <section-def-vars>
-    <def-var n="number"/>
+
+<section-def-vars> 
+  <def-var n="number"/>
   </section-def-vars>
 
-  <section-def-macros>
+<section-def-macros>
     <def-macro n="test" npar="1">
           <let>
             <var n="number"/>
             <lit v=""/>
           </let>
     </def-macro>
+    
   </section-def-macros>
   
   
@@ -240,12 +233,14 @@
         <pattern-item n="frm"/>    
       </pattern>
       <action>
-      
+    
       
         <let>
+        
           <clip pos="1" side="tl" part="diff.name"/>
           <lit v=""/>
         </let>
+        
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
@@ -399,6 +394,8 @@
         </out>
       </action>
     </rule>
+    
+    
     
 <rule comment="REGLA: fut plan" >
       <pattern>

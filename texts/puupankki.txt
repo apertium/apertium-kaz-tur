@@ -168,7 +168,7 @@
 
 # sent_id = akorda-random.tagged.txt:41:711
 # text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы....???
-# text[tur] = Astana ülkemize  hayırlı ve uğurlu şehir oldu, - dedi Memleket başkanı. **burdakaldım* ????
+# text[tur] = Astana ülkemize  hayırlı ve uğurlu şehir oldu, - dedi Memleket başkanı. 
 
 
 # sent_id = akorda-random.tagged.txt:42:737
@@ -237,23 +237,23 @@
 
 # sent_id = akorda-random.tagged.txt:58:1008
 # text = Біз осы дәстүрді қастерлеп сақтаймыз және нығайтамыз.
-# text[tur] = Biz bu gelenği saygıyla koruruz ve destekleriz.
+# text[tur] = Biz bu gelenği saygıyla koruruz ve destekleriz.   
 
 # sent_id = akorda-random.tagged.txt:59:1025
 # text = Саммит жұмысының қорытындысында «Стамбұл Декларациясы» қабылданды.
-# text[tur] = Zirve işinin sonucunda «İstanbul Deklarasyonu» kabul edilmiştir.
+# text[tur] = Zirve işinin tutarında «İstanbul Deklarasyonu» onaylandı.
 
 # sent_id = akorda-random.tagged.txt:60:1044
 # text = Заңдардың мәтіндері баспасөзде жарияланады.
-# text[tur] = Kanunların metinleri basında yayınlandı.
+# text[tur] = Za'ınızın metinleri basında yayınlanıyor.
 
 # sent_id = akorda-random.tagged.txt:61:1055
 # text = Осы Жарлық қол қойылған күннен бастап қолданысқа енгізіледі.
-# text[tur] = 
+# text[tur] = Şu Kararname imzalandığı günden başlayıp praktisyonere ekleniyor.
 
 # sent_id = akorda-random.tagged.txt:62:1074
 # text = Бұл ұсыныс біздің көршілеріміз тарапынан қолдау тауып отыр.
-# text[tur] = Bu teklif komşularmız tarafından korumak planlanıyor.
+# text[tur] = Bu öneri bizim komşularımız tarafından koruma buluyor. 
 
 # sent_id = akorda-random.tagged.txt:63:1093
 # text = Осы орайда Нұрсұлтан Назарбаев төрт басым бағыттарды белгіледі.
@@ -273,7 +273,7 @@
 
 # sent_id = akorda-random.tagged.txt:67:1159
 # text = - Мен осы мерекеге арналған шараларға үлкен толғаныспен қатысамын.
-# text[tur] = ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm.
+# text[tur] = ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm."burdakaldım"
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
