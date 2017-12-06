@@ -244,11 +244,13 @@
     </rule>
     
     
-<rule comment="REGLA: imp">
+<rule comment="REGLA: imp-pl">
 
      <pattern>
         <pattern-item n="imp"/>
        </pattern>
+  
+
 
 <action>
       <choose>       
@@ -265,6 +267,7 @@
                   </equal>
                 </and>
             </test>
+            
 
             <let>
              <clip pos="1" side="tl" part="personne"/>
@@ -278,11 +281,19 @@
         </choose>
  
         <out>
+          <chunk name="v" case="caseFirstWord">
+          <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
           <lu> 
             <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="v_iv"/>
+            <lit-tag v="imp"/>
+          
             <clip pos="1" side="tl" part="personne"/>
             <clip pos="1" side="tl" part="nombre"/>
           </lu>
+          </chunk>
         </out>
       </action>
     </rule>
@@ -322,11 +333,18 @@
         </choose>
  
        <out>
+         <chunk name="v" case="caseFirstWord">
+         <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
           <lu> 
             <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="v_iv"/>
+            <lit-tag v="imp"/>
             <clip pos="1" side="tl" part="personne"/>
             <clip pos="1" side="tl" part="nombre"/>
           </lu>
+          </chunk>
         </out>
       </action>
     </rule>
