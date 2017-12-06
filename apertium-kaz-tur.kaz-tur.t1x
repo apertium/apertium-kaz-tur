@@ -77,7 +77,7 @@
 <def-cat n="frm">
       <cat-item tags="n.*.frm.*"/>
     </def-cat>
-
+   
 
 
 <def-cat n="yat_pres">
@@ -94,6 +94,10 @@
 <def-cat n="cop-neg">
 <cat-item lemma="е" tags="cop.neg.*"/>
 </def-cat>
+
+<def-cat n="imp">
+      <cat-item tags="v.*.imp.*"/>
+    </def-cat>
 
    
 </section-def-cats>
@@ -150,6 +154,18 @@
       <attr-item tags="p2.pl"/>
       <attr-item tags="p3.pl"/>
       <attr-item tags="p2.frm.sg"/> 
+    </def-attr>
+    
+<def-attr n="personne">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+    
+<def-attr n="nombre">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
     </def-attr>
     
 <def-attr n="a_aspect">
@@ -228,6 +244,94 @@
     </rule>
     
     
+<rule comment="REGLA: imp">
+
+     <pattern>
+        <pattern-item n="imp"/>
+       </pattern>
+
+<action>
+      <choose>       
+          <when>   
+            <test>
+               <and>
+                 <equal>
+                    <clip pos="1" side="sl" part="personne"/>
+                    <lit-tag v="p2"/>
+                  </equal>
+                 <equal>
+                    <clip pos="1" side="sl" part="nombre"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
+            </test>
+
+            <let>
+             <clip pos="1" side="tl" part="personne"/>
+                    <lit-tag v="p1"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nombre"/>
+              <lit-tag v="pl"/>
+            </let>
+          </when>
+        </choose>
+ 
+        <out>
+          <lu> 
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="personne"/>
+            <clip pos="1" side="tl" part="nombre"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
+    
+<rule comment="REGLA: imp">
+
+     <pattern>
+        <pattern-item n="imp"/>
+       </pattern>
+
+<action>
+      <choose>       
+          <when>   
+            <test>
+               <and>
+                 <equal>
+                    <clip pos="1" side="sl" part="personne"/>
+                    <lit-tag v="p2"/>
+                  </equal>
+                 <equal>
+                    <clip pos="1" side="sl" part="nombre"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
+            </test>
+
+            <let>
+             <clip pos="1" side="tl" part="personne"/>
+                    <lit-tag v="p2"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="nombre"/>
+              <lit-tag v="sg"/>
+            </let>
+          </when>
+        </choose>
+ 
+       <out>
+          <lu> 
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="personne"/>
+            <clip pos="1" side="tl" part="nombre"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
+    
 <rule comment="REGLA: Formal" >
        <pattern>
         <pattern-item n="frm"/>    
@@ -281,7 +385,7 @@
     </rule>
     
     
-<rule comment="REGLA: imp" >
+<rule comment="REGLA: impf" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="opt"/>
