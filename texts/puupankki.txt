@@ -273,7 +273,7 @@
 
 # sent_id = akorda-random.tagged.txt:67:1159
 # text = - Мен осы мерекеге арналған шараларға үлкен толғаныспен қатысамын.
-# text[tur] = ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm."burdakaldım"
+# text[tur] = Ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm."burdakaldım"
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
@@ -289,7 +289,7 @@
 
 # sent_id = akorda-random.tagged.txt:71:1231
 # text = – Бұл – халықтың ұлы мерекесі, күн мен түннің теңелуінің белгісі.
-# text[tur] = Bu- halkın ulu bayramı,............?
+# text[tur] = Bu – halkın ulu bayramı, gün ve gecenin benzenmesinin simgesi.
 
 # sent_id = akorda-random.tagged.txt:72:1258
 # text = 2007 жылы өзара сауда айналымының көлемі 531 миллион АҚШ долларын құраған.
@@ -297,7 +297,7 @@
 
 # sent_id = akorda-random.tagged.txt:73:1283
 # text = - Біздің компания да осы процеске белсене қатысқысы келеді.
-# text[tur] = Bizim şirket de bu süreçe etkin katılark gelir. 
+# text[tur] = Bizim şirket de bu süreçe etkin katılıyor. 
 
 # sent_id = akorda-random.tagged.txt:74:1303
 # text = Асханаға өткен жылы күрделі жөндеу жасалып, жаңа құрал-жабдық алынған.
@@ -305,10 +305,10 @@
 
 # sent_id = akorda-random.tagged.txt:75:1326
 # text = «Үмітсіз» кредиттердің үлесі – 7,2 пайызға дейін арта түскен.
-# text[tur] = «ümitsiz» kredilerin faizi – 7,2 yüzde ......?
+# text[tur] = «Ümitsiz» kredilerin faizi – 7,2 orana dek yükselerek yararlanmış. 
 
 # sent_id = akorda-random.tagged.txt:76:1351
-# text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.
+# text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.  "burdakaldım"
 # text[tur] = Bu tüm hekimler ve çiftçilik ürün üreticlerin görevi.
 
 # sent_id = akorda-random.tagged.txt:77:1372
