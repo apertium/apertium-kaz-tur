@@ -254,6 +254,45 @@
     </rule>
     
     
+    
+  <rule comment="REGLA: nom+prn">
+
+     <pattern>
+     
+     
+        <pattern-item n="prn"/>
+        <pattern-item n="nom"/>
+       </pattern>
+
+<action>
+
+        <let>
+        
+          <clip pos="2" side="tl" part="diff.name"/>
+          <lit v=""/>
+        </let>
+
+<out>
+     <chunk name="n" case="caseFirstWord">
+          <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          
+            <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          
+          </lu>
+          <b/>
+           <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          
+          </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    
 <rule comment="REGLA: nom">
 
      <pattern>
@@ -284,12 +323,9 @@
           <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
-          <lu> 
-           
+          
+            <lu>
             <clip pos="2" side="tl" part="whole"/>
-          
-          
-           
           
           </lu>
           </chunk>
@@ -404,11 +440,20 @@
     </rule>
     
     
-<rule comment="REGLA: Formal" >
+<rule comment="REGLA: Formal" > 
        <pattern>
         <pattern-item n="frm"/>    
       </pattern>
       <action>
+      <!-- <choose>
+   <when>
+       
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.pl"/></equal></test>
+        
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>-->
     
       
         <let>

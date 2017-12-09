@@ -5977,6 +5977,8 @@
 <e><p><l>қөр<s n="v"/><s n="tv"/></l><r>gör<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>атап<b/>өт<s n="v"/><s n="tv"/></l><r>dikkate<b/>al<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қалыптас<s n="v"/><s n="iv"/></l><r>şekillendir<s n="v"/><s n="iv"/></r></p></e>
+
+
 <e><p><l>іл<s n="v"/><s n="tv"/></l><r>as<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>асып<b/>түс<s n="v"/><s n="iv"/></l><r>aş<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>теңе<s n="v"/><s n="tv"/></l><r>benze<s n="v"/><s n="iv"/></r></p></e>
@@ -6070,7 +6072,7 @@
      <e><p><l>топта<s n="v"/><s n="tv"/></l><r>yoğunla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>жат<s n="vaux"/></l><r>yat<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қорла<s n="v"/><s n="tv"/></l><r>aşağıla<s n="v"/><s n="tv"/></r></p></e>
-<!--<e><p><l>тұр<s n="v"/><s n="iv"/></l><r>oluş<s n="v"/><s n="iv"/></r></p></e>-->
+<e><p><l>тұр<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қоңырау<b/>шал<s n="v"/><s n="tv"/></l><r>çağır<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>адас<s n="v"/><s n="iv"/></l><r>kaybet<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>кіргіз<s n="v"/><s n="tv"/></l><r>yazma<s n="v"/><s n="tv"/></r></p></e>
@@ -6901,7 +6903,7 @@
 <e><p><l>жас<s n="n"/></l><r>yaş<s n="n"/></r></p></e>
 <e><p><l>жас<s n="n"/></l><r>genç<s n="n"/></r></p></e>
 <e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жасау<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
 <e><p><l>жасау<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
 <e><p><l>Жастар<s n="n"/></l><r>genç<s n="n"/></r></p></e>
