@@ -158,6 +158,7 @@
       <attr-item tags="p3.pl"/>
       <attr-item tags="p2.frm.sg"/> 
       <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
     </def-attr>
     
 <def-attr n="personne">
@@ -266,11 +267,13 @@
 
 <action>
 
-        <let>
-        
+      <let>
           <clip pos="2" side="tl" part="diff.name"/>
           <lit v=""/>
-        </let>
+          </let>
+   
+
+        
 
 <out>
      <chunk name="n" case="caseFirstWord">
