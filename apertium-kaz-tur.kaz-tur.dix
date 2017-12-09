@@ -310,6 +310,8 @@
 <e><p><l>қор<s n="n"/></l><r>sermaya<s n="n"/></r></p></e>
 <e><p><l>садақ<s n="n"/></l><r>yay<s n="n"/></r></p></e>
 <e><p><l>белгі<s n="n"/></l><r>simge<s n="n"/></r></p></e>
+
+<e><p><l>кездесу<s n="n"/><s n="attr"/></l><r>toplantı<s n="n"/></r></p></e>
 <e><p><l>тәртіп<s n="n"/></l><r>tavır<s n="n"/></r></p></e>
 <e><p><l>тарғақ<s n="n"/></l><r>tavuk<s n="n"/></r></p></e>
 <e><p><l>түндік<s n="n"/></l><r>ocak<s n="n"/></r></p></e>
@@ -2247,7 +2249,7 @@
      <e><p><l>тас<s n="n"/></l><r>taş<s n="n"/></r></p></e>
      <e><p><l>тасқын<s n="n"/></l><r>sel<s n="n"/></r></p></e>
      <e><p><l>тау<s n="n"/></l><r>dağ<s n="n"/></r></p></e>
-     <e><p><l>тауар<s n="n"/></l><r>meta<s n="n"/></r></p></e>
+ 
      <e><p><l>тауық<s n="n"/></l><r>tavuk<s n="n"/></r></p></e>
      <e><p><l>таяқ<s n="n"/></l><r>bostan<s n="n"/></r></p></e>
      <e><p><l>таяқ<s n="n"/></l><r>dayak<s n="n"/></r></p></e>
@@ -5979,7 +5981,7 @@
 <e><p><l>асып<b/>түс<s n="v"/><s n="iv"/></l><r>aş<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>теңе<s n="v"/><s n="tv"/></l><r>benze<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жалғас<s n="v"/><s n="iv"/></l><r>devam<b/>et<s n="v"/><s n="tv"/></r></p></e>
-
+<e><p><l>түсіндір<s n="v"/><s n="tv"/></l><r>yorumla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қайта<b/>қара<s n="v"/><s n="tv"/></l><r>tekrar<b/>incele<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>соғыс<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
@@ -6801,7 +6803,7 @@
 <e><p><l>әкел<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>әкел<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>екі<s n="num"/></l><r>iki<s n="num"/></r></p></e>
-<e><p><l>екіжақты<s n="adj"/></l><r>iki taraflı<s n="adj"/></r></p></e>
+<e><p><l>екіжақты<s n="adj"/></l><r>ikili<s n="adj"/></r></p></e>
 <e><p><l>әкім<s n="n"/></l><r>hekim<s n="n"/></r></p></e>
 
 <e><p><l>ел<s n="n"/></l><r>ülke<s n="n"/></r></p></e>
@@ -7074,10 +7076,10 @@
 <e><p><l>кедергісіз<s n="n"/></l><r>engelsiz<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>an<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>zaman<b/>dilimi<s n="n"/></r></p></e>
-<e><p><l>кездес<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
+
 <e><p><l>кездес<s n="v"/><s n="iv"/></l><r>görüş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>кездес<s n="v"/><s n="iv"/></l><r>yönel<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>кездесу<s n="n"/><s n="pl"/></l><r>toplantı<s n="n"/><s n="pl"/></r></p></e>
+<e><p><l>кездесу<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
 
 <e><p><l>кезек<s n="n"/></l><r>kuyruk<s n="n"/></r></p></e>
 <e><p><l>кезең<s n="n"/></l><r>dönem<s n="n"/></r></p></e>

@@ -273,7 +273,7 @@
 
 # sent_id = akorda-random.tagged.txt:67:1159
 # text = - Мен осы мерекеге арналған шараларға үлкен толғаныспен қатысамын.
-# text[tur] = Ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm."burdakaldım"
+# text[tur] = Ben bu bayrama tahsis edilmiş etkiniklere büyük coşkuyla katılırm.
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
@@ -313,7 +313,7 @@
 
 # sent_id = akorda-random.tagged.txt:77:1372
 # text = Бұл-біздің үлкен жетістігіміз.
-# text[tur] = bu-bizim büyük başarlarmız.
+# text[tur] = bu-bizim büyük başarımız.
 
 # sent_id = akorda-random.tagged.txt:78:1385
 # text = Оны түсіндіре білу керек.
