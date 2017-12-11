@@ -241,7 +241,7 @@
 
 # sent_id = akorda-random.tagged.txt:59:1025
 # text = Саммит жұмысының қорытындысында «Стамбұл Декларациясы» қабылданды.
-# text[tur] = Zirve işinin tutarında «İstanbul Deklarasyonu» onaylandı.
+# text[tur] = Zirve işinin derivasyonunda «İstanbul Deklarasyonu» onaylandı.
 
 # sent_id = akorda-random.tagged.txt:60:1044
 # text = Заңдардың мәтіндері баспасөзде жарияланады.
@@ -261,7 +261,7 @@
 
 # sent_id = akorda-random.tagged.txt:64:1112
 # text = Бұл Стратегия сіздерге арналған.
-# text[tur] = Bu stratiji sizlere hedeflenmış.
+# text[tur] = Bu Strateji size planlanmış.
 
 # sent_id = akorda-random.tagged.txt:65:1123
 # text = Инвестициялық саладағы ынтымақтастық табысты дамуда.
@@ -293,7 +293,7 @@
 
 # sent_id = akorda-random.tagged.txt:72:1258
 # text = 2007 жылы өзара сауда айналымының көлемі 531 миллион АҚШ долларын құраған.
-# text[tur] = 2007 yılı karşılıklı ticaret tedavülünün hacmi 531 milyon ABC dolar oluşturmuş. 
+# text[tur] = 2007 yılı karşılıklı toplamda tedavülünün hacimi 531 milyon ABC dolarını oluşturmuş.
 
 # sent_id = akorda-random.tagged.txt:73:1283
 # text = - Біздің компания да осы процеске белсене қатысқысы келеді.
@@ -349,7 +349,7 @@
 
 # sent_id = akorda-random.tagged.txt:86:1508
 # text = Сіздерді ұлық мереке – Құрбан айт мейрамымен шын жүректен құттықтаймын!
-# text[tur] = sizleri ana bayarm - kurban söylemek münasebetile ciddiyetle kutlarım.
+# text[tur] = Sizi büyük bayram – Kurban söyleyelim bayramıyla ciddiyetle kutluyorum.
 
 # sent_id = akorda-random.tagged.txt:87:1531
 # text = Жылдың басында дағдарысқа қарсы бағдарлама бекітілді.
@@ -393,23 +393,24 @@
 
 # sent_id = akorda-random.tagged.txt:97:1702
 # text = - Президент Пирамиданы маған резиденция терезесінен көрсетті.
-# text[tur] = Başkan Piramidini bana ikametkah tezkiresinden gösterdi.
+# text[tur] = Başkan Piramiti bana konut penceresinden gösterdi.
 
 # sent_id = akorda-random.tagged.txt:98:1719
 # text = Санаулы сәттерден кейін біз жаңа 2012 жылға қадам басамыз.
-# text[tur] = Birkaç saniyeden sonre biz yeni 2012 yıla adım basarız.
+# text[tur] = Birkaç anlardan sonra biz şimdi 2012 yıla adım basıyoruz.
 
 # sent_id = akorda-random.tagged.txt:99:1740
 # text = Бұл халықаралық қоғамдастық үшін жақсы жағынан үлгі болады.
-# text[tur] = Bu uluslararası toplum için iyi yandan örnek olur.
+# text[tur] = Bu uluslararası toplum için güzel yönünden örnek oluyor.
 
 # sent_id = akorda-random.tagged.txt:100:1759
 # text = Бұл мәселеде де біз Нұрсұлтан Әбішұлының қолдауын сезінеміз.
-# text[tur] = Bu meselede de biz Nursultan Nazarbayev'nın desteğini seziyoruz.
+# text[tur] = Bu meselede da biz Nursultan Abişoviç'in korumasını seziyoruz.
+
 
 # sent_id = akorda-random.tagged.txt:101:1777
 # text = Ол стратегиялық әріптестікке және өзара сенімге құрылған.
-# text[tur] = Bu stratijic ortaklık ve karşılıklı güvenirlike yaratmış.
+# text[tur] = O stratejik ortaklığa ve karşılıklı güvene yapılmış.
 
 # sent_id = akorda-random.tagged.txt:102:1794
 # text = Австрия Қазақстанның басты сауда серіктестері арасында жетінші орын алады.
@@ -1911,7 +1912,7 @@
 
 # sent_id = kdt.tagged.txt:146:2322
 # text = Жыланды өлтіргеніне ерленді.
-# text[tur] =Yılanı öldürlmüşüne övündü. 
+# text[tur] = Yılanı katlettiğine cesurca duruldu. 
 
 # sent_id = kdt.tagged.txt:147:2331
 # text = Әрі ырым көрді.
@@ -1923,7 +1924,7 @@
 
 # sent_id = kdt.tagged.txt:149:2351
 # text = Ол дүние жинамайды.
-# text[tur] =  O şey yığılmaz.
+# text[tur] = o servert biriktirmiyor.
 
 # sent_id = kdt.tagged.txt:150:2360
 # text = Үлкенді "әке", "аға" деп тұрады.
