@@ -1795,7 +1795,7 @@
 
 # sent_id = kdt.tagged.txt:117:1870
 # text = Жалын қалай шықты, солай қасқырлардың қарасы өше берді.
-# text[tur] = alev istendi, bu yüzden kurtlarnın siyahı intikam aldı....?
+# text[tur] = Ateş alevlendi, bu yüzden kurtlar sıyahı görünmez oldu.
 
 # sent_id = kdt.tagged.txt:118:1891
 # text = Қасқырлар жалт берді.
