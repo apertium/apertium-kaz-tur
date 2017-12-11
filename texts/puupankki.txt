@@ -1871,7 +1871,7 @@
 
 # sent_id = kdt.tagged.txt:136:2178
 # text = Күн еңкейіп, түс қаңғып кетіпті.
-# text[tur] = Güneş eğilip, öğle battı.
+# text[tur] = Gün batıp, uyku eğilimi oldu.
 
 # sent_id = kdt.tagged.txt:137:2193
 # text = Әлі жүріп келеді, әлі жүріп келеді.
@@ -1883,7 +1883,7 @@
 
 # sent_id = kdt.tagged.txt:139:2217
 # text = Жарты шақырымдай жерде бір дөңес көрінеді.
-# text[tur] = Yarım kilometrik gibi yerde bir tepelik görüldü.
+# text[tur] = Yarım kilometrece yerde bir bombeli görülüyor.
 
 # sent_id = kdt.tagged.txt:140:2232
 # text = Соған шығып ел көздемек.
@@ -1907,7 +1907,7 @@
 
 # sent_id = kdt.tagged.txt:145:2307
 # text = Торғайды ажалдан аман алып қалғанына қуанды.
-# text[tur] = Serçe ölümünden sağlıklı müthiş kalmışına sevindi.
+# text[tur] = Serçeyi ecelden sağlıklı aldığına sevindi.
 
 # sent_id = kdt.tagged.txt:146:2322
 # text = Жыланды өлтіргеніне ерленді.
@@ -2747,7 +2747,7 @@
 # text[tur] = çok pahalı!
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:1:0
-# text = Балаларды оқытқан да жақсы, бірақ құлшылық қыларлық қана, түркі танырлық қана таза оқытса болады.
+# text = Балаларды оқытқан да жақсы, бірақ құлшылық қыларлық қана, түркі танырлық қана таза оқытса болады.??????
 # text[tur] = Evlatları okutduk da güzel, fakat kölelik yaptıracak yeterince, türki bilecek saf okutsa oluyor.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:2:31

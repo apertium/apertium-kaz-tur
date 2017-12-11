@@ -5333,6 +5333,7 @@
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 
+<e><p><l>дөңес<s n="adj"/></l><r>bombeli<s n="adj"/></r></p></e>
 <e><p><l>аш<s n="adj"/></l><r>ac<s n="adj"/></r></p></e>
 <e><p><l>хабарсыз<s n="adj"/></l><r>bilgisiz<s n="adj"/></r></p></e>
 <e><p><l>циклдық<s n="adj"/></l><r>periyodik<s n="adj"/></r></p></e>
@@ -5826,7 +5827,7 @@
      <!-- SECTION: Adverbs -->
 
      <e><p><l>анда<s n="adv"/></l><r>ora<s n="adv"/></r></p></e>
-       <e><p><l>қайдан<s n="adv"/></l><r>nerde<s n="prn"/><s n="ind"/></r></p></e>
+       <e><p><l>қайдан<s n="adv"/><s n="itg"/></l><r>nerde<s n="prn"/><s n="ind"/><s n="px2sg"/></r></p></e>
 <e><p><l>баяғыда<s n="adv"/></l><r>çoktan<s n="adv"/></r></p></e>
 <e><p><l>шамамен<s n="adv"/></l><r>takriben<s n="adv"/></r></p></e>
 <e><p><l>әрі<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
@@ -5982,11 +5983,11 @@
 <e><p><l>қоюлан<s n="v"/><s n="tv"/></l><r>karış<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>атап<b/>өт<s n="v"/><s n="tv"/></l><r>dikkate<b/>al<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қалыптас<s n="v"/><s n="iv"/></l><r>şekillendir<s n="v"/><s n="iv"/></r></p></e>
-
+<e><p><l>қаңғы<s n="v"/><s n="iv"/></l><r>eğilimi<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>тара<s n="v"/><s n="tv"/></l><r>dağıl<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>адымда<s n="v"/><s n="iv"/></l><r>adımla<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>іл<s n="v"/><s n="tv"/></l><r>as<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>асып<b/>түс<s n="v"/><s n="iv"/></l><r>aş<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>асып<b/>түс<s n="v"/><s n="iv"/></l><r>fazla<b/>çık<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>теңе<s n="v"/><s n="tv"/></l><r>benze<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жалғас<s n="v"/><s n="iv"/></l><r>devam<b/>et<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>түсіндір<s n="v"/><s n="tv"/></l><r>yorumla<s n="v"/><s n="tv"/></r></p></e>
@@ -6017,6 +6018,8 @@
 <e><p><l>қаша<s n="v"/><s n="tv"/></l><r>oy<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>өмір<b/>сүр<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қалдыр<s n="v"/><s n="tv"/></l><r>bırak<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>еңкей<s n="v"/><s n="iv"/></l><r>bat<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>бағындыр<s n="v"/><s n="tv"/></l><r>fethet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жүкте<s n="v"/><s n="tv"/></l><r>yükle<s n="v"/><s n="tv"/></r></p></e>
@@ -6064,7 +6067,7 @@
 <e><p><l>қос<s n="v"/><s n="tv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>үйрет<s n="v"/><s n="tv"/></l><r>öğret<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>үйрет<s n="v"/><s n="tv"/></l><r>yetiştir<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>оқыт<s n="v"/><s n="tv"/></l><r>okut<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>бағын<s n="v"/><s n="iv"/></l><r>gönder<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>оқыт<s n="v"/><s n="tv"/></l><r>eğit<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>той<s n="v"/><s n="iv"/></l><r>doy<s n="v"/><s n="iv"/></r></p></e>
@@ -6253,7 +6256,7 @@
      <e><p><l>и<s n="v"/><s n="tv"/></l><r>eğ<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>иіске<s n="v"/><s n="tv"/></l><r>kokla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>ізде<s n="v"/><s n="tv"/></l><r>ara<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>істе<s n="v"/><s n="iv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
+     <!--<e><p><l>істе<s n="v"/><s n="iv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>-->
      <e><p><l>істе<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>істе<s n="v"/><s n="tv"/></l><r>eyle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>істе<s n="v"/><s n="tv"/></l><r>kıl<s n="v"/><s n="tv"/></r></p></e>
@@ -6459,8 +6462,7 @@
      <e><p><l>көрін<s n="v"/><s n="iv"/></l><r>görün<s n="v"/><s n="iv"/></r></p></e>
      
      <e><p><l>жат<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>жұмыста<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>істе<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
+    
     
      <e><p><l>бітір<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>түгес<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
@@ -7114,7 +7116,7 @@
 <e><p><l>келіссөз<s n="n"/></l><r>yakınlık<s n="n"/></r></p></e>
 <e><p><l>кемел<s n="n"/></l><r>mükemmel<s n="n"/></r></p></e>
 <e><p><l>керек<s n="adj"/></l><r>gerek<s n="adj"/></r></p></e>
-<e><p><l>аман<s n="adj"/></l><r>sağlıklı<s n="adj"/></r></p></e>
+<e><p><l>аман<s n="adj"/><s n="advl"/></l><r>sağlıklı<s n="adj"/></r></p></e>
 <e><p><l>есен<s n="adj"/></l><r>emniyetli<s n="adj"/></r></p></e>
 <e><p><l>керемет<s n="adj"/></l><r>müthiş<s n="adj"/></r></p></e>
 <e><p><l>керемет<s n="adv"/></l><r>oldukça<s n="adv"/></r></p></e>
@@ -7193,7 +7195,7 @@
 <e><p><l>құқықтық<s n="adj"/></l><r>hukuki<s n="adj"/></r></p></e>
 <e><p><l>құқықтық<s n="n"/></l><r>hukuk<s n="n"/></r></p></e>
 <e><p><l>құқықтық<s n="n"/></l><r>hukuk<s n="n"/></r></p></e>
-<e><p><l>күн<s n="n"/></l><r>gün<s n="n"/></r></p></e>
+
 <e><p><l>құн<s n="n"/></l><r>fark<s n="n"/></r></p></e>
 <e><p><l>құн<s n="n"/></l><r>maliyet<s n="n"/></r></p></e>
 <e><p><l>күн<b/>тәртіп<s n="n"/></l><r>gündem<s n="n"/></r></p></e>
@@ -7578,7 +7580,9 @@
 <e><p><l>туризм<s n="n"/></l><r>turizm<s n="n"/></r></p></e>
 
 <e><p><l>Түркия<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>түс<s n="n"/></l><r>öğle<s n="n"/></r></p></e>
+<e><p><l>түс<s n="n"/></l><r>uyku<s n="n"/></r></p></e>
+
+
 
 <e><p><l>түсіндіре<s n="adj"/></l><r>yorumlanabilir<s n="adj"/></r></p></e>
 <e><p><l>тығыз<s n="adj"/><s n="advl"/></l><r>sık<s n="adj"/></r></p></e>
@@ -7674,6 +7678,7 @@
 <e r="LR"><p><l>тұр<s n="vaux"/></l><r></r></p></e>
 <e r="LR"><p><l>отыр<s n="vaux"/></l><r></r></p></e>
 <e r="LR"><p><l>жат<s n="vaux"/></l><r></r></p></e>
+<e r="LR"><p><l>бол<s n="vaux"/></l><r></r></p></e>
 <e r="LR"><p><l>ғой<s n="mod_ass"/></l><r></r></p></e>
 <e r="LR"><p><l>ғана<s n="postadv"/></l><r></r></p></e>
 <e r="LR"><p><l>лы<s n="post"/></l><r></r></p></e>
