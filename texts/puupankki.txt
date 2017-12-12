@@ -337,7 +337,7 @@
 
 # sent_id = akorda-random.tagged.txt:83:1462
 # text = Мен таң қалып отырмын.
-# text[tur] = sabahtan kalkıyorum.
+# text[tur] = Ben hayret etiyorum.
 
 # sent_id = akorda-random.tagged.txt:84:1473
 # text = Одан кейін еліміздің Президенті дала асханасынан дәм татты.
@@ -1976,7 +1976,7 @@
 
 # sent_id = kdt.tagged.txt:162:2612
 # text = "Не бетіммен барам" деген ой келді.
-# text[tur] = "ne yüzümile giderim" demiş düşünce geldi.
+# text[tur] = "ne yüzümle giderim" dediği düşünce geldi.
 
 # sent_id = kdt.tagged.txt:163:2631
 # text = Және осы күйсіз қалпында тәуір үйге бас сұғуға қорланды.

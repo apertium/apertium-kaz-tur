@@ -146,6 +146,7 @@
      <e><p><l>һәм<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>түгіл<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>ал<s n="cnjcoo"/></l><r>sırasında<s n="cnjcoo"/></r></p></e>
+<e><p><l>мейлі<s n="ij"/></l><r>herneyse<s n="cnjcoo"/></r></p></e>
 
      <!-- SECTION: Postpositions -->
      <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
@@ -443,8 +444,8 @@
 <e><p><l>қадір<s n="n"/></l><r>onur<s n="n"/></r></p></e>
 <e><p><l>адам<s n="n"/></l><r>insan<s n="n"/></r></p></e>
 <e><p><l>арақатынас<s n="n"/></l><r>oran<s n="n"/></r></p></e>
-<e><p><l>ой<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
-<e><p><l>ой<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
+
+
 <e><p><l>орысша<s n="n"/></l><r>rusça<s n="n"/></r></p></e>
 <e><p><l>қамқорлық<s n="n"/></l><r>dikkat<s n="n"/></r></p></e>
 <e><p><l>көмек<s n="n"/></l><r>infak<s n="n"/></r></p></e>
@@ -1848,12 +1849,12 @@
      <e><p><l>өзгеріс<s n="n"/></l><r>dönüşüm<s n="n"/></r></p></e>
      <e><p><l>өзен<s n="n"/></l><r>dere<s n="n"/></r></p></e>
      <e><p><l>өзен<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
-     <e><p><l>ой<s n="n"/></l><r>düşünce<s n="n"/></r></p></e>
+    
      <e><p><l>ой<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
-     <e><p><l>ой<s n="n"/></l><r>idea<s n="n"/></r></p></e>
+     <e><p><l>ой<s n="n"/></l><r>düşünce<s n="n"/></r></p></e>
      <e><p><l>ойын<s n="n"/></l><r>gösteri<s n="n"/></r></p></e>
      <e><p><l>ойын<s n="n"/></l><r>oyun<s n="n"/></r></p></e>
-     <e><p><l>оқ<s n="n"/></l><r>eksen<s n="n"/></r></p></e>
+     
      <e><p><l>оқ<s n="n"/></l><r>kurşun<s n="n"/></r></p></e>
      <e><p><l>оқ<s n="n"/></l><r>mermi<s n="n"/></r></p></e>
      <e><p><l>оқ<s n="n"/></l><r>ok<s n="n"/></r></p></e>
@@ -4348,7 +4349,7 @@
      <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygül<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Сейд<s n="np"/><s n="ant"/><s n="m"/></l><r>Seid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Алмания<s n="np"/><s n="top"/></l><r>Almanya<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Мей<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мay<s n="np"/><s n="cog"/></r></p></e>
+    
      
 <e><p><l>Рио-де-Жанейро<s n="np"/><s n="top"/></l><r>Rio-de-Janeiro<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сан-Паулу<s n="np"/><s n="top"/></l><r>Sao<b/>Paulo<s n="np"/><s n="top"/></r></p></e>
@@ -6165,14 +6166,14 @@
 <e><p><l>есті<s n="v"/><s n="tv"/></l><r>işit<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>килік<s n="v"/><s n="tv"/></l><r>geç<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бақыла<s n="v"/><s n="tv"/></l><r>izle<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>бар<s n="v"/><s n="iv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
+
      <e><p><l>бар<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>бар<s n="v"/><s n="iv"/></l><r>var<s n="v"/><s n="iv"/></r></p></e>
+     
    
     <e><p><l>өт<s n="v"/><s n="tv"/></l><r>geç<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>аттан<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>бас<s n="v"/><s n="iv"/></l><r>bas<s n="v"/><s n="iv"/></r></p></e>
-    
+    <e><p><l>таң<b/>қал<s n="v"/><s n="iv"/></l><r>hayret<b/>et<s n="v"/><s n="tv"/></r></p></e>
      
     
      <e><p><l>басқар<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="tv"/></r></p></e>
@@ -6890,7 +6891,7 @@
 <e><p><l>ірікте<s n="v"/><s n="tv"/></l><r>ele<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жағдай<s n="n"/></l><r>nitelik<s n="n"/></r></p></e>
 
-<e><p><l>келіншек<s n="n"/></l><r>bayan<s n="n"/></r></p></e>
+<e><p><l>келіншек<s n="n"/></l><r>eş<s n="n"/></r></p></e>
 <e><p><l>жақ<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
 <e><p><l>жақ<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
 <e><p><l>жақсы<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
@@ -7104,6 +7105,7 @@
 <e><p><l>кезең<s n="n"/><s n="attr"/></l><r>dönem<s n="n"/></r></p></e>
 <e><p><l>кейін<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
 <e><p><l>ретінде<s n="post"/></l><r>olarak<s n="post"/></r></p></e>
+
 <e><p><l>кейінгі<s n="adj"/></l><r>sonraki<s n="adj"/></r></p></e>
 <e><p><l>кел<s n="vaux"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
 
