@@ -414,7 +414,7 @@
 
 # sent_id = akorda-random.tagged.txt:102:1794
 # text = Австрия Қазақстанның басты сауда серіктестері арасында жетінші орын алады.
-# text[tur] = Avusturya Kazakistan'nın başçıl ticaretçi ortakları arasında yedinci pozisyon  alıyor.
+# text[tur] = Avusturya Kazakistan'nın başçıl ticaretçi ortakları arasında yedinci pozisyon alıyor.
 
 # sent_id = akorda-random.tagged.txt:103:1815
 # text = Олардың арасында Қытай, Түркия, Корея, Жапония бар.
@@ -442,7 +442,7 @@
 
 # sent_id = akorda-random.tagged.txt:109:1936
 # text = - Қазақстан өзінің Грузиямен байланысында нақты экономикалық мүдделерді көздейді.
-# text[tur] = Kazakistan kendisinin Gürcistan bağlantılarında somut ekonomik çıkaraları hedeflendi.
+# text[tur] = Kazakistan #kendi Gürcistan'la bağlantısında somut ekonomik çıkarları beliriyor.
 
 # sent_id = akorda-random.tagged.txt:110:1957
 # text = 1995 жылдан бері аталған компания екі миллиард долларға жуық инвестиция салды.
@@ -474,7 +474,7 @@
 
 # sent_id = akorda-random.tagged.txt:117:2103
 # text = Мүгедектер бірлестіктері қызметінің құқықтық базасын жетілдірген жөн.
-# text[tur] = Özürlüler dernekleri hizmetinin hukuki bazını geliştirmek yönde.
+# text[tur] = Özürlüler dernekleri hizmetinin hukuki bazını geliştirmek yönde. / Felçler dernekleri hizmetinin hukuki bazını eğittiği yön.
 
 # sent_id = akorda-random.tagged.txt:118:2120
 # text = Тек биылғы жылдың өзінде Астанада шетелдердің 12 елшілігі ашылды.
@@ -482,7 +482,7 @@
 
 # sent_id = akorda-random.tagged.txt:119:2141
 # text = Орталық Азияда ішкі кикілжіңдер сақталуда.
-# text[tur] = Orta Asyada iç karışıklıklar kayıta.
+# text[tur] = orta Asya'da iç çelişkiler korunmada.
 
 # sent_id = akorda-random.tagged.txt:120:2154
 # text = Иран Ислам Республикасының Президенті
