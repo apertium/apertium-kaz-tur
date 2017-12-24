@@ -646,7 +646,7 @@
 
 # sent_id = akorda-random.tagged.txt:160:2864
 # text = “Сізді егемен Қазақстанның Президенті болып сайлануыңызбен құттықтаймын.
-# text[tur] = Sizi bağımsız kazakistan'ın başkanı seçilmenizden kutlarız
+# text[tur] = Sizi bağımsız kazakistan'ın başkanı seçilmenizile kutluyorum.
 
 # sent_id = akorda-random.tagged.txt:161:2883
 # text = Бүгінгі таңда адамзаттың болашағы қандай болатыны бізге байланысты.
