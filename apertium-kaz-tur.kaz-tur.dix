@@ -341,7 +341,7 @@
 <e><p><l>құлдырау<s n="n"/></l><r>düşüş<s n="n"/></r></p></e>
 <e><p><l>дайындау<s n="n"/></l><r>hazırlık<s n="n"/></r></p></e>
 <e><p><l>құрылым<s n="n"/></l><r>alet<s n="n"/></r></p></e>
-<e><p><l>Отан<s n="n"/></l><r>otan<s n="n"/></r></p></e>
+
 <e><p><l>құрама<s n="n"/></l><r>bileşim<s n="n"/></r></p></e>
 <e><p><l>мүшелік<s n="n"/></l><r>üyelik<s n="n"/></r></p></e>
 <e><p><l>экспозициялық<s n="adj"/></l><r>gösteri<s n="n"/><s n="attr"/></r></p></e>
@@ -7355,7 +7355,7 @@
 <e><p><l>ниет<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
 <e><p><l>ниет<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
 <e><p><l>Мохаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammed<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>нұр<s n="np"/><s n="ant"/></l><r>nur<s n="np"/><s n="ant"/></r></p></e>
+
 <e><p><l>Нұрсұлтан<s n="np"/><s n="ant"/></l><r>Nursultan<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Нұрсұлтан<s n="np"/><s n="ant"/><s n="m"/></l><r>Nursultan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>нығайт<s n="v"/><s n="tv"/></l><r>destekle<s n="v"/><s n="tv"/></r></p></e>
@@ -7671,6 +7671,8 @@
 <e><p><l>шаршы<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
 <e><p><l>шаршы<s n="n"/><s n="attr"/></l><r>meydan<s n="n"/></r></p></e>
 <e><p><l>Шеврон<s n="np"/><s n="org"/></l><r>Çevron<s n="np"/><s n="org"/></r></p></e>
+
+<e><p><l>Нұр<b/>Отан<s n="np"/><s n="org"/></l><r>Nur<b/>Otan<s n="np"/><s n="org"/></r></p></e>
 <e><p><l>шетел<s n="n"/></l><r>dış<b/>ülke<s n="n"/></r></p></e>
 <e><p><l>шеш<s n="v"/><s n="tv"/></l><r>çöz<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>шеш<s n="v"/><s n="tv"/><s n="neg"/></l><r>çöz<s n="v"/><s n="tv"/><s n="neg"/></r></p></e>
