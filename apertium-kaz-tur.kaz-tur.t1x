@@ -23,7 +23,6 @@
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
     
-
     
 <def-cat n="vaux-opt">
       <cat-item tags="vaux.opt.*"/>
@@ -136,6 +135,10 @@
       <attr-item tags="neg"/> 
     </def-attr>
 
+<def-attr n="cop.aor">
+      <attr-item tags="cop.aor"/> 
+    </def-attr>
+
 <def-attr n="V_trans">
      <attr-item tags="iv"/>
      <attr-item tags="tv"/>
@@ -213,6 +216,9 @@
     <attr-item tags="px2pl"/>
     <attr-item tags="px3pl"/>
   </def-attr>
+
+
+
   
  </section-def-attrs>
 
@@ -576,7 +582,7 @@
     </rule>
     
     
-<rule comment="REGLA: prc_perf" >
+<!--<rule comment="REGLA: prc_perf" >
       <pattern>
         <pattern-item n="prc_perf"/>
       </pattern>
@@ -599,7 +605,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule>-->
     
     
 <rule comment="REGLA: impf" >
@@ -836,6 +842,41 @@
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: pres">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="pres"/>
+      </pattern>
+      <action>
+
+
+          
+
+          <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             </lu> 
+             <lu>
+                <lit v="i"/><lit-tag v="cop.aor"/>
+               <clip pos="2" side="tl" part="personne"/>
+               <clip pos="2" side="tl" part="nombre"/>
+                
+
+            </lu>
+          </mlu>
+        
+       
           </chunk>
         </out>
       </action>
