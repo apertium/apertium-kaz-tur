@@ -241,7 +241,7 @@
 
 <section-rules>
 
-<rule comment="REGLA: AOR" >
+<rule comment="REGLA: AOR-1" >
       <pattern>
         <pattern-item n="aor"/>
       </pattern>
@@ -277,7 +277,7 @@
     </rule>
     
     
-<rule comment="REGLA: prc_perf+vaux-ger_past" >
+<rule comment="REGLA: prc_perf+vaux-ger_past-2" >
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-ger_past"/>
@@ -311,7 +311,7 @@
     
     
  
-<rule comment="REGLA: opt_v" >
+<rule comment="REGLA: opt_v-3" >
       <pattern>
         <pattern-item n="opt"/>
       </pattern>
@@ -337,7 +337,7 @@
     </rule>
     
     
- <rule comment="REGLA: fut plan" >
+ <rule comment="REGLA: fut plan-4" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="ifi"/>
@@ -367,7 +367,7 @@
     
     
     
-<rule comment="REGLA: nom+prn">
+<rule comment="REGLA: nom+prn-5">
 
      <pattern>
      
@@ -407,7 +407,7 @@
     </rule>
     
     
-<rule comment="REGLA: nom">
+<rule comment="REGLA: nom-6">
 
      <pattern>
      
@@ -448,7 +448,7 @@
     </rule>
     
     
-<rule comment="REGLA: imp-pl">
+<rule comment="REGLA: imp-pl-7">
 
      <pattern>
         <pattern-item n="imp"/>
@@ -491,7 +491,7 @@
             </tags>
           <lu> 
             <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="v_tv"/>
+            <clip pos="1" side="tl" part="v_iv"/>
             <lit-tag v="imp"/>
           
             <clip pos="1" side="tl" part="personne"/>
@@ -503,7 +503,7 @@
     </rule>
     
     
-<rule comment="REGLA: imp">
+<rule comment="REGLA: imp-8">
 
      <pattern>
         <pattern-item n="imp"/>
@@ -554,7 +554,7 @@
     </rule>
     
     
-<rule comment="REGLA: Formal" > 
+<rule comment="REGLA: Formal-9" > 
        <pattern>
         <pattern-item n="frm"/>    
       </pattern>
@@ -582,7 +582,7 @@
     </rule>
     
     
-<!--<rule comment="REGLA: prc_perf" >
+<!--<rule comment="REGLA: prc_perf-10" >
       <pattern>
         <pattern-item n="prc_perf"/>
       </pattern>
@@ -608,7 +608,7 @@
     </rule>-->
     
     
-<rule comment="REGLA: impf" >
+<rule comment="REGLA: impf-11" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-opt"/>
@@ -638,7 +638,7 @@
     </rule>
     
 
-<rule comment="REGLA: gpr_past - gpr_past" id= "gpr_past-gpr_past" >
+<rule comment="REGLA: gpr_past - gpr_past" id= "gpr_past-gpr_past-12" >
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -662,7 +662,7 @@
       </action>
     </rule>
   
-<rule comment="REGLA: gpr_past - gpr_rsub" id= "gpr_past-gpr_rsub">
+<rule comment="REGLA: gpr_past - gpr_rsub" id= "gpr_past-gpr_rsub-13">
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -687,7 +687,7 @@
 
 
 
-<rule comment="REGLA: past" >
+<rule comment="REGLA: past-14" >
       <pattern>
         <pattern-item n="past"/>
       </pattern>
@@ -724,7 +724,7 @@
     
     
     
-<rule comment="REGLA: fut plan" >
+<rule comment="REGLA: fut plan-15" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="fut_plan"/>
@@ -764,7 +764,7 @@
 
 
 
-<rule comment="REGLA: fut" >
+<rule comment="REGLA: fut-16" >
        <pattern>
         <pattern-item n="fut"/>    
       </pattern>
@@ -787,7 +787,7 @@
     </rule>
     
 
-<rule comment="REGLA: ifi" >
+<rule comment="REGLA: ifi-17" >
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="ifi"/>
@@ -825,7 +825,7 @@
     </rule>
     
 
-<rule comment="REGLA: ifi">
+<rule comment="REGLA: ifi-18">
        <pattern>
         <pattern-item n="ifi"/>    
       </pattern>
@@ -848,7 +848,7 @@
     </rule>
 
 
-<rule comment="REGLA: pres">
+<rule comment="REGLA: pres-19">
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="pres"/>
@@ -886,7 +886,7 @@
 
 
 
-<rule comment="REGLA: pres">
+<rule comment="REGLA: pres-20">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="pres"/>
@@ -924,7 +924,7 @@
     </rule>
 
 
-<rule comment="REGLA: prc_perf+vaux-aor">
+<rule comment="REGLA: prc_perf+vaux-aor-21">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-aor"/>
@@ -961,7 +961,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_impf+ баста">
+<rule comment="REGLA: prc_impf+ баста-22">
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="баста"/>
@@ -1007,7 +1007,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: pres">
+<rule comment="REGLA: pres-23">
        <pattern>
         <pattern-item n="pres"/>    
       </pattern>
@@ -1034,7 +1034,7 @@
 
 
 
- <rule comment="REGLA: prc_perf+yat_pres">
+ <rule comment="REGLA: prc_perf+yat_pres-24">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="yat_pres"/>
@@ -1062,7 +1062,7 @@
     </rule>
 
 
-<rule comment="REGLA: prc_perf+otyr_pres">
+<rule comment="REGLA: prc_perf+otyr_pres-25">
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="otyr_pres"/>
@@ -1091,7 +1091,7 @@
 
 
 
-<rule comment="REGLA: cop">
+<rule comment="REGLA: cop-26">
       <pattern>
       <pattern-item n="adj"/>
         <pattern-item n="cop"/>
@@ -1130,7 +1130,7 @@
     </rule>
 
 
-<rule comment="REGLA: prc_vol+кел">
+<rule comment="REGLA: prc_vol+кел-27">
       <pattern>
       <pattern-item n="prc_vol"/> 
       <pattern-item n="кел"/>
@@ -1160,7 +1160,7 @@
 
 
 
- <rule comment="REGLA: SENT">
+ <rule comment="REGLA: SENT-28">
       <pattern>
         <pattern-item n="cop-neg"/>
       </pattern>
