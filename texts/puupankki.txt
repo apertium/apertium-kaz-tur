@@ -167,7 +167,7 @@
 # text[tur] =Bütçeye paranın düşmesi arttığı gerçek.
 
 # sent_id = akorda-random.tagged.txt:41:711
-# text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы....???
+# text = Астана елімізге қайырлы да құтты қала болды, - деді Мемлекет басшысы.         ....???
 # text[tur] = Astana ülkemize  hayırlı ve uğurlu şehir oldu, - dedi Memleket başkanı. 
 
 
@@ -1748,7 +1748,7 @@
 
 # sent_id = kdt.tagged.txt:105:1684
 # text = "Осылай тұр!" дегендей екі иығынан басып қалды, бес-алты адымдай жерге барып тұра қалды.
-# text[tur] = "Böyle durmuş!" demişce  iki omuzundan sıkıştırıldı, beş-altı adımlıyarak yere durdu.
+# text[tur] = "Böyle durmuş!" demişse  iki omuzundan sıkıştırıldı, beş-altı adımlıyarak yere durdu.
 
 # sent_id = kdt.tagged.txt:106:1725
 # text = Алтыатары жерге түсіп кетті.

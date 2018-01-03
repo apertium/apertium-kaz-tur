@@ -110,6 +110,14 @@
       <cat-item tags="vaux.ger_past.*"/>
     </def-cat>
 
+<def-cat n="бол">
+      <cat-item lemma="бол" tags="vaux.*"/>
+    </def-cat>
+
+<def-cat n="prc_cond">
+      <cat-item tags="v.*.prc_cond.*"/>
+    </def-cat>
+
    
 </section-def-cats>
 
@@ -1156,6 +1164,42 @@
         </out>
       </action>
     </rule>
+
+<rule comment="REGLA: prc_cond+бол">
+      <pattern>
+        <pattern-item n="prc_cond"/>
+        <pattern-item n="бол"/>
+      </pattern>
+      <action>
+
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
+</let>
+
+
+        <let>
+
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_tv"/><lit-tag v="abil"/><lit-tag v="aor"/><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          
+        </let>
+
+ 
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu> 
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
