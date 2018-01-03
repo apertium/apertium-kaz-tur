@@ -5336,6 +5336,8 @@
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 
+<e><p><l>арнаулы<s n="adj"/></l><r>alnında<b/>yazılı<s n="adj"/></r></p></e>
+
 <e><p><l>дөңес<s n="adj"/></l><r>bombeli<s n="adj"/></r></p></e>
 <e><p><l>аш<s n="adj"/></l><r>ac<s n="adj"/></r></p></e>
 <e><p><l>хабарсыз<s n="adj"/></l><r>bilgisiz<s n="adj"/></r></p></e>
@@ -7108,8 +7110,8 @@
 <e><p><l>қатысу<s n="n"/></l><r>katılım<s n="n"/></r></p></e>
 <e><p><l>қауіп<s n="n"/></l><r>tehlike<s n="n"/></r></p></e>
 <e><p><l>қашықтық<s n="n"/></l><r>mesafe<s n="n"/></r></p></e>
-<e><p><l>Кедендік<s n="adj"/></l><r>gelenek<s n="adj"/></r></p></e>
-<e><p><l>Кедендік<s n="n"/></l><r>gelenek<s n="n"/></r></p></e>
+
+
 <e><p><l>кедергісіз<s n="n"/></l><r>engelsiz<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>an<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>zaman<b/>dilimi<s n="n"/></r></p></e>
@@ -7153,6 +7155,7 @@
 <e><p><l>кәсіпорын<s n="n"/><s n="pl"/></l><r>firma<s n="n"/><s n="pl"/></r></p></e>
 <e><p><l>кесте<s n="n"/></l><r>tablo<s n="n"/></r></p></e>
 
+<e><p><l>Кедендік<s n="adj"/></l><r>gelenek<s n="n"/></r></p></e>
 
 <e><p><l>кикілжің<s n="n"/></l><r>çelişki<s n="n"/></r></p></e>
 <e><p><l>кірпіш<s n="n"/></l><r>kerpiç<s n="n"/></r></p></e>
@@ -7366,10 +7369,10 @@
 <e><p><l>облыс<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
 <e><p><l>түлік<s n="n"/></l><r>stok<s n="n"/></r></p></e>
 <e><p><l>қора<s n="n"/></l><r>avlu<s n="n"/></r></p></e>
-<e><p><l>одақ<s n="n"/></l><r>itifak<s n="n"/></r></p></e>
+<e><p><l>одақ<s n="n"/></l><r>ittifak<s n="n"/></r></p></e>
 <e><p><l>өз<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
 <e><p><l>өз<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
-<e><p><l>бірқатар<s n="prn"/><s n="qnt"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
+<e><p><l>бірқатар<s n="prn"/><s n="qnt"/><s n="nom"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
 
 <e><p><l>өзара<s n="adj"/></l><r>karşılıklı<s n="adj"/></r></p></e>
 <e><p><l>өзара<s n="adv"/></l><r>karşılyıklı<s n="adv"/></r></p></e>
@@ -7554,8 +7557,8 @@
 <e><p><l>тан<s n="v"/><s n="iv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>таны<s n="v"/><s n="tv"/></l><r>tanı<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>таныс<s n="v"/><s n="iv"/></l><r>tanış<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>тапсырма<s n="n"/><s n="pl"/></l><r>atama<s n="n"/><s n="pl"/></r></p></e>
-<e><p><l>тапсырма<s n="n"/><s n="pl"/></l><r>talimat<s n="n"/><s n="pl"/></r></p></e>
+<e><p><l>тапсырма<s n="n"/></l><r>görev<s n="n"/></r></p></e>
+
 <e><p><l>тарап<s n="n"/><s n="pl"/></l><r>taraf<s n="n"/></r></p></e>
 <e><p><l>тарап<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
 <e><p><l>тарих<s n="n"/></l><r>tarih<s n="n"/></r></p></e>

@@ -1014,7 +1014,7 @@
 
 # sent_id = akorda-random.tagged.txt:252:4516
 # text = Осылайша, Кедендік одақтың құқықтық базасы 13 құжатты қамтиды.
-# text[tur] = Böyle, gelenek itifağın kanuni temelı 13 belegeyi içerir.
+# text[tur] = Böyle, gelenek itifağın kanuni temeli 13 belegeyi içerir.
 
 # sent_id = akorda-random.tagged.txt:253:4537
 # text = Шағын және кеңейтілген құрамда келіссөздер жүргізілді.
