@@ -1010,7 +1010,7 @@
 
 # sent_id = akorda-random.tagged.txt:251:4499
 # text = Мемлекет басшысы министрлікке бірқатар нақты тапсырмалар жүктеді.
-# text[tur] = Memeleket başkanı bakanlıkta birçok somut atamalar tayin edildi.
+# text[tur] = Memeleket başkanı bakanlıkta birçok somut görevler yükledi.
 
 # sent_id = akorda-random.tagged.txt:252:4516
 # text = Осылайша, Кедендік одақтың құқықтық базасы 13 құжатты қамтиды.

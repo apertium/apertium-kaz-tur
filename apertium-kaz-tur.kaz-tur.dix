@@ -113,6 +113,13 @@
 
   </sdefs>
 
+   <pardefs>
+     <pardef n="a1_a1">
+        <e><p><l></l><r></r></p></e>
+        <e r="LR"><p><l><s n="advl"/></l><r></r></p></e>
+     </pardef>
+   </pardefs>
+
    <section id="main" type="standard">
      <!-- SECTION: Miscellaneous -->
      <e><p><l>ма<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
@@ -209,6 +216,8 @@
 <e><p><l>қай<s n="prn"/><s n="ind"/><s n="abl"/></l><r>nerede<s n="prn"/><s n="ind"/><s n="abl"/></r></p></e>
      <e><p><l>сіз<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="frm"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
      <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+     <e><p><l>ол<s n="prn"/><s n="dem"/><s n="advl"/></l><r>öyle<s n="adv"/></r></p></e>
+     <e><p><l>бұл<s n="prn"/><s n="dem"/><s n="advl"/></l><r>böyle<s n="adv"/></r></p></e>
 <e><p><l>Ан<s n="prn"/><s n="ref"/><s n="px3sp"/></l><r>kendi<s n="prn"/><s n="ref"/><s n="px3sp"/></r></p></e>
      <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
      <e><p><l>сендер<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
@@ -219,11 +228,9 @@
 <e><p><l>бәрі<s n="prn"/><s n="qnt"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
      <!--<e r="RL"><p><l>өз<s n="prn"/><s n="ref"/></l><r>öz<s n="prn"/><s n="ref"/></r></p></e>-->
 <e><p><l>қай<s n="prn"/><s n="ind"/></l><r>hangi<s n="prn"/><s n="ind"/></r></p></e>
-     <e><p><l>бұл<s n="prn"/><s n="dem"/><s n="advl"/></l><r>böyle<s n="det"/><s n="ind"/></r></p></e>
      <e><p><l>мынау<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>ана<s n="prn"/><s n="dem"/></l><r>öteki<s n="prn"/><s n="dem"/></r></p></e>
      
-     <e><p><l>ол<s n="prn"/><s n="dem"/><s n="advl"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>мына<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>осы<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>ешкім<s n="prn"/><s n="neg"/></l><r>hiç<b/>kimse<s n="prn"/><s n="neg"/></r></p></e>
@@ -4314,7 +4321,7 @@
      <e><p><l>сұраным<s n="n"/></l><r>soru<s n="n"/></r></p></e>
      <e><p><l>сұраныс<s n="n"/></l><r>soru<s n="n"/></r></p></e>
      <e><p><l>тұлға<s n="n"/></l><r>şey<s n="n"/></r></p></e>
-<e><p><l>теп<s n="n"/></l><r>bırak<s n="n"/></r></p></e>
+<e><p><l>теп<s n="v"/><s n="tv"/></l><r>bırak<s n="v"/><s n="tv"/></r></p></e>
 
 
      <e><p><l>округ<s n="n"/></l><r>okrug<s n="n"/></r></p></e>
@@ -5514,7 +5521,7 @@
      <e><p><l>жаман<s n="adj"/></l><r>fena<s n="adj"/></r></p></e>
      <e><p><l>жаман<s n="adj"/></l><r>kötü<s n="adj"/></r></p></e>
      
-     <e><p><l>жаңа<s n="adj"/><s n="advl"/></l><r>yeni<s n="adj"/></r></p></e>
+     <e><p><l>жаңа<s n="adj"/></l><r>yeni<s n="adj"/></r></p><par n="a1_a1"/></e> 
      <e><p><l>жарасатындай<s n="adj"/></l><r>şık<s n="adj"/></r></p></e>
      <e><p><l>жарық<s n="adj"/></l><r>patlak<s n="adj"/></r></p></e>
      <e><p><l>жарық<s n="adj"/></l><r>yarık<s n="adj"/></r></p></e>
@@ -6117,6 +6124,7 @@
 <e><p><l>болып<b/>кел<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ти<s n="v"/><s n="iv"/></l><r>dokun<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
    
 
 
