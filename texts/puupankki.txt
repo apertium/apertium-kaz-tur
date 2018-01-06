@@ -1090,7 +1090,7 @@
 
 # sent_id = akorda-random.tagged.txt:271:4848
 # text = Сондай-ақ Қазақстан Иранға астық жеткізіп тұруға мүдделі.
-# text[tur] = Yanı-sıra Kazakisatn İrana tahıl ihracatı ilgili.
+# text[tur] = Yanı-sıra Kazakistan İrana tahıl ihracatı ilgili.
 
 # sent_id = akorda-random.tagged.txt:272:4865
 # text = Әңгімелесуші тараптар әлемдегі саяси және экономикалық ахуалды талқылады.
