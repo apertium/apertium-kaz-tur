@@ -428,7 +428,7 @@
 <e><p><l>дәрігер<s n="n"/></l><r>doktor<s n="n"/></r></p></e>
 <e><p><l>риал<s n="n"/></l><r>rial<s n="n"/></r></p></e>
 <e><p><l>жорғалаушы<s n="n"/></l><r>sürüngen<s n="n"/></r></p></e>
-<e><p><l>құлшылық<s n="n"/></l><r>kölelik<s n="n"/></r></p></e>
+<e><p><l>құлшылық<s n="n"/></l><r>esaret<s n="n"/></r></p></e>
 <e><p><l>қараңғылық<s n="n"/></l><r>karanlık<s n="n"/></r></p></e>
 <e><p><l>алтыатар<s n="n"/></l><r>tabanca<s n="n"/></r></p></e>
 <e><p><l>пенде<s n="n"/></l><r>insan<s n="n"/></r></p></e>
@@ -5352,7 +5352,7 @@
 
 <e><p><l>арнаулы<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
 
-<e><p><l>астық<s n="adj"/></l><r>özel<s n="adj"/></r></p><par n="a1_a1"/></e>
+<e><p><l>астық<s n="adj"/></l><r>tahıl<s n="n"/></r></p><par n="a1_a1"/></e>
 
 <e><p><l>дөңес<s n="adj"/></l><r>bombeli<s n="adj"/></r></p></e>
 <e><p><l>аш<s n="adj"/></l><r>ac<s n="adj"/></r></p></e>
@@ -5775,7 +5775,7 @@
     
      <!--<e><p><l>тұрғын<s n="adj"/></l><r>yerli<s n="adj"/></r></p></e>-->
      <!--<e><p><l>тұрғын<s n="adj"/></l><r>yerleşim<s n="adj"/></r></p></e>-->
-     <e><p><l>түркі<s n="adj"/></l><r>türki<s n="adj"/></r></p></e>
+     <e><p><l>түркі<s n="adj"/></l><r>türkoloji<s n="n"/></r></p><par n="a1_a1"/></e>
      <e><p><l>түрлі<s n="adj"/></l><r>değişik<s n="adj"/></r></p></e>
      <e><p><l>түрлі<s n="adj"/></l><r>farklı<s n="adj"/></r></p></e>
      <e><p><l>түрлі<s n="adj"/></l><r>türlü<s n="adj"/></r></p></e>
@@ -6289,7 +6289,7 @@
      <e><p><l>жең<s n="v"/><s n="iv"/></l><r>yen<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>uzan<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>götür<s n="v"/><s n="tv"/></r></p></e>
+     
      <e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>ilet<s n="v"/><s n="tv"/></r></p></e>
     
      <e><p><l>жібер<s n="v"/><s n="tv"/></l><r>gönder<s n="v"/><s n="tv"/></r></p></e>
@@ -6671,7 +6671,7 @@
 <e><p><l>арт<s n="n"/></l><r>arka<s n="n"/></r></p></e>
 <e><p><l>Астана<s n="np"/><s n="top"/></l><r>Astana<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Әбішұлы<s n="np"/><s n="cog"/><s n="m"/></l><r>Abişoviç<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>астық<s n="n"/></l><r>tahıl<s n="n"/></r></p></e>
+
 <e><p><l>асхана<s n="n"/></l><r>kantin<s n="n"/></r></p></e>
 <e><p><l>ата<s n="v"/><s n="tv"/></l><r>işaretle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ата<s n="v"/><s n="tv"/></l><r>işaretle<s n="v"/><s n="tv"/></r></p></e>
@@ -6984,7 +6984,7 @@
 <e><p><l>жеті<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
 <e><p><l>жетістік<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
 <e><p><l>жетістік<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
-<e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>жина<s n="v"/><s n="tv"/></l><r>biriktir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жинақ<s n="n"/></l><r>birikim<s n="n"/></r></p></e>
 <e><p><l>жинақта<s n="v"/><s n="tv"/></l><r>yığmak<s n="v"/><s n="tv"/></r></p></e>
@@ -7336,8 +7336,8 @@
 <e><p><l>модель<s n="n"/></l><r>mödel<s n="n"/></r></p></e>
 <e><p><l>мүгедек<s n="n"/></l><r>özürlü<s n="n"/></r></p></e>
 <e><p><l>мүдде<s n="n"/><s n="pl"/></l><r>çıkar<s n="n"/><s n="pl"/></r></p></e>
-<e><p><l>мүдделі<s n="adj"/></l><r>gelişim<s n="adj"/></r></p></e>
-<e><p><l>мүдделі<s n="adj"/></l><r>ilgili<s n="adj"/></r></p></e>
+<e><p><l>мүдделі<s n="adj"/></l><r>faiz<s n="n"/></r></p></e>
+
 <e><p><l>мұқият<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p></e>
 <e><p><l>мұқият<s n="adv"/></l><r>dikkatlice<s n="adv"/></r></p></e>
 <e><p><l>мүмкіндік<s n="n"/></l><r>yetenek<s n="n"/></r></p></e>
