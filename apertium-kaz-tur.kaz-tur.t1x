@@ -102,7 +102,7 @@
 <cat-item lemma="отыр" tags="vaux.pres.*"/>
 </def-cat>
 
- <def-cat n="gna_perf">
+ <def-cat n="vaux-gna_perf">
 <cat-item lemma="отыр" tags="vaux.gna_perf"/>
 </def-cat>
 
@@ -159,6 +159,9 @@
     </def-attr>
 <def-attr n="ger">
       <attr-item tags="ger"/> 
+    </def-attr>
+<def-attr n="dat">
+      <attr-item tags="dat"/> 
     </def-attr>
 
 <def-attr n="V_trans">
@@ -236,6 +239,9 @@
   <def-attr n="ger_past">
     <attr-item tags="ger_past"/>
   </def-attr>
+<def-attr n="gna_perf">
+    <attr-item tags="gna_perf"/>
+  </def-attr>
   
  <def-attr n="poss_v">
     <attr-item tags="px1pl"/>
@@ -308,7 +314,7 @@
 <rule comment="REGLA: prc_perf+vaux-gna_perf" >
       <pattern>
         <pattern-item n="prc_perf"/>
-        <pattern-item n="gna_perf"/>
+        <pattern-item n="vaux-gna_perf"/>
       </pattern>
       <action>
  
@@ -407,7 +413,7 @@
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger"/><lit-tag v="nom"/><lit v="+i"/><lit-tag v="cop.aor"/><lit-tag v="p3"/><lit-tag v="sg"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger"/><lit-tag v="dat"/><lit v="+i"/><lit-tag v="cop.aor"/><lit-tag v="p3"/><lit-tag v="sg"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
