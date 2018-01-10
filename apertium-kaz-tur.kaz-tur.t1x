@@ -413,7 +413,7 @@
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger"/><lit-tag v="dat"/><lit v="+i"/><lit-tag v="cop.aor"/><lit-tag v="p3"/><lit-tag v="sg"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger"/><lit-tag v="dat"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">

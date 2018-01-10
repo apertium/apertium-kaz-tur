@@ -157,7 +157,8 @@
 
      <!-- SECTION: Postpositions -->
      <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
-     <e><p><l>сыз<s n="post"/></l><r>sız<s n="post"/></r></p></e>
+     <e><p><l>сыз<s n="post"/></l><r>siz<s n="post"/></r></p></e>
+<e><p><l>сыз<s n="post"/></l><r>sız<s n="post"/></r></p></e>
 
      <e><p><l>арқылы<s n="post"/></l><r>boyunca<s n="post"/></r></p></e>
      <e><p><l>қарай<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
@@ -321,7 +322,7 @@
 
 <e><p><l>сырқат<s n="n"/></l><r>hastalık<s n="n"/></r></p></e>
 
-<e><p><l>кедергісіз<s n="n"/></l><r>engelenmiş<s n="adj"/></r></p></e>
+<e><p><l>кедергі<s n="n"/></l><r>engelenmiş<s n="adj"/></r></p></e>
 
 <e><p><l>басын<s n="n"/></l><r>insan<s n="n"/></r></p></e>
 <e><p><l>Жалын<s n="n"/></l><r>ateş<s n="n"/></r></p></e>
@@ -7144,7 +7145,7 @@
 <e><p><l>қашықтық<s n="n"/></l><r>mesafe<s n="n"/></r></p></e>
 
 
-<e><p><l>кедергісіз<s n="n"/></l><r>engelsiz<s n="n"/></r></p></e>
+<e><p><l>кедергі<s n="n"/></l><r>engelsiz<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>an<s n="n"/></r></p></e>
 <e><p><l>кез<s n="n"/></l><r>zaman<b/>dilimi<s n="n"/></r></p></e>
 
