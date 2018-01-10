@@ -103,7 +103,7 @@
 </def-cat>
 
  <def-cat n="vaux-gna_perf">
-<cat-item lemma="отыр" tags="vaux.gna_perf"/>
+<cat-item  tags="vaux.gna_perf"/>
 </def-cat>
 
 <def-cat n="cop-neg">
