@@ -113,6 +113,10 @@
 <def-cat n="imp">
       <cat-item tags="v.*.imp.*"/>
     </def-cat>
+
+<def-cat n="vaux-imp">
+      <cat-item tags="vaux.imp.*"/>
+    </def-cat>
     
 <def-cat n="vaux-ger_past">
       <cat-item tags="vaux.ger_past.*"/>
@@ -325,6 +329,34 @@
           <clip pos="1" side="tl" part="whole"/>
 
           <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="gna_perf"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: prc_perf+vaux-imp" >
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux-imp"/>
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="imp"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="imp"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
