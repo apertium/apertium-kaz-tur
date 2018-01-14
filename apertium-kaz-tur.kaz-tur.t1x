@@ -1222,7 +1222,7 @@
 
 <rule comment="REGLA: prc_perf+ баста-22">
       <pattern>
-        <pattern-item n="prc_perf"/>
+        <pattern-item n="prc_perf"/> <!--білінбей қалмайды. -> görünmez olmaz-->
         <pattern-item n="қал"/>
       </pattern>
       <action>
@@ -1410,6 +1410,42 @@
               <clip pos="2" side="tl" part="whole"/>
             </lu>
           </mlu>
+          
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: cop-26">
+      <pattern>
+      
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+     
+      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
+                             
+        
+      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="dub.aor"/></let>
+    </when>
+</choose>
+
+        <out>
+
+          <chunk name="v" case=
+          "caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             
+            </lu>
+         
           
           </chunk>
         </out>

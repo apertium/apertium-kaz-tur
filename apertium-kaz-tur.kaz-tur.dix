@@ -128,6 +128,8 @@
      <!-- SECTION: Conjunctions -->
      <e><p><l>егер<s n="cnjsub"/></l><r>eğer<s n="cnjsub"/></r></p></e>
 
+<e><p><l>Ал<s n="cnjsub"/></l><r>olduğu<b/>halde<s n="cnjsub"/></r></p></e>
+
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
      <e><p><l>екеуі<s n="cnjcoo"/></l><r>ikisi<s n="cnjcoo"/></r></p></e>
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>fakat<s n="cnjcoo"/></r></p></e>
@@ -222,6 +224,7 @@
 <e><p><l>Ан<s n="prn"/><s n="ref"/><s n="px3sp"/></l><r>kendi<s n="prn"/><s n="ref"/><s n="px3sp"/></r></p></e>
      <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
      <e><p><l>сендер<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>қан<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>сіздер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
 
     
@@ -241,7 +244,7 @@
 
      <e><p><l>нәрсе<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>не<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>қандай<s n="prn"/><s n="itg"/></l><r>nedir<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>қандай<s n="prn"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>кім<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>кім<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>қайсы<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
@@ -7432,7 +7435,7 @@
 <e><p><l>оқу<s n="n"/></l><r>eğitim<s n="n"/></r></p></e>
 
 <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>ол<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>ол<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>Олимпиада<s n="n"/></l><r>olimpiyatlar<s n="n"/></r></p></e>
 <e><p><l>өлшем<s n="n"/></l><r>ölçüm<s n="n"/></r></p></e>
 
