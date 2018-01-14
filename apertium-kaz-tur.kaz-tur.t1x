@@ -68,6 +68,9 @@
 <def-cat n="баста">
       <cat-item lemma="баста" tags="vaux.*"/>
     </def-cat>
+<def-cat n="қал">
+      <cat-item lemma="қал" tags="vaux.*"/>
+    </def-cat>
 
 <def-cat n="кел">
       <cat-item lemma="кел" tags="vaux.*"/>
@@ -343,7 +346,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux-imp" >
+<rule comment="REGLA: prc_perf+vaux-imp" > <!-- тауып бер -> bul -->
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-imp"/>
@@ -1216,6 +1219,53 @@
         </out>
       </action>
     </rule>
+
+<rule comment="REGLA: prc_perf+ баста-22">
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="қал"/>
+      </pattern>
+      <action>
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="fut"/>
+</let>
+
+
+        <let>
+
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="pass"/><clip pos="1" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/></concat>
+          
+        </let>
+
+ 
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu> <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="v_trans"/>
+              <clip pos="2" side="tl" part="neg"/>
+              <clip pos="2" side="tl" part="tenses"/>
+              <lit v="+i"/><lit-tag v="cop"/>
+              <clip pos="2" side="tl" part="tenses"/>
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
 
 <rule comment="REGLA: pres-23">
        <pattern>

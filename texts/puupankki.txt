@@ -1612,7 +1612,7 @@
 
 # sent_id = kdt.tagged.txt:71:1154
 # text = Мұның арты үлкен дүрбелеңге шаппасын кім біледі?
-# text[tur] = Bunun sanatı büyük panik aramayacağını kim bilir?
+# text[tur] = Bunun souncu büyük panike tetiklesin kim bilir?
 
 # sent_id = kdt.tagged.txt:72:1171
 # text = Ағасы болмаса, бұ қызда не жазық бар еді?..
