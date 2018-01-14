@@ -80,6 +80,9 @@
       <cat-item  tags="adj.*"/>
       <cat-item  tags="adj"/>
     </def-cat>
+<def-cat n="pih">
+      <cat-item tags="v.*.pih.*"/>
+    </def-cat>
 
 <def-cat n="cop">
       <cat-item  tags="cop.*"/>
@@ -169,6 +172,9 @@
     </def-attr>
 <def-attr n="dat">
       <attr-item tags="dat"/> 
+    </def-attr>
+<def-attr n="ger_pabs">
+      <attr-item tags="ger_pabs"/> 
     </def-attr>
 
 <def-attr n="V_trans">
@@ -479,6 +485,31 @@
         <let>
           <clip pos="1" side="tl" part="whole"/>
           <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="imp"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: pih" >
+      <pattern>
+        <pattern-item n="pih"/>
+      </pattern>
+      <action>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger_pabs"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="ger_pabs"/><lit-tag v="nom"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
