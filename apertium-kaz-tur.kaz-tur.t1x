@@ -26,6 +26,9 @@
 <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
+<def-cat n="vaux-neg-aor">
+      <cat-item tags="vaux.neg.*"/>
+    </def-cat>
     
     
 <def-cat n="vaux-opt">
@@ -95,7 +98,9 @@
       <cat-item tags="prn.*"/>
     </def-cat>
    
-
+<def-cat n="gpr_impf">
+      <cat-item tags="v.*.gpr_impf"/>
+    </def-cat>
 
 <def-cat n="yat_pres">
 <cat-item lemma="жат" tags="vaux.pres.*"/>
@@ -189,6 +194,10 @@
 
 <def-attr n="a_gpr">
      <attr-item tags="gpr_past"/>
+     <attr-item tags="gpr_rsub"/>
+   </def-attr>
+<def-attr n="a_impf">
+     <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
    </def-attr>
    
@@ -315,6 +324,32 @@
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
         </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: gpr_impf" >
+      <pattern>
+        <pattern-item n="gpr_impf"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="a_impf"/>
+          <lit-tag v="gpr_rsub"/>
+        </let>
+       
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -544,6 +579,34 @@
           <clip pos="1" side="tl" part="whole"/>
 
           <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+ <rule comment="REGLA: neg-aor-4" >
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="vaux-neg-aor"/>
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
