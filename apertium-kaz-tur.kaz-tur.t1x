@@ -138,6 +138,9 @@
 <def-cat n="prc_cond">
       <cat-item tags="v.*.prc_cond.*"/>
     </def-cat>
+<def-cat n="ifi-evid">
+      <cat-item tags="v.*.ifi.evid.*"/>
+    </def-cat>
 
    
 </section-def-cats>
@@ -150,8 +153,10 @@
 
 <def-attr n="evid">
       <attr-item tags="aor.evid"/>
+      <attr-item tags="ifi.evid"/>
       <attr-item tags="dub.aor"/>
     </def-attr>
+
 
 <def-attr n="tenses">
       <attr-item tags="ifi"/>
@@ -499,7 +504,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: pih" >
+<rule comment="REGLA: pih" > <!--болатын -> olmuş-->
       <pattern>
         <pattern-item n="pih"/>
       </pattern>
@@ -1447,6 +1452,44 @@
       </action>
     </rule>
 
+
+<rule comment="REGLA: cop-26"> <!--болыпты -> oldu-->
+      <pattern>
+      
+        <pattern-item n="ifi-evid"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+     
+      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="ifi.evid"/></equal></test>
+                             
+        
+      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="ifi"/></let>
+    </when>
+</choose>
+
+        <out>
+
+          <chunk name="v" case=
+          "caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             
+            </lu>
+         
+          
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 <rule comment="REGLA: cop-26">
       <pattern>
       
@@ -1482,6 +1525,8 @@
         </out>
       </action>
     </rule>
+
+
 
 
 <rule comment="REGLA: prc_vol+кел-27">

@@ -128,7 +128,7 @@
      <!-- SECTION: Conjunctions -->
      <e><p><l>егер<s n="cnjsub"/></l><r>eğer<s n="cnjsub"/></r></p></e>
 
-<e><p><l>Ал<s n="cnjsub"/></l><r>olduğu<b/>halde<s n="cnjsub"/></r></p></e>
+<e><p><l>Ал<s n="cnjcoo"/></l><r>olduğu<b/>halde<s n="cnjcoo"/></r></p></e>
 
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
      <e><p><l>екеуі<s n="cnjcoo"/></l><r>ikisi<s n="cnjcoo"/></r></p></e>
@@ -154,7 +154,7 @@
      <e><p><l>немесе<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
      <e><p><l>һәм<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>түгіл<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
-<e><p><l>ал<s n="cnjcoo"/></l><r>sırasında<s n="cnjcoo"/></r></p></e>
+
 <e><p><l>мейлі<s n="ij"/></l><r>herneyse<s n="cnjcoo"/></r></p></e>
 
      <!-- SECTION: Postpositions -->
@@ -1595,8 +1595,8 @@
      <e><p><l>құлақ<s n="n"/></l><r>kulak<s n="n"/></r></p></e>
      <e><p><l>қулық<s n="n"/></l><r>hile<s n="n"/></r></p></e>
      <e><p><l>құм<s n="n"/></l><r>kum<s n="n"/></r></p></e>
-     <e><p><l>құмар<s n="n"/></l><r>kumar<s n="n"/></r></p></e>
-<e><p><l>құмар<s n="n"/></l><r>tutku<s n="n"/></r></p></e>
+    
+<e><p><l>құмар<s n="n"/></l><r>hırs<s n="n"/></r></p></e>
      <e><p><l>күмән<s n="n"/></l><r>kuşku<s n="n"/></r></p></e>
      <e><p><l>күмән<s n="n"/></l><r>şüphe<s n="n"/></r></p></e>
      <e><p><l>күмән<s n="n"/></l><r>tereddüt<s n="n"/></r></p></e>
@@ -5889,7 +5889,7 @@
 <e><p><l>кейінірек<s n="adv"/></l><r>sonradan<s n="adv"/></r></p></e>
 <e><p><l>қазірде<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
 <e><p><l>алдымен<s n="adv"/></l><r>önceden<s n="adv"/></r></p></e>
-<e><p><l>неліктен<s n="adv"/></l><r>neden<s n="adv"/></r></p></e>
+<e><p><l>неліктен<s n="adv"/></l><r>neden<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>тап<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
 <e><p><l>әбден<s n="adv"/></l><r>feci<s n="adv"/></r></p></e>
 <e><p><l>әлдеқашан<s n="adv"/></l><r>zaten<s n="adv"/></r></p></e>
@@ -6165,7 +6165,7 @@
 <e><p><l>жүр<s n="vaux"/></l><r>yürü<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>жолық<s n="v"/><s n="iv"/></l><r>eski<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ал<s n="vaux"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>сипатта<s n="v"/><s n="tv"/>nitele</l><r><s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>сипатта<s n="v"/><s n="tv"/></l><r>nitele<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жат<s n="vaux"/></l><r>yer<b/>al<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>бұйыр<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
    
@@ -7745,7 +7745,7 @@
 <e r="LR"><p><l>>да<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>tons<s n="n"/><s n="sg"/></l><r>т<s n="n"/></r></p></e>
 <e><p><l>t<s n="n"/><s n="sg"/></l><r>т<s n="n"/></r></p></e>
-<e r="LR"><p><l>ал<s n="cnjcoo"/></l><r></r></p></e>
+<!--<e r="LR"><p><l>ал<s n="cnjcoo"/></l><r></r></p></e>-->
 <e r="LR"><p><l>да<s n="postadv"/></l><r></r></p></e>
 <e r="LR"><p><l>тұр<s n="vaux"/></l><r></r></p></e>
 <e r="LR"><p><l>отыр<s n="vaux"/></l><r></r></p></e>
