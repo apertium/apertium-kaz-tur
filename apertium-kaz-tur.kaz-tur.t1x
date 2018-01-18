@@ -146,6 +146,9 @@
 <def-cat n="prc_cond">
       <cat-item tags="v.*.prc_cond.*"/>
     </def-cat>
+<def-cat n="ger_perf">
+      <cat-item tags="v.*.ger_perf.*"/>
+    </def-cat>
 <def-cat n="ifi-evid">
       <cat-item tags="v.*.ifi.evid.*"/>
     </def-cat>
@@ -188,6 +191,9 @@
     </def-attr>
 <def-attr n="ger_pabs">
       <attr-item tags="ger_pabs"/> 
+    </def-attr>
+<def-attr n="ger_prf">
+      <attr-item tags="ger_perf"/> 
     </def-attr>
 
 <def-attr n="V_trans">
@@ -391,6 +397,33 @@
 
           <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="nom"/></concat>
         </let>
+       
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+<rule comment="REGLA: ger_perf" > <!--білгендік -> bildik -->
+      <pattern>
+        <pattern-item n="ger_perf"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="ger_prf"/>
+         <lit-tag v="ger_past"/>
+        </let>
+
        
         <out>
           <chunk name="v" case="caseFirstWord">
