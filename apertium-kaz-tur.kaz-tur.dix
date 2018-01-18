@@ -388,7 +388,7 @@
 <e><p><l>тұщы<b/>су<s n="n"/></l><r>tatlı<b/>su<s n="n"/></r></p></e>
 <e><p><l>кезек<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
 <e><p><l>шахсей<b/>вахсей<s n="n"/></l><r>aşüre<s n="n"/></r></p></e>
-<e><p><l>кинофестиваль<s n="n"/></l><r>film<b/>festival<s n="n"/></r></p></e>
+<e><p><l>кинофестиваль<s n="n"/></l><r>film <b/>festival<s n="n"/></r></p></e>
 <e><p><l>студия<s n="n"/></l><r>stüdyo<s n="n"/></r></p></e>
 <e><p><l>киностудия<s n="n"/></l><r>stüdyo<s n="n"/></r></p></e>
 <e><p><l>митра<s n="n"/></l><r>açıölçer<s n="n"/></r></p></e>
@@ -6235,6 +6235,7 @@
     <e><p><l>өт<s n="v"/><s n="tv"/></l><r>geç<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>аттан<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>бас<s n="v"/><s n="iv"/></l><r>bas<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>басыл<s n="v"/><s n="iv"/></l><r>basıl<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>таң<b/>қал<s n="v"/><s n="iv"/></l><r>hayret<b/>et<s n="v"/><s n="tv"/></r></p></e>
      
     
@@ -6982,7 +6983,7 @@
 
 
 <e><p><l>жас<s n="n"/></l><r>genç<s n="n"/></r></p></e>
-<e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>жаса<s n="v"/><s n="tv"/></l><r>uygula<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жаса<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жасау<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
 <e><p><l>жасау<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
