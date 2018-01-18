@@ -7,6 +7,9 @@
 <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
+<def-cat n="prc_fplan">
+      <cat-item tags="v.*.prc_fplan"/>
+    </def-cat>
 <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
     </def-cat>
@@ -251,6 +254,7 @@
      <attr-item tags="imp"/>
      <attr-item tags="gna_impf"/>
      <attr-item tags="ger_past"/>
+<attr-item tags="ger_inf"/>
      
     </def-attr>
     
@@ -262,6 +266,10 @@
 
 <def-attr n="aor_diff">
     <attr-item tags="aor"/>
+  </def-attr>
+
+<def-attr n="prc_fp">
+    <attr-item tags="prc_fplan"/>
   </def-attr>
   <def-attr n="ger_past">
     <attr-item tags="ger_past"/>
@@ -337,7 +345,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: gpr_impf" >
+<rule comment="REGLA: gpr_impf" > <!--сөйлейтін -> konuşan -->
       <pattern>
         <pattern-item n="gpr_impf"/>
       </pattern>
@@ -357,6 +365,41 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: prc_fplan" > <!--білмек -> bilmek -->
+      <pattern>
+        <pattern-item n="prc_fplan"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="prc_fp"/>
+         <lit-tag v="ger_inf"/>
+        </let>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger_inf"/>
+</let>
+ <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="nom"/></concat>
+        </let>
+       
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
             </lu>
           </chunk>
         </out>
@@ -606,7 +649,7 @@
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="abil"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="prog"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -1588,6 +1631,8 @@
         </out>
       </action>
     </rule>
+
+
 
 
 

@@ -5892,7 +5892,7 @@
 <e><p><l>неліктен<s n="adv"/></l><r>neden<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>тап<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
 <e><p><l>әбден<s n="adv"/></l><r>feci<s n="adv"/></r></p></e>
-<e><p><l>әлдеқашан<s n="adv"/></l><r>zaten<s n="adv"/></r></p></e>
+<e><p><l>әлдеқашан<s n="adv"/></l><r>çoktan<s n="adv"/></r></p></e>
 <e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>ne<b/>zaman<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>ылғи<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
 <!--<e><p><l>міне<s n="adv"/></l><r>burada<s n="adv"/></r></p></e>-->
@@ -6010,6 +6010,7 @@
 <e><p><l>сабала<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>келтір<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>істе<s n="v"/><s n="tv"/></l><r>anlaş<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>кемі<s n="v"/><s n="tv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
 
@@ -6535,7 +6536,7 @@
      <e><p><l>түгес<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тауыс<s n="v"/><s n="tv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тауар<b/>айналым<s n="n"/></l><r>ticaret<s n="v"/></r></p></e>
-     <e><p><l>есті<s n="v"/><s n="tv"/></l><r>duy<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>есті<s n="v"/><s n="tv"/></l><r>öğren<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>есіт<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>аңда<s n="v"/><s n="tv"/></l><r>anla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>аңда<s n="v"/><s n="tv"/></l><r>açıkla<s n="v"/><s n="tv"/></r></p></e>
@@ -6930,7 +6931,7 @@
 <e><p><l>есе<b/>артық<s n="adv"/></l><r>den<b/>daha<b/>fazla<s n="adv"/></r></p></e>
 
 
-<e><p><l>артық<s n="adv"/></l><r>gereksizce<s n="adv"/></r></p></e>
+<e><p><l>артық<s n="adv"/></l><r>lüzümsüz<b/>yere<s n="adv"/></r></p></e>
 <e><p><l>еш<b/>қашан<s n="adv"/></l><r>hiç<s n="adv"/></r></p></e>
 <e><p><l>есе<s n="n"/></l><r>kez<s n="n"/></r></p></e>
 <e><p><l>есірткі<s n="n"/></l><r>narkotik<s n="n"/></r></p></e>

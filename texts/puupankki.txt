@@ -2336,7 +2336,7 @@
 
 # sent_id = kdt.tagged.txt:252:4113
 # text = Кімге сенуге, кіммен істесуге болады?
-# text[tur] = Kime inanmaya, kiminile kılaşmaya olur?
+# text[tur] = Kime inanmaya, kimle anlaşmaya oluyor?
 
 # sent_id = kdt.tagged.txt:253:4128
 # text = Олар немен шұғылданады?
@@ -2899,7 +2899,7 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:5:152
 # text = Кейінірек ФИФА ротация принципі өзгеретінін жариялады.
-# text[tur] = Sonradan FIFA dönüş prensipi değiştiren yayınladı.
+# text[tur] = Sonradan FIFA dönüş prensipi değişenini yayınladı.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:6:167
 # text = Енді 2018 жылдың чемпионатын өткізу құқығына қатысатын кандидаттар додасына, соңғы екі чемпионатты (КАФ және КОНМЕБОЛ) өткізген елдерден басқа, барлық конфедерациялардан елдер сынға түседі.
