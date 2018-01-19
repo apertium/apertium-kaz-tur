@@ -32,6 +32,7 @@
 <def-cat n="vaux-neg-ifi">
       <cat-item tags="vaux.neg.*"/>
     </def-cat>
+
     
     
 <def-cat n="vaux-opt">
@@ -440,7 +441,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: neg-aor-4" >
+<rule comment="REGLA: neg-aor-4" > <!-- ойнай алмады -> oynamadı -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-neg-ifi"/>
@@ -472,6 +473,8 @@
         </out>
       </action>
 </rule>
+
+
 
 
 <rule comment="REGLA: prc_perf+vaux-gna_perf" >

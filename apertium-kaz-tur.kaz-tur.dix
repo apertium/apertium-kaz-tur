@@ -323,6 +323,10 @@
 <e><p><l>садақ<s n="n"/></l><r>yay<s n="n"/></r></p></e>
 <e><p><l>белгі<s n="n"/></l><r>simge<s n="n"/></r></p></e>
 
+
+
+<e><p><l>шама<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
+
 <e><p><l>сырқат<s n="n"/></l><r>hastalık<s n="n"/></r></p></e>
 
 <e><p><l>кедергі<s n="n"/></l><r>engelenmiş<s n="adj"/></r></p></e>
@@ -5367,7 +5371,7 @@
 <e><p><l>хабарсыз<s n="adj"/></l><r>bilgisiz<s n="adj"/></r></p></e>
 <e><p><l>циклдық<s n="adj"/></l><r>periyodik<s n="adj"/></r></p></e>
 <e><p><l>тәуір<s n="adj"/></l><r>doğru<s n="adj"/></r></p></e>
-<e><p><l>жейтін<s n="adj"/></l><r>yemeklik<s n="adj"/><s n="subst"/></r></p></e>
+<e><p><l>жейтін<s n="adj"/></l><r>yemeklik<s n="adj"/></r></p></e>
 <e><p><l>қыстық<s n="adj"/></l><r>kışlık<s n="adj"/></r></p></e>
 <e><p><l>инновациялық<s n="adj"/></l><r>yaratıcı<s n="adj"/></r></p></e>
 <e><p><l>атқарушылық<s n="adj"/></l><r>idari<s n="adj"/></r></p></e>
@@ -5415,7 +5419,7 @@
 <e><p><l>дардай<s n="adj"/></l><r>koskoca<s n="adj"/></r></p></e>
      <e><p><l>алып<s n="adj"/></l><r>muazzam<s n="adj"/></r></p></e>
 <e><p><l>әрбір<s n="adj"/></l><r>herbir<s n="adj"/></r></p></e>
-     <e><p><l>алып<s n="adj"/></l><r>müthiş<s n="adj"/></r></p></e>
+     <e><p><l>алып<s n="adj"/><s n="advl"/></l><r>müthiş<s n="adj"/></r></p></e>
 <e><p><l>оңтүстік<b/>америкалық<s n="adj"/></l><r>güney<b/>amerikan<s n="adj"/></r></p></e>
 <e><p><l>аяр<s n="adj"/></l><r>hayin<s n="adj"/></r></p></e>
 <e><p><l>керек <s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
@@ -6008,6 +6012,7 @@
 <e><p><l>демократияландыр<s n="v"/><s n="tv"/></l><r>demokratikleştir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сайла<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сабала<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>жүзеге<b/>асырыл<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>келтір<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>істе<s n="v"/><s n="tv"/></l><r>anlaş<s n="v"/><s n="iv"/></r></p></e>
@@ -6093,13 +6098,13 @@
 <e><p><l>өңде<s n="v"/><s n="tv"/></l><r>düzenle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>өңде<s n="v"/><s n="tv"/></l><r>işle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>күрес<s n="v"/><s n="iv"/></l><r>çarpış<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>сой<s n="v"/><s n="tv"/></l><r>kes<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>сой<s n="v"/><s n="tv"/></l><r>kes<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қоныстан<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>сескен<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>тарал<s n="v"/><s n="iv"/></l><r>yayıl<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ұшырас<s n="v"/><s n="iv"/><s n="neg"/></l><r>ol<s n="v"/><s n="iv"/><s n="neg"/></r></p></e>
  <e><p><l>сурет<b/>сал<s n="v"/><s n="iv"/></l><r>çiz<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>өркенде<s n="v"/><s n="iv"/></l><r>medenileştir<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>өркенде<s n="v"/><s n="iv"/></l><r>medenileştir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>даулас<s n="v"/><s n="iv"/></l><r>tartış<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>отыр<s n="v"/><s n="iv"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қауіп<b/>төндір<s n="v"/><s n="iv"/></l><r>cesaret<b/>et<s n="v"/><s n="iv"/></r></p></e>
@@ -7289,9 +7294,9 @@
 <e><p><l>құрылыс<s n="n"/></l><r>kuruluş<s n="n"/></r></p></e>
 <e><p><l>құрылыс<s n="n"/></l><r>kuruluş<s n="n"/></r></p></e>
 <e><p><l>құтты<s n="adj"/><s n="advl"/></l><r>uğurlu<s n="adj"/></r></p></e>
-<e><p><l>қызмет<b/>көрсет<s n="v"/><s n="tv"/></l><r>hizmet<b/>ет<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>қызмет<b/>көрсет<s n="v"/><s n="tv"/></l><r>hizmet<b/>ет<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қызмет<s n="n"/></l><r>hizmet<s n="n"/></r></p></e>
-<e><p><l>қызмет ет<s n="v"/><s n="iv"/></l><r>hizmet et<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>қызмет<b/>ет<s n="v"/><s n="iv"/></l><r>hizmet<b/>et<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қымбат<s n="n"/></l><r>kıymet<s n="n"/></r></p></e>
 <e><p><l>қымбат<s n="np"/><s n="ant"/><s n="f"/></l><r>kıymet<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Әбу<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
