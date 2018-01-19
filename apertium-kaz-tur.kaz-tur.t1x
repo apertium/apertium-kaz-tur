@@ -29,7 +29,7 @@
 <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
-<def-cat n="vaux-neg-aor">
+<def-cat n="vaux-neg-ifi">
       <cat-item tags="vaux.neg.*"/>
     </def-cat>
     
@@ -439,6 +439,39 @@
         </out>
       </action>
     </rule>
+
+<rule comment="REGLA: neg-aor-4" >
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="vaux-neg-ifi"/>
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
+</let>
+       <!-- <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>-->
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="v_trans"/>
+              <clip pos="2" side="tl" part="neg"/>
+              <clip pos="2" side="tl" part="tenses"/>
+        
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+</rule>
 
 
 <rule comment="REGLA: prc_perf+vaux-gna_perf" >
