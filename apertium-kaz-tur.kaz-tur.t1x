@@ -136,6 +136,9 @@
 <def-cat n="vaux-ger_past">
       <cat-item tags="vaux.ger_past.*"/>
     </def-cat>
+<def-cat n="V_ger_past">
+      <cat-item tags="v.*.ger_past.*"/>
+    </def-cat>
 <def-cat n="vaux-ger">
       <cat-item tags="vaux.ger.*"/>
     </def-cat>
@@ -398,6 +401,38 @@
 
           <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="nom"/></concat>
         </let>
+       
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: ger_past" > <!--білмек -> bilmek -->
+      <pattern>
+        <pattern-item n="V_ger_past"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="ger_past"/>
+         <lit-tag v="ger"/>
+        </let>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger"/>
+</let>
+
+          
        
         <out>
           <chunk name="v" case="caseFirstWord">

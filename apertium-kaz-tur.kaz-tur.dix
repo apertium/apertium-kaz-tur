@@ -549,7 +549,7 @@
      <e><p><l>адмирал<s n="n"/></l><r>amiral<s n="n"/></r></p></e>
      <e><p><l>ажал<s n="n"/></l><r>ecel<s n="n"/></r></p></e>
 <e><p><l>ажал<s n="n"/></l><r>ölüm<s n="n"/></r></p></e>
-     <e><p><l>азамат<s n="n"/></l><r>sivil<s n="n"/></r></p></e>
+     
      <e><p><l>азап<s n="n"/></l><r>azap<s n="n"/></r></p></e>
      <e><p><l>азап<s n="n"/></l><r>cefa<s n="n"/></r></p></e>
      <e><p><l>азап<s n="n"/></l><r>dert<s n="n"/></r></p></e>
@@ -5530,7 +5530,7 @@
      <e><p><l>жақсы<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
      <e><p><l>жақын<s n="adj"/></l><r>babacan<s n="adj"/></r></p></e>
 <e><p><l>нарықтық<s n="adj"/></l><r>satılabilir<s n="adj"/></r></p></e>
-     <e><p><l>жақын<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
+     <e><p><l>жақын<s n="adj"/><s n="comp"/></l><r>yakın<s n="adj"/></r></p></e>
    <e><p><l>көңілді<s n="adj"/></l><r>neşeli<s n="adj"/></r></p></e>
      <e><p><l>жалғыз<s n="adj"/></l><r>yalnız<s n="adj"/></r></p></e>
     
@@ -6070,7 +6070,7 @@
 <e><p><l>секір<s n="v"/><s n="iv"/></l><r>sıçra<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ажарлан<s n="v"/><s n="iv"/></l><r>güzelleş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>сөйлес<s n="v"/><s n="iv"/></l><r>konuş<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>жық<s n="v"/><s n="tv"/></l><r>düş<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>жық<s n="v"/><s n="tv"/></l><r>kaybol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>мал<s n="v"/><s n="tv"/></l><r>sar<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қыл<s n="v"/><s n="tv"/></l><r>oluştur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>толықтыр<s n="v"/><s n="tv"/></l><r>tümle<s n="v"/><s n="tv"/></r></p></e>
@@ -6652,7 +6652,7 @@
 <e><p><l>адам<s n="n"/></l><r>adam<s n="n"/></r></p></e>
 <e><p><l>адамзат<s n="n"/></l><r>insanlık<s n="n"/></r></p></e>
 
-<e><p><l>азамат<s n="n"/></l><r>vatan<s n="n"/></r></p></e>
+<e><p><l>азамат<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
 <e><p><l>көлденең<s n="n"/></l><r>olay<s n="n"/></r></p></e>
 <e><p><l>көлденең<s n="adv"/></l><r>yatay<b/>olarak<s n="adv"/></r></p></e>
 <e><p><l>Азия<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
