@@ -10,6 +10,10 @@
 <def-cat n="prc_fplan">
       <cat-item tags="v.*.prc_fplan"/>
     </def-cat>
+
+<def-cat n="fplan">
+      <cat-item tags="vaux.*.fplan.*"/>
+    </def-cat>
 <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
     </def-cat>
@@ -258,6 +262,7 @@
      <attr-item tags="prc_perf"/>
      <attr-item tags="fut"/>
      <attr-item tags="prc_impf"/>
+<attr-item tags="ger_fut"/>
      <attr-item tags="gna_perf"/>
      <attr-item tags="prog"/>
      <attr-item tags="past"/>
@@ -416,7 +421,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: ger_past" > <!--білмек -> bilmek -->
+<rule comment="REGLA: ger_past" > <!--ойнағанды -> oynamayı -->
       <pattern>
         <pattern-item n="V_ger_past"/>
       </pattern>
@@ -476,7 +481,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: neg-aor-4" > <!-- ойнай алмады -> oynamadı -->
+<rule comment="REGLA: neg-ifi-4" > <!-- ойнай алмады -> oynamadı -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-neg-ifi"/>
@@ -485,6 +490,39 @@
  
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
+</let>
+       <!-- <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>-->
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="v_trans"/>
+              <clip pos="2" side="tl" part="neg"/>
+              <clip pos="2" side="tl" part="tenses"/>
+        
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+</rule>
+
+<rule comment="REGLA: neg-aor-4" > <!-- ала алмайды. -> almaz -->
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="vaux-neg-ifi"/>
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
 </let>
        <!-- <let>
           <clip pos="1" side="tl" part="whole"/>
@@ -1200,6 +1238,34 @@
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: fplan-15" > <!--жақсара бермек -> gelişecek  there problem with this rule-->
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="fplan"/>
+      </pattern>
+      <action>
+
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger_fut"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="ger_fut"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">

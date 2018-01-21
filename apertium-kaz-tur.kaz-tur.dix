@@ -5363,6 +5363,7 @@
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 
 <e><p><l>арнаулы<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
+<e><p><l>құқылы<s n="adj"/></l><r>haklı<s n="adj"/></r></p></e>
 
 <e><p><l>астық<s n="adj"/></l><r>buğday<s n="n"/></r></p><par n="a1_a1"/></e>
 
@@ -5871,6 +5872,7 @@
 <e><p><l>бұрын<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
 <e><p><l>әлбетте<s n="adv"/></l><r>hakikaten<s n="adv"/></r></p></e>
 <e><p><l>онда<s n="adv"/></l><r>orada<s n="adv"/></r></p></e>
+<e><p><l>алаланбай<s n="adv"/></l><r>tarafsızca<s n="adv"/></r></p></e>
 
 <e><p><l>ай<b/>сайын<s n="adv"/></l><r>her<b/>ay<s n="adv"/></r></p></e>
 <e><p><l>дейінгі<s n="adv"/></l><r>kadar<s n="adv"/></r></p></e>
@@ -6189,8 +6191,8 @@
 <e><p><l>амандас<s n="v"/><s n="tv"/></l><r>alkışla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>бұжырла<s n="v"/><s n="iv"/></l><r>pürüzle<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ақ<s n="v"/><s n="iv"/></l><r>ak<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>ая<s n="v"/><s n="tv"/><s n="neg"/></l><r>acı<s n="v"/><s n="tv"/><s n="neg"/></r></p></e>
-<e><p><l>ая<s n="v"/><s n="tv"/></l><r>acı<s n="v"/><s n="tv"/></r></p></e>
+     
+<e><p><l>ая<s n="v"/><s n="tv"/></l><r>ayır<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>айрыл<s n="v"/><s n="tv"/></l><r>kaybetme<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>ал<s n="v"/><s n="tv"/></l><r>edin<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жолық<s n="v"/><s n="tv"/></l><r>çık<s n="v"/><s n="tv"/></r></p></e>
@@ -6523,7 +6525,7 @@
      <e><p><l>аман<b/>қал<s n="v"/><s n="tv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қал<s n="vaux"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қал<s n="vaux"/></l><r>art<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>бер<s n="vaux"/></l><r>ver<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>бер<s n="vaux"/></l><r>ver<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>шық<s n="vaux"/></l><r>çık<s n="v"/><s n="tv"/></r></p></e>
      <e r="LR"><p><l>тала<s n="v"/><s n="tv"/><s n="coop"/></l><r>tartış<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>ұшырыл<s n="v"/><s n="iv"/></l><r>fırlatıl<s n="v"/><s n="iv"/></r></p></e>
