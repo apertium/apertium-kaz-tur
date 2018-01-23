@@ -58,6 +58,9 @@
 <def-cat n="gpr_past">
       <cat-item tags="v.*.gpr_past"/>
     </def-cat>
+<def-cat n="vaux-gpr_past">
+      <cat-item tags="vaux.gpr_past"/>
+    </def-cat>
 
 <def-cat n="vaux-aor">
       <cat-item tags="vaux.aor.*"/>
@@ -203,6 +206,9 @@
 <def-attr n="ger_prf">
       <attr-item tags="ger_perf"/> 
     </def-attr>
+<def-attr n="gp_past">
+      <attr-item tags="gpr_past"/> 
+    </def-attr>
 
 <def-attr n="V_trans">
      <attr-item tags="iv"/>
@@ -262,14 +268,15 @@
      <attr-item tags="prc_perf"/>
      <attr-item tags="fut"/>
      <attr-item tags="prc_impf"/>
-<attr-item tags="ger_fut"/>
+     <attr-item tags="ger_fut"/>
      <attr-item tags="gna_perf"/>
      <attr-item tags="prog"/>
      <attr-item tags="past"/>
      <attr-item tags="imp"/>
      <attr-item tags="gna_impf"/>
      <attr-item tags="ger_past"/>
-<attr-item tags="ger_inf"/>
+     <attr-item tags="gpr_past"/>
+     <attr-item tags="ger_inf"/>
      
     </def-attr>
     
@@ -668,21 +675,21 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux-ger_past-2" >
+<rule comment="REGLA: prc_perf+vaux-gpr_past-2" >
       <pattern>
         <pattern-item n="prc_perf"/>
-        <pattern-item n="vaux-ger_past"/>
+        <pattern-item n="vaux-gpr_past"/>
       </pattern>
       <action>
 
 
 <let>
-<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger_past"/>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="gpr_past"/>
 </let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger_past"/><lit-tag v="px3sp"/><lit-tag v="dat"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="gp_past"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -817,6 +824,11 @@
         <pattern-item n="vaux-aor"/>
       </pattern>
       <action>
+
+<call-macro n="f_agr_formal1">
+         <with-param pos="2"/>
+      </call-macro>
+
  
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
