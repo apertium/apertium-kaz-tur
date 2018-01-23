@@ -255,7 +255,7 @@
      
      <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>кей<s n="det"/><s n="ind"/></l><r>herhangi<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>қандай<s n="prn"/><s n="itg"/><s n="sim"/><s n="nom"/></l><r>herhangi<s n="prn"/><s n="itg"/><s n="sim"/><s n="nom"/></r></p></e>
+<e><p><l>қандай<s n="prn"/><s n="itg"/></l><r>herhangi<s n="prn"/><s n="itg"/></r></p></e>
 
  
      <!-- SECTION: Determiners -->      
@@ -549,6 +549,8 @@
      <e><p><l>адмирал<s n="n"/></l><r>amiral<s n="n"/></r></p></e>
      <e><p><l>ажал<s n="n"/></l><r>ecel<s n="n"/></r></p></e>
 <e><p><l>ажал<s n="n"/></l><r>ölüm<s n="n"/></r></p></e>
+
+<e><p><l>жал<s n="n"/></l><r>yele<s n="n"/></r></p></e>
      
      <e><p><l>азап<s n="n"/></l><r>azap<s n="n"/></r></p></e>
      <e><p><l>азап<s n="n"/></l><r>cefa<s n="n"/></r></p></e>
@@ -5743,7 +5745,7 @@
      
      <e><p><l>тақау<s n="adj"/></l><r>babacan<s n="adj"/></r></p></e>
      <e><p><l>тақау<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
-     <e><p><l>талай<s n="adj"/></l><r>kaç<s n="adj"/></r></p></e>
+     <e><p><l>талай<s n="adj"/></l><r>birçok<s n="adj"/></r></p></e>
      <e><p><l>тамаша<s n="adj"/></l><r>harika<s n="adj"/></r></p></e>
      <e><p><l>танымал<s n="adj"/></l><r>belirgin<s n="adj"/></r></p></e>
      <e><p><l>танымал<s n="adj"/></l><r>belirli<s n="adj"/></r></p></e>
@@ -6021,6 +6023,10 @@
 <e><p><l>күшей<s n="v"/><s n="iv"/></l><r>şiddetlen<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>кемі<s n="v"/><s n="tv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>ауыстыр<s n="v"/><s n="tv"/></l><r>değiş<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>сияқтан<s n="v"/><s n="iv"/></l><r>benzeş<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>әпер<s n="v"/><s n="tv"/></l><r>göster<s n="v"/><s n="tv"/></r></p></e>
 
@@ -6520,7 +6526,7 @@
      
  <e><p><l>іл<s n="v"/><s n="iv"/></l><r>asшық<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тіле<s n="v"/><s n="tv"/></l><r>dile<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>өш<s n="v"/><s n="tv"/></l><r>görünmez<b/>ol<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>өш<s n="v"/><s n="tv"/></l><r>yok<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 
      <e><p><l>аман<b/>қал<s n="v"/><s n="tv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қал<s n="vaux"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
@@ -7155,7 +7161,7 @@
 <e><p><l>қат<s n="v"/><s n="iv"/><s n="coop"/></l><r>kat<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e><p><l>қат<s n="v"/><s n="iv"/><s n="p3"/><s n="sg"/></l><r>katılş<s n="v"/><s n="iv"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e><p><l>қатыс<s n="v"/><s n="iv"/></l><r>katıl<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>қатыс<s n="v"/><s n="iv"/></l><r>başvur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қатысты<s n="adv"/></l><r>oldukça<s n="adv"/></r></p></e>
 
 <e><p><l>қатысу<s n="n"/></l><r>katılım<s n="n"/></r></p></e>
