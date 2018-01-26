@@ -499,7 +499,7 @@
 <e><p><l>бұйрық<s n="n"/></l><r>emri<s n="n"/></r></p></e>
      <e><p><l>күнбатыс<s n="n"/></l><r>batı<s n="n"/></r></p></e>
 <e><p><l>Қаза<s n="n"/></l><r>ölüm<s n="n"/></r></p></e>
-<e><p><l>заң<s n="n"/></l><r>kanun<s n="n"/></r></p></e>
+
 <e><p><l>жамандық<s n="n"/></l><r>şeytan<s n="n"/></r></p></e>
      <e><p><l>батыс<s n="n"/></l><r>batı<s n="n"/></r></p></e>
 <e><p><l>төре<s n="n"/></l><r>patron<s n="n"/></r></p></e>
@@ -6002,7 +6002,7 @@
 
      <!-- SECTION: Verbs -->
 
-     <e><p><l>е<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+     <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
 <e><p><l>ақта<s n="v"/><s n="tv"/></l><r>ağar<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қой<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жинал<s n="v"/><s n="iv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
@@ -7080,7 +7080,7 @@
 <e><p><l>жылдық<s n="adj"/></l><r>yıldönümü<s n="adj"/></r></p></e>
 <e><p><l>дыбысты<s n="adj"/></l><r>ses<s n="n"/></r></p></e>
 <e><p><l>зал<s n="n"/></l><r>hol<s n="n"/></r></p></e>
-<e><p><l>заң</l><r>yasa<s n="n"/></r></p></e>
+<e><p><l>заң<s n="n"/></l><r>yasa<s n="n"/></r></p></e>
 <e><p><l>жауын-шашын<s n="n"/></l><r>atık<s n="n"/></r></p></e>
 <e><p><l>mm<s n="n"/></l><r>мм<s n="n"/></r></p></e>
 <e><p><l>мөлш<s n="n"/></l><r>miktar<s n="n"/></r></p></e>

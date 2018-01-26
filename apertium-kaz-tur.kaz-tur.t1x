@@ -110,7 +110,7 @@
     </def-cat>
    
 <def-cat n="gpr_impf">
-      <cat-item tags="v.*.gpr_impf"/>
+      <cat-item tags="v.*.gpr_impf.*"/>
     </def-cat>
 
 <def-cat n="yat_pres">
@@ -381,7 +381,7 @@
         </let>
        
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk name="gpr" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -646,7 +646,7 @@
     </rule>
     
     
-<rule comment="REGLA: prc_perf+vaux-ger_past-2" >
+<rule comment="REGLA: prc_perf+vaux-ger_past" >
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-ger_past"/>
@@ -675,7 +675,8 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux-gpr_past-2" >
+
+<rule comment="REGLA: prc_perf+vaux-gpr_past" > <!--алып жүрген ->aldık-->
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-gpr_past"/>
@@ -1476,22 +1477,16 @@
 
 
 
-<rule comment="REGLA: prc_perf+vaux-aor-21">
+<rule comment="REGLA: prc_perf+vaux-aor-21"><!--жасап келесіз ->yaparsınız -->
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-aor"/>
       </pattern>
       <action>
 
-<choose>
-   <when>
-      
-      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
-                             <lit-tag v="p2.frm.sg"/></equal></test>
-      
-      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
-    </when>
-</choose>
+<call-macro n="f_agr_formal1">
+         <with-param pos="2"/>
+      </call-macro>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
 </let>
