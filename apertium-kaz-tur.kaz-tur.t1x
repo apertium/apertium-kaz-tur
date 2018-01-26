@@ -105,6 +105,10 @@
 <def-cat n="frm">
       <cat-item tags="n.*.frm.*"/>
     </def-cat>
+
+<def-cat n="V-frm">
+      <cat-item tags="v.*.*.px2sg.frm.*"/>
+    </def-cat>
 <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
@@ -143,9 +147,7 @@
 <def-cat n="vaux-ger_past">
       <cat-item tags="vaux.ger_past.*"/>
     </def-cat>
-<def-cat n="V_ger_past">
-      <cat-item tags="v.*.ger_past.*"/>
-    </def-cat>
+
 <def-cat n="vaux-ger">
       <cat-item tags="vaux.ger.*"/>
     </def-cat>
@@ -237,7 +239,7 @@
 
    </def-attr>
    
-<def-attr n="diff.name">
+<def-attr n="frm.n">
      <attr-item tags="frm"/>
   </def-attr>
 
@@ -432,37 +434,6 @@
       </action>
     </rule>
 
-<rule comment="REGLA: ger_past" > <!--ойнағанды -> oynamayı -->
-      <pattern>
-        <pattern-item n="V_ger_past"/>
-      </pattern>
-      <action>
-     
-
-        
-          <let>
-          <clip pos="1" side="tl" part="ger_past"/>
-         <lit-tag v="ger"/>
-        </let>
-<let>
-<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger"/>
-</let>
-
-          
-       
-        <out>
-          <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-                                                  
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
 <rule comment="REGLA: ger_perf" > <!--білгендік -> bildik -->
       <pattern>
@@ -1076,7 +1047,7 @@
       
         <let>
         
-          <clip pos="1" side="tl" part="diff.name"/>
+          <clip pos="1" side="tl" part="frm.n"/>
           <lit v=""/>
         </let>
         
@@ -1084,6 +1055,54 @@
           <chunk name="n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: Formal-9" > 
+       <pattern>
+        <pattern-item n="V-frm"/>    
+      </pattern>
+      <action>
+
+
+
+<choose>       
+          <when>   
+            <test>
+               <and>
+                 <equal>
+                    <clip pos="1" side="sl" part="poss_v"/>
+                    <lit-tag v="px2sg"/>
+                  </equal>
+                 <equal>
+                    <clip pos="1" side="sl" part="frm.n"/>
+                    <lit-tag v="frm"/>
+                  </equal>
+                </and>
+            </test>
+
+            <let>
+             <clip pos="1" side="tl" part="poss_v"/>
+                    <lit-tag v="px2sg"/>
+            </let>
+            <let>
+              <clip pos="1" side="tl" part="frm.n"/>
+              <lit v=""/>
+            </let>
+          </when>
+        </choose>
+
+        
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
