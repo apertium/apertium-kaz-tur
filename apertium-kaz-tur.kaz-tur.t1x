@@ -116,6 +116,9 @@
 <def-cat n="gpr_impf">
       <cat-item tags="v.*.gpr_impf.*"/>
     </def-cat>
+<def-cat n="ger_obs">
+      <cat-item tags="v.*.ger_obs.*"/>
+    </def-cat>
 
 <def-cat n="yat_pres">
 <cat-item lemma="жат" tags="vaux.pres.*"/>
@@ -224,6 +227,11 @@
 <def-attr n="a_impf">
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
+   </def-attr>
+
+<def-attr n="a_ger">
+     <attr-item tags="ger_obs"/>
+     <attr-item tags="ger_inf"/>
    </def-attr>
 <def-attr n="a_perf">
      <attr-item tags="prc_perf"/>
@@ -451,6 +459,34 @@
        
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: ger_obs" > <!--Өрмектің ->  -->
+      <pattern>
+        <pattern-item n="ger_obs"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="a_ger"/>
+         <lit-tag v="ger_inf"/>
+        </let>
+
+       
+        <out>
+          <chunk name="ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>

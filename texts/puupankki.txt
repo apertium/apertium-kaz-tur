@@ -2256,7 +2256,7 @@
 
 # sent_id = kdt.tagged.txt:232:3737
 # text = Аурухананың киімдерін тастап, өз киімін киген соң, адам сияқтанып қалды.
-# text[tur] = 
+# text[tur] = Hastanenin kılıklarını bırakıp, kendi kılığını giydiği sonra, adam benzeşti.
 
 # sent_id = kdt.tagged.txt:233:3764
 # text = — Қонақ келеді.
@@ -2264,7 +2264,7 @@
 
 # sent_id = kdt.tagged.txt:234:3773
 # text = Бекболат екі-үш көшені айналып, салған бойымен Төлегеннің пәтеріне келді.
-# text[tur] = 
+# text[tur] = (I'm not sure what салған бойымен means here)
 
 # sent_id = kdt.tagged.txt:235:3800
 # text = — Аман, аман, — деп тани кетті...

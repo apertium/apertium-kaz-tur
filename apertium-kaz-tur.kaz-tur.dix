@@ -5839,7 +5839,7 @@
      <e><p><l>эстетикалық<s n="adj"/></l><r>estetik<s n="adj"/></r></p></e>
      <e><p><l>этникалық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 
-     <e><p><l>қорқақ<s n="adj"/></l><r>korkak<s n="adj"/></r></p></e>
+     <e><p><l>қорқақ<s n="adj"/></l><r>korkak<s n="adj"/></r></p><par n="a1_a1"/></e>
 
      <e><p><l>көне<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
      <e><p><l>көне<s n="adj"/></l><r>yaşlı<s n="adj"/></r></p></e>
@@ -6023,6 +6023,8 @@
 <e><p><l>күшей<s n="v"/><s n="iv"/></l><r>şiddetlen<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>кемі<s n="v"/><s n="tv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>үз<s n="v"/><s n="tv"/></l><r>ertele<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>ауыстыр<s n="v"/><s n="tv"/></l><r>değiş<s n="v"/><s n="iv"/></r></p></e>
 
@@ -6678,6 +6680,7 @@
 <e><p><l>Ақтау<s n="np"/><s n="top"/><s n="sg"/></l><r>Aktau<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>АҚШ<s n="np"/><s n="top"/></l><r>ABC<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>ақша<s n="n"/></l><r>para<s n="n"/></r></p></e>
+<e><p><l>Төлеген<s n="np"/><s n="ant"/><s n="m"/></l><r>Tolegen<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>ал<s n="v"/><s n="tv"/><s n="p1"/><s n="pl"/></l><r>al<s n="v"/><s n="tv"/><s n="p1"/><s n="pl"/></r></p></e>
 <e><p><l>Алай<s n="np"/><s n="ant"/><s n="m"/></l><r>Alay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Алай<s n="np"/><s n="top"/></l><r>Alay<s n="np"/><s n="top"/></r></p></e>
