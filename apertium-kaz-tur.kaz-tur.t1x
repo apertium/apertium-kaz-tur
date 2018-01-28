@@ -112,6 +112,9 @@
 <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
+<def-cat n="gpr_impf_fut">
+      <cat-item tags="v.*.gpr_impf"/>
+    </def-cat>
    
 <def-cat n="gpr_impf">
       <cat-item tags="v.*.gpr_impf.*"/>
@@ -227,6 +230,10 @@
 <def-attr n="a_impf">
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
+   </def-attr>
+<def-attr n="a_fut">
+     <attr-item tags="gpr_impf"/>
+     <attr-item tags="gpr_fut"/>
    </def-attr>
 
 <def-attr n="a_ger">
@@ -370,6 +377,32 @@
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: gpr_impf" > <!--сөйлейтін -> konuşan -->
+      <pattern>
+        <pattern-item n="gpr_impf_fut"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="a_fut"/>
+          <lit-tag v="gpr_fut"/>
+        </let>
+       
+        <out>
+          <chunk name="gpr" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -1201,7 +1234,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_impf+vaux-gpr_past-11" >
+<rule comment="REGLA: prc_impf+vaux-gpr_past-11" ><!--келмей жатқан -> gelmedik-->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-gpr_past"/>

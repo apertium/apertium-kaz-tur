@@ -4103,17 +4103,17 @@
 # text = Қалада май комбинаты, шұлық және айна фабрикалары іске қосылды.
 # text[tur] = Kentte yağ kombinası, çorap ve ayna fabrikaları işe katıldı.
 
-# sent_id = Шымкент.tagged.txt:17:467
+# sent_id = Шымкент.tagged.txt:17:467                                                                                               ****Not***
 # text = 1932 жылы ауылшаруашылық авиациясының базасы құрылып, бұл Шымкент әуежайының негізін қалады.
 # text[tur] = 1932 yılı *ауылшаруашылық havacılıkının bazı yapılıp, bu Çimkent havaalanının esasını istedi.
 
 # sent_id = Ер_Төстік.tagged.txt:1:0
 # text = Ерте заманда Ерназар деген кісі болыпты.
-# text[tur] = Eski zamanda Ernazar diyen kişi #ol.
+# text[tur] = Eski zamanda Ernazar diyen kişi oldu.
 
 # sent_id = Ер_Төстік.tagged.txt:2:14
 # text = Ерназардың өзі бай болыпты.
-# text[tur] = Ernazar'ın kendisi zengin #ol.
+# text[tur] = Ernazar'ın kendisi zengin oldu.
 
 # sent_id = Ер_Төстік.tagged.txt:3:25
 # text = Төрт түлік малы сай болыпты.
@@ -4161,7 +4161,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:14:212
 # text = Бір күні кешке жақын кемпірі төсегінен тұрып, үйінің түндігін ашады.
-# text[tur] = Bir günü akşama yakın kocakarısı döşekinden durup, evinin ocakını açıyor.
+# text[tur] = Bir günü akşama yakın kocakarısı döşekinden durup, evinin ocakını açıyor.                     
 
 # sent_id = Ер_Төстік.tagged.txt:15:237
 # text = Тұруға мұршасы келмей жатқан шал шаңыраққа қараса, шаңырақтың күлдіреуішінде керулі тұрған кер биенің төстігі көзіне түседі.
