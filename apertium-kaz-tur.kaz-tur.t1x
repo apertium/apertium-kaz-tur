@@ -326,6 +326,8 @@
     <attr-item tags="px2pl"/>
     <attr-item tags="px3pl"/>
     <attr-item tags="px1sg"/>
+<attr-item tags="px2pl.frm"/>
+<attr-item tags="px2sg.frm"/>
     <attr-item tags="px2sg"/>
   </def-attr>
 
@@ -388,7 +390,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: gpr_impf" > <!--сөйлейтін -> konuşan -->
+<rule comment="REGLA: gpr_impf" > <!--жейтін -> yiyecek -->
       <pattern>
         <pattern-item n="gpr_impf_fut"/>
       </pattern>
@@ -1141,32 +1143,19 @@
 
 
 
-<choose>       
-          <when>   
-            <test>
-               <and>
-                 <equal>
-                    <clip pos="1" side="sl" part="poss_v"/>
-                    <lit-tag v="px2sg"/>
-                  </equal>
-                 <equal>
-                    <clip pos="1" side="sl" part="frm.n"/>
-                    <lit-tag v="frm"/>
-                  </equal>
-                </and>
-            </test>
+<choose> <!-- ~(i)n -> ~(i)nIz -->
+  <when>
+ 
+     <test><or><equal><clip pos="1" side="tl" part="poss_v"/> <lit-tag v="px2sg.frm"/></equal>
+	        <equal><clip pos="1" side="tl" part="poss_v"/><lit-tag v="px2pl.frm"/></equal></or></test>
+  
+    <let><clip pos="1" side="tl" part="poss_v"/><lit-tag v="px2pl"/></let>
+    </when>
+</choose>
 
-            <let>
-             <clip pos="1" side="tl" part="poss_v"/>
-                    <lit-tag v="px2sg"/>
-            </let>
-            <let>
-              <clip pos="1" side="tl" part="frm.n"/>
-              <lit v=""/>
-            </let>
-          </when>
-        </choose>
-
+<call-macro n="f_agr_formal1">
+         <with-param pos="1"/>
+     </call-macro>
         
         <out>
           <chunk name="v" case="caseFirstWord">
