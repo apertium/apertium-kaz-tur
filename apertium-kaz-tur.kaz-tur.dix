@@ -328,6 +328,10 @@
 <e><p><l>күлдіреуіш<s n="n"/></l><r>kulp<s n="n"/></r></p></e>
 <e><p><l>шаңырақ<s n="n"/></l><r>yurt<s n="n"/></r></p></e>
 
+<e><p><l>егіншілік<s n="n"/></l><r>toprağı<b/>sürme<s n="n"/></r></p></e>
+<e><p><l>алқап<s n="n"/></l><r>tarla<s n="n"/></r></p></e>
+<e><p><l>жүзімдік<s n="n"/></l><r>üzüm<b/>bağı<s n="n"/></r></p></e>
+
 <e><p><l>бие<s n="n"/></l><r>kısrak<s n="n"/></r></p></e>
 
 <e><p><l>шама<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
@@ -640,6 +644,9 @@
      <e><p><l>ара<s n="n"/></l><r>ara<s n="n"/></r></p></e>
 <e><p><l>құмарлық<s n="n"/></l><r>hırs<s n="n"/></r></p></e>
 <e><p><l>бой<s n="n"/></l><r>yapı<s n="n"/></r></p></e>
+<e><p><l>бой<s n="n"/></l><r>boy<s n="n"/></r></p></e>
+<e><p><l>жайылым<s n="n"/></l><r>otlak<s n="n"/></r></p></e>
+<e><p><l>мал<b/>шаруашылығы<s n="n"/></l><r>hayvancılık<s n="n"/></r></p></e>
      <e><p><l>араб<s n="n"/></l><r>arap<s n="n"/></r></p></e>
      <e><p><l>арақ<s n="n"/></l><r>rakı<s n="n"/></r></p></e>
      <e><p><l>арал<s n="n"/></l><r>ada<s n="n"/></r></p></e>
@@ -5539,7 +5546,7 @@
      <e><p><l>жабайы<s n="adj"/></l><r>vahşi<s n="adj"/></r></p></e>
      <e><p><l>жабық<s n="adj"/></l><r>kapalı<s n="adj"/></r></p></e>
      <e><p><l>жақсы<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
-     <e><p><l>жақын<s n="adj"/></l><r>babacan<s n="adj"/></r></p></e>
+     <e><p><l>жақын<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
 <e><p><l>нарықтық<s n="adj"/></l><r>satılabilir<s n="adj"/></r></p></e>
      <e><p><l>жақын<s n="adj"/><s n="comp"/></l><r>yakın<s n="adj"/></r></p></e>
    <e><p><l>көңілді<s n="adj"/></l><r>neşeli<s n="adj"/></r></p></e>
@@ -6033,6 +6040,8 @@
 <e><p><l>кемі<s n="v"/><s n="iv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>аш<s n="v"/><s n="tv"/></l><r>aç<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>аш<s n="v"/><s n="tv"/></l><r>keşfet<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>сөйт<s n="v"/><s n="iv"/></l><r>şöyle<b/>yap<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>күркілде<s n="v"/><s n="iv"/></l><r>gürle<s n="v"/><s n="iv"/></r></p></e>
 

@@ -122,6 +122,9 @@
 <def-cat n="ger_obs">
       <cat-item tags="v.*.ger_obs.*"/>
     </def-cat>
+<def-cat n="V-ger_past">
+      <cat-item tags="v.*.ger_past.*"/>
+    </def-cat>
 
 <def-cat n="yat_pres">
 <cat-item lemma="жат" tags="vaux.pres.*"/>
@@ -205,6 +208,9 @@
 <def-attr n="ger">
       <attr-item tags="ger"/> 
     </def-attr>
+<def-attr n="loc">
+      <attr-item tags="loc"/> 
+    </def-attr>
 <def-attr n="dat">
       <attr-item tags="dat"/> 
     </def-attr>
@@ -221,6 +227,11 @@
 <def-attr n="V_trans">
      <attr-item tags="iv"/>
      <attr-item tags="tv"/>
+   </def-attr>
+
+<def-attr n="a_gna">
+     <attr-item tags="ger_past"/>
+     <attr-item tags="gna_impf"/>
    </def-attr>
 
 <def-attr n="a_gpr">
@@ -295,6 +306,7 @@
      <attr-item tags="past"/>
      <attr-item tags="imp"/>
      <attr-item tags="gna_impf"/>
+<attr-item tags="gna_ken"/>
      <attr-item tags="ger_past"/>
      <attr-item tags="gpr_past"/>
      <attr-item tags="ger_inf"/>
@@ -1135,7 +1147,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: Formal-9" > 
+<rule comment="REGLA: Formal-9" > <!-- ~қылғаныңыз -> ~yaptığınız -->
        <pattern>
         <pattern-item n="V-frm"/>    
       </pattern>
@@ -1241,6 +1253,35 @@
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: gpr_past - gpr_aor" id= "gpr_past-gpr_aor-12" >
+       <pattern>
+        <pattern-item n="V-ger_past"/>    
+      </pattern>
+      <action>
+
+<let>
+          <clip pos="1" side="tl" part="a_gna"/>
+          <lit-tag v="gna_impf"/>
+        </let>
+<let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="1" side="tl" part="a_gna"/></concat>
+        </let>
+       
+        <out>
+          <chunk name="gna" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -1655,9 +1696,9 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+ баста-22">
+<rule comment="REGLA: prc_perf+ баста-22"> <!--білінбей қалмайды. -> görünmez olmaz-->
       <pattern>
-        <pattern-item n="prc_perf"/> <!--білінбей қалмайды. -> görünmez olmaz-->
+        <pattern-item n="prc_perf"/> 
         <pattern-item n="қал"/>
       </pattern>
       <action>
