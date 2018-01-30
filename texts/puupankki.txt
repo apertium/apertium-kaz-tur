@@ -3987,7 +3987,7 @@
 
 # sent_id = story.tagged.txt:37:646
 # text = Үстел және орындықтардың астына қарап жатыр, бірақ Азамат онда жоқ.
-# text[tur] = Masa ve sandalyelerin altına deniyor, ama Azamat orda yok
+# text[tur] = Masa ve sandalyelerin altına bakıyor, ama Azamat orda yok
 
 # sent_id = story.tagged.txt:38:671
 # text = Ол барлық жерді қарап жүр, бірақ Азаматты таба алмай жатыр.
@@ -4013,7 +4013,7 @@
 # sent_id = story.tagged.txt:43:761
 # text = Ол аң да, құс та емес.
 # text[tur] = O hayvan da, kuş ta değil.
-
+Одан кейін оған кішкентай бір қол көрінеді.
 # sent_id = story.tagged.txt:44:776
 # text = Ол енді ол дыбысты анығырақ ести бастады.
 # text[tur] = O şimdi o ses barrak işitmeye başladı.
@@ -4023,7 +4023,7 @@
 # text[tur] = Bu Azamat olma gerek!
 
 # sent_id = story.tagged.txt:46:804
-# text = Одан кейін оған кішкентай бір қол көрінеді.
+# text = 
 # text[tur] = Ondan sonra ona küçük bir el görülüyor.
 
 
@@ -4052,7 +4052,7 @@
 # text[tur] = Kazakistan'ın başka kentleriyle kıyaslandığında  konutu yönünden 3'üncü yerde (Almatı ve Astana'dan sonra).
 
 # sent_id = Шымкент.tagged.txt:4:70
-# text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.
+# text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.****Not***
 # text[tur] = Şununla ayrıca, Çimkent Kazakistan'ın başlıca endüstri, ticari ve medeni kökenlerinin biri oluyor.
 
 # sent_id = Шымкент.tagged.txt:5:103
@@ -4061,15 +4061,15 @@
 
 # sent_id = Шымкент.tagged.txt:6:156
 # text = Қандай болғанда да, қала ескі заманнан-ақ адамдардың өмір сүруіне қолайлы мекен болған.
-# text[tur] = herhangi olan da, kalarak eski zamandan yeterince adamların yaşamasına yatkın @мекен olmuş.
+# text[tur] = Kanca oldukta da, kent eski zamandan yeterince adamların yaşamasına yatkın mekan olmuş.
+
 
 # sent_id = Шымкент.tagged.txt:7:185
-# text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.
-# text[tur] = 
+# text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.   
 
 # sent_id = Шымкент.tagged.txt:8:216
 # text = Тау етегінде өзен бойындағы алқаптарда егіншілік пен жүзімдік, ал көгалды таулы жайылымдарда-мал шаруашылығы дамыған.
-# text[tur] = 
+# text[tur] = Dağ etekinde dere boyundaki tarlalarda toprağı sürme ve üzüm bağı, alalım çimeni dağlık otlaklarda-hayvancılık gelişmiş.
 
 # sent_id = Шымкент.tagged.txt:9:253
 # text = 1914 жылы Қазақстанның Ресей империясына қосылуының 50 жылдығына орай қалаға орыс генералы Черняевтің есімі берілді, бірақ 1921 жылы қала Шымкент атауына қайта ие болды.
@@ -4103,7 +4103,7 @@
 # text = Қалада май комбинаты, шұлық және айна фабрикалары іске қосылды.
 # text[tur] = Kentte yağ kombinası, çorap ve ayna fabrikaları işe katıldı.
 
-# sent_id = Шымкент.tagged.txt:17:467                                                                                               ****Not***
+# sent_id = Шымкент.tagged.txt:17:467                                                                                              
 # text = 1932 жылы ауылшаруашылық авиациясының базасы құрылып, бұл Шымкент әуежайының негізін қалады.
 # text[tur] = 1932 yılı *ауылшаруашылық havacılıkının bazı yapılıp, bu Çimkent havaalanının esasını istedi.
 

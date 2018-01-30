@@ -115,6 +115,9 @@
 <def-cat n="gpr_impf_fut">
       <cat-item tags="v.*.gpr_impf"/>
     </def-cat>
+<def-cat n="gpr_impf_subst">
+      <cat-item tags="v.*.gpr_impf.*"/>
+    </def-cat>
    
 <def-cat n="gpr_impf">
       <cat-item tags="v.*.gpr_impf.*"/>
@@ -242,6 +245,8 @@
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
    </def-attr>
+
+
 <def-attr n="a_fut">
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_fut"/>
@@ -391,6 +396,32 @@
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: gpr_impf" > <!--болашағы -> olacağı  -->
+      <pattern>
+        <pattern-item n="gpr_impf_subst"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="a_fut"/>
+          <lit-tag v="gpr_fut"/>
+        </let>
+       
+        <out>
+          <chunk name="gpr" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -1265,7 +1296,7 @@
     </rule>
 
 
-<rule comment="REGLA: gpr_past - gpr_aor" id= "gpr_past-gpr_aor-12" >
+<rule comment="REGLA: gpr_past - gna_impf" id= "gpr_past-gpr_aor-12" > <!-- ~ Сөйткенде -> şöyle yaparak -->
        <pattern>
         <pattern-item n="V-ger_past"/>    
       </pattern>

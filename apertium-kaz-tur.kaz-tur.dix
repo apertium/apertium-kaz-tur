@@ -334,6 +334,8 @@
 
 <e><p><l>бие<s n="n"/></l><r>kısrak<s n="n"/></r></p></e>
 
+<e><p><l>ауылшаруашылық<s n="adj"/></l><r>tarım<s n="adj"/></r></p></e>
+
 <e><p><l>шама<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
 <e><p><l>төстік<s n="n"/></l><r>göğüs<s n="n"/></r></p></e>
 
@@ -5374,7 +5376,7 @@
      <e><p><l>авторитарлық<s n="adj"/></l><r>otoriter<s n="adj"/></r></p></e>
 <e><p><l>практикалық<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
 <e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
-<e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p></e>
+<e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 
 <e><p><l>арнаулы<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
@@ -5473,7 +5475,7 @@
      <e><p><l>айыпты<s n="adj"/></l><r>cezai<s n="adj"/></r></p></e>
      <e><p><l>айыпты<s n="n"/></l><r>ihbar<s n="n"/></r></p></e>
      <e><p><l>академиялық<s n="adj"/></l><r>akademik<s n="adj"/></r></p></e>
-     <e><p><l>ақырын<s n="adj"/></l><r>sakin<s n="adj"/></r></p></e>
+     <e><p><l>ақырын<s n="adj"/></l><r>sakin<s n="adj"/></r></p><par n="a1_a1"/></e>
      <e><p><l>ала<s n="adj"/></l><r>ala<s n="adj"/></r></p></e>
      <e><p><l>алғашқы<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
      <e><p><l>алыс<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
@@ -7102,7 +7104,7 @@
 <e><p><l>жылдамдық<s n="n"/></l><r>sürat<s n="n"/></r></p></e>
 <e><p><l>жылдық<s n="adj"/></l><r>senelik<s n="adj"/></r></p></e>
 <e><p><l>жылдық<s n="adj"/></l><r>yıldönümü<s n="adj"/></r></p></e>
-<e><p><l>дыбысты<s n="adj"/></l><r>ses<s n="n"/></r></p></e>
+<e><p><l>дыбысты<s n="adj"/></l><r>ses<s n="n"/></r></p><par n="a1_a1"/></e>
 <e><p><l>зал<s n="n"/></l><r>hol<s n="n"/></r></p></e>
 <e><p><l>заң<s n="n"/></l><r>yasa<s n="n"/></r></p></e>
 <e><p><l>жауын-шашын<s n="n"/></l><r>atık<s n="n"/></r></p></e>
