@@ -16,5 +16,9 @@
     <match lemma="испанша" tags="n.*"/>
     <match lemma="сөйле" tags="v.*"><select lemma="konuş" tags="v.*"/></match>
   </rule>
+<rule>
+    <match lemma="айнала" tags="n.*"/>
+    <match lemma="қара" tags="v.*"><select lemma="bak" tags="v.*"/></match>
+  </rule>
 </rules>
 

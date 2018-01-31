@@ -185,6 +185,8 @@
       <cat-item tags="v.*.ifi.evid.*"/>
     </def-cat>
 
+
+
    
 </section-def-cats>
 
@@ -585,39 +587,8 @@
       </action>
     </rule>
 
-<rule comment="REGLA: neg-aor-4" > <!-- ала алмайды. -> almaz -->
-      <pattern>
-        <pattern-item n="prc_impf"/>
-        <pattern-item n="vaux-neg-ifi"/>
-      </pattern>
-      <action>
- 
-<let>
-<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
-</let>
-       <!-- <let>
-          <clip pos="1" side="tl" part="whole"/>
 
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
-        </let>-->
-        <out>
-          <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="v_trans"/>
-               <lit-tag v="abil"/>
-              <clip pos="2" side="tl" part="neg"/>
-              <clip pos="2" side="tl" part="tenses"/>
-        
-              
-            </lu>
-          </chunk>
-        </out>
-      </action>
-</rule>
+
 
 <rule comment="REGLA: neg-ifi-4" > <!-- ойнай алмады -> oynamadı -->
       <pattern>
@@ -644,7 +615,7 @@
               <clip pos="1" side="tl" part="v_trans"/>
               <clip pos="2" side="tl" part="neg"/>
               <clip pos="2" side="tl" part="tenses"/>
-        
+        <lit-tag v="abil"/>
               <clip pos="2" side="tl" part="a_pers_nbr"/>
             </lu>
           </chunk>
@@ -1997,6 +1968,8 @@
         </out>
       </action>
     </rule>
+
+
 
 
 <rule comment="REGLA: cop-26">

@@ -3837,7 +3837,7 @@
 # text = Сонда Қожа: - Сен кісіні сыйламайды екенсің, киімді сыйлайды екенсің.
 # text[tur] = Şunda Ev sahibi: - Sen kişiyi #ödüllendir, kılığı #say.
 
-# sent_id = Өлген_қазан.tagged.txt:10:259
+# sent_id = Өлген_қазан.tagged.txt:10:259                                          ***burda kaldım2018**
 # text = Сондықтан шапаныма жегізіп отырғаным! - деп, жауап береді.
 # text[tur] = 
 
@@ -3863,7 +3863,7 @@
 
 # sent_id = story.tagged.txt:6:62
 # text = Азамат пен Айгүл ойнағанды жақсы көреді, олар әрдайым үлкен үйдің алдындағы бақшада бірге ойнайды.
-# text[tur] = 
+# text[tur] = Azamat ve Aygül oynayarak seviyor, onlar sürekli büyük evin #güvenilmez bahçede beraber oynuyor.
 
 # sent_id = story.tagged.txt:7:95
 # text = Азамат алты жасар кішкентай бала.
@@ -3915,7 +3915,7 @@
 
 # sent_id = story.tagged.txt:19:314
 # text = Ол еш нәрсені көріп тұрған жоқ, ол санап жатыр.
-# text[tur] = 
+# text[tur] = O hiçbir şeyi görmüyor, o sanıyor.
 
 # sent_id = story.tagged.txt:20:333
 # text = Ол не үшін бүйтіп жатыр?
@@ -3934,7 +3934,7 @@
 # text[tur] = Aygül sayıp bittikten sonra etrafına baktı.
 
 # sent_id = story.tagged.txt:24:385
-# text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.***note***
+# text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.
 # text[tur] = O Azamat hangi yere gitti? Onu gördünüz mı? deyip arıyor
 
 # sent_id = story.tagged.txt:25:417
@@ -4052,7 +4052,7 @@
 # text[tur] = Kazakistan'ın başka kentleriyle kıyaslandığında  konutu yönünden 3'üncü yerde (Almatı ve Astana'dan sonra).
 
 # sent_id = Шымкент.tagged.txt:4:70
-# text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.****Not***
+# text = Осымен қатар, Шымкент Қазақстанның негізгі өнеркәсіп, сауда және мәдени орталықтарының бірі болып табылады.
 # text[tur] = Şununla ayrıca, Çimkent Kazakistan'ın başlıca endüstri, ticari ve medeni kökenlerinin biri oluyor.
 
 # sent_id = Шымкент.tagged.txt:5:103
