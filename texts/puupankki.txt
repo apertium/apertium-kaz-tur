@@ -3934,7 +3934,7 @@
 # text[tur] = Aygül sayıp bittikten sonra etrafına baktı.
 
 # sent_id = story.tagged.txt:24:385
-# text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.
+# text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.***note***
 # text[tur] = O Azamat hangi yere gitti? Onu gördünüz mı? deyip arıyor
 
 # sent_id = story.tagged.txt:25:417
@@ -4013,7 +4013,7 @@
 # sent_id = story.tagged.txt:43:761
 # text = Ол аң да, құс та емес.
 # text[tur] = O hayvan da, kuş ta değil.
-Одан кейін оған кішкентай бір қол көрінеді.
+
 # sent_id = story.tagged.txt:44:776
 # text = Ол енді ол дыбысты анығырақ ести бастады.
 # text[tur] = O şimdi o ses barrak işitmeye başladı.
@@ -4023,7 +4023,7 @@
 # text[tur] = Bu Azamat olma gerek!
 
 # sent_id = story.tagged.txt:46:804
-# text = 
+# text = Одан кейін оған кішкентай бір қол көрінеді.
 # text[tur] = Ondan sonra ona küçük bir el görülüyor.
 
 

@@ -1391,7 +1391,7 @@
      <e><p><l>қасқыр<s n="n"/></l><r>kurt<s n="n"/></r></p></e>
      <e><p><l>қастер<s n="n"/></l><r>riayet<s n="n"/></r></p></e>
      <e><p><l>қасық<s n="n"/></l><r>kaşık<s n="n"/></r></p></e>
-     <e><p><l>қатар<s n="n"/></l><r>katar<s n="n"/></r></p></e>
+    
      <e><p><l>қатар<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
      <e><p><l>қате<s n="n"/></l><r>hata<s n="n"/></r></p></e>
      <e><p><l>қате<s n="n"/></l><r>yanlış<s n="n"/></r></p></e>
@@ -5702,8 +5702,8 @@
      <e><p><l>момын<s n="adj"/></l><r>sessiz<s n="adj"/></r></p></e>
      <e><p><l>мұздай<s n="adj"/></l><r>soğuk<s n="adj"/></r></p></e>
      <e><p><l>музыкалық<s n="adj"/></l><r>müzikal<s n="adj"/></r></p></e>
-     <e><p><l>мүмкін<s n="adj"/></l><r>muhtemel<s n="adj"/></r></p></e>
-     <e><p><l>мүмкін<s n="adj"/></l><r>mümkün<s n="adj"/></r></p></e>
+     
+     <e><p><l>мүмкін<s n="adj"/></l><r>belki<s n="cnjadv"/></r></p></e>
      <e><p><l>мықты<s n="adj"/></l><r>üstün<s n="adj"/></r></p></e>
      <e><p><l>нақты<s n="adj"/></l><r>somut<s n="adj"/></r></p></e>
      <e><p><l>небір<s n="adj"/></l><r>değişik<s n="adj"/></r></p></e>
@@ -6042,6 +6042,8 @@
 <e><p><l>кемі<s n="v"/><s n="iv"/></l><r>azal<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>аш<s n="v"/><s n="tv"/></l><r>aç<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>аш<s n="v"/><s n="tv"/></l><r>keşfet<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>шығар<s n="vbmod"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>сөйт<s n="v"/><s n="iv"/></l><r>şöyle<b/>yap<s n="v"/><s n="tv"/></r></p></e>
 
@@ -6615,6 +6617,7 @@
 <e><p><l>М.<s n="abbr"/></l><r>M.<s n="abbr"/></r></p></e>
      <e r="LR"><p><l>млн<s n="n"/><s n="nom"/></l><r>milyon<s n="num"/></r></p></e>
      <e r="LR"><p><l>млрд<s n="n"/><s n="nom"/></l><r>milyar<s n="num"/></r></p></e>
+<e r="LR"><p><l>шығар<s n="vbmod"/></l><r></r></p></e>
 
      <e r="LR"><p><l>км<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
 

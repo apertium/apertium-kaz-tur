@@ -78,6 +78,9 @@
 <def-cat n="pres">
       <cat-item tags="vaux.pres.*"/>
     </def-cat>
+<def-cat n="pres-neg">
+      <cat-item tags="vaux.*.pres.*"/>
+    </def-cat>
 
 <def-cat n="баста">
       <cat-item lemma="баста" tags="vaux.*"/>
@@ -148,6 +151,10 @@
 <cat-item lemma="е" tags="cop.neg.*"/>
 </def-cat>
 
+<def-cat n="cop-ger-past">
+<cat-item lemma="е" tags="cop.ger_past.*"/>
+</def-cat>
+
 <def-cat n="imp">
       <cat-item tags="v.*.imp.*"/>
     </def-cat>
@@ -198,7 +205,8 @@
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
      <attr-item tags="past"/>
-     <attr-item tags="aor"/>  
+     <attr-item tags="aor"/> 
+<attr-item tags="pres"/>  
     </def-attr>
 
 <def-attr n="neg">
@@ -1579,6 +1587,36 @@
       </action>
     </rule>
 
+<rule comment="REGLA: pres-20"> <!-- ~ көріп тұрған -> görmüyor ~ --> 
+      <pattern>
+        <pattern-item n="prc_perf"/> 
+        <pattern-item n="pres-neg"/>
+      </pattern>
+      <action>
+
+     
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><lit-tag v="prog"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
@@ -2091,6 +2129,8 @@
         </out>
       </action>
     </rule>
+
+ 
 
 
     <rule comment="REGLA: SENT">
