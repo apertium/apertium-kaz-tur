@@ -5621,9 +5621,8 @@
      <e><p><l>қатаң<s n="adj"/></l><r>sert<s n="adj"/></r></p></e>
      <e><p><l>қатты<s n="adj"/></l><r>çabuk<s n="adj"/></r></p><par n="a1_a1"/></e>
      <e><p><l>қатты<s n="adj"/></l><r>hızlı<s n="adj"/></r></p><par n="a1_a1"/></e>
-     <e><p><l>қатты<s n="adj"/></l><r>kart<s n="adj"/></r></p><par n="a1_a1"/></e>
-     <e><p><l>қатты<s n="adj"/></l><r>kesin<s n="adj"/></r></p><par n="a1_a1"/></e>
-     <e><p><l>қатты<s n="adj"/></l><r>sert<s n="adj"/></r></p><par n="a1_a1"/></e>
+     
+    
      <e><p><l>қауқарсыз<s n="adj"/></l><r>miskin<s n="adj"/></r></p></e>
      <e><p><l>кедей<s n="adj"/></l><r>fakir<s n="adj"/></r></p></e>
 
@@ -6047,7 +6046,7 @@
 <e><p><l>аш<s n="v"/><s n="tv"/></l><r>keşfet<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>жегіз<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
-
+<e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>öyle<b/>yap<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>сөйт<s n="v"/><s n="iv"/></l><r>şöyle<b/>yap<s n="v"/><s n="tv"/></r></p></e>
 

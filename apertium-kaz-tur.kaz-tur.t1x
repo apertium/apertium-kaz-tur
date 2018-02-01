@@ -78,6 +78,9 @@
 <def-cat n="pres">
       <cat-item tags="vaux.pres.*"/>
     </def-cat>
+<def-cat n="aor-neg">
+      <cat-item tags="vaux.*.aor.*"/>
+    </def-cat>
 <def-cat n="pres-neg">
       <cat-item tags="vaux.*.pres.*"/>
     </def-cat>
@@ -615,7 +618,7 @@
               <clip pos="1" side="tl" part="v_trans"/>
               <clip pos="2" side="tl" part="neg"/>
               <clip pos="2" side="tl" part="tenses"/>
-        <lit-tag v="abil"/>
+              <lit-tag v="abil"/>
               <clip pos="2" side="tl" part="a_pers_nbr"/>
             </lu>
           </chunk>
@@ -1450,7 +1453,11 @@
        <pattern>
         <pattern-item n="fut"/>    
       </pattern>
-      <action>
+<action>
+<call-macro n="f_agr_formal1">
+         <with-param pos="1"/>
+      </call-macro>
+      
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>

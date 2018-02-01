@@ -3903,7 +3903,7 @@
 
 # sent_id = story.tagged.txt:16:250
 # text = Азамат ескі үлкен бір ағашқа қарай қатты жүгіріп бара жатыр, ол сол ағаштың артына Айгүлден жасырынып жатыр.
-# text[tur] = Azamat eski iri bir ağaca karşı ....koşarak  gitti, o şu ağacın arkasına Aygül'den sığınıyor.
+# text[tur] = Vatandaş eski büyük bir ağaca karşı hızlı koşup gidiyor, o şu ağacın arkasına Aygül'den sığınıyor.
 
 # sent_id = story.tagged.txt:17:289
 # text = Не үшін екенін білесіз бе?
