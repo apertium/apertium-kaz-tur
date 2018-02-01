@@ -20,5 +20,25 @@
     <match lemma="айнала" tags="n.*"/>
     <match lemma="қара" tags="v.*"><select lemma="bak" tags="v.*"/></match>
   </rule>
+<rule>
+    <match lemma="негіз" tags="n.*"/>
+    <match lemma="қал" tags="v.*"><select lemma="kur" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="білім" tags="n.*"/>
+    <match lemma="бер" tags="v.*"><select lemma="ver" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="тіл" tags="n.*"/>
+    <match lemma="жүр" tags="v.*"><select lemma="yürü" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="ұста" tags="v.*"/>
+    <match lemma="ат" tags="n.*"><select lemma="at" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="соғыс" tags="n.*"/>
+    <match lemma="азамат" tags="n.*"><select lemma="sivil" tags="n.*"/></match>
+  </rule>
 </rules>
 

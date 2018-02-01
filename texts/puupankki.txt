@@ -3494,7 +3494,7 @@
 # text = 1960 — 1970 ж. музыкалық комедияларға, шағын драмаларға, мифтік және тарихи сюжеттерге құрылған фильмдер қойылды.
 # text[tur] = 
 
-# sent_id = Иран.tagged.txt:140:4072
+# sent_id = Иран.tagged.txt:140:4072                                                                           ***burdakaldım2018***
 # text = Тегеранда 1955 жылдан халықаралық, 1970 жылдан ұлттық кинофестивальдер өткізіліп тұрады.
 # text[tur] = Tahran'da 1955 yıldan uluslararası, 1970 yıldan ulusal #film festival yönetildi. 
 
@@ -3549,7 +3549,7 @@
 
 # sent_id = wikipedia.tagged.txt:12:191
 # text = Жас тобы ұзақ болып келеді.
-# text[tur] = Genç takımı uzağa gidiyor.
+# text[tur] = Genç takımı uzak gidiyor.
 
 # sent_id = wikipedia.tagged.txt:13:204
 # text = Жауапты хатшы өзінің қызметін жүзеге асырған кезде Қазақстан Республикасының Президентіне, Премьер-Министрге, Министрге есеп береді.
@@ -3837,7 +3837,7 @@
 # text = Сонда Қожа: - Сен кісіні сыйламайды екенсің, киімді сыйлайды екенсің.
 # text[tur] = Şunda Ev sahibi: - Sen kişiyi #ödüllendir, kılığı #say.
 
-# sent_id = Өлген_қазан.tagged.txt:10:259                                          ***burda kaldım2018**
+# sent_id = Өлген_қазан.tagged.txt:10:259                                          
 # text = Сондықтан шапаныма жегізіп отырғаным! - деп, жауап береді.
 # text[tur] = 
 

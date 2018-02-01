@@ -100,6 +100,10 @@
       <cat-item  tags="adj.*"/>
       <cat-item  tags="adj"/>
     </def-cat>
+<def-cat n="adv">
+      <cat-item  tags="adv.*"/>
+ 
+    </def-cat>
 <def-cat n="pih">
       <cat-item tags="v.*.pih.*"/>
     </def-cat>
@@ -226,6 +230,9 @@
     </def-attr>
 <def-attr n="loc">
       <attr-item tags="loc"/> 
+    </def-attr>
+<def-attr n="acc">
+      <attr-item tags="acc"/> 
     </def-attr>
 <def-attr n="dat">
       <attr-item tags="dat"/> 
@@ -359,6 +366,7 @@
 <attr-item tags="px2pl.frm"/>
 <attr-item tags="px2sg.frm"/>
     <attr-item tags="px2sg"/>
+ <attr-item tags="px3sp"/>
   </def-attr>
 
 
@@ -1940,6 +1948,8 @@
     </rule>
 
 
+
+
 <rule comment="REGLA: cop-26"> <!--болыпты -> oldu-->
       <pattern>
       
@@ -2043,8 +2053,8 @@
               <clip pos="2" side="tl" part="v_trans"/>
               <clip pos="2" side="tl" part="neg"/>
               <clip pos="2" side="tl" part="tenses"/>
-              <lit v="+i"/><lit-tag v="cop"/>
-              <clip pos="2" side="tl" part="tenses"/>
+              <!--<lit v="+i"/><lit-tag v="cop"/>-->
+             <!-- <clip pos="2" side="tl" part="tenses"/>-->
               <clip pos="1" side="tl" part="a_pers_nbr"/>
             </lu>
           
@@ -2104,6 +2114,26 @@
             </tags>
             <lu>
 <lit v="değil"/><lit-tag v="adj"/>
+</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: SENT-28">  <!--not working  екенін--> 
+      <pattern>
+        <pattern-item n="cop-ger-past"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+<lit v="ol"/><lit-tag v="ger_past"/>
+<clip pos="1" side="tl" part="poss_v"/>
+<clip pos="1" side="tl" part="a_pers_nbr"/>
 </lu>
           </chunk>
         </out>
