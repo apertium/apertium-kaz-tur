@@ -40,5 +40,23 @@
     <match lemma="соғыс" tags="n.*"/>
     <match lemma="азамат" tags="n.*"><select lemma="sivil" tags="n.*"/></match>
   </rule>
+<rule>
+    <match lemma="және" tags="cnjcoo"/>
+    <match lemma="мұнай" tags="n.*"><select lemma="petrol" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="шарт" tags="n.*"/>
+    <match lemma="жой" tags="v.*"><select lemma="feshet" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="ғасыр" tags="n.*"/>
+    <match lemma="аяқ" tags="n.*"><select lemma="son" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match  tags="num"/>
+    <match lemma="ғасыр" tags="n.*"><select lemma="asır" tags="n.*"/></match>
+  </rule>
+
 </rules>
 

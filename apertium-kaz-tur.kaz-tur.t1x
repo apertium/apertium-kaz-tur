@@ -1909,7 +1909,7 @@
 
 
 
-<rule comment="REGLA: cop-26">
+<!--<rule comment="REGLA: cop-26">
       <pattern>
       <pattern-item n="adj"/>
         <pattern-item n="cop"/>
@@ -1945,7 +1945,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule>-->
 
 
 
@@ -1989,7 +1989,7 @@
 
 
 
-<rule comment="REGLA: cop-26">
+<!--<rule comment="REGLA: cop-26">
       <pattern>
       
         <pattern-item n="cop"/>
@@ -2023,7 +2023,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule>-->
 
 
 
@@ -2102,7 +2102,7 @@
 
 
 
- <rule comment="REGLA: SENT-28">
+ <rule comment="REGLA: SENT-28"> <!-- емес -> değil-->
       <pattern>
         <pattern-item n="cop-neg"/>
       </pattern>
@@ -2120,7 +2120,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: SENT-28">  <!--not working  екенін--> 
+<rule comment="REGLA: cop-ger-past-54">  <!--  екенін -> olduğunu--> 
       <pattern>
         <pattern-item n="cop-ger-past"/>
       </pattern>
@@ -2131,9 +2131,11 @@
               <tag><lit-tag v="SV"/></tag>
             </tags>
             <lu>
-<lit v="ol"/><lit-tag v="ger_past"/>
+<lit v="ol"/><lit-tag v="v"/><lit-tag v="iv"/>
+
+<clip pos="1" side="tl" part="ger_past"/>
 <clip pos="1" side="tl" part="poss_v"/>
-<clip pos="1" side="tl" part="a_pers_nbr"/>
+<clip pos="1" side="tl" part="acc"/>
 </lu>
           </chunk>
         </out>
@@ -2143,7 +2145,7 @@
  
 
 
-    <rule comment="REGLA: SENT">
+    <rule comment="REGLA: SENT-55">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>

@@ -308,7 +308,7 @@
 # text[tur] = «Ümitsiz» kredilerin faizi – 7,2 orana dek yükselerek yararlanmış. 
 
 # sent_id = akorda-random.tagged.txt:76:1351
-# text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.  "burdakaldım"
+# text = Бұл барлық әкімдер мен ауыл шаруашылығы тауар өндірушілерінің міндеті.  
 # text[tur] = Bu tüm hekimler ve çiftçilik ürün üreticlerin görevi.
 
 # sent_id = akorda-random.tagged.txt:77:1372
@@ -2926,7 +2926,7 @@
 # text = Барлық сегіз топтың жеңімпаздары мен екінші орын алған командалар 1 / 8 финалға шығады.
 # text[tur] = Fakat sekiz gurubun kazananları ve ikinci yeri alan ekipler 1 / 8 finaline çıkıyor.
 
-# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377                                       ****burdakaldım2018***
 # text = Командалардың турнирлік кестедегі орны келесі көрсеткіштер бойынша анықталады:
 # text[tur] = Ekiplerin/Ekiplerin turnuva tablodaki yeri sonraki kılavuzlar boyunca tanımlanıyor:
 
@@ -3139,7 +3139,7 @@
 # text[tur] = 
 
 # sent_id = Иран.tagged.txt:52:1481
-# text = 17 — 18 ғасырларда Иранның экономикасы құлдырап, халықтың жағдайы нашарлап кетті.
+# text = 17 — 18 ғасырларда Иранның экономикасы құлдырап, халықтың жағдайы нашарлап кетті. 
 # text[tur] = 17 — 18 asırlarda İran'ın ekonomisi düşüp, halkın şartı fenalaştı.
 
 # sent_id = Иран.tagged.txt:53:1508
@@ -3435,7 +3435,7 @@
 
 # sent_id = Иран.tagged.txt:125:3691
 # text = Ежелгі базигер театры жайлы деректер сақталған.
-# text[tur] = Ilkel *базигер tiyatrosu koşulu  veriler korunmuş.....????should translate again
+# text[tur] = Ilkel *базигер(persion word) tiyatrosu koşulu  veriler korunmuş.....????should translate again
 
 # sent_id = Иран.tagged.txt:126:3706
 # text = Пантомима, көлеңке және қуыршақ театрлары болған.
@@ -3494,7 +3494,7 @@
 # text = 1960 — 1970 ж. музыкалық комедияларға, шағын драмаларға, мифтік және тарихи сюжеттерге құрылған фильмдер қойылды.
 # text[tur] = 
 
-# sent_id = Иран.tagged.txt:140:4072                                                                           ***burdakaldım2018***
+# sent_id = Иран.tagged.txt:140:4072                                                                           
 # text = Тегеранда 1955 жылдан халықаралық, 1970 жылдан ұлттық кинофестивальдер өткізіліп тұрады.
 # text[tur] = Tahran'da 1955 yıldan uluslararası, 1970 yıldan ulusal #film festival yönetildi. 
 
@@ -3545,7 +3545,7 @@
 
 # sent_id = wikipedia.tagged.txt:11:174
 # text = басЖалғыз болсаң – топқа басың кіре алмас.
-# text[tur] = 
+# text[tur] = ????Kazakh speaker said this sentence not correct.????
 
 # sent_id = wikipedia.tagged.txt:12:191
 # text = Жас тобы ұзақ болып келеді.
