@@ -6033,7 +6033,7 @@
 <e><p><l>еле<s n="v"/><s n="tv"/><s n="neg"/></l><r>tanı<s n="v"/><s n="tv"/><s n="neg"/></r></p></e>
 <e><p><l>ұр<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 <!--<e><p><l>up#<b/>to<s n="vblex"/><s n="sep"/></l><r>тол<s n="v"/><s n="iv"/></r></p></e>-->
-<e><p><l>сыйла<s n="v"/><s n="tv"/><s n="neg"/></l><r>ödüllendir<s n="v"/><s n="tv"/><s n="neg"/></r></p></e>
+
 <e><p><l>сыйла<s n="v"/><s n="tv"/></l><r>ödüllendir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>орында<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>демократияландыр<s n="v"/><s n="tv"/></l><r>demokratikleştir<s n="v"/><s n="tv"/></r></p></e>
@@ -6486,7 +6486,7 @@
      <e><p><l>сотта<s n="v"/><s n="tv"/></l><r>yargıla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сүй<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sor<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>сыйла<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
+     
 <e r="RL"><p><l></l><r>ал<s n="vaux"/></r></p></e>
      <e><p><l>сын<s n="v"/><s n="iv"/></l><r>sın<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>сына<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
