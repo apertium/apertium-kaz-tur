@@ -91,6 +91,9 @@
 <def-cat n="қал">
       <cat-item lemma="қал" tags="vaux.*"/>
     </def-cat>
+<def-cat n="бар">
+      <cat-item lemma="бар" tags="adj"/>
+    </def-cat>
 
 <def-cat n="кел">
       <cat-item lemma="кел" tags="vaux.*"/>
@@ -191,6 +194,7 @@
 <def-cat n="ifi-evid">
       <cat-item tags="v.*.ifi.evid.*"/>
     </def-cat>
+
 
 
 
@@ -2114,6 +2118,29 @@
             </tags>
             <lu>
 <lit v="değil"/><lit-tag v="adj"/>
+</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: cop-ger-past-54">  <!--  екенін -> olduğunu--> 
+      <pattern>
+        <pattern-item n="бар"/>
+        <pattern-item n="cop-ger-past"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+<lit v="ol"/><lit-tag v="v"/><lit-tag v="iv"/>
+
+<clip pos="2" side="tl" part="ger_past"/>
+<clip pos="2" side="tl" part="poss_v"/>
+<clip pos="2" side="tl" part="acc"/>
 </lu>
           </chunk>
         </out>
