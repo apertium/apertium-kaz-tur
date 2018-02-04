@@ -4397,7 +4397,7 @@
 <e><p><l>Сейд<s n="np"/><s n="ant"/><s n="m"/></l><r>Seid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Мұхаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammed<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Алмания<s n="np"/><s n="top"/></l><r>Almanya<s n="np"/><s n="top"/></r></p></e>
-    
+    <e><p><l>Систан<s n="np"/><s n="top"/></l><r>Sistan<s n="np"/><s n="top"/></r></p></e>
      
 <e><p><l>Рио-де-Жанейро<s n="np"/><s n="top"/></l><r>Rio-de-Janeiro<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сан-Паулу<s n="np"/><s n="top"/></l><r>Sao<b/>Paulo<s n="np"/><s n="top"/></r></p></e>
@@ -6807,6 +6807,7 @@
 <e><p><l>азат<s n="adj"/></l><r>serbest<s n="adj"/></r></p></e>
 <e><p><l>тең<s n="n"/></l><r>denk<s n="n"/></r></p></e>
 <e><p><l>барша<s n="adj"/></l><r>tüm<s n="adj"/></r></p></e>
+<e><p><l>эллиндік<s n="adj"/></l><r>helen<s n="n"/></r></p></e>
 <e><p><l>бары<s n="n"/></l><r>süreç<s n="n"/></r></p></e>
 <e><p><l>барыс<s n="n"/></l><r>süreç<s n="n"/></r></p></e>
 

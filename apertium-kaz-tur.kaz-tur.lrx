@@ -58,5 +58,6 @@
     <match lemma="ғасыр" tags="n.*"><select lemma="asır" tags="n.*"/></match>
   </rule>
 
+
 </rules>
 
