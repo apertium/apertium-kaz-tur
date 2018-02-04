@@ -58,13 +58,25 @@
     <match lemma="ғасыр" tags="n.*"><select lemma="asır" tags="n.*"/></match>
   </rule>
 <rule>
+    <match  tags="num"/>
+    <match lemma="адам" tags="n.*"><select lemma="kişi" tags="n.*"/></match>
+  </rule>
+<rule>
     <match lemma="футбол" tags="n.*"/>
     <match lemma="әлем" tags="n.*"><select lemma="dünya" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="ат" tags="n.*"/>
+    <match lemma="кім" tags="prn.*"><select lemma="ne" tags="adv.*"/></match>
   </rule>
 
 <rule>
     <match lemma="жақсы" tags="adv"/>
     <match lemma="түс" tags="v.*"><select lemma="yararlan" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="бөлме" tags="n.*"/>
+    <match lemma="қара" tags="v.*"><select lemma="göster" tags="v.*"/></match>
   </rule>
 
 

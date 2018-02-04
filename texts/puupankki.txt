@@ -2587,13 +2587,13 @@
 # text = Бастауыш білім баршаға міндетті болуы тиіс.
 # text[tur] = Ana bilim bütüne zorunlu olması lazım
 
-# sent_id = udhr.tagged.txt:25:770
+# sent_id = udhr.tagged.txt:25:770                                                          ***burdakaldım2018***
 # text = Ата-аналардың өздерінің жас балаларына білім беру түрін таңдауда құқығы басымды.
 # text[tur] = Ata-anaların kendilerinin genç evlatlarına bilim verme türünü seçmede yetkisi üstün. 
 
 # sent_id = udhr.tagged.txt:26:793
 # text = Осы бостандықтар мен құқықтарды жүзеге асырылуы Біріккен Ұлттар мақсаттары мен қағидаларына қайшы келмеуі тиіс.
-# text[tur] = 
+# text[tur] = Şu beraatlar ve yetkileri yapılması Birleştiği Uluslar maksatları ve teorilerine hangi  gelmemesi gelmeli.
 
 # sent_id = wikitravel.tagged.txt:1:0
 # text = Қалыңыз қалай?
@@ -2625,7 +2625,7 @@
 
 # sent_id = wikitravel.tagged.txt:8:75
 # text = Мен түсінбеймін.
-# text[tur] = Ben analayamadım.
+# text[tur] = Ben anlamam.
 
 # sent_id = wikitravel.tagged.txt:9:82
 # text = Дәретхана қайда екен?
@@ -2645,7 +2645,7 @@
 
 # sent_id = wikitravel.tagged.txt:13:116
 # text = Мен адасып кеттім.
-# text[tur] = Ben kaybettim.
+# text[tur] = Ben kayboldum.
 
 # sent_id = wikitravel.tagged.txt:14:125
 # text = Мен сөмкемді жоғалтып алдым.
@@ -2673,7 +2673,7 @@
 
 # sent_id = wikitravel.tagged.txt:20:185
 # text = Астанаға билет қанша тұрады?
-# text[tur] = Astanaya bilet 
+# text[tur] = Astanaya bilet kaç olur?
 
 # sent_id = wikitravel.tagged.txt:21:196
 # text = Астанаға бір билет беріңіз.
@@ -2697,7 +2697,7 @@
 
 # sent_id = wikitravel.tagged.txt:26:252
 # text = Мына пойыз Астанаға қашан жетеді?
-# text[tur] = Bu tren Astana'ya ne zaman gidiyor?
+# text[tur] = Bu tren Astana'ya ne zaman ulaşır?
 
 # sent_id = wikitravel.tagged.txt:27:265
 # text = Сіз кітапхананы картадан көрсете аласыз ба?
@@ -2926,7 +2926,7 @@
 # text = Барлық сегіз топтың жеңімпаздары мен екінші орын алған командалар 1 / 8 финалға шығады.
 # text[tur] = Fakat sekiz gurubun kazananları ve ikinci yeri alan ekipler 1 / 8 finaline çıkıyor.
 
-# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377                                       ****burdakaldım2018***
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:12:377                                       
 # text = Командалардың турнирлік кестедегі орны келесі көрсеткіштер бойынша анықталады:
 # text[tur] = Ekiplerin/Ekiplerin turnuva tablodaki yeri sonraki kılavuzlar boyunca tanımlanıyor:
 

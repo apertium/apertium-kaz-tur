@@ -415,7 +415,7 @@
 
 <section-rules>
 
-<rule comment="REGLA: AOR-1" >
+<rule comment="REGLA: AOR-1" > <!-- сыйламайды екенсің  -> ödüllendirmezsin -->
       <pattern>
         <pattern-item n="aor"/>
       </pattern>
@@ -423,6 +423,15 @@
       <call-macro n="f_agr_formal1">
          <with-param pos="1"/>
       </call-macro>
+<choose>
+   <when>
+     
+      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
+                             
+        
+      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="aor"/></let>
+    </when>
+</choose>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
 </let>
@@ -612,11 +621,45 @@
         </out>
       </action>
     </rule>
+<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!-- шыға алмай да тұр. -> çıkamıyor da -->
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="vaux_prc_perf"/>
+         <pattern-item n="da"/>
+        <pattern-item n="yat_pres"/>
+        
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="abil"/><clip pos="2" side="tl" part="neg"/><lit-tag v="prog"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+         <clip pos="3" side="tl" part="whole"/>
+           </lu>
+          </mlu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 
-
-<rule comment="REGLA: neg-ifi-8" > <!-- ойнай алмады -> oynamadı -->
+<rule comment="REGLA: neg-ifi-8" >  <!--ойнай алмады -> oynamadı--> 
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-neg-ifi"/>
@@ -626,7 +669,7 @@
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
 </let>
-       <!-- <let>
+        <!--<let>
           <clip pos="1" side="tl" part="whole"/>
 
           <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="neg"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
@@ -639,10 +682,10 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="v_trans"/>
+             <lit-tag v="abil"/>
               <clip pos="2" side="tl" part="neg"/>
               <clip pos="2" side="tl" part="tenses"/>
-              <lit-tag v="abil"/>
-              <clip pos="2" side="tl" part="a_pers_nbr"/>
+              <!--<clip pos="2" side="tl" part="a_pers_nbr"/>-->
             </lu>
           </chunk>
         </out>
@@ -682,7 +725,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!-- таба алмай жатыр -> bulamıyor -->
+<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!--таба алмай жатыр -> bulamıyor -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux_prc_perf"/>
@@ -710,6 +753,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="REGLA: prc_impf+vaux-gna_perf-11" > <!--пайдалана отырып -> kullanıp-->
       <pattern>
@@ -942,7 +987,7 @@
       </action>
     </rule>
 
- <rule comment="REGLA: neg-aor-18" >
+ <rule comment="REGLA: prc_impf+vaux-aor-18" >
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-aor"/>
@@ -955,7 +1000,7 @@
 
  
 <let>
-<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ifi"/>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="aor"/>
 </let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
@@ -989,6 +1034,15 @@
        </pattern>
 
 <action>
+         <choose> <!-- ~(i)n -> ~(i)nIz -->
+  <when>
+ 
+     <test><or><equal><clip pos="2" side="tl" part="poss_v"/> <lit-tag v="px2sg.frm"/></equal>
+	        <equal><clip pos="2" side="tl" part="poss_v"/><lit-tag v="px2pl.frm"/></equal></or></test>
+  
+    <let><clip pos="2" side="tl" part="poss_v"/><lit-tag v="px2pl"/></let>
+    </when>
+</choose>
 
       <let>
           <clip pos="2" side="tl" part="diff.name"/>
@@ -1264,11 +1318,12 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf-26" > <!--қарай -> bakarak-->
+<!--<rule comment="REGLA: prc_perf-26" >  қарай -> bakarak 
       <pattern>
         <pattern-item n="prc_impf"/>
       </pattern>
  <action>
+
         <let>
           <clip pos="1" side="tl" part="prc_imp"/>
           <lit-tag v="gna_impf"/>
@@ -1284,7 +1339,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule> -->
     
     
 <rule comment="REGLA: impf-27" >
@@ -1599,6 +1654,8 @@
     </rule>
 
 
+
+
 <rule comment="REGLA: pres-38">
       <pattern>
         <pattern-item n="nom"/>
@@ -1632,6 +1689,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="REGLA: pres-39"> <!-- ~ көріп тұрған -> görmüyor ~ --> 
       <pattern>
@@ -2031,41 +2090,6 @@
 
           <chunk name="v" case=
           "caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-          
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-             
-            </lu>
-         
-          
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-<rule comment="REGLA: cop-51"> <!--сыйла -> ödüllendirmiyorsun-->
-      <pattern>
-      
-        <pattern-item n="aor-evid"/>
-      </pattern>
-      <action>
-
-<choose>
-   <when>
-     
-      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
-                             
-        
-      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="aor"/></let>
-    </when>
-</choose>
-
-        <out>
-
-          <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
