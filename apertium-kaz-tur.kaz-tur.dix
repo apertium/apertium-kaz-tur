@@ -331,10 +331,12 @@
 <e><p><l>рақат<s n="n"/></l><r>kutluluk<s n="n"/></r></p></e>
 <e><p><l>егіншілік<s n="n"/></l><r>toprağı<b/>sürme<s n="n"/></r></p></e>
 <e><p><l>алқап<s n="n"/></l><r>tarla<s n="n"/></r></p></e>
+<e><p><l>мәрте<s n="n"/></l><r>kez<s n="n"/></r></p></e>
 <e><p><l>жүзімдік<s n="n"/></l><r>üzüm<b/>bağı<s n="n"/></r></p></e>
 
+<e><p><l>Дума<s n="n"/></l><r>Duma<s n="n"/></r></p></e>
 <e><p><l>бие<s n="n"/></l><r>kısrak<s n="n"/></r></p></e>
-
+<e><p><l>жұртшылық<s n="n"/></l><r>halk<s n="n"/></r></p></e>
 <e><p><l>ауылшаруашылық<s n="adj"/></l><r>tarım<s n="adj"/></r></p></e>
 
 <e><p><l>шама<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
@@ -4393,6 +4395,7 @@
      <e><p><l>Азамат<s n="np"/><s n="ant"/><s n="m"/></l><r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Джек<s n="np"/><s n="ant"/><s n="m"/></l><r>Jack<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Әли<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Дик<s n="np"/><s n="ant"/><s n="m"/></l><r>Dik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygül<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Сейд<s n="np"/><s n="ant"/><s n="m"/></l><r>Seid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Мұхаммед<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammed<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5046,6 +5049,7 @@
 <e><p><l>Мохсени<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mohseniy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ясеми<s n="np"/><s n="cog"/><s n="mf"/></l><r>Yasemiy<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рафия<s n="np"/><s n="cog"/><s n="mf"/></l><r>Rafya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Чейни<s n="np"/><s n="cog"/><s n="mf"/></l><r>Çeney<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
      <e><p><l>Давор<s n="np"/><s n="ant"/><s n="m"/></l><r>Davor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Дамир<s n="np"/><s n="ant"/><s n="m"/></l><r>Damir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Данило<s n="np"/><s n="ant"/><s n="m"/></l><r>Danilo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5383,7 +5387,7 @@
 <e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
-
+<e><p><l>тарихи<s n="adj"/></l><r>tarihi<s n="adj"/></r></p></e>
 <e><p><l>арнаулы<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
 <e><p><l>құқылы<s n="adj"/></l><r>haklı<s n="adj"/></r></p></e>
 <e><p><l>керулі<s n="adj"/></l><r>gergin<s n="adj"/></r></p></e>
@@ -5892,6 +5896,8 @@
 <e><p><l>тік<s n="adv"/></l><r>dosdoğru<s n="adv"/></r></p></e>
 <e><p><l>анда-санда<s n="adv"/></l><r>ara-sıra<s n="adv"/></r></p></e>
 <e><p><l>тегін<s n="adv"/></l><r>bedava<s n="adj"/></r></p></e>
+
+<e><p><l>тарихи<s n="adv"/></l><r>tarihçe<s n="adj"/></r></p></e>
 <e><p><l>бұрын<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
 <e><p><l>әлбетте<s n="adv"/></l><r>hakikaten<s n="adv"/></r></p></e>
 <e><p><l>онда<s n="adv"/></l><r>orada<s n="adv"/></r></p></e>
@@ -6033,7 +6039,8 @@
 <e><p><l>еле<s n="v"/><s n="tv"/><s n="neg"/></l><r>tanı<s n="v"/><s n="tv"/><s n="neg"/></r></p></e>
 <e><p><l>ұр<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 <!--<e><p><l>up#<b/>to<s n="vblex"/><s n="sep"/></l><r>тол<s n="v"/><s n="iv"/></r></p></e>-->
-
+<e><p><l>алаңда<s n="v"/><s n="iv"/></l><r>sık<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>алаңда<s n="v"/><s n="iv"/></l><r>uyar<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сыйла<s n="v"/><s n="tv"/></l><r>ödüllendir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>орында<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>демократияландыр<s n="v"/><s n="tv"/></l><r>demokratikleştir<s n="v"/><s n="tv"/></r></p></e>
@@ -6077,6 +6084,7 @@
 
 <e><p><l>жақсар<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="iv"/></r></p></e>
 
+<e><p><l>сез<s n="v"/><s n="tv"/></l><r>sez<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>айыпта<s n="v"/><s n="tv"/></l><r>kına<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>тая<s n="v"/><s n="iv"/></l><r>yaklaş<s n="v"/><s n="iv"/></r></p></e>
@@ -7199,8 +7207,8 @@
 <e><p><l>қарсы<s n="adj"/></l><r>zıt<s n="adj"/></r></p></e>
 <e><p><l>қарым-қатынас<s n="n"/></l><r>ilişkileri<s n="n"/></r></p></e>
 <e><p><l>қасиет<s n="n"/></l><r>özellik<s n="n"/></r></p></e>
-<e><p><l>Каспий<s n="np"/><s n="top"/><s n="attr"/></l><r>Kazvin<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Каспий<s n="np"/><s n="top"/><s n="attr"/><s n="attr"/></l><r>Kazvin<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Каспий<s n="np"/><s n="top"/></l><r>Kazvin<s n="np"/><s n="top"/></r></p></e>
+
 <e><p><l>қастерле<s n="v"/><s n="tv"/></l><r>saygı<b/>duy<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қат<s n="v"/><s n="iv"/><s n="coop"/></l><r>kat<s n="v"/><s n="iv"/><s n="coop"/></r></p></e>
 <e><p><l>қат<s n="v"/><s n="iv"/><s n="p3"/><s n="sg"/></l><r>katılş<s n="v"/><s n="iv"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -7720,6 +7728,7 @@
 <e><p><l>уақыт<b/>аралығында<s n="adv"/></l><r>vakit<b/>aralığında<s n="adv"/></r></p></e>
 <e><p><l>уақыт<s n="n"/></l><r>vakit<s n="n"/></r></p></e>
 <e><p><l>УЕФА<s n="abbr"/></l><r>UEFA<s n="np"/><s n="org"/><s n="nom"/></r></p></e>
+<e><p><l>ЮНЕСКО<s n="abbr"/></l><r>UNESCO<s n="np"/><s n="org"/></r></p></e>
 <e><p><l>үздік<s n="adj"/></l><r>seçkin<s n="adj"/></r></p></e>
 <e><p><l>үздік<s n="adv"/></l><r>mükkemelen<s n="adv"/></r></p></e>
 <e><p><l>үздік<s n="n"/></l><r>mükkemel<s n="n"/></r></p></e>
@@ -7754,6 +7763,7 @@
 <e><p><l>учаске<s n="n"/></l><r>temel<s n="n"/></r></p></e>
 <e><p><l>үш<s n="n"/></l><r>iç<s n="n"/></r></p></e>
 <e><p><l>үш<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+<e><p><l>үшеу<s n="num"/></l><r>üç<s n="num"/></r></p></e>
 <e><p><l>үш есе<s n="adv"/></l><r>üç ket<s n="adv"/></r></p></e>
 <e><p><l>үшін<s n="post"/></l><r>için<s n="post"/></r></p></e>
 <e><p><l>формат<s n="n"/></l><r>format<s n="n"/></r></p></e>

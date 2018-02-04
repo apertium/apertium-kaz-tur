@@ -212,12 +212,12 @@
 # text[tur] = Emeklilik birikiminin hacmı 2.2 trilyon. Tengeye artdı.
 
 # sent_id = akorda-random.tagged.txt:52:898
-# text = Ол солай бола береді деп ойлаймын......???
-# text[tur] = o şöyle olmaya  devam eder  düşünürüm.?
+# text = Ол солай бола береді деп ойлаймын......?
+# text[tur] = O şu olur diyip sanarım......?
 
 # sent_id = akorda-random.tagged.txt:53:913
 # text = Соған қарамастан мен тәртіп орнатуға қарсы үлкен қарсылықты сезіп тұрмын.
-# text[tur] = Şuna rağmen ben tavır yapmaya karşı büyük tepkiyi....
+# text[tur] = Şuna rağmen ben tavır yapmaya karşı büyük tepkiyi seziyorum.
 
 # sent_id = akorda-random.tagged.txt:54:936
 # text = Түстен кейін Президент Павлодар ауданындағы емхананы аралады.
@@ -321,11 +321,11 @@
 
 # sent_id = akorda-random.tagged.txt:79:1396
 # text = Кездесу кезінде екіжақты ынтымақтастықтың мәселесі талқыланды.
-# text[tur] = 
+# text[tur] = Yönelme anında ikili işbirliktelikin meselesi tartışıldı.
 
 # sent_id = akorda-random.tagged.txt:80:1411
 # text = Сондықтан жұртшылық алаңдарлықтай ешқандай себеп жоқ.
-# text[tur] = 
+# text[tur] = Sonra halk #uyar hiçbir sebep yok.
 
 # sent_id = akorda-random.tagged.txt:81:1426
 # text = Мемлекет басшысы екі заңға қол қойды.
@@ -356,7 +356,7 @@
 # text[tur] = Yılın başında kirize karşı program onaylandı.
 
 # sent_id = akorda-random.tagged.txt:88:1546
-# text = – Қазір біз іске асыра алмайтындай жоба жоқ.......?
+# text = – Қазір біз іске асыра алмайтындай жоба жоқ.
 # text[tur] = şimdi uygulaması olamaz proje yok.
 
 # sent_id = akorda-random.tagged.txt:89:1565
@@ -369,7 +369,7 @@
 
 # sent_id = akorda-random.tagged.txt:91:1585
 # text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды.
-# text[tur] = 
+# text[tur] = Şunun içinde, onların #üç Milli *Думаға iki kezden seçildi.
 
 # sent_id = akorda-random.tagged.txt:92:1608
 # text = Қымбатты отандастар!
@@ -381,7 +381,8 @@
 
 # sent_id = akorda-random.tagged.txt:94:1638
 # text = Қазақстан халқын абыроймен алға бастап, тағы да тарихи тамаша жеңістерге жетіңіз.
-# text[tur] = 
+# text[tur] = Kazakistan halkını nüfuzla #güvenilmez başlayıp, daha da tarihi harika zaferlere ulaşalım.
+
 
 # sent_id = akorda-random.tagged.txt:95:1664
 # text = Мемлекет басшысы Нұрсұлтан Назарбаев қысқа мерзімді демалысқа шықты.
@@ -389,7 +390,7 @@
 
 # sent_id = akorda-random.tagged.txt:96:1683
 # text = Дик Чейнидің аузынан Астананың атына ешқандай айыптау айтылмады.
-# text[tur] = 
+# text[tur] = Dik Çeney'in ağızından Astana'nın adına hiçbir kınama söylenmedi.
 
 # sent_id = akorda-random.tagged.txt:97:1702
 # text = - Президент Пирамиданы маған резиденция терезесінен көрсетті.
@@ -458,19 +459,19 @@
 
 # sent_id = akorda-random.tagged.txt:113:2016
 # text = Әр нысан, әр салынған ғимарат бірегей болуы керек.
-# text[tur] = Her nesne, her salanmış yapı benzersiz olması gerek......?
+# text[tur] = Her nesne, her yapılmış yapı benzersiz olması gerek.
 
 # sent_id = akorda-random.tagged.txt:114:2037
 # text = Қазақстан Каспий теңізінің айдынындағы ахуалды сенімді бақылауда ұстайды.
-# text[tur] = Kazakistan Kazvin denizinin düzlüğünde sağlığı güvenilir kontrol eder. .....?
+# text[tur] = Kazakistan Kazvin denizinin alanındaki ahvali güveni gözlemlemede tutar/tutur. 
 
 # sent_id = akorda-random.tagged.txt:115:2056
 # text = Сондықтан да мұнда біз бәрін мұқият зерттеп, ақылға салып көруіміз керек.
-# text[tur] = Sonradan da bunda biz  temizce inceleyip, akıla görmemiz gerek ....?not sure
+# text[tur] = Sonra da #burda biz hepsisini dikkatlice inceleyip, akıla yapıp görmemiz gerek.
 
 # sent_id = akorda-random.tagged.txt:116:2082
 # text = Мен Саммитке әзірлік жөніндегі барлық мәселені шешеміз деп сенемін.
-# text[tur] = Ben Zirveye tedarik yönündeki tüm meseleni çözmemiz den eminim......?
+# text[tur] = Ben Zirveye tedarik yönündeki bütün meseleyi çözeriz diyip inanırım.
 
 # sent_id = akorda-random.tagged.txt:117:2103
 # text = Мүгедектер бірлестіктері қызметінің құқықтық базасын жетілдірген жөн.
