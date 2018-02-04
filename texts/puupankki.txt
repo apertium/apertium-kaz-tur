@@ -2871,7 +2871,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:31:826
 # text = Мына мен айтқан жол — мал аяр жол емес.
-# text[tur] = Bu ben söyledik yol- sığır acıyacak yol değil...?
+# text[tur] = Bu ben söyledik yol- sığır acıyacak yol değil.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:32:847
 # text = Құдайдан қорық, пендеден ұял, балаң бала болсын десең — оқыт, мал аяма!
@@ -2907,11 +2907,11 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:7:224
 # text = Бразилия өз жерінде чемпионатты екі рет өткізген бесінші ел болды (Мексика, Италия, Франция және Германиядан кейін).
-# text[tur] = 
+# text[tur] = Brezilya kendi yerinde şampiyonayı iki süre yönettiği beşinci ülke oldu (Meksika, İtalya, Fransa ve Almanya'dan sonra).
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:8:267
 # text = Осыған дейін Бразилияда футболдан әлем чемпионаты 1950 жылы өткен болатын.
-# text[tur] = Şuna dek Brezilya'da futboldan evren şampiyonası 1950 yılı ettik #ol..?
+# text[tur] = Şuna dek Brezilya'da futboldan dünya şampiyonası 1950 yılı geçtiği olmuş.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:9:290
 # text = ӘЧ-2014 іріктеу айналымы 2011 жылдың маусым айында басталып, 2013 жылдың қараша айында аяқталды.

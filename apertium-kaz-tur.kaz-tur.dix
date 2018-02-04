@@ -134,7 +134,7 @@
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
      <e><p><l>екеуі<s n="cnjcoo"/></l><r>ikisi<s n="cnjcoo"/></r></p></e>
      <e><p><l>бірақ<s n="cnjcoo"/></l><r>fakat<s n="cnjcoo"/></r></p></e>
-<e><p><l>Ләкин<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
+
      <e><p><l>әрі<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>сөйтсе<b/>де<s n="cnjadv"/></l><r>ancak<s n="cnjadv"/></r></p></e>
      <e><p><l>және<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
@@ -155,9 +155,9 @@
      <e><p><l>немесе<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
      <e><p><l>һәм<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 <e><p><l>түгіл<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
-
+<e><p><l>яки<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
 <e><p><l>мейлі<s n="ij"/></l><r>herneyse<s n="cnjcoo"/></r></p></e>
-
+<e><p><l>ләкин<s n="cnjcoo"/></l><r>lakin<s n="cnjcoo"/></r></p></e>
      <!-- SECTION: Postpositions -->
      <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
      <e><p><l>сыз<s n="post"/></l><r>siz<s n="post"/></r></p></e>
@@ -328,7 +328,7 @@
 <e><p><l>қазба<s n="n"/></l><r>fosil<s n="n"/></r></p></e>
 <e><p><l>күлдіреуіш<s n="n"/></l><r>kulp<s n="n"/></r></p></e>
 <e><p><l>шаңырақ<s n="n"/></l><r>yurt<s n="n"/></r></p></e>
-
+<e><p><l>рақат<s n="n"/></l><r>kutluluk<s n="n"/></r></p></e>
 <e><p><l>егіншілік<s n="n"/></l><r>toprağı<b/>sürme<s n="n"/></r></p></e>
 <e><p><l>алқап<s n="n"/></l><r>tarla<s n="n"/></r></p></e>
 <e><p><l>жүзімдік<s n="n"/></l><r>üzüm<b/>bağı<s n="n"/></r></p></e>
@@ -465,12 +465,12 @@
 <e><p><l>парсы<s n="n"/></l><r>acem<s n="n"/></r></p></e>
 <e><p><l>шиит<s n="n"/></l><r>şii<s n="n"/></r></p></e>
  <e><p><l>қатысушысы<s n="n"/></l><r>üye<s n="n"/></r></p></e>
-<e><p><l>ротация<s n="n"/></l><r>dönüş<s n="n"/></r></p></e>
+<e><p><l>ротация<s n="n"/></l><r>rotasyon<s n="n"/></r></p></e>
 <e><p><l>үміткерлік<s n="n"/></l><r>adaylık<s n="n"/></r></p></e>
 <e><p><l>мал<s n="n"/></l><r>hayvancılık<s n="n"/></r></p></e>
 <e><p><l>май<s n="n"/></l><r>tereyağı<s n="n"/></r></p></e>
 <e><p><l>ағайын<s n="n"/></l><r>amca<s n="n"/></r></p></e>
-<e><p><l>ағайын<s n="n"/></l><r>akraba<s n="n"/></r></p></e>
+
 <e><p><l>майыр<s n="n"/></l><r>memur<s n="n"/></r></p></e>
 <e><p><l>зарар<s n="n"/></l><r>zarar<s n="n"/></r></p></e>
 <e><p><l>хикмет<s n="n"/></l><r>akıl<s n="n"/></r></p></e>
@@ -1014,7 +1014,7 @@
      <e><p><l>елдес<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
      
      <e><p><l>әлем<s n="n"/></l><r>cihan<s n="n"/></r></p></e>
-     <e><p><l>әлем<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
+    
      <e><p><l>елші<s n="n"/></l><r>elçi<s n="n"/></r></p></e>
      <e><p><l>ем<s n="n"/></l><r>tedavi<s n="n"/></r></p></e>
      <e><p><l>әмір<s n="n"/></l><r>emir<s n="n"/></r></p></e>
@@ -1456,8 +1456,8 @@
      <e><p><l>кепілдік<s n="n"/></l><r>güven<s n="n"/></r></p></e>
      <e><p><l>кепілдік<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
      <e><p><l>кепілдік<s n="n"/></l><r>kefalet<s n="n"/></r></p></e>
-     <e><p><l>керек<s n="n"/></l><r>gerek<s n="n"/></r></p></e>
-     <e><p><l>керек<s n="n"/></l><r>hacet<s n="n"/></r></p></e>
+     <e><p><l>керек<s n="n"/></l><r>gereksinim<s n="n"/></r></p></e>
+    
      <e><p><l>кереует<s n="n"/></l><r>kerevet<s n="n"/></r></p></e>
      <e><p><l>кәріп<s n="n"/></l><r>felç<s n="n"/></r></p></e>
      <e><p><l>керіс<s n="n"/></l><r>tartışma<s n="n"/></r></p></e>
@@ -1641,7 +1641,7 @@
      <e><p><l>құрал<s n="n"/></l><r>önlem<s n="n"/></r></p></e>
      <e><p><l>құрал<s n="n"/></l><r>silah<s n="n"/></r></p></e>
      <e><p><l>құрал<b/>-сайман<s n="n"/></l><r>alet<s n="n"/></r></p></e>
-    
+    <e><p><l>ағайын<b/>-туған<s n="n"/></l><r>akraba<s n="n"/></r></p></e>
      <e><p><l>құрбан<s n="n"/></l><r>feda<s n="n"/></r></p></e>
      <e><p><l>құрбан<s n="n"/></l><r>kurban<s n="n"/></r></p></e>
      <e><p><l>күрес<s n="n"/></l><r>güreş<s n="n"/></r></p></e>
@@ -5897,7 +5897,7 @@
 <e><p><l>онда<s n="adv"/></l><r>orada<s n="adv"/></r></p></e>
 <e><p><l>алаланбай<s n="adv"/></l><r>tarafsızca<s n="adv"/></r></p></e>
 <e><p><l>әрдайым<s n="adv"/></l><r>sürekli<s n="adv"/></r></p></e>
-
+<e><p><l>әрең<s n="adv"/></l><r>zar<b/>zor<s n="adv"/></r></p></e>
 <e><p><l>ай<b/>сайын<s n="adv"/></l><r>her<b/>ay<s n="adv"/></r></p></e>
 <e><p><l>дейінгі<s n="adv"/></l><r>kadar<s n="adv"/></r></p></e>
 <e><p><l>келе<b/>-келе<s n="adv"/></l><r>ara<b/>-sıra<s n="adv"/></r></p></e>
@@ -5911,7 +5911,7 @@
      <e><p><l>сосын<s n="adv"/></l><r>böylece<s n="adv"/></r></p></e>
 <e><p><l>сөйтіп<s n="adv"/></l><r>böyle<s n="adv"/></r></p></e>
 <e><p><l>ұзақ<s n="adv"/></l><r>uzak<s n="adj"/></r></p></e>
-<e><p><l>тіпті<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
+<e><p><l>тіпті<s n="adv"/></l><r>gerçekten<s n="adv"/></r></p></e>
 <e><p><l>түбегейлеп<s n="adv"/></l><r>hakkıyla<s n="adv"/></r></p></e>
 <e><p><l>төмен<s n="adv"/></l><r>aşağıya<s n="adv"/></r></p></e>
 <e><p><l>қатысты<s n="adv"/></l><r>nispeten<s n="adv"/></r></p></e>
@@ -5958,7 +5958,7 @@
      <e><p><l>кеш<s n="adv"/></l><r>geç<s n="adv"/></r></p></e>
      <e><p><l>әсте<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
      <e><p><l>мүлде<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
-     <e><p><l>тіпті<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
+     <e><p><l>тіпті<s n="adv"/></l><r>hatta<s n="adv"/></r></p></e>
      <e><p><l>ежелде<s n="adv"/></l><r>eskiden<s n="adv"/></r></p></e>
      <e><p><l>бұрын<s n="adv"/></l><r>peşinen<s n="adv"/></r></p></e>
      <e><p><l>еш<s n="adv"/></l><r>hiç<s n="adv"/></r></p></e>
@@ -6041,6 +6041,7 @@
 <e><p><l>сабала<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жүзеге<b/>асырыл<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
 
+<e><p><l>аңды<s n="v"/><s n="tv"/></l><r>plan<b/>yap<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>келтір<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>істе<s n="v"/><s n="tv"/></l><r>anlaş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>күшей<s n="v"/><s n="iv"/></l><r>şiddetlen<s n="v"/><s n="iv"/></r></p></e>
@@ -6124,6 +6125,7 @@
 <e><p><l>жерлен<s n="v"/><s n="iv"/></l><r>yerleş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>туында<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>түс<s n="v"/><s n="iv"/></l><r>düş<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>түс<s n="v"/><s n="iv"/></l><r>yararlan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жұмыс<b/>істе<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>гүлде<s n="v"/><s n="iv"/></l><r>çiçeklen<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жаулап<b/>ал<s n="v"/><s n="tv"/></l><r>kapla<s n="v"/><s n="tv"/></r></p></e>
@@ -6960,7 +6962,7 @@
 <e><p><l>елшілік<s n="n"/></l><r>elçilik<s n="n"/></r></p></e>
 <e><p><l>емхана<s n="n"/></l><r>hastane<s n="n"/></r></p></e>
 <e><p><l>ең<b/>басты<s n="adv"/></l><r>başlıca<s n="adv"/></r></p></e>
-<e><p><l>ен<s n="n"/></l><r>en<s n="n"/></r></p></e>
+
 <e><p><l>ән<s n="n"/></l><r>şarkı<s n="n"/></r></p></e>
 <e><p><l>ен<s n="v"/><s n="iv"/></l><r>in<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>енгіз<s n="v"/><s n="tv"/></l><r>ekle<s n="v"/><s n="tv"/></r></p></e>
@@ -7177,7 +7179,7 @@
 <e><p><l>қайғы<s n="n"/></l><r>üzüntü<s n="n"/></r></p></e>
 
 <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nereye<s n="adv"/><s n="itg"/></r></p></e>
-<e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>nerede<s n="adv"/><s n="itg"/></r></p></e>
+<e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>neye<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>қайшылық<s n="n"/></l><r>çelişki<s n="n"/></r></p></e>
 <e><p><l>қайырлы<s n="adj"/></l><r>hayırlı<s n="adj"/></r></p></e>
 

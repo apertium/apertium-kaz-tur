@@ -216,6 +216,7 @@
       <attr-item tags="aor.evid"/>
       <attr-item tags="ifi.evid"/>
 <attr-item tags="prog.evid"/>
+<attr-item tags="aor"/>
       <attr-item tags="dub.aor"/>
     </def-attr>
 
@@ -377,10 +378,10 @@
     <attr-item tags="px2pl"/>
     <attr-item tags="px3pl"/>
     <attr-item tags="px1sg"/>
-<attr-item tags="px2pl.frm"/>
-<attr-item tags="px2sg.frm"/>
+    <attr-item tags="px2pl.frm"/>
+    <attr-item tags="px2sg.frm"/>
     <attr-item tags="px2sg"/>
- <attr-item tags="px3sp"/>
+    <attr-item tags="px3sp"/>
   </def-attr>
 
 
@@ -681,7 +682,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-9" >
+<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!-- таба алмай жатыр -> bulamıyor -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux_prc_perf"/>
@@ -710,7 +711,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_impf+vaux-gna_perf-10" > <!--пайдалана отырып -> kullanıp-->
+<rule comment="REGLA: prc_impf+vaux-gna_perf-11" > <!--пайдалана отырып -> kullanıp-->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-gna_perf"/>
@@ -1007,15 +1008,9 @@
                  <let>
                     <clip pos="2" side="tl" part="poss_v"/>
                     <lit-tag v="px2pl"/>
-                  </let>
-             
+                  </let>            
 </when> 
-</choose>       
-          
-   
-
-        
-
+</choose>              
 <out>
      <chunk name="n" case="caseFirstWord">
           <tags>
