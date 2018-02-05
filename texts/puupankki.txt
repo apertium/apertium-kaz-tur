@@ -527,7 +527,7 @@
 
 # sent_id = akorda-random.tagged.txt:130:2321
 # text = Мұны бір компанияның атқаруы қиын.
-# text[tur] = Bunu bir şirketin ....?
+# text[tur] = Bunu bir şirketin kurması zor.
 
 # sent_id = akorda-random.tagged.txt:131:2334
 # text = - Жаңа тұжырымдама толыққанды және дер кезінде енгізілуі қажет.
@@ -563,7 +563,7 @@
 
 # sent_id = akorda-random.tagged.txt:139:2460
 # text = Бүгін Ақордада Мемлекет басшысы Нұрсұлтан Назарбаевтың төрағалығымен кеңес өтті.
-# text[tur] = 
+# text[tur] = Bugün Akorda'da Memleket başkanı Nursultan #Nazarbayev başkanlığıyla heyet geçti.
 
 # sent_id = akorda-random.tagged.txt:140:2481
 # text = Барлық министрлер Президент идеясымен келісті.
@@ -583,7 +583,7 @@
 
 # sent_id = akorda-random.tagged.txt:144:2553
 # text = Осы сектор субъектілерінің банкроттығының айқын тетіктерін енгізген жөн.
-# text[tur] = Şu sektor varlıklarının iflasının net mekanizma oluşturmaktadır.? 
+# text[tur] = Şu sektör konularının iflasının somut mekanizmalarını eklediği yön. 
 
 # sent_id = akorda-random.tagged.txt:145:2572
 # text = - Біз елеулі табыстарға қол жеткіздік.
@@ -619,7 +619,7 @@
 
 # sent_id = akorda-random.tagged.txt:153:2734
 # text = Қазақстан бизнесі соңғы уақытта Арменияға жіті назар аудара бастады.
-# text[tur] = Kazakistan iş sonra .....?
+# text[tur] = Kazakistan işi sonrakı vakitte Ermenistan'a sık tepki verdi.
 
 # sent_id = akorda-random.tagged.txt:154:2755
 # text = Бұл елдің тағдырымен бірге өсіп келе жатқан халықтық басылым.

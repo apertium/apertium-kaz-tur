@@ -314,12 +314,15 @@
      <e><p><l>оңтүстік<s n="n"/></l><r>güney<s n="n"/></r></p></e>
 <e><p><l>іш<s n="n"/></l><r>karın<s n="n"/></r></p></e>
 <e><p><l>тәуір<s n="n"/></l><r>hak<s n="n"/></r></p></e>
+
+<e><p><l>желеу<s n="n"/></l><r>motif<s n="n"/></r></p></e>
 <e><p><l>өріс<s n="n"/></l><r>otlak<s n="n"/></r></p></e>
 <e><p><l>гүлзар<s n="n"/></l><r>bulvar<s n="n"/></r></p></e>
 <e><p><l>дыбыс<s n="n"/></l><r>gürültü<s n="n"/></r></p></e>
 <e><p><l>ауа<b/>райы<s n="n"/></l><r>hava<s n="n"/></r></p></e>
 <e><p><l>жүзеге<b/>асыру<s n="n"/></l><r>gerçekleştirme<s n="n"/></r></p></e>
 <e><p><l>жең<s n="n"/></l><r>kol<s n="n"/></r></p></e>
+<e><p><l>тетік<s n="n"/></l><r>mekanizma<s n="n"/></r></p></e>
 <e><p><l>өрмек<s n="n"/></l><r>ağ<s n="n"/></r></p></e>
 <e><p><l>өрмек<s n="n"/></l><r>örümcek<s n="n"/></r></p></e>
 <e><p><l>қор<s n="n"/></l><r>sermaya<s n="n"/></r></p></e>
@@ -333,12 +336,12 @@
 <e><p><l>алқап<s n="n"/></l><r>tarla<s n="n"/></r></p></e>
 <e><p><l>мәрте<s n="n"/></l><r>kez<s n="n"/></r></p></e>
 <e><p><l>жүзімдік<s n="n"/></l><r>üzüm<b/>bağı<s n="n"/></r></p></e>
-
+<e><p><l>банкроттық<s n="n"/></l><r>iflas<s n="n"/></r></p></e>
 <e><p><l>Дума<s n="n"/></l><r>Duma<s n="n"/></r></p></e>
 <e><p><l>бие<s n="n"/></l><r>kısrak<s n="n"/></r></p></e>
 <e><p><l>жұртшылық<s n="n"/></l><r>halk<s n="n"/></r></p></e>
 <e><p><l>ауылшаруашылық<s n="adj"/></l><r>tarım<s n="adj"/></r></p></e>
-
+<e><p><l>назар<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
 <e><p><l>шама<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
 <e><p><l>төстік<s n="n"/></l><r>göğüs<s n="n"/></r></p></e>
 
@@ -1851,7 +1854,7 @@
      <e><p><l>мысал<s n="n"/></l><r>mesel<s n="n"/></r></p></e>
      <e><p><l>мысық<s n="n"/></l><r>kedi<s n="n"/></r></p></e>
      <e><p><l>нағашы<s n="n"/></l><r>dayı<s n="n"/></r></p></e>
-     <e><p><l>назар<s n="n"/></l><r>nazar<s n="n"/></r></p></e>
+     <e><p><l>назар<s n="n"/></l><r>ilgi<s n="n"/></r></p></e>
      <e><p><l>намаз<s n="n"/></l><r>namaz<s n="n"/></r></p></e>
      <e><p><l>намыс<s n="n"/></l><r>gurur<s n="n"/></r></p></e>
      <e><p><l>нан<s n="n"/></l><r>ekmek<s n="n"/></r></p></e>
@@ -5394,7 +5397,7 @@
 <e><p><l>кер<s n="adj"/></l><r>dişi<s n="adj"/></r></p></e>
 <e><p><l>археологиялық<s n="adj"/></l><r>arkeolojik<s n="adj"/></r></p></e>
 <e><p><l>астық<s n="adj"/></l><r>buğday<s n="n"/></r></p><par n="a1_a1"/></e>
-
+<e><p><l>демократиялық<s n="adj"/></l><r>demokratik<s n="adj"/></r></p></e>
 <e><p><l>дөңес<s n="adj"/></l><r>bombeli<s n="adj"/></r></p></e>
 <e><p><l>аш<s n="adj"/></l><r>ac<s n="adj"/></r></p></e>
 <e><p><l>хабарсыз<s n="adj"/></l><r>bilgisiz<s n="adj"/></r></p></e>
@@ -6047,7 +6050,7 @@
 <e><p><l>сайла<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>сабала<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жүзеге<b/>асырыл<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
-
+<e><p><l>таныт<s n="v"/><s n="tv"/></l><r>göster<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>аңды<s n="v"/><s n="tv"/></l><r>plan<b/>yap<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>келтір<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>істе<s n="v"/><s n="tv"/></l><r>anlaş<s n="v"/><s n="iv"/></r></p></e>
@@ -6924,7 +6927,7 @@
 <e><p><l>даму<s n="n"/></l><r>gelişim<s n="n"/></r></p></e>
 
 <e><p><l>даму<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>дамыт<s n="v"/><s n="tv"/></l><r>gelişim<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>дамыт<s n="v"/><s n="tv"/></l><r>geliş<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>дамы<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>дейін<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
@@ -7442,7 +7445,7 @@
 <e><p><l>нағыз<s n="adj"/></l><r>hakiki<s n="adj"/></r></p></e>
 <e><p><l>нағыз<s n="n"/></l><r>authentic<s n="n"/></r></p></e>
 <e><p><l>нағыз<s n="n"/><s n="attr"/></l><r>authentic <s n="n"/></r></p></e>
-<e><p><l>назар<b/>аудар<s n="v"/><s n="iv"/></l><r>tepki<b/>ver<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>назар<b/>аудар<s n="v"/><s n="tv"/></l><r>tepki<b/>ver<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>Хаменеи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Hamaney<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рафсанджани<s n="np"/><s n="cog"/><s n="mf"/></l><r>Rafsancani<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
