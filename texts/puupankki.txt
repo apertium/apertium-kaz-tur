@@ -631,7 +631,7 @@
 
 # sent_id = akorda-random.tagged.txt:156:2791
 # text = Екіжақты қарым-қатынастарды дамыту саласында көптеген жұмыстар атқарылды.
-# text[tur] = İki taraflı ilişkilerin gelişm branşında birçok işten çıkma yapıldı...?
+# text[tur] = Ikili temasları gelişme branşında birçok işler kuruldu.
 
 # sent_id = akorda-random.tagged.txt:157:2808
 # text = Қазақстан – табиғи ресурстар мен таланттарға аса бай ел.
@@ -659,7 +659,7 @@
 
 # sent_id = akorda-random.tagged.txt:163:2921
 # text = Және бұл жерде демократиялық желеуді алға тартудың реті келмейді.
-# text[tur] = Ve burada demokratik motifi teklifi iyi değil.....?
+# text[tur] = Ve bu yerde demokratik motifi #güvenilmez çekmenin süresi gelmez.
 
 # sent_id = akorda-random.tagged.txt:164:2942
 # text = – Халықтың әлеуметтік жағдайы ешқандай да нашарламайды.
@@ -959,7 +959,7 @@
 
 # sent_id = akorda-random.tagged.txt:238:4267
 # text = Ел-жұрттарыңыздың сіздерге артар сенімі үлкен, үміті зор.
-# text[tur] = Ülkenizin insnaları sizlere büyüyen inancı büyük, ümiti devasa...?
+# text[tur] = Ülke-insanlarının size yükselecek güveni büyük, ümiti büyük.
 
 # sent_id = akorda-random.tagged.txt:239:4286
 # text = Осы орайда, патриотизм табысқа жетелеуші қасиеттердің бірі болып табылады.
@@ -983,7 +983,7 @@
 
 # sent_id = akorda-random.tagged.txt:244:4373
 # text = Мемлекет басшысы Алматы қаласының бірқатар нысандарын аралап көрді.
-# text[tur] = Memleket başakanı Almatı şehrinin birçok nesenlerin...... ?
+# text[tur] = Memleket başkanı Almatı kentinin birkaç nesnelerini dolaşıp gördü.
 
 # sent_id = akorda-random.tagged.txt:245:4392
 # text = Ақтау теңіз сауда портының негізі 1963 жылдың қазан айында қаланған.
@@ -1111,7 +1111,7 @@
 
 # sent_id = akorda-random.tagged.txt:276:4924
 # text = Алқапта саңырауқұлақтар мен жеміс-жидектер өсіп жатыр.
-# text[tur] = 
+# text[tur] = Tarlada mantarlar ve meyve-böğürtlenler büyüyor.
 
 # sent_id = akorda-random.tagged.txt:277:4943
 # text = Азық-түлікке деген қажеттілік арта береді.
@@ -1135,7 +1135,7 @@
 
 # sent_id = akorda-random.tagged.txt:282:5032
 # text = Қазақстан Ұйымның белсенді мүшесі болып табылады.
-# text[tur] = Kazakistan kurulşnun aktif üyesi bulunur....?
+# text[tur] = Kazakistan organizasyonun aktif üyesi olur.
 
 # sent_id = akorda-random.tagged.txt:283:5047
 # text = Мемлекет жыл сайын 2 миллиард 300 миллион теңгеден астам қаржы бөледі.
@@ -1203,7 +1203,7 @@
 
 # sent_id = akorda-random.tagged.txt:299:5353
 # text = Жаппай тәртіпсіздік фактілері бойынша қылмыстық іс қозғалды.
-# text[tur] = ......?
+# text[tur] = Örtmeyip disiplinsizlik nitelikleri boyunca suçlu iş taşındı.
 
 # sent_id = akorda-random.tagged.txt:300:5370
 # text = Сіздерді Рождество жарқын мейрамымен шын жүректен құттықтаймын!
@@ -1330,8 +1330,8 @@
 # text[tur] = 5 polis memur yaralanmış.
 
 # sent_id = kdt.tagged.txt:1:0
-# text = Өскеменнің ар жағында, Бұқтырманың оң жағында әлемге аян Алтай бар.....?
-# text[tur] = Oskemenin ....?
+# text = Өскеменнің ар жағында, Бұқтырманың оң жағында әлемге аян Алтай бар.
+# text[tur] = Oskemen'in vicdan yönünde, Buktyrma'nın sağ yönünde evrene malum Altay var.
 
 # sent_id = kdt.tagged.txt:2:24
 # text = Аттан!
@@ -1343,7 +1343,7 @@
 
 # sent_id = kdt.tagged.txt:4:40
 # text = Қыз алып қашқан орыстар кім?
-# text[tur] = Kız muthiş kaçırmış ruslar kim?.....?
+# text[tur] = Kız alıp kaçan ruslar kim?
 
 # sent_id = kdt.tagged.txt:5:53
 # text = Бұларды қуам деп оққа ұшқан кім?
@@ -1392,7 +1392,7 @@
 
 # sent_id = kdt.tagged.txt:16:223
 # text = Патшамен соғыс ашқанда, ел-жұрт, отанымды қорғауға, біз соғысқа бардық.
-# text[tur] = Kralla savaş açmışta, tüm-insanlar,vatanımı korumaya, biz savaşa vardık.....?
+# text[tur] = Padişahla savaş açarak, ülke-dünya, mekanımı korumaya, biz savaşa gittik.
 
 # sent_id = kdt.tagged.txt:17:250
 # text = Анығында қазақ мемлекетке не пайда келтіріп отыр?
@@ -1440,7 +1440,7 @@
 
 # sent_id = kdt.tagged.txt:28:445
 # text = Оны айтып жүрген өзіміздің қойшылар.
-# text[tur] = Onu bahsedip gitmiş(bahsediyormuş) kendimizin çobanlar.....?
+# text[tur] = Onu söyledik kendimizin çobanlar.
 
 # sent_id = kdt.tagged.txt:29:458
 # text = Бірақ ұрлығымыз шығып қалды.
@@ -1500,7 +1500,7 @@
 
 # sent_id = kdt.tagged.txt:43:780
 # text = Бірақ енді қайта сүюге қызға ұмтылмады.
-# text[tur] = Fakat şimdi tekrar sevmye kıza sıkıştırmadı....?
+# text[tur] = Ama şimdi gene sevmeye kıza telaş etmedi.
 
 
 # sent_id = kdt.tagged.txt:44:795
@@ -1513,7 +1513,7 @@
 
 # sent_id = kdt.tagged.txt:46:831
 # text = Орыстар тұра ұмтылды.
-# text[tur] =Ruslar ....? 
+# text[tur] =Ruslar olarak telaş etti. 
 
 # sent_id = kdt.tagged.txt:47:840
 # text = Өлген жирен орысты көп солдат алып кетті.

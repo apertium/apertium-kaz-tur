@@ -78,6 +78,22 @@
     <match lemma="бөлме" tags="n.*"/>
     <match lemma="қара" tags="v.*"><select lemma="göster" tags="v.*"/></match>
   </rule>
+<rule>
+    <match lemma="төрағалық" tags="n.*"/>
+    <match lemma="кеңес" tags="n.*"><select lemma="toplantı" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match tags="np.top.*"/>
+    <match lemma="Ұйым" tags="n.*"><select lemma="organizasyon" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="арзан" tags="adj.*"/>
+    <match lemma="түс" tags="v.*"><select lemma="git" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match tags="np.top.*"/>
+    <match lemma="жылы" tags="adj"><select lemma="dostça" tags="adj"/></match>
+  </rule>
 
 
 </rules>
