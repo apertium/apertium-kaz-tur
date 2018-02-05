@@ -1785,7 +1785,7 @@
 
 # sent_id = kdt.tagged.txt:114:1835
 # text = — Енді қай жаққа барайын?..
-# text[tur] = Şimdi hangi borca ...?
+# text[tur] = — Şimdi hangi yöne gideyim?..
 
 # sent_id = kdt.tagged.txt:115:1852
 # text = Қасқыр одан жаман өршеленеді.
@@ -1793,7 +1793,7 @@
 
 # sent_id = kdt.tagged.txt:116:1863
 # text = Қасқыр күркілдейді...
-# text[tur] = Kurt ....?
+# text[tur] = Kurt gürler...
 
 # sent_id = kdt.tagged.txt:117:1870
 # text = Жалын қалай шықты, солай қасқырлардың қарасы өше берді.
@@ -1817,7 +1817,7 @@
 
 # sent_id = kdt.tagged.txt:122:1945
 # text = Асумен асып елге бара жатқан, елден мал, азық-түлік алып келе жатқан орыстарды талай көрген.
-# text[tur] = 
+# text[tur] = Yüzleşmeyle yüzleşip ülkeye gitmiş, ülkeden mal, gida getirdik rusları birçok görmüş.
 
 # sent_id = kdt.tagged.txt:123:1984
 # text = Оларға көзі түскенде күйінген, өкінген, жиренген, әйтеуір өзегін өртеген бір жаман сезім пайда болды.
