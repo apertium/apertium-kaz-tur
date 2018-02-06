@@ -33,6 +33,10 @@
 <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
+
+<def-cat n="vaux_gna_cond">
+      <cat-item tags="vaux.gna_cond.*"/>
+    </def-cat>
 <def-cat n="vaux-neg-ifi">
       <cat-item tags="vaux.neg.*"/>
     </def-cat>
@@ -349,6 +353,7 @@
 <attr-item tags="gna_ken"/>
      <attr-item tags="ger_past"/>
      <attr-item tags="gpr_past"/>
+     <attr-item tags="gna_cond"/>
      <attr-item tags="ger_inf"/>
      
     </def-attr>
@@ -363,6 +368,9 @@
     <attr-item tags="aor"/>
   </def-attr>
 
+<def-attr n="gn_cond">
+    <attr-item tags="gna_cond"/>
+  </def-attr>
 <def-attr n="prc_fp">
     <attr-item tags="prc_fplan"/>
   </def-attr>
@@ -731,6 +739,34 @@
           <clip pos="1" side="tl" part="whole"/>
 
           <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="gna_perf"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: prc_perf+vaux_gna_cond-10" > <!--оқып жатса -> okunsa -->
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux_gna_cond"/>
+      </pattern>
+      <action>
+ 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="gna_cond"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="gn_cond"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -1316,7 +1352,7 @@
     </rule>
     
     
-<rule comment="REGLA: prc_perf-25" > <!--деп қуып жүреді -> deyip kovalor-->
+<!--<rule comment="REGLA: prc_perf-25" > деп қуып жүреді -> deyip kovalor
       <pattern>
         <pattern-item n="prc_perf"/>
       </pattern>
@@ -1336,7 +1372,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule>-->
 
 <!--<rule comment="REGLA: prc_perf-26" >  қарай -> bakarak 
       <pattern>
