@@ -2049,7 +2049,7 @@
 
 # sent_id = kdt.tagged.txt:180:2878
 # text = Еліне тезірек қайтқысы келді.
-# text[tur] = eline ....?
+# text[tur] = Ülkesine çabuk dönmek istedi.
 
 # sent_id = kdt.tagged.txt:181:2889
 # text = Мен, міне, құдайдың жарық күнін көрдім, жазылдым.

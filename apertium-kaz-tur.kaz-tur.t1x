@@ -50,6 +50,9 @@
 <def-cat n="opt">
       <cat-item tags="v.*.opt.*"/>
     </def-cat>
+<def-cat n="vaux-past">
+      <cat-item tags="vaux.past.*"/>
+    </def-cat>
 
 <def-cat n="fut_plan">
       <cat-item tags="vaux.fut_plan.*"/>
@@ -233,7 +236,7 @@
       <attr-item tags="fut"/>
      <attr-item tags="past"/>
      <attr-item tags="aor"/> 
-<attr-item tags="pres"/>  
+     <attr-item tags="pres"/>  
     </def-attr>
 
 <def-attr n="neg">
@@ -953,6 +956,35 @@
           <clip pos="1" side="tl" part="whole"/>
 
           <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="ger"/><lit-tag v="dat"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: prc_perf+vaux-past-14" >
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux-past"/>
+      </pattern>
+      <action>
+
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="past"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="tenses"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -1692,7 +1724,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: fut-35" >
+<rule comment="REGLA: fut_plan-35" > <!-- болмақ -> olacak -->
        <pattern>
         <pattern-item n="f_plan"/>    
       </pattern>
