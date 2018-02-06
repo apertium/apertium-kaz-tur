@@ -54,6 +54,9 @@
 <def-cat n="fut_plan">
       <cat-item tags="vaux.fut_plan.*"/>
     </def-cat>
+<def-cat n="f_plan">
+      <cat-item tags="v.*.fut_plan.*"/>
+    </def-cat>
 
 <def-cat n="prc_vol">
       <cat-item tags="v.*.prc_vol.*"/>
@@ -270,6 +273,11 @@
 <def-attr n="a_gna">
      <attr-item tags="ger_past"/>
      <attr-item tags="gna_impf"/>
+   </def-attr>
+
+<def-attr n="v_fut">
+     <attr-item tags="fut_plan"/>
+     <attr-item tags="fut"/>
    </def-attr>
 
 <def-attr n="a_gpr">
@@ -1352,7 +1360,7 @@
     </rule>
     
     
-<!--<rule comment="REGLA: prc_perf-25" > деп қуып жүреді -> deyip kovalor
+<rule comment="REGLA: prc_perf-25" > <!--деп қуып жүреді -> deyip kovalor -->
       <pattern>
         <pattern-item n="prc_perf"/>
       </pattern>
@@ -1372,7 +1380,7 @@
           </chunk>
         </out>
       </action>
-    </rule>-->
+    </rule>
 
 <!--<rule comment="REGLA: prc_perf-26" >  қарай -> bakarak 
       <pattern>
@@ -1596,6 +1604,36 @@
       </action>
     </rule>
 
+<rule comment="REGLA: fut plan-33" >
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="fut_plan"/>
+      </pattern>
+      <action>
+
+<call-macro n="f_agr_formal1">
+         <with-param pos="1"/>
+      </call-macro> 
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="fut"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="REGLA: fplan-34" > <!--жақсара бермек -> gelişecek  there problem with this rule-->
       <pattern>
         <pattern-item n="prc_impf"/>
@@ -1636,6 +1674,36 @@
 <call-macro n="f_agr_formal1">
          <with-param pos="1"/>
       </call-macro>
+      
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: fut-35" >
+       <pattern>
+        <pattern-item n="f_plan"/>    
+      </pattern>
+<action>
+<call-macro n="f_agr_formal1">
+         <with-param pos="1"/>
+      </call-macro>
+<let>
+          <clip pos="1" side="tl" part="v_fut"/>
+          <lit-tag v="fut"/>
+        </let>
       
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
@@ -2033,6 +2101,9 @@
         <pattern-item n="yat_pres"/>
       </pattern>
       <action>
+<call-macro n="f_agr_formal1">
+         <with-param pos="2"/>
+      </call-macro>
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
 </let>
