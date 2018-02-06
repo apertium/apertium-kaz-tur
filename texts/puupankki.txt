@@ -1400,7 +1400,7 @@
 
 # sent_id = kdt.tagged.txt:18:267
 # text = Патша қазақты қара жұмысқа алам дегенде, қандай қорқып, абыржып, қиратылып қалды.
-# text[tur] = Kıral Kazaktı kara göreve kuralsizim.....?
+# text[tur] = Padişah kazakı siyah işe alacam diyerek, kanca korkup, ürküp, mahfetti.
 
 # sent_id = kdt.tagged.txt:19:298
 # text = Кім біледі, қолына қару берсе, орыс жұртына жау болып кетпесіне кімнің көзі жетеді?
@@ -1440,7 +1440,7 @@
 
 # sent_id = kdt.tagged.txt:28:445
 # text = Оны айтып жүрген өзіміздің қойшылар.
-# text[tur] = Onu söyledik kendimizin çobanlar.
+# text[tur] = Onu söylemiş kendimizin çobanlar.
 
 # sent_id = kdt.tagged.txt:29:458
 # text = Бірақ ұрлығымыз шығып қалды.
@@ -1521,7 +1521,7 @@
 
 # sent_id = kdt.tagged.txt:48:857
 # text = Бірақ төбелесіп өлтіріспей, алыстан атып өлтіріскеніне түсіне алмады.
-# text[tur] = Fakat dövüşüp öldürmeyip,  uzakta atıp öldümüşüne anlamadı....? 
+# text[tur] = Fakat dövüşüp öldürmeyip, uzaktan atıp katlederek anlayamadı. 
 
 # sent_id = kdt.tagged.txt:49:878
 # text = — Мына төре сені жақсы көрген.
@@ -1645,7 +1645,7 @@
 
 # sent_id = kdt.tagged.txt:79:1292
 # text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
-# text[tur] = 
+# text[tur] = Altınay malını süt verir, öküzü belirir, bağlar, yakıtını devşirir, odunu yakar, suyunu getirir, kül çıkarır, yemeğini eyler, kılığını #kendi diker, evini toplar, süpürür, avlusunu temizler.
 
 # sent_id = kdt.tagged.txt:80:1365
 # text = Мұның бәрі оған құдайдың бұйырған жұмысы тәрізді.
@@ -1677,7 +1677,7 @@
 
 # sent_id = kdt.tagged.txt:87:1468
 # text = Қазақтың сондай телмірген әдеті құрысын!
-# text[tur] = Kazakistan gibi adeti.....?
+# text[tur] = Kazağın şu başladığı geleneki yoketsin!
 
 # sent_id = kdt.tagged.txt:88:1481
 # text = Олар қайда?
@@ -1729,7 +1729,7 @@
 
 # sent_id = kdt.tagged.txt:100:1619
 # text = — Құдай оңдап елдің көзі бір ашылды...
-# text[tur] = Tanrı ülkenin gözü bir ....?
+# text[tur] = — Tanrı kutsayıp ülkenin gözü bir açıldı...
 
 # sent_id = kdt.tagged.txt:101:1636
 # text = Басқа бір дүниеге кіргендей болады...
@@ -1809,11 +1809,11 @@
 
 # sent_id = kdt.tagged.txt:120:1913
 # text = Қаш, маңыма жолама!
-# text[tur] = Kaçan, çevreme ....?
+# text[tur] = Kaçan, yürme gelme!
 
 # sent_id = kdt.tagged.txt:121:1924
 # text = Кімді ұрып жығатынын кім білсін, әйтеуір ала шықты.
-# text[tur] = 
+# text[tur] = kimdi yenenini kim bilsin, daima aldı. 
 
 # sent_id = kdt.tagged.txt:122:1945
 # text = Асумен асып елге бара жатқан, елден мал, азық-түлік алып келе жатқан орыстарды талай көрген.
@@ -1821,7 +1821,7 @@
 
 # sent_id = kdt.tagged.txt:123:1984
 # text = Оларға көзі түскенде күйінген, өкінген, жиренген, әйтеуір өзегін өртеген бір жаман сезім пайда болды.
-# text[tur] = 
+# text[tur] = Onlara gözü düşerek morelsiz, pişman olmuş, aşağılamış, daima ışınını yaktığı bir kötü his bulundu.
 
 # sent_id = kdt.tagged.txt:124:2021
 # text = Қарағысы келмеді, теріс айналды.
@@ -1937,7 +1937,7 @@
 
 # sent_id = kdt.tagged.txt:152:2410
 # text = Еркек, әйел деп айырмайды, бала біткенді "балақайым" дейді, кісіге өмірі қатты сөз айтпайды.
-# text[tur] = 
+# text[tur] = Erkek, kadın diyip ayırmaz, evlat biterek sihirli çocukum der, kişiye yaşamı hızlı söz söylemez.
 
 # sent_id = kdt.tagged.txt:153:2449
 # text = Ит біткен шулап артында жүреді.
@@ -2140,7 +2140,7 @@
 # text[tur] = Onun kadını kazak bulan.
 
 # sent_id = kdt.tagged.txt:203:3220
-# text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.
+# text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.   çevriçevir
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:204:3241

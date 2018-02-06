@@ -34,6 +34,8 @@
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
 
+
+
 <def-cat n="vaux_gna_cond">
       <cat-item tags="vaux.gna_cond.*"/>
     </def-cat>
@@ -253,8 +255,9 @@
       <attr-item tags="loc"/> 
     </def-attr>
 <def-attr n="acc">
-      <attr-item tags="acc"/> 
-    </def-attr>
+      <attr-item tags="acc"/>
+      </def-attr>
+
 <def-attr n="dat">
       <attr-item tags="dat"/> 
     </def-attr>
@@ -724,7 +727,7 @@
              <lit-tag v="abil"/>
               <clip pos="2" side="tl" part="neg"/>
               <clip pos="2" side="tl" part="tenses"/>
-              <!--<clip pos="2" side="tl" part="a_pers_nbr"/>-->
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
             </lu>
           </chunk>
         </out>
@@ -791,6 +794,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!--таба алмай жатыр -> bulamıyor --> 
       <pattern>
@@ -970,7 +975,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf+vaux-past-14" >
+<rule comment="REGLA: prc_perf+vaux-past-14" > <!-- ~ боп келген -> olmuş ~ -->
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-past"/>
