@@ -94,6 +94,11 @@
     <match tags="np.top.*"/>
     <match lemma="жылы" tags="adj"><select lemma="dostça" tags="adj"/></match>
   </rule>
+<rule>
+    <match lemma="жалаң аяқ" tags="adv"/>
+    <match lemma="бар" tags="v.*"><select lemma="al" tags="v.*"/></match>
+  </rule>
+
 
 
 </rules>

@@ -1968,7 +1968,7 @@
 # text[tur] = Büyük erkeğinin boynuna koskoca zirve ile binmeyi ayıp kördü.
 
 # sent_id = kdt.tagged.txt:160:2568
-# text = Кейбір қоралардың қасында қарауытқан мал көрінеді.
+# text = Кейбір қоралардың қасында қарауытқан мал көрінеді.  """"çeviri"""
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:161:2583

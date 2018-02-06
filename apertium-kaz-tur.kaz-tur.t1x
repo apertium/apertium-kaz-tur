@@ -408,6 +408,25 @@
 
 
     </def-macro>
+
+ <def-macro n="p_impf" npar="1">
+<choose>
+   <when>
+          <test>
+             <equal>
+                <clip pos="1" side="sl" part="prc_impf"/>
+                <lit-tag v="prc_impf"/>
+              </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="prc_impf"/>
+            <lit-tag v="gna_impf"/>
+          </let>
+        </when>
+</choose>
+
+
+    </def-macro>
     
   </section-def-macros>
   
@@ -621,7 +640,8 @@
         </out>
       </action>
     </rule>
-<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-10" > <!-- шыға алмай да тұр. -> çıkamıyor da -->
+
+<rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-8" > <!-- шыға алмай да тұр. -> çıkamıyor da -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux_prc_perf"/>
@@ -630,6 +650,10 @@
         
       </pattern>
       <action>
+
+<call-macro n="p_impf">
+         <with-param pos="1"/>
+      </call-macro>
  
 <let>
 <clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
@@ -640,18 +664,18 @@
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
-            <mlu>
+           
             <lu>
              <clip pos="1" side="tl" part="lem"/>
              <clip pos="1" side="tl" part="v_trans"/>
              <lit-tag v="abil"/>
               <clip pos="2" side="tl" part="neg"/>
-              <clip pos="2" side="tl" part="tenses"/>
-            </lu>
+              <lit-tag v="prog"/>
+            </lu> <b/>
              <lu>
          <clip pos="3" side="tl" part="whole"/>
            </lu>
-          </mlu>
+         
           </chunk>
         </out>
       </action>
@@ -659,7 +683,7 @@
 
 
 
-<rule comment="REGLA: neg-ifi-8" >  <!--ойнай алмады -> oynamadı--> 
+<rule comment="REGLA: neg-ifi-9" >  <!--ойнай алмады -> oynamadı--> 
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-neg-ifi"/>
@@ -693,7 +717,7 @@
 
 
 
-<rule comment="REGLA: prc_perf+vaux-gna_perf-9" >
+<rule comment="REGLA: prc_perf+vaux-gna_perf-10" >
       <pattern>
         <pattern-item n="prc_perf"/>
         <pattern-item n="vaux-gna_perf"/>
@@ -1314,7 +1338,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_perf-26" >  <!--қарай -> bakarak -->
+<!--<rule comment="REGLA: prc_perf-26" >  қарай -> bakarak 
       <pattern>
         <pattern-item n="prc_impf"/>
       </pattern>
@@ -1335,7 +1359,7 @@
           </chunk>
         </out>
       </action>
-    </rule> 
+    </rule> -->
     
     
 <rule comment="REGLA: impf-27" >
