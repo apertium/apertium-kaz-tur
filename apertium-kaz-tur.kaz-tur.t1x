@@ -176,6 +176,7 @@
 <cat-item lemma="е" tags="cop.neg.*"/>
 </def-cat>
 
+
 <def-cat n="cop-ger-past">
 <cat-item lemma="е" tags="cop.ger_past.*"/>
 </def-cat>
@@ -1092,6 +1093,7 @@
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-aor"/>
+        
       </pattern>
       <action>
 
@@ -1113,9 +1115,13 @@
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
+           
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+                
             </lu>
+           
+        
           </chunk>
         </out>
       </action>

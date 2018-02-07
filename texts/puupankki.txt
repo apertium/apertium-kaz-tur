@@ -1865,7 +1865,7 @@
 
 # sent_id = kdt.tagged.txt:134:2148
 # text = Қара шаттан қашып келе жатқаны лезде есіне түсе қалды.
-# text[tur] =  Kara sevinç ....?
+# text[tur] =kara koyaktan kaçıp geliyorduğu aniden hatırına düştü.
 
 # sent_id = kdt.tagged.txt:135:2169
 # text = Ағыны бұжырланып жатыр.
@@ -1953,7 +1953,7 @@
 
 # sent_id = kdt.tagged.txt:156:2484
 # text = Кейде жұрт намаз оқып жатса, дәрет алмастан жалаң аяқ барып, қатарға отыра кетеді.
-# text[tur] = 
+# text[tur] = Kei'de dünya namaz okusa, abdest almayacaktan yalınayak gidip, sıraya oturur.
 
 # sent_id = kdt.tagged.txt:157:2517
 # text = Бірталай жер жүрді.
@@ -1968,7 +1968,7 @@
 # text[tur] = Büyük erkeğinin boynuna koskoca zirve ile binmeyi ayıp kördü.
 
 # sent_id = kdt.tagged.txt:160:2568
-# text = Кейбір қоралардың қасында қарауытқан мал көрінеді.  """"çeviri"""
+# text = Кейбір қоралардың қасында қарауытқан мал көрінеді.  
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:161:2583
@@ -2029,7 +2029,8 @@
 
 # sent_id = kdt.tagged.txt:175:2767
 # text = "Кәпірді" құшақтаған арам қолымды қайтіп әкемнің адал дастарқанына апарып, қайтіп бір табақтан ас ішермін?
-# text[tur] = 
+# text[tur] = Imansızı kucakladığı arım kolumu dönüp babamın helal sofrasına taşıyıp, dönüp bir leğenden aş içeceğim?
+
 
 # sent_id = kdt.tagged.txt:176:2804
 # text = Менің күйеуім ше?
@@ -2091,7 +2092,7 @@
 # text = Оны естімедім.
 # text[tur] = Onu işitmedim.
 
-# sent_id = kdt.tagged.txt:191:3025
+# sent_id = kdt.tagged.txt:191:3025 "çeviri2018"
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
 # text[tur] = 
 
@@ -2140,7 +2141,7 @@
 # text[tur] = Onun kadını kazak bulan.
 
 # sent_id = kdt.tagged.txt:203:3220
-# text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.   çevriçevir
+# text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.   
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:204:3241
@@ -2241,7 +2242,7 @@
 
 # sent_id = kdt.tagged.txt:228:3639
 # text = (Әлдеқашан жіберіліп қойған арыз екенімен жұмысы жоқ).
-# text[tur] =(Zaten gönderilmiş şikayet ekimiyle  çalışma yok)....?
+# text[tur] =(Çoktan gönderilip koyduğu şikayet olduğuyla işi yok).
 
 # sent_id = kdt.tagged.txt:229:3660
 # text = — Е, ол арасы оңай.
@@ -2305,7 +2306,7 @@
 
 # sent_id = kdt.tagged.txt:244:3923
 # text = Алайда партияға кірген жолдастарымен пікірі, қызметі, ымы-жымы бір еді.
-# text[tur] = 
+# text[tur] = Alay'da partiye girdiği yoldaşlarıyla fikiri, hizmeti, hareketi-izi birdi.
 
 # sent_id = kdt.tagged.txt:245:3948
 # text = — Иә, естідім, жақсы болыпты, — деді.
@@ -2313,7 +2314,7 @@
 
 # sent_id = kdt.tagged.txt:246:3971
 # text = Мойындағы бір ауыр міндетті атқарғандай, өмірдің бір мақсаты сол шылымда тұрғандай сонша ықыласын қойғаны Бекболатқа жат көрінеді.
-# text[tur] = 
+# text[tur] = Boyundaki bir acıyalım görevi kurarak, yaşamın bir maksatı şu sigarada oldukça şu arzusunu koyarak Bekbolat'a koyak görülür.
 
 # sent_id = kdt.tagged.txt:247:4010
 # text = — Қалай, Төлеген?
@@ -2321,11 +2322,11 @@
 
 # sent_id = kdt.tagged.txt:248:4021
 # text = Бұл келген төрт жігіттің бірі қошқар туған қозыдай келбетті, бітімді Ақбала еді.
-# text[tur] = 
+# text[tur] = Bu gelmiş dört yiğitin biri koç doğduğu kuzuca ihtişamı, ateşkesi Akbala'dı
 
 # sent_id = kdt.tagged.txt:249:4052
 # text = Әңгіменің көбі жалақы, пәтер, отын, темекі — қысқасы, күн-көріс жайынан болды.
-# text[tur] = 
+# text[tur] = Öykünün çoku maaş, daire, odunu, sigara — kısası, gün-görelim yerinden oldu.
 
 # sent_id = kdt.tagged.txt:250:4085
 # text = Міне, мұндай нәрселерді білуге Ақбала құмар еді.
@@ -2373,7 +2374,7 @@
 
 # sent_id = kdt.tagged.txt:261:4206
 # text = — Кішкене "боз жорға" еді, — деп Төлеген сыпайы қонағына қарап, жымиды.
-# text[tur] = 
+# text[tur] = — Küçük solgun eşkinli attı, — diyip Tolegen kibarca misafirine bakıp, gülümsedi.
 
 # sent_id = kdt.tagged.txt:262:4241
 # text = Алдында тұрған стақанды ұсынып: — Бұ жарықтықты әуре қылмай құйшы, қарағым! — деді.
@@ -2385,7 +2386,7 @@
 
 # sent_id = kdt.tagged.txt:264:4296
 # text = Арақ ішілген сайын, күлкі көбейіп, мәжіліс қызуға айналды.
-# text[tur] = Votka 
+# text[tur] = Rakı içildiği kadar, kahkaha artıp, oturum germeye döndü. 
 
 # sent_id = kdt.tagged.txt:265:4319
 # text = Ақбала губерния жұмысын үш есе арттыра мақтап, өздері тындырып жатқан болды.
@@ -2429,7 +2430,7 @@
 
 # sent_id = kdt.tagged.txt:275:4497
 # text = Бұл айтысты есітіп отырған Бекболаттың кімдікі дұрыс, кімдікі теріс екеніне ақылы жете алмады.
-# text[tur] = 
+# text[tur] = Bu tartışmayı söyledik Bekbolat'ın kimiki doğru, kimiki olumsuz olduğuna haklı ulaşamadı.
 
 # sent_id = kdt.tagged.txt:276:4530
 # text = Одан өзгесін артық керек қылмады.
@@ -2465,7 +2466,7 @@
 
 # sent_id = kdt.tagged.txt:284:4670
 # text = Дауыстарды санау басталғаннан кейін сайлаушылар (таңдаушылар) тізімдеріне өзгерістер енгізуге тыйым салынады.
-# text[tur] = 
+# text[tur] = Sesleri sayma başlayarak sonra seçmenler (#seç) listelerine dönüşümler eklemeye yasaklanır.
 
 # sent_id = kdt.tagged.txt:285:4699
 # text = Сенат депутаттарын сайлау кезінде таңдаушылардың тізімдері жасалады.
@@ -2473,7 +2474,7 @@
 
 # sent_id = kdt.tagged.txt:286:4716
 # text = Нақтылы сайлау учаскесінде азаматты сайлаушылар тізіміне енгізу үшін оның осы сайлау учаскесінің аумағында тұрғылықты жері бойынша тіркелу фактісі негіз болады.
-# text[tur] = 
+# text[tur] = Somutlu seçme temelinde sivili seçmenler listesine ekleme için onun şu seçme temelinin alanında kadim yeri boyunca takılma niteliği esas olur.
 
 # sent_id = kdt.tagged.txt:287:4759
 # text = Сайлаушылар тізімі әліпби тәртібімен немесе өзге тәртіппен жасалады.
@@ -2481,7 +2482,7 @@
 
 # sent_id = kdt.tagged.txt:288:4778
 # text = Сайлаушылардың тұрғылықты жері бойынша тізімін тиісті жергілікті атқарушы орган халықты есепке алуды жүзеге асыратын органдар ұсынған мәліметтердің негізінде жасайды.
-# text[tur] = 
+# text[tur] = Seçmenlerin kadim yeri boyunca listesini gelmeliyi yerel kurucu kitle halkı skora almayı uygulayacak organlar önerdiği bilgilerin esasında yapar.
 
 # sent_id = Радиан.tagged.txt:1:0
 # text = Радианның басқа да бірліктермен байланысы.
@@ -2499,7 +2500,7 @@
 # text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
 # text[tur] = 
 
-# sent_id = udhr.tagged.txt:3:59
+# sent_id = udhr.tagged.txt:3:59  ***çeviriburda2018***
 # text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.
 # text[tur] = 
 

@@ -74,6 +74,11 @@
     <match lemma="жақсы" tags="adv"/>
     <match lemma="түс" tags="v.*"><select lemma="yararlan" tags="v.*"/></match>
   </rule>
+
+<rule>
+    <match lemma="қанша" tags="det.*"/>
+    <match lemma="ат" tags="n.*"><select lemma="at" tags="n.*"/></match>
+  </rule>
 <rule>
     <match lemma="бөлме" tags="n.*"/>
     <match lemma="қара" tags="v.*"><select lemma="göster" tags="v.*"/></match>
@@ -93,6 +98,15 @@
 <rule>
     <match tags="np.top.*"/>
     <match lemma="жылы" tags="adj"><select lemma="dostça" tags="adj"/></match>
+  </rule>
+
+<rule>
+    <match lemma="ар-ождан" tags="n.*"/>
+    <match lemma="бер" tags="v.*"><select lemma="fariğ ol" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="атқар" tags="v.*"/>
+    <match lemma="орган" tags="n.*"><select lemma="kitle" tags="n.*"/></match>
   </rule>
 <rule>
     <match lemma="жалаң аяқ" tags="adv"/>
