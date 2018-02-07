@@ -104,13 +104,24 @@
     <match lemma="ар-ождан" tags="n.*"/>
     <match lemma="бер" tags="v.*"><select lemma="fariğ ol" tags="v.*"/></match>
   </rule>
+
 <rule>
     <match lemma="атқар" tags="v.*"/>
     <match lemma="орган" tags="n.*"><select lemma="kitle" tags="n.*"/></match>
   </rule>
+
+
+<rule>
+    <match lemma="әңгіме" tags="n.*"/>
+    <match lemma="аяқ" tags="n.*"><select lemma="son" tags="n.*"/></match>
+  </rule>
 <rule>
     <match lemma="жалаң аяқ" tags="adv"/>
     <match lemma="бар" tags="v.*"><select lemma="al" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="айнал" tags="v.*"/>
+    <match lemma="соқ" tags="v.*"><select lemma="bırak" tags="v.*"/></match>
   </rule>
 
 

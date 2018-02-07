@@ -1969,11 +1969,11 @@
 
 # sent_id = kdt.tagged.txt:160:2568
 # text = Кейбір қоралардың қасында қарауытқан мал көрінеді.  
-# text[tur] = 
+# text[tur] = Birkaç avluların yanında kararmış mal görülür.
 
 # sent_id = kdt.tagged.txt:161:2583
 # text = Оның оң жағындағы кішірек қорадан бір көлеңке қараңдап сол үйге таман кетіп барады.
-# text[tur] = 
+# text[tur] = Onun sağ yönündeki #küçük avludan bir gölge karartıp şu eve kadar gidip gider.
 
 # sent_id = kdt.tagged.txt:162:2612
 # text = "Не бетіммен барам" деген ой келді.
@@ -2042,7 +2042,7 @@
 
 # sent_id = kdt.tagged.txt:178:2826
 # text = Мыналарды көргенде өзі жазылған соң, Бекболат: "ауру қалай жазылмасын?" — деп ойлады.
-# text[tur] = 
+# text[tur] = Bunları görerek kendi yazıldığı sonra, Bekbolat: dert(hastalık) nasıl yazsın? — diyip sandı.
 
 # sent_id = kdt.tagged.txt:179:2863
 # text = Бекболат сыртқы есікті ашып тысқа шықты.
@@ -2094,7 +2094,7 @@
 
 # sent_id = kdt.tagged.txt:191:3025 
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
-# text[tur] = 
+# text[tur] = Bekbolat'ın sormaları artıp, öykünün sonu uzattığına sezip, ülke kazakı bir karıştırıp bırakacağım, — anlaşmam vardı diyip, oldu.
 
 # sent_id = kdt.tagged.txt:192:3080
 # text = Ақтардың өзін кеше кешке әкелді.
@@ -2142,7 +2142,7 @@
 
 # sent_id = kdt.tagged.txt:203:3220
 # text = Алдыңғы жылы Семейге барып оқып, мұғалім боп келген.   
-# text[tur] = 
+# text[tur] = önceki yıl Semey'e gidip okuyup, hoca olmuş.
 
 # sent_id = kdt.tagged.txt:204:3241
 # text = Бақша күзететін шал бұ не деп жетіп барса, екеуі екі жаққа қаша жөнеледі.
@@ -2322,7 +2322,7 @@
 
 # sent_id = kdt.tagged.txt:248:4021
 # text = Бұл келген төрт жігіттің бірі қошқар туған қозыдай келбетті, бітімді Ақбала еді.
-# text[tur] = Bu gelmiş dört yiğitin biri koç doğduğu kuzuca ihtişamı, ateşkesi Akbala'dı
+# text[tur] = Bu gelen dört yiğitin biri koç doğduğu kuzuca ihtişamı, görkemli Akbala'dı.
 
 # sent_id = kdt.tagged.txt:249:4052
 # text = Әңгіменің көбі жалақы, пәтер, отын, темекі — қысқасы, күн-көріс жайынан болды.
@@ -2390,7 +2390,7 @@
 
 # sent_id = kdt.tagged.txt:265:4319
 # text = Ақбала губерния жұмысын үш есе арттыра мақтап, өздері тындырып жатқан болды.
-# text[tur] = 
+# text[tur] = Akbala vilayet işini üç kes artırarak övünüp, kendileri bitirdik oldu.
 
 # sent_id = kdt.tagged.txt:266:4346
 # text = Ауылдан кісі қатынасатын кезі болса керек еді.
@@ -2462,7 +2462,7 @@
 
 # sent_id = kdt.tagged.txt:283:4641
 # text = Төлегеннен гөрі бұл өтімді, тартымды, білімді, беделді, алғыр еді.
-# text[tur] = Ödendikten
+# text[tur] = Tolegen bu etkili, cazibeli, bilimi, saygın, hünerliydi.
 
 # sent_id = kdt.tagged.txt:284:4670
 # text = Дауыстарды санау басталғаннан кейін сайлаушылар (таңдаушылар) тізімдеріне өзгерістер енгізуге тыйым салынады.
@@ -2498,7 +2498,7 @@
 
 # sent_id = udhr.tagged.txt:2:26
 # text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
-# text[tur] = 
+# text[tur] = Adamlar'a akıl-zihin, vicdan fariğ olunmuş, sonra onlar bir-biriyle doğuştuk, bağlantılı temas yapmaları gelmeli.
 
 # sent_id = udhr.tagged.txt:3:59  ***çeviriburda2018***
 # text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.
