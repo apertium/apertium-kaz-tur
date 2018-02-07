@@ -125,6 +125,9 @@
 <def-cat n="pih">
       <cat-item tags="v.*.pih.*"/>
     </def-cat>
+<def-cat n="vaux-pih">
+      <cat-item tags="vaux.pih.*"/>
+    </def-cat>
 
 <def-cat n="cop">
       <cat-item  tags="cop.*"/>
@@ -1038,6 +1041,32 @@
 <rule comment="REGLA: pih-16" > <!--болатын -> olmuş-->
       <pattern>
         <pattern-item n="pih"/>
+      </pattern>
+      <action>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="ger_pabs"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><lit-tag v="ger_pabs"/><lit-tag v="nom"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: pih-16" > <!--сойып беретін. -> kesmiş-->
+      <pattern>
+        <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux-pih"/>
       </pattern>
       <action>
 <let>
