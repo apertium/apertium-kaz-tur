@@ -2092,7 +2092,7 @@
 # text = Оны естімедім.
 # text[tur] = Onu işitmedim.
 
-# sent_id = kdt.tagged.txt:191:3025 "çeviri2018"
+# sent_id = kdt.tagged.txt:191:3025 
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
 # text[tur] = 
 
@@ -2206,7 +2206,7 @@
 
 # sent_id = kdt.tagged.txt:219:3490
 # text = Кім алғанын білмеймін, бір кісі қосып берейік, өздерің кісі жібер, солар жисын деп сұранған.
-# text[tur] = 
+# text[tur] = Kim aldığını bilmem, bir kişi katalım, kendiniz kişi gönderelim, şunlar toplasın diyip yalvarmış.
 
 # sent_id = kdt.tagged.txt:220:3527
 # text = — Рас.
