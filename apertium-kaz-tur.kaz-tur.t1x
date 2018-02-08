@@ -30,6 +30,10 @@
       <cat-item tags="v.*.fut.*"/>
     </def-cat>
 
+ <def-cat n="vaux-fut">
+      <cat-item tags="vaux.*.fut.*"/>
+    </def-cat>
+
 <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
     </def-cat>
@@ -40,7 +44,7 @@
       <cat-item tags="vaux.gna_cond.*"/>
     </def-cat>
 <def-cat n="vaux-neg-ifi">
-      <cat-item tags="vaux.neg.*"/>
+      <cat-item tags="vaux.*.ifi.*"/>
     </def-cat>
 
     
@@ -1814,6 +1818,35 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: prc_impf+vaux-fut" > <!-- кіре алмас -> girmeyecek -->
+       <pattern>
+        <pattern-item n="prc_impf"/> 
+        <pattern-item n="vaux-fut"/>   
+      </pattern>
+<action>
+
+
+      <let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="fut"/>
+</let>
+        
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="v_trans"/>
+              <clip pos="2" side="tl" part="neg"/>
+              <clip pos="2" side="tl" part="tenses"/>
+             
             </lu>
           </chunk>
         </out>
