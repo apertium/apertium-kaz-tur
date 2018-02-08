@@ -2500,7 +2500,7 @@
 # text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
 # text[tur] = Adamlar'a akıl-zihin, vicdan fariğ olunmuş, sonra onlar bir-biriyle doğuştuk, bağlantılı temas yapmaları gelmeli.
 
-# sent_id = udhr.tagged.txt:3:59  ***çeviriburda2018***
+# sent_id = udhr.tagged.txt:3:59 
 # text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.
 # text[tur] = 
 
@@ -2534,7 +2534,7 @@
 
 # sent_id = udhr.tagged.txt:11:423
 # text = Барлық адам осы Декларацияның ережелерін бұзатын кемсітуден және кемсітуге арандатушылықтың барлық түрінен тең қорғалуға құқылы.
-# text[tur] = 
+# text[tur] = Tüm adam şu Deklarasyonun kaidelerini bozacak küçültmeden ve küçültmeye kışkırtmanın bütün şutundan denk korunmaya #haklı.
 
 # sent_id = udhr.tagged.txt:12:456
 # text = Ешкім де негізсіз тұтқындалуға, қамауда ұсталуға немесе қуғынға ұшыратылуға тиіс емес.
@@ -2542,7 +2542,7 @@
 
 # sent_id = udhr.tagged.txt:13:483
 # text = Ешкім де жасаған әрекеті немесе әрекетсіздігі негізінде, егер ол әрекеті ұлттық заңдар мен халықаралық құқық бойынша қылмыс болып саналмаса, жауапқа тартылмайды.
-# text[tur] = 
+# text[tur] =Keçim da yaptığı gayreti ya harketsizliki esasında, eğer o gayreti ulusal yasalar ben uluslararası yetki boyunca suç dikkate almasa, yanıta çekilmez. 
 
 # sent_id = udhr.tagged.txt:14:531
 # text = Әр адамның азаматтыққа құқығы бар.
@@ -2559,7 +2559,7 @@
 
 # sent_id = udhr.tagged.txt:17:594
 # text = Отбасы қоғамның табиғи және негізгі ұясы болып табылады, және қоғам мен мемлекет тарапынан қорғалуға құқылы.
-# text[tur] = 
+# text[tur] = Aile kurulun doğal ve başlıca yuvası olur, ve kurul ve memleket tarafından korunmaya #haklı.
 
 # sent_id = udhr.tagged.txt:18:629
 # text = Ешкім де өз мүлкінен еріксіз айрылмауға тиіс.
@@ -2820,7 +2820,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:18:435
 # text = Қазаққа күзетші болайын деп, біз де ел болып, жұрт білгенді біліп, жұрт қатарына қосылудың қамын жейік деп ниеттеніп үйрену керек.
-# text[tur] = 
+# text[tur] =Kazaka koruyalım  olayım diyip, biz da ülke olup, dünya bilerek bilip, dünya sırasına katılmanın gamını yiyelim diyip kurup öğrenme gerek. 
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:19:483
 # text = Қазірде орыстан оқыған балалардан артық жақсы кісі шыға алмай да тұр.
@@ -2853,7 +2853,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:26:673
 # text = Осындай жаман сөзді, Құдайдан қорықпай, пендеден ұялмай айтқан қазақтардың баласы оқығанменен не бола қойсын?
-# text[tur] = 
+# text[tur] = Şu kötü sözü, Tanrıdan korkmayıp, insandan utanmayıp söylediği kazakların evlatı okuyarak ne olarak koysun?
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:27:708
 # text = Сонда да өзге қазақ балаларынан артық үйренгені немене, қай кеп үйреніпті?
@@ -2865,11 +2865,11 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:29:763
 # text = Әкесі ел ақшасыменен оқығанға әрең оқытады, өз малын не қылып шығарсын?
-# text[tur] =Babası  
+# text[tur] =Babası ülke parasıyla okuyarak zar zor okur, kendi malını ne yapıp çıkarsın?  
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:30:790
 # text = Турасын ойлағанда, балаңа қатын әперме, енші берме, барыңды салсаң да, орыстың ғылымын үйрет!
-# text[tur] = 
+# text[tur] = Doğrusunu sanarak, evlatına kadın gösterelim, en  gidelim, barını yapsan da, rusun ilimini öğretelim!
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:31:826
 # text = Мына мен айтқан жол — мал аяр жол емес.
@@ -2881,11 +2881,11 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:33:880
 # text = Әйтпесе, бір ит қазақ болып қалған соң, саған рақат көрсетер, өзі рақат көрер ме, яки жұртқа рақат көрсетер?
-# text[tur] = Yoksa, bir köpek kazak olmuş son
+# text[tur] = Yoksa , bir it kazak olduk sonra, sana kötülük gösterecek, #kendi kötülük görecek mı, veya dünyaya kötülük gösterecek?
 
-# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:1:0
+# sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:1:0  
 # text = Футболдан әлем чемпионаты 2014 — ФИФА-ның 20-шы футболдан әлем чемпионаты, финалдық кезеңі 2014 жылдың 12 маусым мен 13 шілде күндері аралығында Бразилияда өтті.
-# text[tur] = 
+# text[tur] = Futboldan dünya şampiyonası 2014 — FIFA'nın 20'inci futboldan dünya şampiyonası, final aşaması 2014 yılın 12 Haziran ben 13 Temmuz günleri aralıkında Brezilya'da oldu.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:2:50
 # text = Ашылу матчы Сан-Паулуда, ал финалы Рио-де-Жанейродағы Маракана стадионында орын алды.
@@ -2905,7 +2905,7 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:6:167
 # text = Енді 2018 жылдың чемпионатын өткізу құқығына қатысатын кандидаттар додасына, соңғы екі чемпионатты (КАФ және КОНМЕБОЛ) өткізген елдерден басқа, барлық конфедерациялардан елдер сынға түседі.
-# text[tur] = 
+# text[tur] = Evren şampiyonaları için kıtaları *ротациялау teorisine #bağlı, 2014 yılın şampiyonası Güney Amerika'da geçme gerek oldu ve Brezilya şu şampiyonayı yönetmeye niyet bildirdiği yalnız  ülkeydi.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:7:224
 # text = Бразилия өз жерінде чемпионатты екі рет өткізген бесінші ел болды (Мексика, Италия, Франция және Германиядан кейін).
@@ -3094,7 +3094,7 @@
 
 # sent_id = Иран.tagged.txt:40:1037
 # text = Иран аумағы ұзақ жылдар бойы Аббас әулеті билеген Бағдад халифаты құрамында болып, мәдени және экономикалық дамуды басынан кешірді.
-# text[tur] = 
+# text[tur] = Iran alanı uzak yıllar boyunca Abbas hanedanı yönettiği Bağdat hilafeti kapsamında olup, medeni ve ekonomik gelişmeyi başından üzür diledi.
 
 # sent_id = Иран.tagged.txt:41:1078
 # text = 9 — 10 ғасырларда елде Араб халифатына шартты түрде ғана тәуелді болған әмірліктер құрылды.
@@ -3146,7 +3146,7 @@
 
 # sent_id = Иран.tagged.txt:53:1508
 # text = Ұсақ халықтар (ауғандар, түрікмендер, Әзірбайжандар, күрдтер, армян, грузиндер) орталықтың езгісіне қарсы жиі-жиі көтеріліс жасап тұрды.
-# text[tur] = 
+# text[tur] = Küçük halklar (Afganlar, Türkmenler/türkmenler, Azerbaycanlar, kürtler, Ermeni, gürcüceler) kökenin zülülmüne karşı sık-sık isyan yaptı.
 
 # sent_id = Иран.tagged.txt:54:1555
 # text = Әсіресе, 18 ғасырдың 2-жартысында елдегі үстемдік үшін екі әулеттің (Зенд және Каджар) арасындағы үздіксіз соғыс халықты әбден қалжыратты.
@@ -3170,7 +3170,7 @@
 
 # sent_id = Иран.tagged.txt:59:1708
 # text = 1901 ж. ағылшындар Иран мұнайын шығаруға рұқсат алып, 1909 ж. бірлескен ағылшын-парсы мұнай компаниясы құрылды.
-# text[tur] = 
+# text[tur] = 1901 yıl biyolojiler İran benzinini çıkarmaya icazet alıp, 1909 yıl karşılıklı biyoloji-acem benzin şirketi yapıldı.
 
 # sent_id = Иран.tagged.txt:60:1747
 # text = Елдің солтүстігіне Ресей, оңтүстігіне Ұлыбритания қожалық ете бастады.
@@ -3259,7 +3259,7 @@
 
 # sent_id = Иран.tagged.txt:81:2316
 # text = Елде шет ел капиталының үстемдік алуы, ұлттық құндылықтардың аяққа басылуы 1978 — 79 ж. халықтың шаһ үкіметіне қарсы жаппай бас көтеруіне алып келді.
-# text[tur] = 
+# text[tur] = Ülkede dışarı ülke anaparasının üstünlük alması, ulusal değerlerin buta basılması 1978 — 79 yıl halkın şah hükümetine karşı tüm baş kalkmasına getirdi.
 
 # sent_id = Иран.tagged.txt:82:2367
 # text = Оны елдегі шиит дінбасылары басқарды.
@@ -3267,7 +3267,7 @@
 
 # sent_id = Иран.tagged.txt:83:2380
 # text = 1979 ж. 11 ақпанда болған революция нәтижесінде шаһ үкіметі құлап, 1 сәуірден бастап Иран Ислам Республикасы жарияланды.
-# text[tur] = 
+# text[tur] = 1979 yıl 11 Şubat'ta olduğu inkılap neticesinde şah hükümeti düşüp, 1 Nisan'dan başlayıp İran Islam Cumhuriyeti yayınlandı.
 
 # sent_id = Иран.tagged.txt:84:2419
 # text = Үкімет басына шиит дінбасыларының көсемі аятолла Р. Хомейни келді.
@@ -3275,7 +3275,8 @@
 
 # sent_id = Иран.tagged.txt:85:2440
 # text = Саяси партияларға тыйым салынды, шаһ үкіметі жойылды, Батыстың иелігіндегі барлық компаниялар мүлкі мемлекет меншігіне алынды, ел СЕАТО блогынан шығып, Блоктарға қосылмау қозғалысына мүше болып енді.
-# text[tur] = 
+# text[tur] = Siyasi partilere yasaklandı, şah hükümeti çevirildi, Batının mülkiyetindeki bütün şirketler mülkü memleket malikanesine alındı, ülke *СЕАТО #blog çıkıp, Blog tutacağa katılmama hareketine üye olup indi.
+
 
 # sent_id = Иран.tagged.txt:86:2501
 # text = 1980 – 1990 ж. болған Иран — Ирак соғысы ел экономикасына өте ауыр (700 млрд. АҚШ долларынан астам) зардаптар әкелді.
@@ -3332,7 +3333,8 @@
 
 # sent_id = Иран.tagged.txt:99:2861
 # text = Негізгі сауда серіктестері: Германия, Жапония, Ұлыбритания, Италия, араб елдері, Түркия, Қазақстанмен дипломатиялық және экономикалық байланыс 1992 ж. орнады.
-# text[tur] = 
+# text[tur] = Benzinden başka ihracata birkaç endüstri ürünleri, tarımı üretimleri, halı, halk tüketim ürünleri çıkarılır.
+
 
 # sent_id = Иран.tagged.txt:100:2914
 # text = Қазақстан Президенті Нұрсұлтан Назарбаев екі рет (1992; 1996) Иранда болып қайтты.
@@ -3354,7 +3356,7 @@
 # text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.
 # text[tur] = Iran edebiyatının iyleşan anı — 13 — 14 asırlar.
 
-# sent_id = Иран.tagged.txt:105:3068
+# sent_id = Иран.tagged.txt:105:3068  
 # text = Иран революциясы (1905 — 11) және азаматтық қозғалыс (1918 — 21) кезінде А. Фарахани, М. Кермани, М. Т. Бехар, т.б. ақындар демократиялық идеяның жыршысы болды.
 # text[tur] = 
 
@@ -3368,7 +3370,8 @@
 
 # sent_id = Иран.tagged.txt:108:3204
 # text = Сасани әулеті дәуірінде (3 — 7 ғасырлар) қалаларды қорған ішіне жүйелі жоба бойынша салу қанат жайды (мыс., Нишапур қаласы шахмат жүйесімен салынған).
-# text[tur] = 
+# text[tur] = Sasani hanedanı devrinde/devirinde (3 — 7 asırlar) kentleri kurgan içine sistemli proje boyunca yapma kanat yaydı (mis., Nişabur kenti #satranç sistemiyle yapıldığı).
+
 
 # sent_id = Иран.tagged.txt:109:3261
 # text = Мүсін жасау, жартастарға рельеф қашау елеулі орын алды.
@@ -3433,7 +3436,7 @@
 
 # sent_id = Иран.tagged.txt:124:3672
 # text = Театр өнерінің негізі халықтық салт-дәстүрлерде жатыр.
-# text[tur] = Tiyatro sanatının tamamıyla millet gelenek-göreneklerde #+i.
+# text[tur] = Tiyatro sanatının tamamıyla millet gelenek-göreneklerde.
 
 # sent_id = Иран.tagged.txt:125:3691
 # text = Ежелгі базигер театры жайлы деректер сақталған.
@@ -3555,7 +3558,7 @@
 
 # sent_id = wikipedia.tagged.txt:13:204
 # text = Жауапты хатшы өзінің қызметін жүзеге асырған кезде Қазақстан Республикасының Президентіне, Премьер-Министрге, Министрге есеп береді.
-# text[tur] = 
+# text[tur] = Yanıtı mail  #kendi hizmetini uyguladığı anda Kazakistan Cumhuriyetinin Başkanına, Başbakana, Bakana skor verir.
 
 # sent_id = wikipedia.tagged.txt:14:239
 # text = Жауыңнан бұрын қимылда-жеріңе жамандық келмейді.
@@ -3563,7 +3566,7 @@
 
 # sent_id = wikipedia.tagged.txt:15:256
 # text = Жер бедері маңында Юра тау жүйесінің болуымен анықталады.
-# text[tur] = 
+# text[tur] = Yer kabartması yöresinde Jura dağ sisteminin olmasıyla tanımlanır.
 
 # sent_id = wikipedia.tagged.txt:16:275
 # text = Жер бетінде мұндай ормандар қалмайды.
@@ -3598,12 +3601,12 @@
 # text[tur] = Herhangi türünden ilaç almaya oluyor.
 
 # sent_id = wikipedia.tagged.txt:24:396
-# text = Композитордың аты Санкт-Петербург консерваториясының кіші залына берілді.
-# text[tur] = 
+# text = Композитордың аты Санкт-Петербург консерваториясының кіші залына берілді. 
+# text[tur] = Bestecinin adı Petersburg konservatuvarının aşağı holuna verildi.
 
-# sent_id = wikipedia.tagged.txt:25:413
+# sent_id = wikipedia.tagged.txt:25:413 ****çeviriburda 
 # text = КСРО Ғылым Академиясының әлем әдебиеті институтында әдебиет теориясы бойынша филология ғылымының кандидаты дәрежесіне диссертация қорғады.
-# text[tur] = 
+# text[tur] = SSCB Ilim Akademisinin evren edebiyatı enstitüsünde edebiyat teorisi boyunca filoloji iliminin adayı derecesine tez savundu.
 
 # sent_id = wikipedia.tagged.txt:26:446
 # text = КСРО Мемлекеттік сыйлығына (1952) ие болды.
@@ -3733,7 +3736,7 @@
 
 # sent_id = wikipedia.tagged.txt:57:935
 # text = Сонымен қатар монғол шапқыншылығы Қазақстанның және көрші аймақтардың этностық құрамына едәуір өзгерістер енгізді, этностық шекараларды өзгертті.
-# text[tur] = 
+# text[tur] = Şununla dizi moğol baskını Kazakistan'ın ve komşu bölgelerin etnik kapsamına ziyadesiyle dönüşümler ekledi, etnik sınırları değişti.
 
 # sent_id = wikipedia.tagged.txt:58:972
 # text = Сот билігі сот ісін жүргізудің заңмен белгіленген түрінде жүзеге асырылады.
@@ -3977,7 +3980,7 @@
 
 # sent_id = story.tagged.txt:34:596
 # text = Ол Азаматтың қайда екенін білсе де айтқысы келген жоқ.
-# text[tur] = 
+# text[tur] = O Azamat'ın nerede olduğunu bilse da söylemek istemedi.
 
 # sent_id = story.tagged.txt:35:614
 # text = Айгүл бақшаның ішінде ақырын басып жүр.
@@ -3993,7 +3996,7 @@
 
 # sent_id = story.tagged.txt:38:671
 # text = Ол барлық жерді қарап жүр, бірақ Азаматты таба алмай жатыр.
-# text[tur] = O bütün yeri seyrediyor, ama Azamat'ı #bul #al #+i.
+# text[tur] = O bütün yeri bakıyor, ama Azamat'ı bulamıyor.
 
 # sent_id = story.tagged.txt:39:696
 # text = Одан кейін ол бір дыбысты естиді, ол дыбыс ескі үлкен ағаштың артынан шығып жатыр.
@@ -4002,7 +4005,7 @@
 
 # sent_id = story.tagged.txt:40:729
 # text = Мүмкін бұл Азамат шығар?
-# text[tur] = Muhtemel bu Azamat @шығар?
+# text[tur] = Belki bu Azamat ?
 
 # sent_id = story.tagged.txt:41:739
 # text = Ол дыбыс қайта естіледі!
@@ -4059,7 +4062,7 @@
 
 # sent_id = Шымкент.tagged.txt:5:103
 # text = Бірқатар археолог-ғалымдардың пікірлері бойынша, бұл жерде үлкен қорым болған, егер бұл расталса, онда қаланың пайда болған мерзімі қайта қаралуы мүмкін.
-# text[tur] = 
+# text[tur] = Birkaç arkeolog-alimlerin zanları boyunca, bu yerde büyük mülküm olmuş, eğer bu doğrulanılsa, onda kentin bulunduğu mevsimi tekrar incelenmesi makul. 
 
 # sent_id = Шымкент.tagged.txt:6:156
 # text = Қандай болғанда да, қала ескі заманнан-ақ адамдардың өмір сүруіне қолайлы мекен болған.
@@ -4068,14 +4071,14 @@
 
 # sent_id = Шымкент.tagged.txt:7:185
 # text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.   
-
+# text[tur] = Ona ilke4 konutlara yönetildiği arkeolojik fosil işleri anında bulunduğu kültür mirasları delil olur.
 # sent_id = Шымкент.tagged.txt:8:216
 # text = Тау етегінде өзен бойындағы алқаптарда егіншілік пен жүзімдік, ал көгалды таулы жайылымдарда-мал шаруашылығы дамыған.
 # text[tur] = Dağ etekinde dere boyundaki tarlalarda toprağı sürme ve üzüm bağı, alalım çimeni dağlık otlaklarda-hayvancılık gelişmiş.
 
 # sent_id = Шымкент.tagged.txt:9:253
 # text = 1914 жылы Қазақстанның Ресей империясына қосылуының 50 жылдығына орай қалаға орыс генералы Черняевтің есімі берілді, бірақ 1921 жылы қала Шымкент атауына қайта ие болды.
-# text[tur] = 
+# text[tur] = 1914 yılı Kazakistan'ın Rusya imparatorluğuna/İmparatorluğuna katılmasının 50 senelikine fırsat kente rus generalı #Çernyaev ismi verildi, ama 1921 yılı kent Çimkent çağırmasına gene sahip oldu. 
 
 # sent_id = Шымкент.tagged.txt:10:306
 # text = XX ғасырда қала тарихының жаңа кезеңі басталды.
