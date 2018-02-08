@@ -133,6 +133,20 @@
   </rule>
 
 <rule>
+    <match lemma="Әр" tags="det.*"/>
+    <match lemma="адам" tags="n.*"><select lemma="insan" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="мұрша" tags="n.*"/>
+    <match lemma="Тұр" tags="v.*"><select lemma="dur" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="Жер" tags="n.*"/>
+    <match lemma="бедер" tags="n.*"><select lemma="topoğrafya" tags="n.*"/></match>
+  </rule>
+
+
+<rule>
     <match lemma="мұрша" tags="n.*"/>
     <match lemma="Тұр" tags="v.*"><select lemma="haber sal" tags="v.*"/></match>
   </rule>

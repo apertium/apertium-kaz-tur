@@ -2502,7 +2502,7 @@
 
 # sent_id = udhr.tagged.txt:3:59 
 # text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.
-# text[tur] = 
+# text[tur] = Her insan, yarışına, şut-uykusuna, eşeyine, diline, dinine, siyasi ya başka da imanım-inançlarına, ulusal, ya sosyal kökenine, #mülküyet, #grup üyeliği, ya başka da durumlara rağmen şu Deklarasyonda yayınlandığı bütün yetkiler ve beraatlara duyguya kapılmayıp, birce denk sahip olması gerekli.
 
 # sent_id = udhr.tagged.txt:4:156
 # text = Сонымен қатар, ешкім де өзі тұратын елінің, не болмаса территорияның саяси, құқықтық, немесе халықаралық мәртебесінің негізі бойынша, және де ол территория тәуелсіз, әлде біреудің қарамағында, әлде өзін-өзі басқарушы емес, немесе оның егемендігі әртүрлі нысанда шектеулі болған күннің өзінде де, алаланбауы тиіс.
@@ -2522,7 +2522,7 @@
 
 # sent_id = udhr.tagged.txt:8:331
 # text = Ешкім де азапталуға немесе қадір-қасиетін қорлайтындай адамшылыққа жатпайтын қатыгездік жолмен жәбірленуге, немесе жазалануға тиіс емес.
-# text[tur] = 
+# text[tur] = hiç kimse da çarpıtılmaya ya saygı-hasiyetini aşağılayacakça insaniyete durmuş zalimlik yolla yansız olmaya, ya cezalandırılmaya gerekli değil.
 
 # sent_id = udhr.tagged.txt:9:365
 # text = Әр адам қай жерде жүрсе де, құқықтық субъектісі ретінде танылуына құқылы.
@@ -2755,7 +2755,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:2:31
 # text = Аның үшін бұл жер Дар-әл-Харб, мұнда әуел мал табу керек, онан соң ғараб, парсы керек.
-# text[tur] = 
+# text[tur] = Herkesin dilini sanatını bildiği kişi şununla kimlik acil talepine girer, pek kurtlanarak yalvarmaz.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:3:70
 # text = Қарны аш кісінің көңіліне ақыл, бойында ар, ғылымға құмарлық қайдан тұрсын?
@@ -2800,7 +2800,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:13:303
 # text = Жорғалықпенен көңілін алсам екен деген надан әке-шешесін, ағайын-жұртын, дінін адамшылығын жаурыннан бір қаққанға сатады.
-# text[tur] = 
+# text[tur] = Rahvanla iradesini alsam imiş dediği cahil baba-annesini, akrabasını, dinini insaniyetini skapuladan bir döverek satar.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:14:336
 # text = Тек майырдың күлгені керек деп, көзі ашылса да қам жемейді.
@@ -2849,7 +2849,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:25:614
 # text = Және де кейбір қазақтар ағайынымен араздасқанда: “Сенің осы зорлығыңа көнгенше, баламды солдатқа беріп, басыма шаш, аузыма мұрт қойып кетпесем бе!” деуші еді.
-# text[tur] = 
+# text[tur] = Ve da birkaç kazaklar akrabasıyla saygısızlaşarak: “Senin şu şiddetine #alış, evlatımı askere verip, başıma kıl, ağızıma bıyık koyup gitmesem mı” #de.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:26:673
 # text = Осындай жаман сөзді, Құдайдан қорықпай, пендеден ұялмай айтқан қазақтардың баласы оқығанменен не бола қойсын?
@@ -2893,7 +2893,7 @@
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:3:75
 # text = Әлем чемпионаттары үшін құрлықтарды ротациялау қағидасына байланысты, 2014 жылдың чемпионаты Оңтүстік Америкада өту керек болды және Бразилия сол чемпионатты өткізуге ниет білдірген жалғыз ғана ел еді.
-# text[tur] = 
+# text[tur] = Evren şampiyonaları için kıtaları dönme teorisine #bağlı, 2014 yılın şampiyonası Güney Amerika'da geçme gerek oldu ve Brezilya şu şampiyonayı yönetmeye niyet bildirdiği yalnız  ülkeydi.
 
 # sent_id = Футболдан_әлем_чемпионаты_2014.tagged.txt:4:131
 # text = Қалған оңтүстік америкалық елдер 2003 жылы Бразилия үміткерлігін қолдаған.
@@ -2983,7 +2983,7 @@
 
 # sent_id = Иран.tagged.txt:13:324
 # text = Жоғарғы заң шығарушы орган — бір палаталы парламент — Ислам кеңесі жиналысы (меджлис) 4 жыл сайын сайланып отыратын 290 депутаттан тұрады.
-# text[tur] = 
+# text[tur] =En üste yasa çıkarıcı kitle — bir odalı parlamento — Islam heyeti meclisi (meclis) 4 her yıl seçilip  290 milletvekilden olur. 
 
 # sent_id = Иран.tagged.txt:14:374
 # text = 1981 жылғы конституциясы бойынша, елде саяси және діни емес ұйымдарға тыйым салынған.
@@ -3003,7 +3003,7 @@
 
 # sent_id = Иран.tagged.txt:18:467
 # text = Шет жақтарында Солтүстік Иран (Эльбурс), Оңтүстік Иран (Загрос, Мекран), Шығыс Иран (Серхед, Пеленган, Боран, Келат) таулары, ортасында Кухруд жотасы, Деште-Кевир, Деште-Лух шөлдері орналасқан.
-# text[tur] = 
+# text[tur] = Dışarı yönlerinde Kuzey İran (Elburz), Güney İran (Zagros, Mekran), Doğu İran (Serhed, Pelengan, Boran, Kelat) dağları, ortasında Kuhrud peşi, Deşt-i Kevir, Deşti Luh çölleri konaklamış.
 
 # sent_id = Иран.tagged.txt:19:546
 # text = Солтүстік-батысын Оңтүстік Каспий және Кура-Аракс ойпаттары, солтүстік-шығысын Горган жазығы, оңтүстігін — Гермезир шөлі алып жатыр.
@@ -3106,7 +3106,7 @@
 
 # sent_id = Иран.tagged.txt:43:1131
 # text = Сондай әмірліктердің бірі Самани әулеті биліктен кеткеннен кейін Шығыс Иран Ауғанстанмен және Орта Азияның бір бөлігімен бірге түркі текті Ғазнауи әулеті билеген мемлекеттің құрамына кірді.
-# text[tur] = 
+# text[tur] = Şu emirliklerin biri Samanid hanedanı yetkiden gittikten sonra Doğu İran Afganistan'la ve Orta Asya'nın bir bölgesiyle bire türki kökeni Gaznahit hanedanı yönettiği memleketin kapsamına girdi.
 
 # sent_id = Иран.tagged.txt:44:1185
 # text = 11 ғасырда Иранға түрік-оғыздар (салжұқ) басып кіре бастады.
@@ -3118,7 +3118,7 @@
 
 # sent_id = Иран.tagged.txt:46:1251
 # text = 12 ғасырда салжұқтар бірнеше сұлтандыққа бөлініп кетті де, осы ғасырдың аяғына таман бүкіл Иранды түркі қыпшақ тайпасынан шыққан Хорезм шаһы Текеш басып алды.
-# text[tur] = 
+# text[tur] = 12 asırda selcuklar #birkaç sultana bölündü da, şu alimin sonuna kadar tüm İran'ı türki kipçak boyundan çıktık Harezm şahı Tekeş işgal etti.
 
 # sent_id = Иран.tagged.txt:47:1301
 # text = 1220 — 56 ж. Иранды Шыңғыс хан әулеті жаулап алды.
@@ -3134,11 +3134,11 @@
 
 # sent_id = Иран.tagged.txt:50:1391
 # text = Әмір Темір өлгеннен кейін Шығыс Иран Темір әулетінің билігінде қалып, Батыс Иранда Қарақойлы мемлекеті құрылды.
-# text[tur] = 
+# text[tur] = Emir Demir ölerek sonra Doğu İran Demir hanedanının yetkisinde kalıp, Batı İran'da Karakoily memleketi yapıldı.
 
 # sent_id = Иран.tagged.txt:51:1426
 # text = 16 ғасырда Кіші Азиядан шыққан түркі тайпалары (қызылбастар) Иранға басып кіріп, 1501 — 1610 ж. елді толығымен бағындырып, Сефеви әулеті мемлекетін құрды.
-# text[tur] = 
+# text[tur] = 16 asırda Aşağı Asya'dan çıktık türki boyları (acemler) İran'a basıp, 1501 — 1610 yıl ülkeyi riyakar fethetip, Safevi hanedanı memleketini yaptı.
 
 # sent_id = Иран.tagged.txt:52:1481
 # text = 17 — 18 ғасырларда Иранның экономикасы құлдырап, халықтың жағдайы нашарлап кетті. 
@@ -3391,7 +3391,8 @@
 
 # sent_id = Иран.tagged.txt:113:3369
 # text = 16 — 17 ғасырларда пайда болған Тебриз, Шираз, Исфаһан (Риза Аббаси, т.б.) мектептері миниатюра өнерін жоғары дәрежеге көтерді.
-# text[tur] = 
+# text[tur] = 16 — 17 asırlarda bulunduğu Tebriz, Şiraz, İsfahan (Mutlu Abbasi, *т.*б.) okulları minyatür sanatını yüksek dereceye götürdü.
+
 
 # sent_id = Иран.tagged.txt:114:3418
 # text = 18 — 19 ғасырларда еуропалық өнердің ықпалымен сулы және майлы бояумен орындалған алғашқы туындылар өмірге келді.
@@ -3420,7 +3421,7 @@
 
 # sent_id = Иран.tagged.txt:120:3560
 # text = Иран музыкасы, негізінен, монодиялық (бір дауысты) түрде кездеседі.
-# text[tur] = 
+# text[tur] = Iran müziki, esasından, tek ses (bir sesi) şutta yönelir.
 
 # sent_id = Иран.tagged.txt:121:3587
 # text = Арабтар жаулап алғаннан кейін Иран музыкасына мұсылмандық араб мәдениетінің ықпалы тиді.
@@ -3452,7 +3453,7 @@
 
 # sent_id = Иран.tagged.txt:128:3746
 # text = 17 — 18 ғасырларда ол трагедиялық мистерия түрлерінің бірі — тазийенің негізін қалады.
-# text[tur] = 
+# text[tur] = 17 — 18 asırlarda o trajik esrar şutlarının biri — İran tiyatrosunun esasını kurar.
 
 # sent_id = Иран.tagged.txt:129:3775
 # text = 20 ғасырдың 30-жылдарына дейін кезбе актерлер — масқарапаздар өнер көрсетіп келді.
@@ -3497,7 +3498,7 @@
 
 # sent_id = Иран.tagged.txt:139:4035
 # text = 1960 — 1970 ж. музыкалық комедияларға, шағын драмаларға, мифтік және тарихи сюжеттерге құрылған фильмдер қойылды.
-# text[tur] = 
+# text[tur] = 1960 — 1970 yıl müzikal komedyalara, küçük dramlara, efsane ve tarihi arsalara yapıldığı filmler koyuldu.
 
 # sent_id = Иран.tagged.txt:140:4072                                                                           
 # text = Тегеранда 1955 жылдан халықаралық, 1970 жылдан ұлттық кинофестивальдер өткізіліп тұрады.
@@ -3505,7 +3506,7 @@
 
 # sent_id = Иран.tagged.txt:141:4097
 # text = Иран кинематографиясының дамуына реж. И. Кушан, М. Мисагие, Мохтасем, М. Мохсени, С. Ясеми, Ш. Рафия елеулі үлес қосты.
-# text[tur] = 
+# text[tur] = Iran sinematografisinin gelişmesine sahne yönetmeni. Eğelim. Kuşan, M. Miysagiye, Moktasam, M. Mohseniy, S. Yasemiy, Ş. Rafya farkedilir faiz kattı.
 
 # sent_id = wikipedia.tagged.txt:1:0
 # text = Абонемент бөлімі кітаптар мен журналдарды үйге тегін береді.
@@ -3566,7 +3567,7 @@
 
 # sent_id = wikipedia.tagged.txt:15:256
 # text = Жер бедері маңында Юра тау жүйесінің болуымен анықталады.
-# text[tur] = Yer kabartması yöresinde Jura dağ sisteminin olmasıyla tanımlanır.
+# text[tur] = Yer topoğrafyası yöresinde Jura dağ sisteminin olmasıyla tanımlanır.
 
 # sent_id = wikipedia.tagged.txt:16:275
 # text = Жер бетінде мұндай ормандар қалмайды.
@@ -3772,7 +3773,7 @@
 
 # sent_id = wikipedia.tagged.txt:66:1090
 # text = Түбін бөлу және тұқымы арқылы көбейтеді.
-# text[tur] = 
+# text[tur] = Yayılmasını bölme ve tohumu boyunca artar.
 
 # sent_id = wikipedia.tagged.txt:67:1105
 # text = Украина статистикасы мәліметтері бойынша алынды.
@@ -4170,7 +4171,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:15:237
 # text = Тұруға мұршасы келмей жатқан шал шаңыраққа қараса, шаңырақтың күлдіреуішінде керулі тұрған кер биенің төстігі көзіне түседі.
-# text[tur] = 
+# text[tur] = Durmaya iktidarı gelmedik düşürelim yurda bakışarak, yurdun ölüm tehlikesi işaretisinde gergin durduk dişi kısrakın göğüsü gözüne düşer.
 
 # sent_id = Ер_Төстік.tagged.txt:16:274
 # text = Ерназар қуанып, есі шығады.
