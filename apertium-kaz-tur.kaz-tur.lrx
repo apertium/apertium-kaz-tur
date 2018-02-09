@@ -32,6 +32,11 @@
     <match lemma="тіл" tags="n.*"/>
     <match lemma="жүр" tags="v.*"><select lemma="yürü" tags="v.*"/></match>
   </rule>
+
+<rule>
+    <match lemma="бет" tags="n.*"/>
+    <match lemma="ал" tags="v.*"><select lemma="çık" tags="v.*"/></match>
+  </rule>
 <rule>
     <match lemma="ұста" tags="v.*"/>
     <match lemma="ат" tags="n.*"><select lemma="at" tags="n.*"/></match>
@@ -143,6 +148,11 @@
 <rule>
     <match lemma="Жер" tags="n.*"/>
     <match lemma="бедер" tags="n.*"><select lemma="topoğrafya" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match tags="np.top.*"/>
+    <match lemma="бет" tags="n.*"><select lemma="karşı" tags="n.*"/></match>
   </rule>
 
 

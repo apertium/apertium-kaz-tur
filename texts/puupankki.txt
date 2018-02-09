@@ -2755,7 +2755,7 @@
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:2:31
 # text = Аның үшін бұл жер Дар-әл-Харб, мұнда әуел мал табу керек, онан соң ғараб, парсы керек.
-# text[tur] = Herkesin dilini sanatını bildiği kişi şununla kimlik acil talepine girer, pek kurtlanarak yalvarmaz.
+# text[tur] = Onun için bu yer Dar-al-Harb, burda önce mal bulma gerek, ondan sonra arap/Arap, acem gerek.
 
 # sent_id = Жиырма_Бесінші_Сөз.tagged.txt:3:70
 # text = Қарны аш кісінің көңіліне ақыл, бойында ар, ғылымға құмарлық қайдан тұрсын?

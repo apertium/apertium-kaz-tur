@@ -159,6 +159,7 @@
 <e><p><l>яки<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
 <e><p><l>мейлі<s n="ij"/></l><r>herneyse<s n="cnjcoo"/></r></p></e>
 <e><p><l>ләкин<s n="cnjcoo"/></l><r>lakin<s n="cnjcoo"/></r></p></e>
+<e><p><l>ал<s n="cnjcoo"/></l><r>sırasında<s n="cnjcoo"/></r></p></e>
      <!-- SECTION: Postpositions -->
      <e><p><l>лы<s n="post"/></l><r>lı<s n="post"/></r></p></e>
      <e><p><l>сыз<s n="post"/></l><r>siz<s n="post"/></r></p></e>
@@ -917,9 +918,9 @@
      
     
      <e><p><l>белгі<s n="n"/></l><r>sinyal<s n="n"/></r></p></e>
-     <e><p><l>бет<s n="n"/></l><r>bet<s n="n"/></r></p></e>
+     <e><p><l>бет<s n="n"/></l><r>karşı<s n="n"/></r></p></e>
      <e><p><l>бет<s n="n"/></l><r>sayfa<s n="n"/></r></p></e>
-     <e><p><l>бет<s n="n"/></l><r>yüz<s n="n"/></r></p></e>
+    
      <e><p><l>би<s n="n"/></l><r>dans<s n="n"/></r></p></e>
      <e><p><l>бидай<s n="n"/></l><r>buğday<s n="n"/></r></p></e>
      <e><p><l>биіктік<s n="n"/></l><r>irtifa<s n="n"/></r></p></e>
@@ -4514,6 +4515,8 @@
 
 <e><p><l>Ғазнауи<s n="np"/><s n="top"/></l><r>Gaznahit<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Загрос<s n="np"/><s n="top"/></l><r>Zagros<s n="np"/><s n="top"/></r></p></e>
+
+<e><p><l>Дар-әл-Харб<s n="np"/><s n="top"/></l><r>Dar-al-Harb<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Серхед<s n="np"/><s n="top"/></l><r>Serhed<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Пеленган<s n="np"/><s n="top"/></l><r>Pelengan<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Санкт-Петербург<s n="np"/><s n="top"/></l><r>Petersburg<s n="np"/><s n="top"/></r></p></e>
@@ -6520,6 +6523,7 @@
 <e><p><l>ая<s n="v"/><s n="tv"/></l><r>ayır<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>айрыл<s n="v"/><s n="tv"/></l><r>kaybetme<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>ал<s n="v"/><s n="tv"/></l><r>edin<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ал<s n="v"/><s n="tv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жолық<s n="v"/><s n="tv"/></l><r>çık<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>тыңда<s n="v"/><s n="tv"/></l><r>dinle<s n="v"/><s n="tv"/></r></p></e>
 
@@ -7003,7 +7007,7 @@
 <e><p><l>Михайлов<s n="np"/><s n="cog"/><s n="m"/></l><r>Mihaylov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>ақша<s n="n"/></l><r>para<s n="n"/></r></p></e>
 <e><p><l>Төлеген<s n="np"/><s n="ant"/><s n="m"/></l><r>Tolegen<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>ал<s n="v"/><s n="tv"/><s n="p1"/><s n="pl"/></l><r>al<s n="v"/><s n="tv"/><s n="p1"/><s n="pl"/></r></p></e>
+
 <e><p><l>Алай<s n="np"/><s n="ant"/><s n="m"/></l><r>Alay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Алай<s n="np"/><s n="top"/></l><r>Alay<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>алайда<s n="cnjadv"/></l><r>ancak<s n="cnjadv"/></r></p></e>

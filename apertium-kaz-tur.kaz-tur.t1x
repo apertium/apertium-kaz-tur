@@ -153,6 +153,9 @@
 <def-cat n="gpr_impf_subst">
       <cat-item tags="v.*.gpr_impf.*"/>
     </def-cat>
+<def-cat n="v-ger">
+      <cat-item tags="v.*.ger.*"/>
+    </def-cat>
    
 <def-cat n="gpr_impf">
       <cat-item tags="v.*.gpr_impf.*"/>
@@ -311,6 +314,11 @@
 
 <def-attr n="a_ger">
      <attr-item tags="ger_obs"/>
+     <attr-item tags="ger_inf"/>
+   </def-attr>
+
+<def-attr n="inf_ger">
+     <attr-item tags="ger"/>
      <attr-item tags="ger_inf"/>
    </def-attr>
 <def-attr n="a_perf">
@@ -653,6 +661,34 @@
         
           <let>
           <clip pos="1" side="tl" part="a_ger"/>
+         <lit-tag v="ger_inf"/>
+        </let>
+
+       
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: ger-7" > <!--табу -> bulmak --> 
+      <pattern>
+        <pattern-item n="v-ger"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="inf_ger"/>
          <lit-tag v="ger_inf"/>
         </let>
 
@@ -1824,7 +1860,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: prc_impf+vaux-fut" > <!-- кіре алмас -> girmeyecek -->
+<rule comment="REGLA: prc_impf+vaux-fut" > <!-- |кіре алмас| -> |girmeyecek| -->
        <pattern>
         <pattern-item n="prc_impf"/> 
         <pattern-item n="vaux-fut"/>   
