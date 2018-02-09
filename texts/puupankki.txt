@@ -3126,7 +3126,7 @@
 
 # sent_id = Иран.tagged.txt:48:1324
 # text = Олар елде Хулагу әулетіне қарайтын ильхандар мемлекетін құрды.
-# text[tur] = 
+# text[tur] = Onlar ülkede Hulagu hanedanına bakacak Ilikhandar memleketini yaptı.
 
 # sent_id = Иран.tagged.txt:49:1343
 # text = 14 ғасырдың 30-жылдары ильхандар мемлекеті бірнеше иелікке бөлініп кетті де, 1380 — 93 ж. Иранды Әмір Темір әскерлері басып алды.
@@ -3429,7 +3429,7 @@
 
 # sent_id = Иран.tagged.txt:122:3612
 # text = 9 ғасырдан бастап сарай өнері дамып, халық арасында мутребтердің (әнші-бишілер) даңқы жойылды.
-# text[tur] = 
+# text[tur] = 9 asırdan başlayıp saray sanatı gelişip, halk arısında şarkıcı-dansçıların (şarkıcı-dansçılar) şanı çevirildi.
 
 # sent_id = Иран.tagged.txt:123:3645
 # text = 19 ғасырдың 2-жартысынан Иран музыкасына еуропалық музыка мәдениеті әсер етті.
@@ -3441,7 +3441,7 @@
 
 # sent_id = Иран.tagged.txt:125:3691
 # text = Ежелгі базигер театры жайлы деректер сақталған.
-# text[tur] = Ilkel *базигер(persion word) tiyatrosu koşulu  veriler korunmuş.....????should translate again
+# text[tur] = Ilkel tiyatro tiyatrosu yerli bilgiler korunmuş.
 
 # sent_id = Иран.tagged.txt:126:3706
 # text = Пантомима, көлеңке және қуыршақ театрлары болған.
@@ -3449,7 +3449,7 @@
 
 # sent_id = Иран.tagged.txt:127:3723
 # text = 10 ғасырда пайда болған мистерия діни ғұрып шахсей-вахсейдің құрамына енді.
-# text[tur] = 
+# text[tur] = 10 asırda bulunduğu esrar dini gelenek aşure-gününün kapsamına indi.
 
 # sent_id = Иран.tagged.txt:128:3746
 # text = 17 — 18 ғасырларда ол трагедиялық мистерия түрлерінің бірі — тазийенің негізін қалады.
@@ -3829,7 +3829,7 @@
 
 # sent_id = Өлген_қазан.tagged.txt:6:102
 # text = Бұл жолы үй иесі Қожанасырды құрметтейді, төрден орын береді, ет келгенде: - Қожеке, алыңыз, алыңыз! - деп, қошеметтейді.
-# text[tur] = 
+# text[tur] =Bu yolu ev sahibi Hoca Nasreddin'i saygı gösterir, baş koltuktan yer verir, et geldikte: - Koşeke, alalım, alalım! - diyip, alkışlar.
 
 # sent_id = Өлген_қазан.tagged.txt:7:155
 # text = Қожа етті жемей, табаққа шапанының жеңін малып: - Же, шапаным, же! - деп, отыра береді.

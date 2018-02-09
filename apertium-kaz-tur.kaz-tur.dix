@@ -322,7 +322,9 @@
 <e><p><l>шапқыншылық<s n="n"/></l><r>baskın<s n="n"/></r></p></e>
 <e><p><l>мифтік<s n="adj"/></l><r>efsane<s n="n"/></r></p></e>
 <e><p><l>бедер<s n="n"/></l><r>topoğrafya<s n="n"/></r></p></e>
-
+<e><p><l>мутреб<s n="n"/></l><r>şarkıcı-dansçı<s n="n"/></r></p></e>
+<e><p><l>әнші-биші<s n="n"/></l><r>şarkıcı-dansçı<s n="n"/></r></p></e>
+<e><p><l>шахсей-вахсей<s n="n"/></l><r>aşure-günü<s n="n"/></r></p></e>
 <e><p><l>монодиялық<s n="n"/></l><r>tek<b/>ses<s n="n"/></r></p></e>
 <e><p><l>Аббаси<s n="n"/></l><r>Abbasi<s n="n"/></r></p></e>
 <e><p><l>базигер<s n="n"/></l><r>tiyatro<s n="n"/></r></p></e>
@@ -4076,7 +4078,7 @@
      <e><p><l>диффузия<s n="n"/></l><r>difüzyon<s n="n"/></r></p></e>
      <e><p><l>дифтерия<s n="n"/></l><r>difteri<s n="n"/></r></p></e>
      <e><p><l>дифракция<s n="n"/></l><r>kırınım<s n="n"/></r></p></e>
-     <e><p><l>диссертация<s n="n"/></l><r>sav<s n="n"/></r></p></e>
+     
      <e><p><l>диспансер<s n="n"/></l><r>dispanser<s n="n"/></r></p></e>
      <e><p><l>диорит<s n="n"/></l><r>diyorit<s n="n"/></r></p></e>
      <e><p><l>диод<s n="n"/></l><r>diyot<s n="n"/></r></p></e>
@@ -4516,6 +4518,8 @@
 <e><p><l>Ғазнауи<s n="np"/><s n="top"/></l><r>Gaznahit<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Загрос<s n="np"/><s n="top"/></l><r>Zagros<s n="np"/><s n="top"/></r></p></e>
 
+<e><p><l>Ильхандар<s n="np"/><s n="top"/></l><r>Ilikhandar<s n="np"/><s n="top"/></r></p></e>
+
 <e><p><l>Дар-әл-Харб<s n="np"/><s n="top"/></l><r>Dar-al-Harb<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Серхед<s n="np"/><s n="top"/></l><r>Serhed<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Пеленган<s n="np"/><s n="top"/></l><r>Pelengan<s n="np"/><s n="top"/></r></p></e>
@@ -4542,7 +4546,7 @@
 
 <e><p><l>Аббас<s n="np"/><s n="ant"/><s n="m"/></l><r>Abbas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Махамбет<s n="np"/><s n="ant"/><s n="m"/></l><r>Mahambet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-
+<e><p><l>Текеш<s n="np"/><s n="ant"/><s n="m"/></l><r>Tekeş<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Текеш<s n="np"/><s n="ant"/><s n="m"/></l><r>Tekeş<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Хулагу<s n="np"/><s n="ant"/><s n="m"/></l><r>Hulagu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Абай<s n="np"/><s n="ant"/><s n="m"/></l><r>Abay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5549,11 +5553,12 @@
 <e><p><l>надан<s n="adj"/></l><r>cahil<s n="adj"/></r></p></e>
 <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 <e><p><l>жиі<s n="adj"/></l><r>sık<s n="adj"/></r></p></e>
-<e><p><l>эллиндік<s n="adj"/></l><r>sık<s n="adj"/></r></p></e>
+
 <e><p><l>тиіс<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
 <e><p><l>жиі<s n="adj"/></l><r>sık<s n="adj"/></r></p></e>
 <e><p><l>мүмкін<s n="adj"/></l><r>makul<s n="adj"/></r></p></e>
 
+<e><p><l>эллиндік<s n="adj"/></l><r>yunan<s n="adj"/></r></p></e>
 <e><p><l>кіші<s n="adj"/></l><r>aşağı<s n="adj"/></r></p></e>
 <e><p><l>мүліктік<s n="adj"/></l><r>mülküyet<s n="n"/></r></p></e>
 <e><p><l>тектік-топтық<s n="adj"/></l><r>grup<b/>üyeliği<s n="n"/></r></p></e>
@@ -6251,7 +6256,8 @@
 <e><p><l>сүйен<s n="v"/><s n="iv"/></l><r>gözlemle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ротацияла<s n="v"/><s n="tv"/></l><r>dön<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>араздас<s n="v"/><s n="iv"/></l><r>saygısızlaş<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>алалан<s n="v"/><s n="iv"/></l><r>duyguya<b/>kapıl<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>қошеметте<s n="v"/><s n="iv"/></l><r>alkışla<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>құрметте<s n="v"/><s n="tv"/></l><r>saygı<b/>göster<s n="v"/><s n="iv"/></r></p></e>
 
