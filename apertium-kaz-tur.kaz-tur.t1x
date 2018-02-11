@@ -140,6 +140,9 @@
 <def-cat n="frm">
       <cat-item tags="n.*.frm.*"/>
     </def-cat>
+<def-cat n="coop">
+      <cat-item tags="v.*.coop.*"/>
+    </def-cat>
 
 <def-cat n="V-frm">
       <cat-item tags="v.*.*.px2sg.frm.*"/>
@@ -341,6 +344,9 @@
    
 <def-attr n="frm.n">
      <attr-item tags="frm"/>
+  </def-attr>
+<def-attr n="v.coop">
+     <attr-item tags="coop"/>
   </def-attr>
 
 <def-attr n="a_pers_nbr">
@@ -645,6 +651,32 @@
             <lu>
               <clip pos="1" side="tl" part="whole"/>
                                                   
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+<rule comment="REGLA: Cooperative-23" > 
+       <pattern>
+        <pattern-item n="coop"/>    
+      </pattern>
+      <action>
+    
+    
+      
+        <let>
+        
+          <clip pos="1" side="tl" part="v.coop"/>
+          <lit v=""/>
+        </let>
+        
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
@@ -1460,6 +1492,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="REGLA: Formal-24" > <!-- ~қылғаныңыз -> ~yaptığınız -->
        <pattern>

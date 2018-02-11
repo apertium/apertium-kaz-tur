@@ -2092,7 +2092,7 @@
 # text = Оны естімедім.
 # text[tur] = Onu işitmedim.
 
-# sent_id = kdt.tagged.txt:191:3025 
+# sent_id = kdt.tagged.txt:191:3025 *****burdaburdaa***
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
 # text[tur] = Bekbolat'ın sormaları artıp, öykünün sonu uzattığına sezip, ülke kazakı bir karıştırıp bırakacağım, — anlaşmam vardı diyip, oldu.
 
@@ -2202,7 +2202,7 @@
 
 # sent_id = kdt.tagged.txt:218:3457
 # text = Бір пулемет, қанша ат-арба, қанша киім, қанша ақша — баршаларын олжа қылған.
-# text[tur] = 
+# text[tur] = Bir mitralyöz, kaç at-araba, kaç kılık, kaç para — bütünlerini ganimat yapmış.
 
 # sent_id = kdt.tagged.txt:219:3490
 # text = Кім алғанын білмеймін, бір кісі қосып берейік, өздерің кісі жібер, солар жисын деп сұранған.
@@ -2312,7 +2312,7 @@
 # text = — Иә, естідім, жақсы болыпты, — деді.
 # text[tur] = -Ya işitim, iyi olmuşsa , -dedi
 
-# sent_id = kdt.tagged.txt:246:3971****burda
+# sent_id = kdt.tagged.txt:246:3971
 # text = Мойындағы бір ауыр міндетті атқарғандай, өмірдің бір мақсаты сол шылымда тұрғандай сонша ықыласын қойғаны Бекболатқа жат көрінеді.
 # text[tur] = Boyundaki bir acıyalım görevi kurarak, yaşamın bir maksatı şu sigarada oldukça şu arzusunu koyarak Bekbolat'a koyak görülür.
 
