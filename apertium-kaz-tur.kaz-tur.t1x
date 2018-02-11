@@ -679,6 +679,31 @@
       </action>
     </rule>
 
+<rule comment="REGLA: ger-7" > <!--болуы -> almaya --> 
+      <pattern>
+        <pattern-item n="v-ger"/>
+      </pattern>
+      <action>
+     
+
+        
+          
+
+       
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="REGLA: ger-7" > <!--табу -> bulmak --> 
       <pattern>
         <pattern-item n="v-ger"/>

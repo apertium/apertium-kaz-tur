@@ -321,6 +321,7 @@
 <e><p><l>шекара<s n="n"/></l><r>sınır<s n="n"/></r></p></e>
 <e><p><l>шапқыншылық<s n="n"/></l><r>baskın<s n="n"/></r></p></e>
 <e><p><l>мифтік<s n="adj"/></l><r>efsane<s n="n"/></r></p></e>
+<e><p><l>бастауыш<s n="n"/></l><r>temel<s n="n"/></r></p></e>
 <e><p><l>бедер<s n="n"/></l><r>topoğrafya<s n="n"/></r></p></e>
 <e><p><l>мутреб<s n="n"/></l><r>şarkıcı-dansçı<s n="n"/></r></p></e>
 <e><p><l>әнші-биші<s n="n"/></l><r>şarkıcı-dansçı<s n="n"/></r></p></e>
@@ -506,7 +507,7 @@
 <e><p><l>мелодрама<s n="n"/>melodram</l><r><s n="n"/></r></p></e>
 <e><p><l>мистерия<s n="n"/></l><r>esrar<s n="n"/></r></p></e>
 <e><p><l>түр<s n="n"/></l><r>tür<s n="n"/></r></p></e>
-<e><p><l>түр<s n="n"/></l><r>şut<s n="n"/></r></p></e>
+
 <e><p><l>түр<s n="n"/></l><r>kanal<s n="n"/></r></p></e>
 <e><p><l>абонемент<s n="n"/></l><r>abonelik<s n="n"/></r></p></e>
 <e><p><l>рота<s n="n"/></l><r>şirket<s n="n"/></r></p></e>
@@ -5643,6 +5644,9 @@
 <e><p><l>жаралы<s n="adj"/></l><r>yaralı<s n="adj"/></r></p></e>
 <e><p><l>туған<s n="adj"/></l><r>doğan<s n="adj"/></r></p></e>
 <e><p><l>басымды<s n="adj"/></l><r>üstün<s n="adj"/></r></p></e>
+<e><p><l>басымды<s n="adj"/></l><r>baskın<s n="adj"/></r></p></e>
+<e><p><l>бастауыш<s n="adj"/></l><r>birincil<s n="adj"/></r></p></e>
+<e><p><l>бастауыш<s n="adj"/></l><r>temel<s n="adj"/></r></p></e>
 <e><p><l>айрықша<s n="adj"/></l><r>ekstra<s n="adj"/></r></p></e>
 <e><p><l>толық<s n="adj"/></l><r>mutlak<s n="adj"/></r></p></e>
  <e><p><l>тумысынан<s n="adj"/></l><r>doğuştan<s n="adj"/></r></p></e>
@@ -6258,6 +6262,7 @@
 <e><p><l>араздас<s n="v"/><s n="iv"/></l><r>saygısızlaş<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>қошеметте<s n="v"/><s n="iv"/></l><r>alkışla<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>бет<b/>ал<s n="v"/><s n="iv"/></l><r>yönel<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>құрметте<s n="v"/><s n="tv"/></l><r>saygı<b/>göster<s n="v"/><s n="iv"/></r></p></e>
 
