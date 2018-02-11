@@ -143,6 +143,9 @@
 <def-cat n="coop">
       <cat-item tags="v.*.coop.*"/>
     </def-cat>
+<def-cat n="sim">
+      <cat-item tags="num.*.sim"/>
+    </def-cat>
 
 <def-cat n="V-frm">
       <cat-item tags="v.*.*.px2sg.frm.*"/>
@@ -347,6 +350,9 @@
   </def-attr>
 <def-attr n="v.coop">
      <attr-item tags="coop"/>
+  </def-attr>
+<def-attr n="num.sim">
+     <attr-item tags="sim"/>
   </def-attr>
 
 <def-attr n="a_pers_nbr">
@@ -656,7 +662,7 @@
         </out>
       </action>
     </rule>
-<rule comment="REGLA: Cooperative-23" > 
+<rule comment="REGLA: Cooperative-23" > <!-- істесуге -> anlaşmaya -->
        <pattern>
         <pattern-item n="coop"/>    
       </pattern>
@@ -672,6 +678,33 @@
         
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: Cooperative-23" > 
+       <pattern>
+        <pattern-item n="sim"/>    
+      </pattern>
+      <action>
+    
+    
+      
+        <let>
+        
+          <clip pos="1" side="tl" part="num.sim"/>
+          <lit v=""/>
+        </let>
+        
+        <out>
+          <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -1531,29 +1564,9 @@
     </rule>
     
     
-<rule comment="REGLA: prc_perf-25" > <!--деп қуып жүреді -> deyip kovalor -->
-      <pattern>
-        <pattern-item n="prc_perf"/>
-      </pattern>
- <action>
-        <let>
-          <clip pos="1" side="tl" part="a_perf"/>
-          <lit-tag v="gna_perf"/>
-        </let>
-        <out>
-          <chunk name="perf" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
-<rule comment="REGLA: prc_perf-26" > <!-- арттыра -> artırarak -->
+
+<rule comment="REGLA: prc_impf-26" > <!-- арттыра -> artırarak -->
       <pattern>
         <pattern-item n="prc_impf"/>
       </pattern>
@@ -2587,6 +2600,27 @@
             <lu>
 <lit v="değil"/><lit-tag v="adj"/>
 </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+<rule comment="REGLA: prc_perf-33" > <!--деп қуып жүреді -> deyip kovalor -->
+      <pattern>
+        <pattern-item n="prc_perf"/>
+      </pattern>
+ <action>
+        <let>
+          <clip pos="1" side="tl" part="a_perf"/>
+          <lit-tag v="gna_perf"/>
+        </let>
+        <out>
+          <chunk name="perf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
           </chunk>
         </out>
       </action>
