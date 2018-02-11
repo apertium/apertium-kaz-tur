@@ -2498,7 +2498,7 @@
 
 # sent_id = udhr.tagged.txt:2:26
 # text = Адамдарға ақыл-парасат, ар-ождан берілген, сондықтан олар бір-бірімен туыстық, бауырмалдық қарым-қатынас жасаулары тиіс.
-# text[tur] = Adamlar'a akıl-zihin, vicdan fariğ olunmuş, sonra onlar bir-biriyle doğuştuk, bağlantılı temas yapmaları gelmeli.
+# text[tur] = Adamlar'a akıl-zihin, vicdan fariğ olunmuş, sonra onlar bir-biriyle doğuştuk, bağlantılı temas yapmaları gerekli.
 
 # sent_id = udhr.tagged.txt:3:59 
 # text = Әр адам, нәсіліне, түр-түсіне, жынысына, тіліне, дініне, саяси немесе басқа да наным-сенімдеріне, ұлттық, немесе әлеуметтік тегіне, мүліктік, тектік-топтық, немесе басқа да жағдаяттарға қарамастан осы Декларацияда жарияланған барлық құқықтар мен бостандықтарға алаланбай, бірдей тең ие болуы тиіс.

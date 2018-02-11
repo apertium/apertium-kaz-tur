@@ -119,10 +119,18 @@
     <match lemma="ал" tags="v.*"/>
     <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
   </rule>
+<rule>
+    <match lemma="азаматтық" tags="n.*"/>
+    <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
+  </rule>
 
 <rule>
     <match lemma="құр" tags="v.*"/>
     <match lemma="бостандық" tags="n.*"><select lemma="özgürlük" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="тең" tags="adj"/>
+    <match lemma="бәрі" tags="prn*"><select lemma="tümü" tags="det*"/></match>
   </rule>
 
 
