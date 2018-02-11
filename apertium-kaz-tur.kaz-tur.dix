@@ -1736,7 +1736,7 @@
      <e><p><l>күйе<s n="n"/></l><r>güve<s n="n"/></r></p></e>
      <e><p><l>күйе<s n="n"/></l><r>is<s n="n"/></r></p></e>
      <e><p><l>күйе<s n="n"/></l><r>tanık<s n="n"/></r></p></e>
-     <e><p><l>құқық<s n="n"/></l><r>hukuk<s n="n"/></r></p></e>
+     
      <e><p><l>құқық<s n="n"/></l><r>yetki<s n="n"/></r></p></e>
      <e><p><l>құл<s n="n"/></l><r>kul<s n="n"/></r></p></e>
      <e><p><l>құлақ<s n="n"/></l><r>kulak<s n="n"/></r></p></e>
@@ -6261,6 +6261,7 @@
 <e><p><l>ротацияла<s n="v"/><s n="tv"/></l><r>dön<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>араздас<s n="v"/><s n="iv"/></l><r>saygısızlaş<s n="v"/><s n="iv"/></r></p></e>
 
+<e><p><l>айрыл<s n="v"/><s n="iv"/></l><r>kaybet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қошеметте<s n="v"/><s n="iv"/></l><r>alkışla<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>бет<b/>ал<s n="v"/><s n="iv"/></l><r>yönel<s n="v"/><s n="iv"/></r></p></e>
 
@@ -6494,7 +6495,7 @@
 <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қоңырау<b/>шал<s n="v"/><s n="tv"/></l><r>çağır<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>адас<s n="v"/><s n="iv"/></l><r>kaybol<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>кіргіз<s n="v"/><s n="tv"/></l><r>yazma<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>кіргіз<s n="v"/><s n="tv"/></l><r>yaz<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>кет<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>отыр<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>болып<b/>кел<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
@@ -6565,6 +6566,7 @@
     
 <e><p><l>жарала<s n="v"/><s n="tv"/></l><r>yarala<s n="v"/><s n="tv"/></r></p></e>
   <e><p><l>қи<s n="v"/><s n="tv"/></l><r>kes<s n="v"/><s n="tv"/></r></p></e>
+ <e><p><l>қи<s n="v"/><s n="tv"/></l><r>kıy<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>құй<s n="v"/><s n="tv"/></l><r>koy<s n="v"/><s n="tv"/></r></p></e>
  <e><p><l>ашық<s n="v"/><s n="iv"/></l><r>ekşi<s n="v"/><s n="iv"/></r></p></e>    
      <e><p><l>бағала<s n="v"/><s n="tv"/></l><r>takdir<b/>et<s n="v"/><s n="tv"/></r></p></e>
@@ -7467,7 +7469,7 @@
 <e><p><l>қажетті<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
 <e><p><l>бейбіт<s n="adj"/></l><r>barışçı<s n="adj"/></r></p></e>
 <e><p><l>бейбіт<s n="adj"/></l><r>barışçıl<s n="adj"/></r></p></e>
-<e><p><l>бейбіт<s n="adj"/></l><r>huzulu<s n="adj"/></r></p></e>
+<e><p><l>бейбіт<s n="adj"/></l><r>huzurlu<s n="adj"/></r></p></e>
 <e><p><l>қажеттілік<s n="n"/></l><r>ihtiyaç<s n="n"/></r></p></e>
 <e><p><l>қазақ<s n="adj"/></l><r>kazak<s n="adj"/></r></p></e>
 <e><p><l>қазақ<s n="n"/></l><r>kazakça<s n="n"/></r></p></e>

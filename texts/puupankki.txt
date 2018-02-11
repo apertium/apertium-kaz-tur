@@ -2571,11 +2571,11 @@
 
 # sent_id = udhr.tagged.txt:20:668
 # text = Ешкімді де белгілі бір ассоциацияға зорлықпен кіргізуге болмайды.
-# text[tur] = Hiç kimsede belirli bir derneğe şiddetle yazamaya olmuyor.
+# text[tur] = Hiç kimsede belirli bir derneğe şiddetle yazmak  olmaz.
 
 # sent_id = udhr.tagged.txt:21:686
 # text = Ана және нәресте болу жағдайы айрықша қамқорлық пен көмек алуға құқық береді.
-# text[tur] = Ana ve bebek olma şartı ekstra dikkat ve infak  almaya yetki veriyor. 
+# text[tur] = Ana ve bebek olma durumu ekstra dikkat ve infak almaya hukuk verir. 
 
 # sent_id = udhr.tagged.txt:22:713
 # text = Балалардың бәрі, некелі немесе некесіз туған, бірдей әлеуметтік қорғауды пайдаланады.

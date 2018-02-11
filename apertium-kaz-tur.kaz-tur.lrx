@@ -115,6 +115,16 @@
     <match lemma="орган" tags="n.*"><select lemma="kitle" tags="n.*"/></match>
   </rule>
 
+<rule>
+    <match lemma="ал" tags="v.*"/>
+    <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="құр" tags="v.*"/>
+    <match lemma="бостандық" tags="n.*"><select lemma="özgürlük" tags="n.*"/></match>
+  </rule>
+
 
 <rule>
     <match lemma="әңгіме" tags="n.*"/>
@@ -148,6 +158,11 @@
 <rule>
     <match lemma="Жер" tags="n.*"/>
     <match lemma="бедер" tags="n.*"><select lemma="topoğrafya" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="және" tags="cnjcoo"/>
+    <match lemma="толық" tags="adj"><select lemma="mutlak" tags="adj"/></match>
   </rule>
 
 <rule>
