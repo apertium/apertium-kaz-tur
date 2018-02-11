@@ -2312,7 +2312,7 @@
 # text = — Иә, естідім, жақсы болыпты, — деді.
 # text[tur] = -Ya işitim, iyi olmuşsa , -dedi
 
-# sent_id = kdt.tagged.txt:246:3971
+# sent_id = kdt.tagged.txt:246:3971****burda
 # text = Мойындағы бір ауыр міндетті атқарғандай, өмірдің бір мақсаты сол шылымда тұрғандай сонша ықыласын қойғаны Бекболатқа жат көрінеді.
 # text[tur] = Boyundaki bir acıyalım görevi kurarak, yaşamın bir maksatı şu sigarada oldukça şu arzusunu koyarak Bekbolat'a koyak görülür.
 
@@ -2368,7 +2368,7 @@
 # text = Оның артынан кеспе келді.
 # text[tur] = Onun ardından şehriye geldi.
 
-# sent_id = kdt.tagged.txt:260:4197
+# sent_id = kdt.tagged.txt:260:4197 
 # text = — Ештеңе емес...
 # text[tur] = Hiçbir şey değil...
 
@@ -2446,7 +2446,7 @@
 
 # sent_id = kdt.tagged.txt:279:4569
 # text = Неліктен оның сұлу қызға құмар боп жүргенін кейін естірсіз.
-# text[tur] = Neden onun güzel kıza tutku olduğunu sonra söyleyin.
+# text[tur] = Neden onun güzel kıza aşık olduğuna sonra işiteceksiniz.
 
 # sent_id = kdt.tagged.txt:280:4590
 # text = Әзір түсін ашпай тұра тұрайық.
@@ -2478,9 +2478,9 @@
 
 # sent_id = kdt.tagged.txt:287:4759
 # text = Сайлаушылар тізімі әліпби тәртібімен немесе өзге тәртіппен жасалады.
-# text[tur] = Seçilecekler listesi alfabe tertibile veya öbür tertiple yapılıyor.
+# text[tur] = Seçmenler listesi alfabe kuralıyla ya öbür kuralla yapılır.
 
-# sent_id = kdt.tagged.txt:288:4778
+# sent_id = kdt.tagged.txt:288:4778  
 # text = Сайлаушылардың тұрғылықты жері бойынша тізімін тиісті жергілікті атқарушы орган халықты есепке алуды жүзеге асыратын органдар ұсынған мәліметтердің негізінде жасайды.
 # text[tur] = Seçmenlerin kadim yeri boyunca listesini gelmeliyi yerel kurucu kitle halkı skora almayı uygulayacak organlar önerdiği bilgilerin esasında yapar.
 
@@ -2589,7 +2589,7 @@
 # text = Бастауыш білім баршаға міндетті болуы тиіс.
 # text[tur] = Ana bilim bütüne zorunlu olması lazım
 
-# sent_id = udhr.tagged.txt:25:770                                                          ***burdakaldım2018***
+# sent_id = udhr.tagged.txt:25:770                                                          
 # text = Ата-аналардың өздерінің жас балаларына білім беру түрін таңдауда құқығы басымды.
 # text[tur] = Ata-anaların kendilerinin genç evlatlarına bilim verme türünü seçmede yetkisi üstün. 
 

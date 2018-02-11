@@ -124,6 +124,7 @@
     <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
   </rule>
 
+
 <rule>
     <match lemma="құр" tags="v.*"/>
     <match lemma="бостандық" tags="n.*"><select lemma="özgürlük" tags="n.*"/></match>
@@ -133,7 +134,11 @@
     <match lemma="бәрі" tags="prn*"><select lemma="tümü" tags="det*"/></match>
   </rule>
 
-
+<rule>
+    <match lemma="мадақ" tags="n.*"/>
+    <match lemma="Жас" tags="n.*"><select lemma="genç" tags="n.*"/></match>
+    
+  </rule>
 <rule>
     <match lemma="әңгіме" tags="n.*"/>
     <match lemma="аяқ" tags="n.*"><select lemma="son" tags="n.*"/></match>
@@ -145,6 +150,11 @@
 <rule>
     <match lemma="жалаң аяқ" tags="adv"/>
     <match lemma="бар" tags="v.*"><select lemma="al" tags="v.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="әліпби" tags="n.*"/>
+    <match lemma="тәртіп" tags="n.*"><select lemma="kural" tags="n.*"/></match>
   </rule>
 <rule>
     <match lemma="диссертация" tags="n.*"/>
