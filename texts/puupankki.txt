@@ -1523,7 +1523,7 @@
 # text = Бірақ төбелесіп өлтіріспей, алыстан атып өлтіріскеніне түсіне алмады.
 # text[tur] = Fakat dövüşüp öldürmeyip, uzaktan atıp katlederek anlayamadı. 
 
-# sent_id = kdt.tagged.txt:49:878
+# sent_id = kdt.tagged.txt:49:878   ****burdaburda**
 # text = — Мына төре сені жақсы көрген.
 # text[tur] = Bu patron seni sevmiş.
 
@@ -1533,11 +1533,11 @@
 
 # sent_id = kdt.tagged.txt:51:904
 # text = Қорықпайтын кісі.
-# text[tur] = korkmayan kişi.
+# text[tur] = Korkmayacak kişi.
 
 # sent_id = kdt.tagged.txt:52:911
 # text = Анау жігіттен сені маған бер деп сұраған.
-# text[tur] = O yiğitan seni bana ver deyip sormuş.
+# text[tur] = Şu yiğiten seni bana versin deyip sormuş.
 
 # sent_id = kdt.tagged.txt:53:928
 # text = Саған ешкім тимейді.
@@ -1553,7 +1553,7 @@
 
 # sent_id = kdt.tagged.txt:56:957
 # text = Сен қорықпа.
-# text[tur] = sen korkmayın.
+# text[tur] = sen korkma.
 
 # sent_id = kdt.tagged.txt:57:964
 # text = Мына төре сені ешкімге бермейді.
@@ -1565,7 +1565,7 @@
 
 # sent_id = kdt.tagged.txt:59:988
 # text = Бұл көп білетін ақылды жігіт.
-# text[tur] = Bu çok bilinen akıllı yiğit.
+# text[tur] = Bu epey bilecek akıllı yiğit.
 
 # sent_id = kdt.tagged.txt:60:1001
 # text = Бұл кісі сені жақсы көреді.
@@ -1577,7 +1577,7 @@
 
 # sent_id = kdt.tagged.txt:62:1021
 # text = Үлкен төре деп мақтайды.
-# text[tur] = Büyük adam deyip övünür.
+# text[tur] = Büyük patron diyip övünür.
 
 # sent_id = kdt.tagged.txt:63:1032
 # text = Анда-санда қара мұрт оған сөз үйретіп тұрды.
@@ -1585,15 +1585,15 @@
 
 # sent_id = kdt.tagged.txt:64:1053
 # text = Оның көп сөзі миына қонбайды.
-# text[tur] = Onun çok sözü beynine yerleştirmez.
+# text[tur] = Onun çok sözü beyinine yerleşmez.
 
 # sent_id = kdt.tagged.txt:65:1066
 # text = Ендеше, жақсы көргені рас.
-# text[tur] = Böylelikle, sevmişi gerçek. 
+# text[tur] = Böylelikle, sevdiği gerçek.
 
 # sent_id = kdt.tagged.txt:66:1079
 # text = Ел қайда?
-# text[tur] = Millet nerde?
+# text[tur] = Ülke nerede?
 
 # sent_id = kdt.tagged.txt:67:1086
 # text = Қара күшке, тағдырға не шара?
@@ -1609,7 +1609,7 @@
 
 # sent_id = kdt.tagged.txt:70:1131
 # text = Қызды алам деп жүргенде, бұл иттер шешесін атып өлтіріпті.
-# text[tur] = Kızdı dünya söylemişte, bu itler annesini bas bas bağrıp öldürüptü.
+# text[tur] =Kızı alacam dediğine, bu itler annesini atıp katletti.
 
 # sent_id = kdt.tagged.txt:71:1154
 # text = Мұның арты үлкен дүрбелеңге шаппасын кім біледі?
@@ -1617,7 +1617,7 @@
 
 # sent_id = kdt.tagged.txt:72:1171
 # text = Ағасы болмаса, бұ қызда не жазық бар еді?..
-# text[tur] = Kardeşi bolmasa, bu kızda ne güzellik vardı?
+# text[tur] =Amcası olmasa, bu kızda ne ova vardı?..
 
 # sent_id = kdt.tagged.txt:73:1196
 # text = Енді бұл беттен қайтуға өткел жоқ...
@@ -1625,7 +1625,7 @@
 
 # sent_id = kdt.tagged.txt:74:1211
 # text = Дауа жоқ...
-# text[tur] = Uyuşmazlık yok...
+# text[tur] = Ilaç yok...
 
 # sent_id = kdt.tagged.txt:75:1218
 # text = Бай неліктен бай болады?
@@ -1637,11 +1637,11 @@
 
 # sent_id = kdt.tagged.txt:77:1270
 # text = Онан өзгені іздемейді.
-# text[tur] = ondan ötekini arar.
+# text[tur] =Ondan öbürü aramaz.
 
 # sent_id = kdt.tagged.txt:78:1279
 # text = Кімге жалынсын, кімге сенсін?
-# text[tur] = kime yarvalsın, kime  güvensin?
+# text[tur] = Kime yalvarsın, kime inansın?
 
 # sent_id = kdt.tagged.txt:79:1292 ****burdaburda
 # text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
@@ -4139,7 +4139,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:7:69
 # text = Ерназардың сегіз ұлы болыпты.
-# text[tur] = Ernazar'ın sekiz oğlu olmuş
+# text[tur] = Ernazar'ın sekiz oğlu olmuş.
 
 # sent_id = Ер_Төстік.tagged.txt:8:80
 # text = Бір жылы үлкен жұт болып, ел малын алысқа, отарға айдап кетіпті.

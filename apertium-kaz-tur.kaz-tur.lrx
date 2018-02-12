@@ -25,9 +25,12 @@
     <match lemma="қал" tags="v.*"><select lemma="kur" tags="v.*"/></match>
   </rule>
 <rule>
-    <match lemma="білім" tags="n.*"/>
-    
+ <or>
+    <match lemma="білім" />
+    <match lemma="мен" />
+    </or>
     <match lemma="бер" tags="v.*"><select lemma="ver" tags="v.*"/></match>
+
   </rule>
 <rule>
     <match lemma="тіл" tags="n.*"/>
@@ -129,6 +132,12 @@
     <match lemma="жан" tags="n.*"><select lemma="can" tags="n.*"/></match>
   </rule>
 
+
+<rule>
+    <match lemma="ми" tags="n.*"/>
+    <match lemma="қон" tags="v.*"><select lemma="yerleş" tags="v.*"/></match>
+  </rule>
+
 <rule>
     <match lemma="жалт" tags="adv"/>
     <match lemma="бер" tags="v.*"><select lemma="git" tags="v.*"/></match>
@@ -142,6 +151,15 @@
 <rule>
     <match lemma="тең" tags="adj"/>
     <match lemma="бәрі" tags="prn*"><select lemma="tümü" tags="det*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="қайт" tags="v.*"/>
+    <match lemma="өткел" tags="n.*"><select lemma="feribot" tags="n.*"/></match>
+  </rule>
+<rule>
+    <match lemma="Бұл" tags="prn.*"/>
+    <match lemma="арт" tags="n.*"><select lemma="sonuç" tags="n.*"/></match>
   </rule>
 
 <rule>
