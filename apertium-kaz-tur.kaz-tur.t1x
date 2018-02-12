@@ -706,7 +706,7 @@
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="SNum"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1112,6 +1112,36 @@
 <rule comment="REGLA: prc_perf+vaux-past-14" > <!-- ~ боп келген -> olmuş ~ -->
       <pattern>
         <pattern-item n="prc_perf"/>
+        <pattern-item n="vaux-past"/>
+      </pattern>
+      <action>
+
+
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="past"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="tenses"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: prc_impf+vaux-past-14" > <!-- ~ боп келген -> olmuş ~ -->
+      <pattern>
+        <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-past"/>
       </pattern>
       <action>

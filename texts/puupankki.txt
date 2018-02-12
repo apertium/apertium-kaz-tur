@@ -1895,7 +1895,7 @@
 # text = Елсіз дала емсіз жарадай көрінеді.
 # text[tur] =  Sahipsiz dala çaresiz çıban gibi  görülür.
 
-# sent_id = kdt.tagged.txt:142:2258
+# sent_id = kdt.tagged.txt:142:2258 ***burdaburda***
 # text = Ай, қу дала!
 # text[tur] = Ay, sinsi alan!
 
@@ -2092,7 +2092,7 @@
 # text = Оны естімедім.
 # text[tur] = Onu işitmedim.
 
-# sent_id = kdt.tagged.txt:191:3025 *****burdaburdaa***
+# sent_id = kdt.tagged.txt:191:3025 
 # text = Бекболаттың сұраулары көбейіп, әңгіменің аяғы созылып жатқанын сезіп, ел қазағы "бір айналып соғармын, — шаруам бар еді" деп, тұрып кетті.
 # text[tur] = Bekbolat'ın sormaları artıp, öykünün sonu uzattığına sezip, ülke kazakı bir karıştırıp bırakacağım, — anlaşmam vardı diyip, oldu.
 
