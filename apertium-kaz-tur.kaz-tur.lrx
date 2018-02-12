@@ -26,6 +26,7 @@
   </rule>
 <rule>
     <match lemma="білім" tags="n.*"/>
+    
     <match lemma="бер" tags="v.*"><select lemma="ver" tags="v.*"/></match>
   </rule>
 <rule>
@@ -123,6 +124,15 @@
     <match lemma="азаматтық" tags="n.*"/>
     <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
   </rule>
+<rule>
+    <match lemma="," />
+    <match lemma="жан" tags="n.*"><select lemma="can" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="жалт" tags="adv"/>
+    <match lemma="бер" tags="v.*"><select lemma="git" tags="v.*"/></match>
+  </rule>
 
 
 <rule>
@@ -137,6 +147,12 @@
 <rule>
     <match lemma="мадақ" tags="n.*"/>
     <match lemma="Жас" tags="n.*"><select lemma="genç" tags="n.*"/></match>
+    
+  </rule>
+
+<rule>
+    <match lemma="құдай" tags="n.*"/>
+    <match lemma="бұйрық" tags="n.*"><select lemma="emir" tags="n.*"/></match>
     
   </rule>
 <rule>

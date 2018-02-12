@@ -1643,7 +1643,7 @@
 # text = Кімге жалынсын, кімге сенсін?
 # text[tur] = kime yarvalsın, kime  güvensin?
 
-# sent_id = kdt.tagged.txt:79:1292
+# sent_id = kdt.tagged.txt:79:1292 ****burdaburda
 # text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
 # text[tur] = Altınay malını süt verir, öküzü belirir, bağlar, yakıtını devşirir, odunu yakar, suyunu getirir, kül çıkarır, yemeğini eyler, kılığını #kendi diker, evini toplar, süpürür, avlusunu temizler.
 
@@ -1768,7 +1768,7 @@
 # text[tur] = Sen bu yoldan sağlıklı-emniyetle döneceksin, ülkene sağlılkı gideceksin... - dedi
 
 # sent_id = kdt.tagged.txt:110:1795
-# text = Кімді әлдилеп, сыбырлап тұрсыңдар? not analysed
+# text = Кімді әлдилеп, сыбырлап тұрсыңдар? 
 # text[tur] = 
 
 # sent_id = kdt.tagged.txt:111:1808
@@ -1895,7 +1895,7 @@
 # text = Елсіз дала емсіз жарадай көрінеді.
 # text[tur] =  Sahipsiz dala çaresiz çıban gibi  görülür.
 
-# sent_id = kdt.tagged.txt:142:2258 ***burdaburda***
+# sent_id = kdt.tagged.txt:142:2258 
 # text = Ай, қу дала!
 # text[tur] = Ay, sinsi alan!
 

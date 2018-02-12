@@ -1139,7 +1139,7 @@
     </rule>
 
 
-<rule comment="REGLA: prc_impf+vaux-past-14" > <!-- ~ боп келген -> olmuş ~ -->
+<rule comment="REGLA: prc_impf+vaux-past-14" > <!-- ~ бара жатқан -> gitmiş ~ -->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="vaux-past"/>
@@ -1262,6 +1262,8 @@
 </let>
         <let>
           <clip pos="1" side="tl" part="whole"/>
+
+
 
           <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>

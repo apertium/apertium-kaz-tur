@@ -637,7 +637,7 @@
 
 <e><p><l>ассоциация<s n="n"/></l><r>dernek<s n="n"/></r></p></e>
 <e><p><l>бостандық<s n="n"/></l><r>özgürlük<s n="n"/></r></p></e>
-<e><p><l>бұйрық<s n="n"/></l><r>emri<s n="n"/></r></p></e>
+
      <e><p><l>күнбатыс<s n="n"/></l><r>batı<s n="n"/></r></p></e>
 <e><p><l>Қаза<s n="n"/></l><r>ölüm<s n="n"/></r></p></e>
 
@@ -1046,7 +1046,7 @@
      <e><p><l>дастан<s n="n"/></l><r>destan<s n="n"/></r></p></e>
      <e><p><l>дастарқан<s n="n"/></l><r>sofra<s n="n"/></r></p></e>
   <e><p><l>дау<s n="n"/></l><r>yarışma<s n="n"/></r></p></e>
-     <e><p><l>дау<s n="n"/></l><r>kıt<s n="n"/></r></p></e>
+
      <e><p><l>дау-дамай<s n="n"/></l><r>tartışma<s n="n"/></r></p></e>
      <e><p><l>дауыл<s n="n"/></l><r>boran<s n="n"/></r></p></e>
      <e><p><l>дауыл<s n="n"/></l><r>fırtına<s n="n"/></r></p></e>
@@ -5556,6 +5556,7 @@
 <e><p><l>практикалық<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
 <e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p><par n="a1_a1"/></e>
+<e><p><l>тілсіз<s n="adj"/></l><r>kazanacak<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 <e><p><l>әуел<s n="adj"/></l><r>önce<s n="adv"/></r></p></e>
 <e><p><l>бедел<s n="n"/><s n="acc"/></l><r>saygın<s n="adj"/></r></p></e>
@@ -6119,7 +6120,7 @@
 <e><p><l>тегін<s n="adv"/></l><r>bedava<s n="adj"/></r></p></e>
 <e><p><l>әйтеуір<s n="adv"/></l><r>daima<s n="adv"/></r></p></e>
 <e><p><l>тарихи<s n="adv"/></l><r>tarihçe<s n="adj"/></r></p></e>
-<e><p><l>бұрын<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
+<e><p><l>бұрын<s n="adv"/></l><r>eskiden<s n="adv"/></r></p></e>
 <e><p><l>лезде<s n="adv"/></l><r>aniden<s n="adv"/></r></p></e>
 <e><p><l>тезірек<s n="adv"/></l><r>çabuk<s n="adv"/></r></p></e>
 <e><p><l>жалаң<b/>аяқ<s n="adv"/></l><r>yalınayak<s n="adv"/></r></p></e>
@@ -6273,7 +6274,7 @@
 <e><p><l>арсыздан<s n="v"/><s n="iv"/></l><r>kurtlan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жәбірлен<s n="v"/><s n="iv"/></l><r>yansız<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>өзгерт<s n="v"/><s n="tv"/></l><r>değiş<s n="v"/><s n="iv"/></r></p></e>
-
+<e><p><l>сыбырла<s n="v"/><s n="iv"/></l><r>fısılda<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>шула<s n="v"/><s n="iv"/></l><r>gürle<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>без<s n="v"/><s n="iv"/></l><r>inkar<b/>et<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>раста<s n="v"/><s n="tv"/></l><r>doğrulan<s n="v"/><s n="iv"/></r></p></e>
@@ -7040,7 +7041,7 @@
 
 <e><p><l>айт<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>айтарлықтай<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
-<e><p><l>тілсіз<s n="adj"/></l><r>kazanacak<s n="adj"/></r></p></e>
+
 <e><p><l>Ақорда<s n="np"/><s n="top"/></l><r>Akorda<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ақтау<s n="np"/><s n="top"/><s n="sg"/></l><r>Aktau<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>АҚШ<s n="np"/><s n="top"/></l><r>ABC<s n="np"/><s n="top"/></r></p></e>
