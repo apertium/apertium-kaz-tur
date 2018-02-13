@@ -82,6 +82,21 @@
   </rule>
 
 <rule>
+    <match lemma="лаңкестік" tags="n.*"/>
+    <match lemma="әрекет" tags="n.*"><select lemma="harekat" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="полиция" tags="n.*"/>
+    <match lemma="қызметкер" tags="n.*"><select lemma="memur" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="команда" tags="n.*"/>
+    <match lemma="жең" tags="v.*"><select lemma="yen" tags="v.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="бас" tags="n.*"/>
     <match lemma="сұқ" tags="v.*"><select lemma="koy" tags="v.*"/></match>
   </rule>

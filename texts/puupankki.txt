@@ -1277,13 +1277,13 @@
 # text = - Астана қаласы қарқынды дамып келеді.
 # text[tur] = Astana şehri geniş ölçüde gelişir.
 
-# sent_id = akorda-random.tagged.txt:318:5676
+# sent_id = akorda-random.tagged.txt:318:5676 **burdaburad
 # text = Заңның мәтіні баспасөзде жарияланады.
 # text[tur] = Yasanın metini yayın evinde yayınlanır.
 
 # sent_id = Махамбет_Өтемісұлы.tagged.txt:1:0
 # text = 1939 ж. Қ. Жұмалиев Махамбет өлеңдерінің жинағын шығарды.
-# text[tur] = 
+# text[tur] = 1939 yıl *Қ. Zhumaliev Mahambet şiirlerinin birikimini çıkardı.
 
 # sent_id = wikipedia-news.tagged.txt:1:0
 # text = Сеулде миллионнан астам адам билікке қарсы көтеріліске шықты.
@@ -1291,11 +1291,11 @@
 
 # sent_id = wikipedia-news.tagged.txt:2:18
 # text = Өзбекстанда 79 жасына қараған шағында мемлекет басшысы Ислам Каримов дүниеден озды.
-# text[tur] = Özbekistan 79 yaşına olan memleket başkanı Islam Karimov dunyadan gitti...?
+# text[tur] = Özbekistan 79 yaşına baktığı çağda memleket başkanı Islam Karimov dunyadan gitti...?
 
 # sent_id = wikipedia-news.tagged.txt:3:43
 # text = Қазақстанда жергілікті полиция қызметі өз жұмысын бастады.
-# text[tur] = Kazakisatnda yerli polis hizmeti kendi işini başlattı.
+# text[tur] = Kazakistan'da yerli polis hizmeti kendi işini başlattı.
 
 # sent_id = wikipedia-news.tagged.txt:4:60
 # text = Қазақстан Еуразиялық Экономикалық Одаққа төрағалығын бастады.
@@ -1307,11 +1307,11 @@
 
 # sent_id = wikipedia-news.tagged.txt:6:110
 # text = УЕФА 1996 жылдан бергі футзал тарихында медаль алған алғашқы дебютант ел.
-# text[tur] =  UEFA 1996 yıldan beri spor tarihinde madalya almış ilk başta ülke.
+# text[tur] =  UEFA 1996 yıldan beri spor tarihinde madalya aldık ilk acemi ülke.
 
 # sent_id = wikipedia-news.tagged.txt:7:135
 # text = Белгілі ғалым, академик Қаныш Сәтбаевтың үлкен қызы, медицина ғылымдарының докторы, профессор Қаниса Қанышқызы Сәтбаева қайтыс болды.
-# text[tur] = saygın alim, akademik Kanysh Satpayevnın büyük kızı, tıp bilimlernin doktorı,profesör Kani Qanışqızı Satpayev vafat etti.
+# text[tur] = saygın alim, akademik Kanysh Satpayevnın büyük kızı, tıp bilimlernin doktorı,profesör Kani Kanışkızı Satpayev vafat etti.
 
 # sent_id = wikipedia-news.tagged.txt:8:176
 # text = Қазақстанның денсаулық сақтау министрі қызметін атқарған Салидат Қайырбекова ауыр сырқаттан көз жұмды.
@@ -1319,13 +1319,13 @@
 
 # sent_id = wikipedia-news.tagged.txt:9:203
 # text = Футболдан Еуропа чемпионатының финалдық матчында Португалия құрамасы Франция командасын жеңіп Еуропа чемпионы атанды.
-# text[tur] = Futboldan Avrupa şampiyonanın final maçında Portekiz birleşmesi Franca takımı yenip avrupa şampiyonu atandı.
+# text[tur] = Futboldan Avrupa şampiyonasının final maçında Portekiz bileşimi Fransa ekipini/ekibini yenip Avrupa şampiyonu atandı.
 
 # sent_id = wikipedia-news.tagged.txt:10:232 
 # text = Алматы қаласында лаңкестік әрекет орын алып, 5 полиция қызметкері мен 1 бейбіт тұрғын қаза тапты.
-# text[tur] = Almatı şehrinde terör hareket mavki muazzam, 5 polis memuru ve 1 barışçı yerleşim öldü.
+# text[tur] = Almatı kentinde terör harekat yer alıp, 5 polis memuru ve 1 sakin konut öldü.
 
-# sent_id = wikipedia-news.tagged.txt:11:267***burdaburda**
+# sent_id = wikipedia-news.tagged.txt:11:267
 # text = 5 полиция қызметкері жарақаттанған.
 # text[tur] = 5 polis memur yaralanmış.
 
