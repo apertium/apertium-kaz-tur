@@ -49,6 +49,11 @@
     <match lemma="соғыс" tags="n.*"/>
     <match lemma="азамат" tags="n.*"><select lemma="sivil" tags="n.*"/></match>
   </rule>
+
+<rule>
+    <match lemma="кәпір" tags="n.*"/>
+    <match lemma="дауа" tags="n.*"><select lemma="çare" tags="n.*"/></match>
+  </rule>
 <rule>
     <match lemma="және" tags="cnjcoo"/>
     <match lemma="мұнай" tags="n.*"><select lemma="petrol" tags="n.*"/></match>
@@ -62,6 +67,32 @@
     <match lemma="ғасыр" tags="n.*"/>
     <match lemma="аяқ" tags="n.*"><select lemma="son" tags="n.*"/></match>
   </rule>
+
+<rule>
+  <or>
+    <match lemma="өз" />
+    <match lemma="қалай" />
+    </or>
+    <match lemma="жаз" tags="v.*"><select lemma="iyileş" tags="v.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="құдай" tags="n.*"/>
+    <match lemma="жарық" tags="adj"><select lemma="parlak" tags="adj"/></match>
+  </rule>
+
+<rule>
+    <match lemma="бас" tags="n.*"/>
+    <match lemma="сұқ" tags="v.*"><select lemma="koy" tags="v.*"/></match>
+  </rule>
+
+
+<rule>
+    <match lemma="," />
+    <match lemma="мін" tags="v.*"><select lemma="seyret" tags="v.*"/></match>
+  </rule>
+
+
 <rule>
     <match  tags="num"/>
     <match lemma="ғасыр" tags="n.*"><select lemma="asır" tags="n.*"/></match>

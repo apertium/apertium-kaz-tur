@@ -1643,7 +1643,7 @@
 # text = Кімге жалынсын, кімге сенсін?
 # text[tur] = Kime yalvarsın, kime inansın?
 
-# sent_id = kdt.tagged.txt:79:1292 ****burdaburda
+# sent_id = kdt.tagged.txt:79:1292 
 # text = Алтынай малын сауады, өгізді көздейді, байлайды, отынын тереді, отын жағады, суын әкеледі, күл шығарады, тамағын істейді, киімін өзі тігеді, үйін жияды, сыпырады, қорасын тазалайды.
 # text[tur] = Altınay malını süt verir, öküzü belirir, bağlar, yakıtını devşirir, odunu yakar, suyunu getirir, kül çıkarır, yemeğini eyler, kılığını #kendi diker, evini toplar, süpürür, avlusunu temizler.
 
@@ -1985,7 +1985,7 @@
 
 # sent_id = kdt.tagged.txt:164:2652
 # text = Үй іші тастай қараңғы.
-# text[tur] = Ev içi çok karanlık.
+# text[tur] = Ev içi taşça karanlık.
 
 # sent_id = kdt.tagged.txt:165:2663
 # text = Үйдің іші сасық.
@@ -2029,7 +2029,7 @@
 
 # sent_id = kdt.tagged.txt:175:2767
 # text = "Кәпірді" құшақтаған арам қолымды қайтіп әкемнің адал дастарқанына апарып, қайтіп бір табақтан ас ішермін?
-# text[tur] = Imansızı kucakladığı arım kolumu dönüp babamın helal sofrasına taşıyıp, dönüp bir leğenden aş içeceğim?
+# text[tur] = Imansızı kucakladığı kirli kolumu dönüp babamın helal sofrasına taşıyıp, dönüp bir leğenden aş içeceğim?
 
 
 # sent_id = kdt.tagged.txt:176:2804
@@ -2042,7 +2042,7 @@
 
 # sent_id = kdt.tagged.txt:178:2826
 # text = Мыналарды көргенде өзі жазылған соң, Бекболат: "ауру қалай жазылмасын?" — деп ойлады.
-# text[tur] = Bunları görerek kendi yazıldığı sonra, Bekbolat: dert(hastalık) nasıl yazsın? — diyip sandı.
+# text[tur] = Bunları görerek kendisi iyileşildiği sonra, Bekbolat: dert(hastalık) nasıl iyileşsin? — diyip sandı.
 
 # sent_id = kdt.tagged.txt:179:2863
 # text = Бекболат сыртқы есікті ашып тысқа шықты.
@@ -2054,7 +2054,7 @@
 
 # sent_id = kdt.tagged.txt:181:2889
 # text = Мен, міне, құдайдың жарық күнін көрдім, жазылдым.
-# text[tur] = Ben ,burada, tanrının mühteşem gününü gördüm
+# text[tur] = Ben, seyrederek, tanrının parlak gününü gördüm, yazıldım.
 
 # sent_id = kdt.tagged.txt:182:2912
 # text = Ол осы күнде не күйде екен?
@@ -2066,7 +2066,7 @@
 
 # sent_id = kdt.tagged.txt:184:2938
 # text = Әлдебір сары орыспен құшақтасып отыр?
-# text[tur] = Manavi sarı rusla sarılıp oturun?
+# text[tur] = Kesin sarı rusla kucaklaşıyor?
 
 # sent_id = kdt.tagged.txt:185:2951
 # text = Сол кім екен?..
@@ -2074,7 +2074,7 @@
 
 # sent_id = kdt.tagged.txt:186:2964
 # text = Бекболат амандасты.
-# text[tur] = Bekbolat alkışlandı.
+# text[tur] = Bekbolat selamladı.
 
 # sent_id = kdt.tagged.txt:187:2971
 # text = Онымен таласқандай мұның не айбыны, не күші бар?
@@ -2134,7 +2134,7 @@
 
 # sent_id = kdt.tagged.txt:201:3200
 # text = Өзі шала қазақ.
-# text[tur] = Kendisi kısmi kazak. 
+# text[tur] = Kendisi sahte kazak. 
 
 # sent_id = kdt.tagged.txt:202:3209
 # text = Соның қатыны қазақ болатын.
@@ -2146,11 +2146,11 @@
 
 # sent_id = kdt.tagged.txt:204:3241
 # text = Бақша күзететін шал бұ не деп жетіп барса, екеуі екі жаққа қаша жөнеледі.
-# text[tur] = 
+# text[tur] = Bahçe koruyacak düşürelim bu ne diyip ulaşıp varsaӨзі шала қазақ., ikisi iki yöne kaçarak koşar.
 
 # sent_id = kdt.tagged.txt:205:3272
 # text = Бұ қыз кәпірге дауа жоқ...
-# text[tur] = Bu kız dinsiz  metot yok...
+# text[tur] = Bu kız imansız çare yok...
 
 # sent_id = kdt.tagged.txt:206:3285
 # text = Бекболат жымиып: — Ал, ал, — дей берді.
@@ -2294,7 +2294,7 @@
 
 # sent_id = kdt.tagged.txt:241:3884
 # text = Ауыз бөлмеде ортада үлкен үстел.
-# text[tur] = Mutfakta oratada büyük masa.
+# text[tur] = Giriş salonuda ortada büyük masa.
 
 # sent_id = kdt.tagged.txt:242:3897
 # text = Мұнша аспаптар қайдан келген?
@@ -2454,7 +2454,7 @@
 
 # sent_id = kdt.tagged.txt:281:4603
 # text = Бұл өзі бір атақты болыстың баласы.
-# text[tur] = Bu kendi bir mühteşem olun evladı.
+# text[tur] = Bu kendi bir meşhür eyalet evladı.
 
 # sent_id = kdt.tagged.txt:282:4618
 # text = Қаза берсек, түпкі ойы — бір үлкен орын еді.
