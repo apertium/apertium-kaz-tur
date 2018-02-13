@@ -1325,7 +1325,7 @@
 # text = Алматы қаласында лаңкестік әрекет орын алып, 5 полиция қызметкері мен 1 бейбіт тұрғын қаза тапты.
 # text[tur] = Almatı şehrinde terör hareket mavki muazzam, 5 polis memuru ve 1 barışçı yerleşim öldü.
 
-# sent_id = wikipedia-news.tagged.txt:11:267
+# sent_id = wikipedia-news.tagged.txt:11:267***burdaburda**
 # text = 5 полиция қызметкері жарақаттанған.
 # text[tur] = 5 polis memur yaralanmış.
 
@@ -1347,7 +1347,7 @@
 
 # sent_id = kdt.tagged.txt:5:53
 # text = Бұларды қуам деп оққа ұшқан кім?
-# text[tur] = Bunları izler konuşup uçmuş kim ?
+# text[tur] = Bunları kovalarım diyip uçmuş kim ?
 
 # sent_id = kdt.tagged.txt:6:68
 # text = Қане, осыны дауысқа саламын.
@@ -1363,15 +1363,15 @@
 
 # sent_id = kdt.tagged.txt:9:107
 # text = Інім Семейде оқуда.
-# text[tur] = Küçük kardeşimi Semeyda ara....?
+# text[tur] = Küçük erkek kardeşim Semey'de okumakta.
 
 # sent_id = kdt.tagged.txt:10:116
 # text = Көршінің қатыны мен қожаның өсегі білінген соң, әкеміз шығарып жіберіп, содан кейін көзіміз ашылды.
-# text[tur] = Komşunun kadını ve ev sahibi dedikodusu bilinmiş son, bablarmız çıkarıp, daha sonra gözlermiz açıldı.
+# text[tur] = Komşunun kadını ve ev sahibinin söylentisi bilinmiş sonra, babamız çıkarıp, ondan sonra gözümüz açıldı.
 
 # sent_id = kdt.tagged.txt:11:151
 # text = Бірақ оған артық араласпаймын.
-# text[tur] = Fakat o gereksiz yere dolaşmam.
+# text[tur] = Ama ona lüzümsüz yere karışmam.
 
 # sent_id = kdt.tagged.txt:12:162
 # text = Төбелес болса жасаққа шығамын, қыз қашқан, қатын кеткен топтардан қалмаймын.
@@ -1379,7 +1379,7 @@
 
 # sent_id = kdt.tagged.txt:13:189
 # text = Не болғанымды білмедім.
-# text[tur] = Ne bulmuşumu bilemedim.
+# text[tur] = Ne olduğmu bilemedim.
 
 
 # sent_id = kdt.tagged.txt:14:198
@@ -1388,7 +1388,7 @@
 
 # sent_id = kdt.tagged.txt:15:212
 # text = Қазақ солдаттан өлгенше қорқады.
-# text[tur] = Kazakh askerden ölümüne korkar.
+# text[tur] = Kazakh askerden ölesiye(ölünce) korkar.
 
 # sent_id = kdt.tagged.txt:16:223
 # text = Патшамен соғыс ашқанда, ел-жұрт, отанымды қорғауға, біз соғысқа бардық.
@@ -1396,11 +1396,11 @@
 
 # sent_id = kdt.tagged.txt:17:250
 # text = Анығында қазақ мемлекетке не пайда келтіріп отыр?
-# text[tur] = Şüphesiz kazak memlektte ne fayda getriyor?
+# text[tur] = Şüphesizinde kazak memlektte ne fayda getriyor?
 
 # sent_id = kdt.tagged.txt:18:267
 # text = Патша қазақты қара жұмысқа алам дегенде, қандай қорқып, абыржып, қиратылып қалды.
-# text[tur] = Padişah kazakı siyah işe alacam diyerek, kanca korkup, ürküp, mahfetti.
+# text[tur] = Padişah kazakı siyah işe alacam diyerek, nasıl korkup, ürküp, mahfetti.
 
 # sent_id = kdt.tagged.txt:19:298
 # text = Кім біледі, қолына қару берсе, орыс жұртына жау болып кетпесіне кімнің көзі жетеді?
@@ -1456,7 +1456,7 @@
 
 # sent_id = kdt.tagged.txt:32:503
 # text = Кедей жақтың келіншектеріне ет, май беріп, көңіл қостым.
-# text[tur] = Yoksul kişinin bayanlarına et, tereyağ verip, duyarlılık ekledim.
+# text[tur] = Fakir yönün eşlerine et, yağ verip, irade kattım.
 
 # sent_id = kdt.tagged.txt:33:526
 # text = Жылқы бағып жүріп, қалың беріп, қатын алдым.
@@ -1468,23 +1468,23 @@
 
 # sent_id = kdt.tagged.txt:35:570
 # text = Байдың малын, артық қатынын, жерін кедейге тартып әпереді деген лақаптар шыққан соң, жатсам ұйқым, тұрсам күлкім келмейді.
-# text[tur] = Zenginin malını, gereksiz kadını, yerini mahrumiyete verir demiş rumuzlar çıkmış son,yatsam uykumu, dursam gülmem gelmezdi.
+# text[tur] = Zenginin malını, lüzümsüz yere kadınını, yerini mahrumiyete çekip gösterir dediği rumuzlar çıkmış son, yatsam uykum, dursam kahkaham gelmez.
 
 # sent_id = kdt.tagged.txt:36:615
 # text = Біреу қазақ жақсы деді, біреу орыс жақсы деді.
-# text[tur] = Birisi kazak iyi dedi, birisi rus iyi dedi.
+# text[tur] = Biri kazak güzel dedi, biri rus güzel dedi.
 
 # sent_id = kdt.tagged.txt:37:636
 # text = Менен жұрт сескенейін деді.
-# text[tur] = Benden dünya korkayım dedi.
+# text[tur] = Benden dünya kork dedi.
 
 # sent_id = kdt.tagged.txt:38:647
 # text = Елге келген соң ауыл-ауылдан мал, киіз, төсек-орын, ыдыс-сайман алып жүрген ақтардың адамына жолығып, іш пікірім ішімде соларға кісі болдым.
-# text[tur] = Ülkeye gelmiş son köy-köyden mal, keçe, yatak-takım, sofra eşyası-takım kormuş beyazlarının insanlarına eskiden kalıp,iç görüşüm içimde şunlarda gencliği buldum.
+# text[tur] = Ülkeye gelmiş son köy-köyden mal, keçe, yatak-takım, sofra eşyası-takım kormuş beyazlarının insanlarına eskiden kalıp,iç görüşüm içimde şunlara gencliği buldum.
 
 # sent_id = kdt.tagged.txt:39:708
 # text = Олар маған жақсы қыз тауып бер деді.
-# text[tur] = Onlar bana iyi kız bul dedi.
+# text[tur] = Onlar bana güzel kız bul dedi.
 
 # sent_id = kdt.tagged.txt:40:725
 # text = Өмірі байдан, күштіден қорлық-зорлық көріп келдім.
@@ -1492,38 +1492,38 @@
 
 # sent_id = kdt.tagged.txt:41:746
 # text = Енді оларды мен несіне аяйын?
-# text[tur] = Şimdi onları ben nesine acıyım?
+# text[tur] = Şimdi onları ben nesine ayırayım?
 
 # sent_id = kdt.tagged.txt:42:759
 # text = Алып келген манағы қолын артып жатқан жирен орыс екен.
-# text[tur] = Vurulmuş sonuncu sürüsü büyüyormuş kırmızı rus
+# text[tur] = Vurulmuş sonuncu kolunu yükseldik kızıl saçlı rus imiş.
 
 # sent_id = kdt.tagged.txt:43:780
 # text = Бірақ енді қайта сүюге қызға ұмтылмады.
-# text[tur] = Ama şimdi gene sevmeye kıza telaş etmedi.
+# text[tur] = Ama şimdi gene sevmek kıza telaş etmedi.
 
 
 # sent_id = kdt.tagged.txt:44:795
 # text = Жирен орыс манағыдай емес.
-# text[tur] = Kızıl saçlı rus geçenlerde yok.
+# text[tur] = Kızıl saçlı rus sonuncu değil.
 
 # sent_id = kdt.tagged.txt:45:806
 # text = Шайларын ішіп, шылымдарын тартысып болған соң, өзгелері тысқа шықты.
-# text[tur] = Çayları içip, sigaraları tartışmış sonra, diğerleri sağa çıktı.
+# text[tur] = Çayları içip, sigaraları çekmiş sonra, öbürleri ofsayta çıktı.
 
 # sent_id = kdt.tagged.txt:46:831
 # text = Орыстар тұра ұмтылды.
-# text[tur] =Ruslar olarak telaş etti. 
+# text[tur] =Ruslar durarak telaş etti.
 
 # sent_id = kdt.tagged.txt:47:840
 # text = Өлген жирен орысты көп солдат алып кетті.
-# text[tur] =  Ölmüş kızıl saçlı rusu birçok asker götürdü.
+# text[tur] =  Ölen kızıl saçlı rusu birçok asker götürdü.
 
 # sent_id = kdt.tagged.txt:48:857
 # text = Бірақ төбелесіп өлтіріспей, алыстан атып өлтіріскеніне түсіне алмады.
-# text[tur] = Fakat dövüşüp öldürmeyip, uzaktan atıp katlederek anlayamadı. 
+# text[tur] = Fakat dövüşüp öldürmeyip, uzaktan atıp katlettiğine anlayamadı.
 
-# sent_id = kdt.tagged.txt:49:878   ****burdaburda**
+# sent_id = kdt.tagged.txt:49:878  
 # text = — Мына төре сені жақсы көрген.
 # text[tur] = Bu patron seni sevmiş.
 
@@ -1981,7 +1981,7 @@
 
 # sent_id = kdt.tagged.txt:163:2631
 # text = Және осы күйсіз қалпында тәуір үйге бас сұғуға қорланды.
-# text[tur] = 
+# text[tur] = Ve şu şartsız kalıpında doğru eve baş koymaya utanıldı.
 
 # sent_id = kdt.tagged.txt:164:2652
 # text = Үй іші тастай қараңғы.
@@ -2282,7 +2282,7 @@
 
 # sent_id = kdt.tagged.txt:238:3837
 # text = Бекболат көр-жерді айтысып тұрып, арғы үйге қарай жүрді.
-# text[tur] = Bekbolat bütün-dünyayı  açıklayıp durup,uzak eve gitti.
+# text[tur] = Bekbolat boş-lafı söyleyip, uzak eve baktı.
 
 # sent_id = kdt.tagged.txt:239:3862
 # text = — О, құрып қал!

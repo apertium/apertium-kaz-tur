@@ -215,7 +215,7 @@
 <e><p><l>немене<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>әрбіреу<s n="prn"/><s n="ind"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
 <e><p><l>немене<s n="prn"/><s n="itg"/></l><r>neyi<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>немене<s n="prn"/><s n="itg"/></l><r>ne<b/>bu<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>не<s n="prn"/><s n="itg"/></l><r>ne<b/>bu<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>қай<s n="prn"/><s n="ind"/></l><r>hangi<s n="prn"/><s n="ind"/></r></p></e>
 <e><p><l>қанша<s n="det"/><s n="qnt"/></l><r>ne<b/>kadar<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>ешнәрсе<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
@@ -2649,8 +2649,7 @@
      <e><p><l>хабар<s n="n"/></l><r>haber<s n="n"/></r></p></e>
      <e><p><l>хабар<s n="n"/></l><r>ikaz<s n="n"/></r></p></e>
      <e><p><l>хабар<s n="n"/></l><r>mesaj<s n="n"/></r></p></e>
-     <e><p><l>хақ<s n="n"/></l><r>ak<s n="n"/></r></p></e>
-     <e><p><l>хақ<s n="n"/></l><r>beyaz<s n="n"/></r></p></e>
+    
      <e><p><l>хақ<s n="n"/></l><r>hakikat<s n="n"/></r></p></e>
      <e><p><l>хал<s n="n"/></l><r>ahval<s n="n"/></r></p></e>
      <e><p><l>хал<s n="n"/></l><r>konum<s n="n"/></r></p></e>
@@ -5705,7 +5704,7 @@
      <e><p><l>алғашқы<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
      <e><p><l>алыс<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
      
-     <e><p><l>анық<s n="adj"/></l><r>şüphesiz<s n="adv"/></r></p></e>
+     <e><p><l>анық<s n="adj"/></l><r>şüphesiz<s n="adj"/></r></p></e>
      
      <e><p><l>арғы<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
      <e><p><l>арзан<s n="adj"/><s n="comp"/><s n="advl"/></l><r>ucuz<s n="adj"/></r></p></e>
@@ -6265,6 +6264,8 @@
 
      <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
 <e><p><l>абыржы<s n="v"/><s n="iv"/></l><r>ürk<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>қорла<s n="v"/><s n="tv"/></l><r>utan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ақта<s n="v"/><s n="tv"/></l><r>ağar<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>қой<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жинал<s n="v"/><s n="iv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
