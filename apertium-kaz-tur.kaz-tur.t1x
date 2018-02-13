@@ -230,6 +230,9 @@
 <def-cat n="aor-evid">
       <cat-item tags="v.*.*.aor.evid.*"/>
     </def-cat>
+<def-cat n="past-evid">
+      <cat-item tags="v.*.past.evid.*"/>
+    </def-cat>
 
 
    
@@ -244,8 +247,10 @@
 <def-attr n="evid">
       <attr-item tags="aor.evid"/>
       <attr-item tags="ifi.evid"/>
+      <attr-item tags="past.evid"/>
 <attr-item tags="prog.evid"/>
 <attr-item tags="aor"/>
+<attr-item tags="past"/>
       <attr-item tags="dub.aor"/>
     </def-attr>
 
@@ -2481,6 +2486,43 @@
                              
         
       <let><clip pos="1" side="tl" part="evid"/><lit-tag v="ifi"/></let>
+    </when>
+</choose>
+
+        <out>
+
+          <chunk name="v" case=
+          "caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             
+            </lu>
+         
+          
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: past-evid"> <!--деген екен -> demiş  not working yet-->
+      <pattern>
+      
+        <pattern-item n="past-evid"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+     
+      <test><equal><clip pos="1" side="tl" part="evid"/><lit-tag v="past.evid"/></equal></test>
+                             
+        
+      <let><clip pos="1" side="tl" part="evid"/><lit-tag v="past"/></let>
     </when>
 </choose>
 

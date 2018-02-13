@@ -82,8 +82,23 @@
   </rule>
 
 <rule>
+    <match lemma="кейде" tags="adv"/>
+    <match lemma="жұрт" tags="n.*"><select lemma="millet" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="Ол" tags="prn.*"/>
+    <match lemma="дүние" tags="n.*"><select lemma="servet" tags="n.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="лаңкестік" tags="n.*"/>
     <match lemma="әрекет" tags="n.*"><select lemma="harekat" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="өмір" tags="n.*"/>
+    <match lemma="қатты" tags="adj"><select lemma="sert" tags="adj"/></match>
   </rule>
 
 <rule>
@@ -174,14 +189,27 @@
     <match lemma="құқық" tags="n.*"><select lemma="hukuk" tags="n.*"/></match>
   </rule>
 <rule>
+   <or>
     <match lemma="," />
+    <match lemma="торғай" />
+    </or>
     <match lemma="жан" tags="n.*"><select lemma="can" tags="n.*"/></match>
+    
   </rule>
 
 
 <rule>
     <match lemma="ми" tags="n.*"/>
     <match lemma="қон" tags="v.*"><select lemma="yerleş" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="тақырып" tags="n.*"/>
+    <match lemma="қозға" tags="v.*"><select lemma="kaldır" tags="v.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="қарсы" tags="adj"/>
+    <match lemma="күрес" tags="n.*"><select lemma="mücedele" tags="n.*"/></match>
   </rule>
 
 <rule>

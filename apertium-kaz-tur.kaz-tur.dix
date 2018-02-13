@@ -209,6 +209,8 @@
      <e><p><l>біреу<s n="prn"/><s n="pers"/></l><r>birisi<s n="prn"/><s n="pers"/></r></p></e>
 <e><p><l>біреу<s n="prn"/><s n="ind"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>мен<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
+
+<e><p><l>бірқатар<s n="prn"/><s n="qnt"/></l><r>bazıları<s n="prn"/><s n="qnt"/></r></p></e>
 <e><p><l>сен<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
   <e><p><l>ештеңе<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
 <e><p><l>Ешкім<s n="prn"/><s n="neg"/></l><r>hiç<b/>kimse<s n="prn"/><s n="neg"/></r></p></e>
@@ -325,6 +327,8 @@
 <e><p><l>бір<b/>ауыз<s n="n"/></l><r>müttefik<s n="n"/></r></p></e>
 <e><p><l>өзін-өзі<b/>басқару<s n="n"/></l><r>özyönetim<s n="n"/></r></p></e>
 <e><p><l>мифтік<s n="adj"/></l><r>efsane<s n="n"/></r></p></e>
+<e><p><l>серпін<s n="n"/></l><r>dürtü<s n="n"/></r></p></e>
+<e><p><l>жүйріктік<s n="n"/></l><r>sürat<s n="n"/></r></p></e>
 <e><p><l>бастауыш<s n="n"/></l><r>temel<s n="n"/></r></p></e>
 <e><p><l>арам<s n="n"/></l><r>kirli<s n="n"/></r></p></e>
 <e><p><l>шала<s n="n"/></l><r>sahte<s n="n"/></r></p></e>
@@ -1722,8 +1726,8 @@
      <e><p><l>көт<s n="n"/></l><r>göt<s n="n"/></r></p></e>
      <e><p><l>көт<s n="n"/></l><r>popo<s n="n"/></r></p></e>
      <e><p><l>көшбасшы<s n="n"/></l><r>başkan<s n="n"/></r></p></e>
-     <e><p><l>көшбасшы<s n="n"/></l><r>elebaş<s n="n"/></r></p></e>
-     <e><p><l>көшбасшы<s n="n"/></l><r>halef<s n="n"/></r></p></e>
+     
+    
      <e><p><l>көше<s n="n"/></l><r>cadde<s n="n"/></r></p></e>
      <e><p><l>қожа<s n="n"/></l><r>ev<b/>sahibi<s n="n"/></r></p></e>
      <e><p><l>қошқар<s n="n"/></l><r>koç<s n="n"/></r></p></e>
@@ -2944,7 +2948,7 @@
      <e><p><l>көкжөтел<s n="n"/></l><r>boğmaca<s n="n"/></r></p></e>
      <e><p><l>көкбауыр<s n="n"/></l><r>dalak<s n="n"/></r></p></e>
      <e><p><l>қозғалтқыш<s n="n"/></l><r>motor<s n="n"/></r></p></e>
-     <e><p><l>қозға<s n="v"/><s n="iv"/></l><r>kaldır<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>қозға<s n="v"/><s n="tv"/></l><r>kaldır<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>көгал<s n="n"/></l><r>çimen<s n="n"/></r></p></e>
      <e><p><l>көбейту<s n="n"/></l><r>çarpma<s n="n"/></r></p></e>
      <e><p><l>кобальт<s n="n"/></l><r>kobalt<s n="n"/></r></p></e>
@@ -4964,7 +4968,7 @@
      <e><p><l>Лихтенштейн<s n="np"/><s n="top"/></l><r>Lihtenştayn<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Лондон<s n="np"/><s n="top"/></l><r>Londra<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Луизиана<s n="np"/><s n="top"/></l><r>Louisiana<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Лужков<s n="np"/><s n="cog"/><s n="m"/></l><r>Lujkov<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+     <e><p><l>Лужков<s n="np"/><s n="cog"/></l><r>Lujkov<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Лхаса<s n="np"/><s n="top"/></l><r>Lhasa<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Львов<s n="np"/><s n="top"/></l><r>Lviv<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Любляна<s n="np"/><s n="top"/></l><r>Ljubljana<s n="np"/><s n="top"/></r></p></e>
@@ -5561,6 +5565,7 @@
 
      <e><p><l>авторитарлық<s n="adj"/></l><r>otoriter<s n="adj"/></r></p></e>
 <e><p><l>практикалық<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
+
 <e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>тілсіз<s n="adj"/></l><r>kazanacak<s n="adj"/></r></p><par n="a1_a1"/></e>
@@ -5574,6 +5579,8 @@
 <e><p><l>дебютант<s n="adj"/></l><r>acemi<s n="adj"/></r></p></e>
 <e><p><l>надан<s n="adj"/></l><r>cahil<s n="adj"/></r></p></e>
 <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
+
+<e><p><l>жаһандық<s n="adj"/></l><r>küresel<s n="adj"/></r></p></e>
 <e><p><l>жиі<s n="adj"/></l><r>sık<s n="adj"/></r></p></e>
 <e><p><l>әртүрлі<s n="adj"/></l><r>değişik<s n="adj"/></r></p></e>
 <e><p><l>тиіс<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
@@ -5583,6 +5590,7 @@
 <e><p><l>түр-түсіне<s n="adj"/></l><r>makul<s n="adj"/></r></p></e>
 <e><p><l>тумысынан<s n="adj"/></l><r>doğuştan<s n="adj"/></r></p></e>
 
+<e><p><l>қысқы<s n="adj"/></l><r>kıştan<b/>kalma<s n="adj"/></r></p></e>
 <e><p><l>эллиндік<s n="adj"/></l><r>yunan<s n="adj"/></r></p></e>
 <e><p><l>кіші<s n="adj"/></l><r>aşağı<s n="adj"/></r></p></e>
 <e><p><l>мүліктік<s n="adj"/></l><r>mülküyet<s n="n"/></r></p></e>
@@ -5849,7 +5857,7 @@
      <e><p><l>қатаң<s n="adj"/></l><r>sert<s n="adj"/></r></p></e>
      <e><p><l>қатты<s n="adj"/></l><r>çabuk<s n="adj"/></r></p><par n="a1_a1"/></e>
      <e><p><l>қатты<s n="adj"/></l><r>hızlı<s n="adj"/></r></p><par n="a1_a1"/></e>
-     
+      <e><p><l>қатты<s n="adj"/></l><r>sert<s n="adj"/></r></p><par n="a1_a1"/></e>
     
      <e><p><l>қауқарсыз<s n="adj"/></l><r>miskin<s n="adj"/></r></p></e>
      <e><p><l>кедей<s n="adj"/></l><r>fakir<s n="adj"/></r></p></e>
@@ -6934,7 +6942,7 @@
      <e><p><l>бітір<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
      
      <e><p><l>тауыс<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>тауар<b/>айналым<s n="n"/></l><r>ticaret<s n="v"/></r></p></e>
+     <e><p><l>тауар<b/>айналым<s n="n"/></l><r>ticaret<s n="n"/></r></p></e>
      <e><p><l>есті<s n="v"/><s n="tv"/></l><r>öğren<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>есіт<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>аңда<s n="v"/><s n="tv"/></l><r>anla<s n="v"/><s n="tv"/></r></p></e>
@@ -7240,6 +7248,7 @@
 
 <e><p><l>анау<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>бүкіл<s n="det"/><s n="qnt"/></l><r>tüm<s n="det"/><s n="dem"/></r></p></e>
+<e><p><l>әлгі<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>бірнеше<s n="det"/><s n="qnt"/></l><r>birkaç<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>бұл<s n="det"/><s n="dem"/><s n="qnt"/></l><r>bu<s n="det"/><s n="dem"/><s n="qnt"/></r></p></e>
 <e><p><l>бұл<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>

@@ -1093,13 +1093,13 @@
 # text = Сондай-ақ Қазақстан Иранға астық жеткізіп тұруға мүдделі.
 # text[tur] = Yanı-sıra Kazakistan İrana tahıl ihracatı ilgili.
 
-# sent_id = akorda-random.tagged.txt:272:4865
+# sent_id = akorda-random.tagged.txt:272:4865 ***burdaburda**
 # text = Әңгімелесуші тараптар әлемдегі саяси және экономикалық ахуалды талқылады.
 # text[tur] = Muhatıp taraflar dünyadaki siyasi ve ekonomik durumu tartıştı.
 
 # sent_id = akorda-random.tagged.txt:273:4884
 # text = Бәрі де болған жәйтті айыптайды.
-# text[tur] = Hepsi de bulmuş durmuı ayıplar.
+# text[tur] = Tümü da olduğu durumu kınar.
 
 # sent_id = akorda-random.tagged.txt:274:4896
 # text = Жабдықтар осы жылдың наурызында іске қосылады.
@@ -1107,7 +1107,7 @@
 
 # sent_id = akorda-random.tagged.txt:275:4911
 # text = Біз аса маңызды кездесу өткіздік.
-# text[tur] = Biz üstelik önemli toplantı denedik
+# text[tur] = Biz yüzleşerek özü görüşme yönettik.
 
 # sent_id = akorda-random.tagged.txt:276:4924
 # text = Алқапта саңырауқұлақтар мен жеміс-жидектер өсіп жатыр.
@@ -1115,19 +1115,19 @@
 
 # sent_id = akorda-random.tagged.txt:277:4943
 # text = Азық-түлікке деген қажеттілік арта береді.
-# text[tur] = Gida  ihtıyaç artır.
+# text[tur] = Gidaya dediğim ihtiyaç yükselir.
 
 # sent_id = akorda-random.tagged.txt:278:4956
 # text = Атқарылған жұмыстың нәтижесі көзге бірден түседі.
-# text[tur] = Tahliye edilmiş çalışmalarının neticesi görünüşe derhal açılır.
+# text[tur] = Kurulmuş işin neticesi göze hemen düşer.
 
 # sent_id = akorda-random.tagged.txt:279:4971
 # text = Бүгін Президент «Қазақмыс» корпорациясының мыс ерітетін зауытында болды.
-# text[tur] = Bugün Başkan «Kazakhmys» kurumunun pirinç eritme bira fabrikasında bulundu.
+# text[tur] = Bugün Başkan «Kazakhmys» kurumunun mis eritecek fabrikasında bulundu.
 
 # sent_id = akorda-random.tagged.txt:280:4994
 # text = Мәңгілік Ел – жалпы қазақстандық ортақ шаңырағымыздың ұлттық идеясы.
-# text[tur] = Sonsuzlk Ülke-genelde kazakistanlı ortak....?mili düşüncesi.
+# text[tur] = Dayanaklı Ülke – genel kazak ortak yurdumuzun ulusal ideası.
 
 # sent_id = akorda-random.tagged.txt:281:5015
 # text = Біз әрдайым қарым-қатынасымыздың серпінін қанағаттанарлық сезіммен айқындаймыз.
@@ -1139,7 +1139,7 @@
 
 # sent_id = akorda-random.tagged.txt:283:5047
 # text = Мемлекет жыл сайын 2 миллиард 300 миллион теңгеден астам қаржы бөледі.
-# text[tur] = Memeleket yıllık 2 millyar 300 milyon tengeden daha fazla maliye ayırır.
+# text[tur] = Memleket her yıl 2 milyar 300 milyon tengeden ziyade harç ayırdı.
 
 # sent_id = akorda-random.tagged.txt:284:5072
 # text = Бізді жеке достығымыз бен тығыз іскерлік қатынастар байланыстырады.
@@ -1147,11 +1147,11 @@
 
 # sent_id = akorda-random.tagged.txt:285:5091
 # text = Біз елде тұрақтылық болғанда ғана оның дами алатынына сенеміз.
-# text[tur] = Biz ülkede istikrar sanırız.....?  
+# text[tur] = Biz ülkede istikrar oldukta  onun gelişerek alanına inanırız.  
 
 # sent_id = akorda-random.tagged.txt:286:5111
 # text = Сондықтан да жаңа елордада біз жаңа мәдениет ошақтарын құруға тырыстық.
-# text[tur] = Sonrada da yeni başkentte biz yeni medeniyet ocaklarını kurmaya kalkıştık.
+# text[tur] = Sonra da yeni başkentte biz yeni kültür ocaklarını yapmaya kalkıştık.
 
 # sent_id = akorda-random.tagged.txt:287:5133
 # text = - Соңғы 30 жылда Малайзия аса жылдам дамыды.
@@ -1159,15 +1159,15 @@
 
 # sent_id = akorda-random.tagged.txt:288:5152
 # text = Екі мемлекет басшылары шағын және кеңейтілген құрамда келіссөздер жүргізді.
-# text[tur] = İki memleket başkanları küçük ve genişletilmiş kapsmada yakınlıklar yönett.
+# text[tur] = Iki memleket başkanları küçük ve genişletildiği kapsamda müzekereler yönetti.
 
 # sent_id = akorda-random.tagged.txt:289:5173
 # text = Нақ мұндайды мен әлемнің ешбір жерінен көрген емеспін.
-# text[tur] = tamamen bundandı ve dünyanın hiçbir yerinden görmemişim.
+# text[tur] = Tamamen bunu ben evrenin hiçbir yerinden görmemişim.
 
 # sent_id = akorda-random.tagged.txt:290:5190
 # text = Біз бірқатар экономикалық ынтымақтастық мәселелері бойынша келісімге келдік.
-# text[tur] = Biz birçok ekonomik işbirliği meseleleri boyunca düzenlemeye gelidik.
+# text[tur] = Biz birkaç ekonomik işbirliktelik meseleleri boyunca anlaşmaya geldik.
 
 # sent_id = akorda-random.tagged.txt:291:5209
 # text = 2008-2009 жылдардағы жаһандық дағдарыс осыны айғақтады.
@@ -1175,7 +1175,7 @@
 
 # sent_id = akorda-random.tagged.txt:292:5228
 # text = Қазақстанды өзіміздің досымыз ретінде сезіну бізді зор қуанышқа бөлейді.
-# text[tur] = Kazakistanı kendimizin dostumuz süresinde farkındalık  bizi büyük sevince ayrırır.
+# text[tur] = Kazakistan'ı kendimizin dostumuz süresinde hissetme bizi büyük sevinçe ayırır.
 
 # sent_id = akorda-random.tagged.txt:293:5249
 # text = Өзара тауар айналымының деңгейі 53 миллиард долларға жетті.
@@ -1183,7 +1183,7 @@
 
 # sent_id = akorda-random.tagged.txt:294:5268
 # text = Біз Қазақстанға күллі әлем үшін жасаған жұмыстары үшін алғыс айтамыз.
-# text[tur] = Biz Kazakistana bütün dünya için yapılmış işleri için teşekkür ederiz. 
+# text[tur] = Biz Kazakistana bütün dünya için yaptığı işleri için teşekkür ederiz. 
 
 # sent_id = akorda-random.tagged.txt:295:5291
 # text = Нұрсұлтан Назарбаев сондай-ақ облыстың Қан құю орталығында болды.
@@ -1191,19 +1191,19 @@
 
 # sent_id = akorda-random.tagged.txt:296:5310
 # text = Бұл іс айыптау қорытындысымен прокуратураға жіберілді.
-# text[tur] = Bu çalışma ihbar tutarıyla savcılığa gönderildi.
+# text[tur] = Bu iş kınama derivasyonuyla savcılığa gönderildi.
 
 # sent_id = akorda-random.tagged.txt:297:5325
 # text = Сондай-ақ жаттығу залы мен қысқы бақ бар.
-# text[tur] = Yanı-sıra egzersiz holu ve soğuk bahçe var.
+# text[tur] = Yanı-sıra çalışma holu ve kıştan kalma ağaç var.
 
 # sent_id = akorda-random.tagged.txt:298:5342
 # text = Төртінші – экспортқа бағдарлау.
-# text[tur] = Dördünü - ihracet oryantasyon.
+# text[tur] = Dördüncü – ihracata yönelim.
 
 # sent_id = akorda-random.tagged.txt:299:5353
 # text = Жаппай тәртіпсіздік фактілері бойынша қылмыстық іс қозғалды.
-# text[tur] = Örtmeyip disiplinsizlik nitelikleri boyunca suçlu iş taşındı.
+# text[tur] = Tüm disiplinsizlik nitelikleri boyunca suçlu iş taşındı.
 
 # sent_id = akorda-random.tagged.txt:300:5370
 # text = Сіздерді Рождество жарқын мейрамымен шын жүректен құттықтаймын!
@@ -1211,7 +1211,7 @@
 
 # sent_id = akorda-random.tagged.txt:301:5387
 # text = Юрий Лужков жаңа туындының қолжазбасымен танысып шығыпты.
-# text[tur] = Yuri Lujkov yeni türevinin el yazısıyla alıştırılmış.
+# text[tur] = Yuri Lujkov yeni türevin kompozisyonuyla tanıştı.
 
 # sent_id = akorda-random.tagged.txt:302:5404
 # text = Бүгін Мемлекет басшысы Назарбаев Университетінде болды.
@@ -1219,15 +1219,15 @@
 
 # sent_id = akorda-random.tagged.txt:303:5419
 # text = 156 мектеп жөндеуден өтті.
-# text[tur] = 156 okul onarıldı.
+# text[tur] = 156 okul onarmadan oldu.
 
 # sent_id = akorda-random.tagged.txt:304:5430
 # text = Осы мақсатқа қажетті қаражат бөлінді.
-# text[tur] = Şu maksatta gerekli gelir ayırldı.
+# text[tur] = Şu maksata gerekli gelir ayırldı.
 
 # sent_id = akorda-random.tagged.txt:305:5443
 # text = Әрқашан аспанымыз ашық болсын.
-# text[tur] = Her zaman gök yüzümüz açık olsun.
+# text[tur] = Her zaman gökümüz açık olsun.
 
 # sent_id = akorda-random.tagged.txt:306:5454
 # text = Қазақстан – уран өндіруде әлемдік көшбасшы.
@@ -1243,43 +1243,43 @@
 
 # sent_id = akorda-random.tagged.txt:309:5507
 # text = Ұлы Абай «Адамның ұлылығы ұстазынан», деген екен.
-# text[tur] = Müthiş Abay «Adamnın  öğretmenindan»....?
+# text[tur] = Ulu Abay «Adam'ın izzeti üstatından» demiş.
 
 # sent_id = akorda-random.tagged.txt:310:5528
 # text = Қазақстандағы Украина жылы да шараларға толы және мазмұнды болмақ.
-# text[tur] = kazakistandaki Ukrayna dostça da tabiatlere dolu manalı.....?
+# text[tur] = Kazakistan'daki Ukrayna yıl da müsabakalara dolu ve bilgilendirici olacak.
 
 # sent_id = akorda-random.tagged.txt:311:5548
 # text = Бүгін солардың бірқатары Нұрсұлтан Әбішұлы Назарбаевпен кездесуге келді.
-# text[tur] = Bugün şuların birçoğı Nursultan Abishuly Nazarbayev toplantıya geldi.
+# text[tur] = Bugün şuların bazıları Nursultan Abishuly Nazarbayev görüşmeye geldi.
 
 # sent_id = akorda-random.tagged.txt:312:5567
 # text = Православие-Қазақстанда ең көп тараған конфессияның бірі.
-# text[tur] = Ortodoks-Kazakistanda en fazla yayılmış itiraflarnın biri
+# text[tur] = Ortodoks-Kazakistan'da en fazla yaydığı itirafın biri.
 
 # sent_id = akorda-random.tagged.txt:313:5586
 # text = Сенатор Серік Ақылбай қылмысқа қарсы күрес тақырыбын қозғады.
-# text[tur] = Senatör Serik Akylbai suça karşı mücadele konusunu kaldırdı.
+# text[tur] = Senatör Serik Akylbai suça karşı mücedele konusunu kaldırdı.
 
 # sent_id = akorda-random.tagged.txt:314:5605
 # text = Республика өте зор әлеуетке ие болатын.
-# text[tur] = Cumhuriyet çok şaşırtıcı potansiyele sahip oldu.
+# text[tur] = Cumhuriyet çok büyük potansiyele sahip olmuş.
 
 # sent_id = akorda-random.tagged.txt:315:5620
 # text = Біздің еліміздің экономикасы артқан сайын халықтың да тұрмысы жақсара бермек.
-# text[tur] = Bizim ülkemizin ekonomisi artmış kadar halkın da yaşamı gelişecek.
+# text[tur] = Bizim ülkemizin ekonomisi yükseldiği kadar halkın da hayatı gelişecek.
 
 # sent_id = akorda-random.tagged.txt:316:5642
 # text = Бұл ретте сыртқы қарыздың өсуіне байланысты проблема бар.
-# text[tur] = Bu vakitte dış şirketnin yükselmesine bağlı problem var.
+# text[tur] =Bu sürede dış borçun büyümesine bağlı sorun var.
 
 # sent_id = akorda-random.tagged.txt:317:5661
 # text = - Астана қаласы қарқынды дамып келеді.
-# text[tur] = Astana şehri geniş ölçüde gelişir.
+# text[tur] = - Astana kenti geniş ölçüde gelişir.
 
-# sent_id = akorda-random.tagged.txt:318:5676 **burdaburad
+# sent_id = akorda-random.tagged.txt:318:5676 
 # text = Заңның мәтіні баспасөзде жарияланады.
-# text[tur] = Yasanın metini yayın evinde yayınlanır.
+# text[tur] = Yasanın metini basında yayınlanır.
 
 # sent_id = Махамбет_Өтемісұлы.tagged.txt:1:0
 # text = 1939 ж. Қ. Жұмалиев Махамбет өлеңдерінің жинағын шығарды.
@@ -1905,7 +1905,7 @@
 
 # sent_id = kdt.tagged.txt:144:2292
 # text = Ол торғайдың түскен жері қалың шөп.
-# text[tur] = o serçenin inilmiş yeri kalın çim.
+# text[tur] = O serçenin düştüğü yeri kalın çim.
 
 # sent_id = kdt.tagged.txt:145:2307
 # text = Торғайды ажалдан аман алып қалғанына қуанды.
@@ -1921,11 +1921,11 @@
 
 # sent_id = kdt.tagged.txt:148:2340
 # text = Бір жапырақ етім бар.
-# text[tur] = Bir yaprak yapım var.
+# text[tur] = Bir yaprak etim var.
 
 # sent_id = kdt.tagged.txt:149:2351
 # text = Ол дүние жинамайды.
-# text[tur] = o servert biriktirmiyor.
+# text[tur] = O servet toparlamaz.
 
 # sent_id = kdt.tagged.txt:150:2360
 # text = Үлкенді "әке", "аға" деп тұрады.
@@ -1933,19 +1933,19 @@
 
 # sent_id = kdt.tagged.txt:151:2383
 # text = Мейлі жаңа түскен келіншек болсын, қатын біткенді "шеше" дейді.
-# text[tur] = İstifa yeni geçirilmiş bayan olmasın, kadın yıllanmışı "anne" der.
+# text[tur] = Herneyse yeni düştüğü eş olsun, kadın yaşlı anne der.
 
 # sent_id = kdt.tagged.txt:152:2410
 # text = Еркек, әйел деп айырмайды, бала біткенді "балақайым" дейді, кісіге өмірі қатты сөз айтпайды.
-# text[tur] = Erkek, kadın diyip ayırmaz, evlat biterek sihirli çocukum der, kişiye yaşamı hızlı söz söylemez.
+# text[tur] = Erkek, kadın diyip ayırmaz, evlat biterek sihirli çocukum der, kişiye yaşamı sert söz söylemez.
 
 # sent_id = kdt.tagged.txt:153:2449
 # text = Ит біткен шулап артында жүреді.
-# text[tur] = İT yaşlanmış kargaşa ardında yürür.
+# text[tur] = İt bittiği gürleyip arkasında gezer.
 
 # sent_id = kdt.tagged.txt:154:2462
 # text = Бар мақтанатыны — жүйріктігі.
-# text[tur] = Var övüneni-
+# text[tur] = Var övüneni — süratı.
 
 # sent_id = kdt.tagged.txt:155:2473
 # text = Бірінен қалдым деп айтпайды.
@@ -1953,7 +1953,7 @@
 
 # sent_id = kdt.tagged.txt:156:2484
 # text = Кейде жұрт намаз оқып жатса, дәрет алмастан жалаң аяқ барып, қатарға отыра кетеді.
-# text[tur] = Kei'de dünya namaz okusa, abdest almayacaktan yalınayak gidip, sıraya oturur.
+# text[tur] = Bazen millet namaz okusa, abdest almayacaktan yalınayak gidip, sıraya oturur.
 
 # sent_id = kdt.tagged.txt:157:2517
 # text = Бірталай жер жүрді.
