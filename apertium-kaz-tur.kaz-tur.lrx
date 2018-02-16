@@ -82,7 +82,10 @@
   </rule>
 
 <rule>
-    <match lemma="кейде" tags="adv"/>
+  <or>
+    <match lemma="кейде"/>
+<match lemma="-"/>
+  </or>
     <match lemma="жұрт" tags="n.*"><select lemma="millet" tags="n.*"/></match>
   </rule>
 
@@ -202,9 +205,20 @@
     <match lemma="ми" tags="n.*"/>
     <match lemma="қон" tags="v.*"><select lemma="yerleş" tags="v.*"/></match>
   </rule>
+
+
+<rule>
+    <match lemma="алтын" tags="n.*"/>
+    <match lemma="жең" tags="v.*"><select lemma="kazan" tags="v.*"/></match>
+  </rule>
+
 <rule>
     <match lemma="тақырып" tags="n.*"/>
     <match lemma="қозға" tags="v.*"><select lemma="kaldır" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="Жоба" tags="n.*"/>
+    <match lemma="құн" tags="n.*"><select lemma="maliyet" tags="n.*"/></match>
   </rule>
 
 <rule>
