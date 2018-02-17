@@ -1650,7 +1650,7 @@
 
 # sent_id = kdt.tagged.txt:80:1365
 # text = Мұның бәрі оған құдайдың бұйырған жұмысы тәрізді.
-# text[tur] = Bunun hepsi ona tanrının söylemiş işini benzer.
+# text[tur] = Bunun tümü ona tanrının söylediği işi gibi.
 
 # sent_id = kdt.tagged.txt:81:1382
 # text = Бұл — құдайдың бұйрығы.
@@ -1662,7 +1662,7 @@
 
 # sent_id = kdt.tagged.txt:83:1410
 # text = Байы атқа мініп, кісі болды.
-# text[tur] = Zengin adamın ata biniyip, kişi buldu.
+# text[tur] = kocası ata biniyip, adam oldu.
 
 # sent_id = kdt.tagged.txt:84:1425
 # text = Кісі болғалы, үйі үй болып келеді.
@@ -1678,7 +1678,7 @@
 
 # sent_id = kdt.tagged.txt:87:1468
 # text = Қазақтың сондай телмірген әдеті құрысын!
-# text[tur] = Kazağın şu başladığı geleneki yoketsin!
+# text[tur] = Kazağın şu başladığı geleneği yok olsun!
 
 # sent_id = kdt.tagged.txt:88:1481
 # text = Олар қайда?
@@ -1710,7 +1710,7 @@
 
 # sent_id = kdt.tagged.txt:95:1544
 # text = Өйткені ол жара атын атауға — адамның аузы жиренетін жара еді.
-# text[tur] = Because o yara adın ada - adamnın ağzı .....?
+# text[tur] = Zira o yara adını çağırmaya — adamın ağızı aşağılayacak yaraydı
 
 # sent_id = kdt.tagged.txt:96:1569
 # text = Және ол қашанғы дау?
@@ -1758,7 +1758,7 @@
 
 # sent_id = kdt.tagged.txt:107:1736
 # text = — Мені неге атасың?
-# text[tur] = Beni niye dedeni?
+# text[tur] = — Beni neye öldürmeysin?
 
 # sent_id = kdt.tagged.txt:108:1747
 # text = Мен саған тағы керек болмасымды қайдан білесің?
@@ -1818,7 +1818,7 @@
 
 # sent_id = kdt.tagged.txt:122:1945
 # text = Асумен асып елге бара жатқан, елден мал, азық-түлік алып келе жатқан орыстарды талай көрген.
-# text[tur] = Yüzleşmeyle yüzleşip ülkeye gitmiş, ülkeden mal, gida getirdik rusları birçok görmüş.
+# text[tur] = engel ile yüzleşip ülkeye gitmiş, ülkeden mal, gida getirdik rusları birçok görmüş.
 
 # sent_id = kdt.tagged.txt:123:1984
 # text = Оларға көзі түскенде күйінген, өкінген, жиренген, әйтеуір өзегін өртеген бір жаман сезім пайда болды.
@@ -1834,11 +1834,11 @@
 
 # sent_id = kdt.tagged.txt:126:2045
 # text = Құдай жарылқады!
-# text[tur] = Tanrı uyguladı.
+# text[tur] = Tanrı kutsadı!
 
 # sent_id = kdt.tagged.txt:127:2052
 # text = Бір қырдан асқанда көлденең созылған сай килікті...
-# text[tur] = Bir açıdan aşılmışda yatay olarak esnemiş dağ geçidi geçildi.....
+# text[tur] = Bir açıdan yüzleşerek yatay olarak uzattığı kayalık geçti...
 
 # sent_id = kdt.tagged.txt:128:2069
 # text = Арғы қабақта жол жатыр.
@@ -1846,11 +1846,11 @@
 
 # sent_id = kdt.tagged.txt:129:2080
 # text = Ағыны тас домалатқан тасты сайдың тар өзені екен.
-# text[tur] = Akışı taş yuvarlanmış taşlı .... dar irmakmış.
+# text[tur] = Akışı taş döndürdüğü taşı dağ geçidinin dar deresi imiş.
 
 # sent_id = kdt.tagged.txt:130:2099
 # text = "Оны біз білмейміз-ау!" деген ойлар келді.
-# text[tur] = Onu biz bilmeyiz-...! deyilmiş sanılmış keldi.
+# text[tur] = Onu biz bilmeyiz ! deyilmiş sanacak geldi.
 
 # sent_id = kdt.tagged.txt:131:2121
 # text = Тарағысы келді.
@@ -1874,7 +1874,7 @@
 
 # sent_id = kdt.tagged.txt:136:2178
 # text = Күн еңкейіп, түс қаңғып кетіпті.
-# text[tur] = Gün batıp, uyku eğilimi oldu.
+# text[tur] = Gün eğinip, uyku eğilimi oldu.
 
 # sent_id = kdt.tagged.txt:137:2193
 # text = Әлі жүріп келеді, әлі жүріп келеді.
@@ -1886,7 +1886,7 @@
 
 # sent_id = kdt.tagged.txt:139:2217
 # text = Жарты шақырымдай жерде бір дөңес көрінеді.
-# text[tur] = Yarım kilometrece yerde bir bombeli görülüyor.
+# text[tur] = Yarım kilometrece yerde bir tepe görülüyor.
 
 # sent_id = kdt.tagged.txt:140:2232
 # text = Соған шығып ел көздемек.
@@ -1894,7 +1894,7 @@
 
 # sent_id = kdt.tagged.txt:141:2243
 # text = Елсіз дала емсіз жарадай көрінеді.
-# text[tur] =  Sahipsiz dala çaresiz çıban gibi  görülür.
+# text[tur] =  Ülkesiz bozkır tedavisiz yara görülür.
 
 # sent_id = kdt.tagged.txt:142:2258 
 # text = Ай, қу дала!
@@ -2531,7 +2531,7 @@
 
 # sent_id = udhr.tagged.txt:10:391
 # text = Заң алдында жұрттың бәрі тең және де заң арқылы алаланбай, бірдей тең қорғалуға құқылы.
-# text[tur] = Kanun altında yurdunun hepsi eşit ve yasa boyunca ayrımcılıksız, birce eşit korunmaya hakkına sahib.  
+# text[tur] = Kanun altında yurdunun hepsi eşit ve yasa boyunca ayrımcılıksız, bir eşit korunmaya hakkına sahib.  
 
 # sent_id = udhr.tagged.txt:11:423
 # text = Барлық адам осы Декларацияның ережелерін бұзатын кемсітуден және кемсітуге арандатушылықтың барлық түрінен тең қорғалуға құқылы.

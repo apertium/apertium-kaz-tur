@@ -95,6 +95,11 @@
   </rule>
 
 <rule>
+    <match lemma="не" tags="prn.*"/>
+    <match lemma="ата" tags="n.*"><select lemma="öldürme" tags="n.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="лаңкестік" tags="n.*"/>
     <match lemma="әрекет" tags="n.*"><select lemma="harekat" tags="n.*"/></match>
   </rule>
