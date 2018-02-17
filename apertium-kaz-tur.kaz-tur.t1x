@@ -146,6 +146,9 @@
 <def-cat n="sim">
       <cat-item tags="num.*.sim"/>
     </def-cat>
+<def-cat n="n_sim">
+      <cat-item tags="n.sim"/>
+    </def-cat>
 
 <def-cat n="V-frm">
       <cat-item tags="v.*.*.px2sg.frm.*"/>
@@ -715,6 +718,34 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+<rule comment="REGLA: Cooperative-23" > <!-- жарадай -> yara ~ -->
+       <pattern>
+        <pattern-item n="n_sim"/>    
+      </pattern>
+      <action>
+    
+    
+      
+        <let>
+        
+          <clip pos="1" side="tl" part="num.sim"/>
+          <lit v=""/>
+        </let>
+        
+        <out>
+          <chunk name="num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SNum"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="a_cas"/>
+               <lit-tag v="nom"/>
             </lu>
           </chunk>
         </out>

@@ -1898,7 +1898,7 @@
 
 # sent_id = kdt.tagged.txt:142:2258 
 # text = Ай, қу дала!
-# text[tur] = Ay, sinsi alan!
+# text[tur] = Ay, sinsi bozkır!
 
 # sent_id = kdt.tagged.txt:143:2269
 # text = Бір мезгілде әлгі торғай жансыз тастай ағып түсті топ етіп.

@@ -98,6 +98,10 @@
     <match lemma="лаңкестік" tags="n.*"/>
     <match lemma="әрекет" tags="n.*"><select lemma="harekat" tags="n.*"/></match>
   </rule>
+<rule>
+    <match lemma="қу" tags="adj"/>
+    <match lemma="дала" tags="n.*"><select lemma="bozkır" tags="n.*"/></match>
+  </rule>
 
 <rule>
     <match lemma="өмір" tags="n.*"/>
