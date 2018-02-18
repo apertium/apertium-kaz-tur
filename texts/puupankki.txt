@@ -821,17 +821,17 @@
 # text = Бұл өзге мемлекеттер мен діни ұйымдар үшін пайдалы.
 # text[tur] = Bu obür memleketler ve din kuruluşlar için faydalı.
 
-# sent_id = akorda-random.tagged.txt:204:3658
+# sent_id = akorda-random.tagged.txt:204:3658 ***burdaburda**
 # text = «Қазақ халқы елімізде тұратын басқа халықтардың басын біріктіруі керек.
 # text[tur] = «Kazak halkı ülkemizde yaşayan başka halklarlın birleşmesi gerek.
 
 # sent_id = akorda-random.tagged.txt:205:3681
 # text = Жарыс «Дәулет» ұлттық теннис орталығында өтті.
-# text[tur] = Yarış «Daulet» ulusal tenis merkezinde gerçekleştirildi.
+# text[tur] = Rekabet «Daulet» ulusal tenis merkezinde oldu.
 
 # sent_id = akorda-random.tagged.txt:206:3700
 # text = Содан кейін Италия Үкіметінің басшысы Астананың көрікті жерлерімен танысты.
-# text[tur] = Sonra İtalya hükümet başkanı Astana'nın güzel yerlerile tanıştı.
+# text[tur] =Ondan sonra İtalya Hükümetinin başkanı Astana'nın güzel yerleriyle tanıştı.
 
 # sent_id = akorda-random.tagged.txt:207:3721
 # text = Мен олай деп санамаймын.
@@ -839,7 +839,7 @@
 
 # sent_id = akorda-random.tagged.txt:208:3732
 # text = Салтанатты ашылу рәсіміне Мемлекет басшысы Нұрсұлтан Назарбаев қатысты.
-# text[tur] = Törenin açılışına memleket başkanı Nursultan Nazarbayev katıldı. 
+# text[tur] = Saltanatı açılma prosedürüne Memleket başkanı Nursultan Nazarbayev başvurdu. 
 
 # sent_id = akorda-random.tagged.txt:209:3751
 # text = - Біздің елдеріміз арасында ешқашан ешқандай да қайшылықтар болған емес.
@@ -847,7 +847,7 @@
 
 # sent_id = akorda-random.tagged.txt:210:3771
 # text = - Парламенттің ең басты міндеті – заң шығару жұмысы.
-# text[tur] = Parlamentonun en temel görevi- yasa çalışmaları.
+# text[tur] = - Parlamentonun başlıca görevi – yasa çıkarma işi.
 
 # sent_id = akorda-random.tagged.txt:211:3792
 # text = Мемлекет басшысы сондай-ақ университеттің кітапханасында болды.
@@ -861,9 +861,9 @@
 # text = Қадірлі жамағат!
 # text[tur] = Kıymetli seyirciler.
 
-# sent_id = akorda-random.tagged.txt:214:3835***burdaburdaburda
+# sent_id = akorda-random.tagged.txt:214:3835
 # text = Қазіргі сенім мен достық қатынастар жалғасын табады.
-# text[tur] = Şimdiki güvenirlik ve dostluklar devam eder.
+# text[tur] = Şimdiki inanç ve dostluk ilişkiler devamını bulur.
 
 # sent_id = akorda-random.tagged.txt:215:3852
 # text = - Мен үшін Қазақстан да өз Отаным.
@@ -1340,7 +1340,7 @@
 
 # sent_id = kdt.tagged.txt:3:29
 # text = Манағы ала атты кім?
-# text[tur] = Sonuncu alacalı süvari kim?
+# text[tur] = Sonuncu alaca adı ne?
 
 # sent_id = kdt.tagged.txt:4:40
 # text = Қыз алып қашқан орыстар кім?
@@ -1348,11 +1348,11 @@
 
 # sent_id = kdt.tagged.txt:5:53
 # text = Бұларды қуам деп оққа ұшқан кім?
-# text[tur] = Bunları kovalarım diyip uçmuş kim ?
+# text[tur] = Bunları kovalarım diyip mermiye bastığı kim?
 
 # sent_id = kdt.tagged.txt:6:68
 # text = Қане, осыны дауысқа саламын.
-# text[tur] = 
+# text[tur] = Peki, şunu oya yaparım.
 
 # sent_id = kdt.tagged.txt:7:81
 # text = Атым — Бекболат.
@@ -1360,7 +1360,7 @@
 
 # sent_id = kdt.tagged.txt:8:90
 # text = Ағам отау болып, енші алып кетті.
-# text[tur] = Kardeşim evlenip , miras alıp gitti....?
+# text[tur] = Kardeşim evli olup , en coştu.
 
 # sent_id = kdt.tagged.txt:9:107
 # text = Інім Семейде оқуда.
@@ -1409,7 +1409,7 @@
 
 # sent_id = kdt.tagged.txt:20:331
 # text = Онда ұлы Ресей кемиді, жері, елі азайып қалады.
-# text[tur] = Onda büyük Rusya zayıflar, yeri, ülkesi azalırdı.
+# text[tur] = Onda büyük Rusya zayıflar, yeri, ülkesi azalır.
 
 # sent_id = kdt.tagged.txt:21:354
 # text = Қазақта жер көп.
@@ -1417,7 +1417,7 @@
 
 # sent_id = kdt.tagged.txt:22:363
 # text = Алдымыз қашып, Қытай жеріне өтіп кетті.
-# text[tur] = Önümüzü kaçırıp, Çin yerine geçti.
+# text[tur] = önümüz kaçıp, Çin yerine geçti.
 
 # sent_id = kdt.tagged.txt:23:380
 # text = Ендеше, біз тіршілік қып жүрміз.
@@ -1437,7 +1437,7 @@
 
 # sent_id = kdt.tagged.txt:27:424
 # text = Өліп бара жатырмын десең, қойға бір тайын мінгізбейді.
-# text[tur] = Ölüp gidiyorum dese, koyuna bir yıllığı bindirmez.
+# text[tur] = Ölüp gidiyorum desen, koyuna bir tayını koymaz.
 
 # sent_id = kdt.tagged.txt:28:445
 # text = Оны айтып жүрген өзіміздің қойшылар.
@@ -1598,7 +1598,7 @@
 
 # sent_id = kdt.tagged.txt:67:1086
 # text = Қара күшке, тағдырға не шара?
-# text[tur] = Kara kuvvette, halke ne önlem?
+# text[tur] = Kara kuvvette, kadere ne düzenleme?
 
 # sent_id = kdt.tagged.txt:68:1101
 # text = Жамандығынан мұндай болған жоқ.
@@ -1802,7 +1802,7 @@
 
 # sent_id = kdt.tagged.txt:118:1891
 # text = Қасқырлар жалт берді.
-# text[tur] = Kurtlar acele gitti.
+# text[tur] = Kurtlar aceleyle çıktı.
 
 # sent_id = kdt.tagged.txt:119:1900
 # text = Қорқақ аңдар, тілсіз жаулар!
@@ -1814,7 +1814,7 @@
 
 # sent_id = kdt.tagged.txt:121:1924
 # text = Кімді ұрып жығатынын кім білсін, әйтеуір ала шықты.
-# text[tur] = kimdi yenenini kim bilsin, daima aldı. 
+# text[tur] = kim yenenini kim bilsin, daima dayandı. 
 
 # sent_id = kdt.tagged.txt:122:1945
 # text = Асумен асып елге бара жатқан, елден мал, азық-түлік алып келе жатқан орыстарды талай көрген.
@@ -1822,7 +1822,7 @@
 
 # sent_id = kdt.tagged.txt:123:1984
 # text = Оларға көзі түскенде күйінген, өкінген, жиренген, әйтеуір өзегін өртеген бір жаман сезім пайда болды.
-# text[tur] = Onlara gözü düşerek morelsiz, pişman olmuş, aşağılamış, daima ışınını yaktığı bir kötü his bulundu.
+# text[tur] = Onlara öfkeden çıldırarak morelsiz, pişman olmuş, aşağılamış, daima ışınını yaktığı bir kötü his bulundu.
 
 # sent_id = kdt.tagged.txt:124:2021
 # text = Қарағысы келмеді, теріс айналды.
