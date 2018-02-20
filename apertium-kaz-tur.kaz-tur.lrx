@@ -25,9 +25,14 @@
     <match lemma="қал" tags="v.*"><select lemma="kur" tags="v.*"/></match>
   </rule>
 <rule>
+    <match lemma="топ" tags="n.*"/>
+    <match lemma="қал" tags="v.*"><select lemma="kaçır" tags="v.*"/></match>
+  </rule>
+<rule>
  <or>
     <match lemma="білім" />
     <match lemma="мен" />
+    <match lemma="тапсырма" />
     </or>
     <match lemma="бер" tags="v.*"><select lemma="ver" tags="v.*"/></match>
 
@@ -35,6 +40,10 @@
 <rule>
     <match lemma="тіл" tags="n.*"/>
     <match lemma="жүр" tags="v.*"><select lemma="yürü" tags="v.*"/></match>
+  </rule>
+<rule>
+    <match lemma="қол" tags="n.*"/>
+    <match lemma="қару" tags="n.*"><select lemma="silah" tags="v.*"/></match>
   </rule>
 
 <rule>
@@ -48,6 +57,11 @@
 <rule>
     <match lemma="соғыс" tags="n.*"/>
     <match lemma="азамат" tags="n.*"><select lemma="sivil" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="молда" tags="n.*"/>
+    <match lemma="алд" tags="n.*"><select lemma="ön" tags="n.*"/></match>
   </rule>
 
 <rule>
@@ -94,13 +108,21 @@
     <match lemma="дүние" tags="n.*"><select lemma="servet" tags="n.*"/></match>
   </rule>
 <rule>
-    <match lemma="кітапхана" tags="n.*"/>
+   <or>
+    <match lemma="кітапхана" />
+    <match lemma="ел" />
+    </or>
     <match lemma="бол" tags="v.*"><select lemma="bulun" tags="v.*"/></match>
   </rule>
 
 <rule>
     <match lemma="теннис" tags="n.*"/>
     <match lemma="орталық" tags="n.*"><select lemma="merkez" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="Экономика" tags="n.*"/>
+    <match lemma="бастау" tags="n.*"><select lemma="başlama" tags="n.*"/></match>
   </rule>
 
 <rule>
@@ -121,6 +143,11 @@
 <rule>
     <match lemma="осы" tags="prn.*"/>
     <match lemma="дауыс" tags="n.*"><select lemma="oy" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="діни" tags="adj"/>
+    <match lemma="ұйым" tags="n.*"><select lemma="teşkilat" tags="n.*"/></match>
   </rule>
 
 <rule>
@@ -190,8 +217,17 @@
     <match lemma="қара" tags="v.*"><select lemma="göster" tags="v.*"/></match>
   </rule>
 <rule>
+    <match lemma="жас" tags="n.*"/>
+    <match lemma="қара" tags="v.*"><select lemma="bulun" tags="v.*"/></match>
+  </rule>
+<rule>
     <match lemma="төрағалық" tags="n.*"/>
     <match lemma="кеңес" tags="n.*"><select lemma="toplantı" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="Қан" tags="n.*"/>
+    <match lemma="құй" tags="v.*"><select lemma="aktar" tags="v.*"/></match>
   </rule>
 <rule>
     <match tags="np.top.*"/>
@@ -284,7 +320,10 @@
   </rule>
 
 <rule>
-    <match lemma="мадақ" tags="n.*"/>
+   <or>
+    <match lemma="мадақ" />
+    <match lemma="– " />
+    </or>
     <match lemma="Жас" tags="n.*"><select lemma="genç" tags="n.*"/></match>
     
   </rule>

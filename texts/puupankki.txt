@@ -689,21 +689,21 @@
 # text = Мектеп түлектері қазақ, орыс және ағылшын тілдерін білуге тиіс.
 # text[tur] = Okul mezunleri Kazakça, Rusça ve İngilizce dilleri biliyorlar
 
-# sent_id = akorda-random.tagged.txt:171:3078
+# sent_id = akorda-random.tagged.txt:171:3078 ***burdaburda***
 # text = Эстония Республикасының Президенті
 # text[tur] = Estonya Cumhuriyetinin başkanı.
 
 # sent_id = akorda-random.tagged.txt:172:3085
 # text = - Біз көрші мемлекеттерміз, біздің ортақ нәрсеміз көп.
-# text[tur] = Biz komşu memleketleriz , bizlerin ortak şeylermiz çok. 
+# text[tur] = Biz komşu memleketleriz , bizim ortak şeyimiz çok. 
 
 # sent_id = akorda-random.tagged.txt:173:3107
 # text = - Экономикадан бастау қажет.
-# text[tur] = Ekonomiden başlatmak gerek. 
+# text[tur] = Ekonomiden başlama gerek. 
 
 # sent_id = akorda-random.tagged.txt:174:3118
 # text = Бұл тұрақтылық пен бейбітшілікті сақтау үшін басты шарт.
-# text[tur] =Bu değişmezlik ve barış korumak için ana şart.
+# text[tur] =Bu istikrar ve barışı koruma için ana şart.
 
 # sent_id = akorda-random.tagged.txt:175:3137
 # text = Өкінішке орай, олар бұл мәселені шешуге қабілетсіз болып шықты.
@@ -731,7 +731,7 @@
 
 # sent_id = akorda-random.tagged.txt:181:3257
 # text = Және осы жолы да Сіз үлкен өкілетті делегацияны бастап келдіңіз.
-# text[tur] = Ve şu sefer de siz büyük tam yetkili heyet geldiniz.
+# text[tur] = Ve şu yolu da Siz büyük yetkili heyeti başlattınız.
 
 # sent_id = akorda-random.tagged.txt:182:3279
 # text = Қазақстан Дағдарысқа қарсы дүниежүзілік конференция ұйымдастырды.
@@ -739,11 +739,11 @@
 
 # sent_id = akorda-random.tagged.txt:183:3294
 # text = Үшінші қабатта Астана қаласы тарихының мұражайын орналастыру жоспарланып отыр.
-# text[tur] = Üçüncü katta Astana şehri tarihinin müzesi düzenlemeyi planlanıyor.
+# text[tur] = Üçüncü katta Astana şehri tarihinin müzesini düzenlemekmeyi planlanıyor.
 
 # sent_id = akorda-random.tagged.txt:184:3315
 # text = Бесінші басым міндет – жастармен жұмыс.
-# text[tur] = Beşinci öncelik görev - gençleriyle çalışma.
+# text[tur] = Beşinci öncelik görev - gençler ile çalışma.
 
 # sent_id = akorda-random.tagged.txt:185:3330
 # text = Бұл денсаулық үшін, ерте диагностика үшін пайдалы.
@@ -751,11 +751,11 @@
 
 # sent_id = akorda-random.tagged.txt:186:3349
 # text = - Барлық аталған мәселелер бойынша Президент нақты тапсырмалар берді.
-# text[tur] = Tüm işaretlenmiş meselelerde gerçek biçimde Başkan somut talimatlar verdi.
+# text[tur] = Tüm işaretlenmiş meselelerde gerçek biçimde Başkan somut görevler verdi.
 
 # sent_id = akorda-random.tagged.txt:187:3370
 # text = Қазақстан Өзбекстанмен тығыз байланыс орнатуға ұмтылады.
-# text[tur] = Kazakistan Özpakistanla sık ilişki gerçekleştirmeye umut eder.
+# text[tur] = Kazakistan Özbekistan'la sıkı bağlantı yapmaya telaş eder.
 
 # sent_id = akorda-random.tagged.txt:188:3385
 # text = - «Шеврон» көптеген жылдар бойы Қазақстанның әріптесі болғанын мақтан тұтады.
@@ -767,7 +767,7 @@
 
 # sent_id = akorda-random.tagged.txt:190:3429
 # text = Барша еліміз біздің атлеттерімізге жанкүйер болды.
-# text[tur] = Bütün ülkemizin  sporcularını destekliyordu.
+# text[tur] = Bütün ülkemiz bizim atletlerimize hayran oldu.
 
 # sent_id = akorda-random.tagged.txt:191:3444
 # text = Елде тұрақтылық бар.
@@ -807,11 +807,11 @@
 
 # sent_id = akorda-random.tagged.txt:200:3586
 # text = Біз кестеге сай жұмыс жасаймыз.
-# text[tur] = Biz tabluya göre çalışacağız.
+# text[tur] = Biz tabloya göre iş yaparız.
 
 # sent_id = akorda-random.tagged.txt:201:3599
 # text = Қазір біз жаңа Алатау ауданын аштық.
-# text[tur] = Şimdi biz yine Alatau bölgesini açtık.
+# text[tur] = Şimdi biz yeni Alatau bölgesini açtık.
 
 # sent_id = akorda-random.tagged.txt:202:3614
 # text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев «Шеврон» компаниясының басшылығын қабылдады.
@@ -821,7 +821,7 @@
 # text = Бұл өзге мемлекеттер мен діни ұйымдар үшін пайдалы.
 # text[tur] = Bu obür memleketler ve din kuruluşlar için faydalı.
 
-# sent_id = akorda-random.tagged.txt:204:3658 ***burdaburda**
+# sent_id = akorda-random.tagged.txt:204:3658
 # text = «Қазақ халқы елімізде тұратын басқа халықтардың басын біріктіруі керек.
 # text[tur] = «Kazak halkı ülkemizde yaşayan başka halklarlın birleşmesi gerek.
 
@@ -1028,7 +1028,7 @@
 
 # sent_id = akorda-random.tagged.txt:255:4567
 # text = Бұл тұрғыдан келгенде, Қазақстан елден ерек екенін айтқым келеді.
-# text[tur] = Bu bakışaçısıdan gelerek, Kazakistan ülkeden *ерек #i söylemek istedi.
+# text[tur] = Bu bakışaçısıdan gelerek, Kazakistan ülkeden spesiyal olduğunu söylemek istedi.
 
 # sent_id = akorda-random.tagged.txt:256:4590
 # text = Біз қайда бара жатырмыз?
@@ -1096,7 +1096,7 @@
 
 # sent_id = akorda-random.tagged.txt:272:4865 
 # text = Әңгімелесуші тараптар әлемдегі саяси және экономикалық ахуалды талқылады.
-# text[tur] = Muhatıp taraflar dünyadaki siyasi ve ekonomik durumu tartıştı.
+# text[tur] = Konuşmacı taraflar dünyadaki siyasi ve ekonomik durumu tartıştı.
 
 # sent_id = akorda-random.tagged.txt:273:4884
 # text = Бәрі де болған жәйтті айыптайды.
@@ -1104,7 +1104,7 @@
 
 # sent_id = akorda-random.tagged.txt:274:4896
 # text = Жабдықтар осы жылдың наурызында іске қосылады.
-# text[tur] = Aletler şu yılının martında açılır.
+# text[tur] = cihazlar şu yılın Mart'ında işe katılır.
 
 # sent_id = akorda-random.tagged.txt:275:4911
 # text = Біз аса маңызды кездесу өткіздік.
@@ -1132,7 +1132,7 @@
 
 # sent_id = akorda-random.tagged.txt:281:5015
 # text = Біз әрдайым қарым-қатынасымыздың серпінін қанағаттанарлық сезіммен айқындаймыз.
-# text[tur] = Biz her zaman ilişkilermizin itmesini ....duyguyla belli ederiz
+# text[tur] = Biz sürekli temasımızın dürtüsünü tatmin edici hisle tanımlarız.
 
 # sent_id = akorda-random.tagged.txt:282:5032
 # text = Қазақстан Ұйымның белсенді мүшесі болып табылады.
@@ -1188,7 +1188,7 @@
 
 # sent_id = akorda-random.tagged.txt:295:5291
 # text = Нұрсұлтан Назарбаев сондай-ақ облыстың Қан құю орталығында болды.
-# text[tur] = Nursultan Nazarbayev yanı-sıra kan dokülme ortalığında bulundu.
+# text[tur] = Nursultan Nazarbayev yanı-sıra kan aktarma ortalığında bulundu.
 
 # sent_id = akorda-random.tagged.txt:296:5310
 # text = Бұл іс айыптау қорытындысымен прокуратураға жіберілді.
@@ -1292,7 +1292,7 @@
 
 # sent_id = wikipedia-news.tagged.txt:2:18
 # text = Өзбекстанда 79 жасына қараған шағында мемлекет басшысы Ислам Каримов дүниеден озды.
-# text[tur] = Özbekistan 79 yaşına baktığı çağda memleket başkanı Islam Karimov dunyadan gitti...?
+# text[tur] = Özbekistan'da 79 yaşına bulunduğu çağında memleket başkanı Islam Karimova dünyadan gitti.
 
 # sent_id = wikipedia-news.tagged.txt:3:43
 # text = Қазақстанда жергілікті полиция қызметі өз жұмысын бастады.
@@ -1376,7 +1376,7 @@
 
 # sent_id = kdt.tagged.txt:12:162
 # text = Төбелес болса жасаққа шығамын, қыз қашқан, қатын кеткен топтардан қалмаймын.
-# text[tur] = Dovüş gerçekleşirse askere çıkılır, kız kaçmış,,kadın gidermiş gruptan kalamam.
+# text[tur] = Dovüş gerçekleşirse askere çıkılır, kız kaçmış,,kadın gidermiş gruptan kaçırmam.
 
 # sent_id = kdt.tagged.txt:13:189
 # text = Не болғанымды білмедім.
@@ -1497,7 +1497,7 @@
 
 # sent_id = kdt.tagged.txt:42:759
 # text = Алып келген манағы қолын артып жатқан жирен орыс екен.
-# text[tur] = Vurulmuş sonuncu kolunu yükseldik kızıl saçlı rus imiş.
+# text[tur] = getrilen sonuncu kolunu yükselten kızıl saçlı rus imiş.
 
 # sent_id = kdt.tagged.txt:43:780
 # text = Бірақ енді қайта сүюге қызға ұмтылмады.
@@ -1634,7 +1634,7 @@
 
 # sent_id = kdt.tagged.txt:76:1229
 # text = Қыстауға қонса, бата оқу болса, мал өлсе, құрбандық берсе, бас пен жамбас молданың алдына тартылатын.
-# text[tur] = 
+# text[tur] = Kışlaka konsa, dalarak okuma olsa, mal ölse, kurban gitse, baş ve leğen mollanın önüne çekmiş
 
 # sent_id = kdt.tagged.txt:77:1270
 # text = Онан өзгені іздемейді.
@@ -1866,7 +1866,7 @@
 
 # sent_id = kdt.tagged.txt:134:2148
 # text = Қара шаттан қашып келе жатқаны лезде есіне түсе қалды.
-# text[tur] =kara koyaktan kaçıp geliyorduğu aniden hatırına düştü.
+# text[tur] =hyvan  kaçıp geliyorduğu aniden akılına düştü.
 
 # sent_id = kdt.tagged.txt:135:2169
 # text = Ағыны бұжырланып жатыр.
