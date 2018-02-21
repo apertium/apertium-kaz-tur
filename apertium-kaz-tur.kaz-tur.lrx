@@ -155,7 +155,10 @@
     <match lemma="әрекет" tags="n.*"><select lemma="harekat" tags="n.*"/></match>
   </rule>
 <rule>
-    <match lemma="қу" tags="adj"/>
+    <or>
+    <match lemma="қу" />
+    <match lemma="сыз" />
+    </or>
     <match lemma="дала" tags="n.*"><select lemma="bozkır" tags="n.*"/></match>
   </rule>
 
@@ -167,6 +170,11 @@
 <rule>
     <match lemma="полиция" tags="n.*"/>
     <match lemma="қызметкер" tags="n.*"><select lemma="memur" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="Съезд" tags="n.*"/>
+    <match lemma="табыс" tags="n.*"><select lemma="başarı" tags="n.*"/></match>
   </rule>
 
 <rule>
@@ -230,7 +238,10 @@
     <match lemma="құй" tags="v.*"><select lemma="aktar" tags="v.*"/></match>
   </rule>
 <rule>
+   <or>
     <match tags="np.top.*"/>
+    <match lemma="Сіз" />
+    </or>
     <match lemma="Ұйым" tags="n.*"><select lemma="organizasyon" tags="n.*"/></match>
   </rule>
 <rule>

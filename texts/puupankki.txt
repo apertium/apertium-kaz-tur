@@ -585,13 +585,13 @@
 # text = Осы сектор субъектілерінің банкроттығының айқын тетіктерін енгізген жөн.
 # text[tur] = Şu sektör konularının iflasının somut mekanizmalarını eklediği yön. 
 
-# sent_id = akorda-random.tagged.txt:145:2572
+# sent_id = akorda-random.tagged.txt:145:2572 ***burdaburda**
 # text = - Біз елеулі табыстарға қол жеткіздік.
 # text[tur] = Biz farkedilir başarlara imza aldık.
 
 # sent_id = akorda-random.tagged.txt:146:2587
 # text = Ол кезге қарай капитал жинақтап, атыңды танытуға болады”.
-# text[tur] = o  
+# text[tur] = O ana karşı anapara yığıp, adını göstermek olur”.  
 
 # sent_id = akorda-random.tagged.txt:147:2610
 # text = Қазақстан Республикасы туризмді дамытуда үлкен әлеуетке ие.
@@ -607,11 +607,11 @@
 
 # sent_id = akorda-random.tagged.txt:150:2665
 # text = Мен үшін Астана – басты мәселе болып табылады.
-# text[tur] = Benim için Actana- ana mesele bulunur.
+# text[tur] = Benim için Actana- ana mesele olur.
 
 # sent_id = akorda-random.tagged.txt:151:2684
 # text = Бұл жолғы форумның тақырыбы – «Дағдарыстан кейінгі басқару» деп аталды.
-# text[tur] = Bu sefer formunun konusu- «Krizden sonraki yönetim» diye adlandırıldı.
+# text[tur] = Böylesine formun konusu – «Krizden sonrakı yönetme» tain etildi.
 
 # sent_id = akorda-random.tagged.txt:152:2711
 # text = Заң шығарушылық қызметтегі негізгі бағыт әлеуметтік жаңғырту екені атап өтілді.
@@ -639,15 +639,15 @@
 
 # sent_id = akorda-random.tagged.txt:158:2829
 # text = Мен осында болғаныма қуаныштымын.
-# text[tur] = Ben orda bulunduğma mutluyum.
+# text[tur] = Ben şunda olduğuma mutluyum.
 
 # sent_id = akorda-random.tagged.txt:159:2841
 # text = Сіз Қазақстанда да, бүкіл әлемде де лайықты беделге ие болдыңыз.
-# text[tur] = Siz Kazakistanda da, tüm dünyada da kişisel yetkiye sahipsiniz.
+# text[tur] = Siz Kazakistan'da da, tüm evrende da kişisel tazminata sahip oldunuz.
 
 # sent_id = akorda-random.tagged.txt:160:2864
 # text = “Сізді егемен Қазақстанның Президенті болып сайлануыңызбен құттықтаймын.
-# text[tur] = Sizi bağımsız kazakistan'ın başkanı seçilmenizile kutluyorum.
+# text[tur] = “Sizi bağımsız Kazakistan'ın Başkanı olup seçilmenizle kutlarım.
 
 # sent_id = akorda-random.tagged.txt:161:2883
 # text = Бүгінгі таңда адамзаттың болашағы қандай болатыны бізге байланысты.
@@ -655,27 +655,27 @@
 
 # sent_id = akorda-random.tagged.txt:162:2902
 # text = Қысқа мерзімде Сіздің елдеріңіз тамаша нәтижелерге қол жеткізді.
-# text[tur] = Kısa vadede sizin ülkeniz harika sonuçlara imza attı.
+# text[tur] = Kısa mevsimde Sizin ülkeleriniz harika neticelere imza attı.
 
 # sent_id = akorda-random.tagged.txt:163:2921
 # text = Және бұл жерде демократиялық желеуді алға тартудың реті келмейді.
-# text[tur] = Ve bu yerde demokratik motifi #güvenilmez çekmenin süresi gelmez.
+# text[tur] = Ve bu yerde demokratik motifi öne çekmenin süresi gelmez.
 
 # sent_id = akorda-random.tagged.txt:164:2942
 # text = – Халықтың әлеуметтік жағдайы ешқандай да нашарламайды.
-# text[tur] = Halkın sosyal durumu hiç te bozulmadı.
+# text[tur] = – Halkın sosyal durumu hiçbir de fenalaşmaz.
 
 # sent_id = akorda-random.tagged.txt:165:2958
 # text = – Сіздің Съездің табысты өткізілуімен құттықтағым келеді.
-# text[tur] = sizin kongrenizi başarılı yönetimile kutlamak  istiyorum.
+# text[tur] = – Sizin kongrenin başarıyı yönetilmesiyle kutlamak istiyorum.
 
 # sent_id = akorda-random.tagged.txt:166:2975
 # text = - Мен Қазақстан секілді керемет елде қызмет етуді көптен бері армандағанмын.
-# text[tur] = Ben Kazakistan gibi müthiş  ülkede hizmet etmeyi uzun zamandan beri hayal ettim.
+# text[tur] = - Ben Kazakistan benzeri müthiş ülkede hizmet etmeyi çoktan beri hayal etmişim.
 
 # sent_id = akorda-random.tagged.txt:167:3000
 # text = Қазақстан басшысы мұнда менің әкем Президент болып тұрған кезде болған.
-# text[tur] = Kazakisatn başkanı bunda benim cumhürbaşkanım ....?
+# text[tur] = Kazakistan başkanı burda benim babam Başkan olduğu anda olmuş.
 
 # sent_id = akorda-random.tagged.txt:168:3023
 # text = Жалақы көлемі жоғарылады.
@@ -690,7 +690,7 @@
 # text[tur] = Okul mezunleri Kazakça, Rusça ve İngilizce dilleri biliyorlar
 
 # sent_id = akorda-random.tagged.txt:171:3078 ***burdaburda***
-# text = Эстония Республикасының Президенті
+# text = Эстония Республикасының Президенті.
 # text[tur] = Estonya Cumhuriyetinin başkanı.
 
 # sent_id = akorda-random.tagged.txt:172:3085
@@ -763,7 +763,7 @@
 
 # sent_id = akorda-random.tagged.txt:189:3412
 # text = Алайда сауда қатынастарына қажетті жақсы алғышарттар бар.
-# text[tur] = Ancak ticari ilişkiler gereği iyi öncüller var.
+# text[tur] = Alay'da ticarette ilişkilerine gerekli güzel mülükler var.
 
 # sent_id = akorda-random.tagged.txt:190:3429
 # text = Барша еліміз біздің атлеттерімізге жанкүйер болды.
@@ -803,7 +803,7 @@
 
 # sent_id = akorda-random.tagged.txt:199:3569
 # text = Сіздің ұйым ерекше өркениетті миссияны жүзеге асырады.
-# text[tur] = sizin organizasyon özel medeniyet görevin yapmaktadır.
+# text[tur] = sizin organizasyon özel medeniyet misyonu uygular.
 
 # sent_id = akorda-random.tagged.txt:200:3586
 # text = Біз кестеге сай жұмыс жасаймыз.
@@ -823,7 +823,7 @@
 
 # sent_id = akorda-random.tagged.txt:204:3658
 # text = «Қазақ халқы елімізде тұратын басқа халықтардың басын біріктіруі керек.
-# text[tur] = «Kazak halkı ülkemizde yaşayan başka halklarlın birleşmesi gerek.
+# text[tur] = «Kazak halkı ülkemizde yaşayan başka halklarlın baş birleşmesi gerek.
 
 # sent_id = akorda-random.tagged.txt:205:3681
 # text = Жарыс «Дәулет» ұлттық теннис орталығында өтті.

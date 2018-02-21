@@ -330,6 +330,7 @@
 <e><p><l>жас<s n="n"/></l><r>genç<s n="n"/></r></p></e>
 <e><p><l>миссия<s n="n"/></l><r>misyon<s n="n"/></r></p></e>
 <e><p><l>алд<s n="n"/></l><r>ön<s n="n"/></r></p></e>
+<e><p><l>құшақ<s n="n"/></l><r>kucak<b/>dolusu<s n="n"/></r></p></e>
 <e><p><l>кедендік<s n="adj"/></l><r>gelenek<s n="n"/></r></p></e>
 <e><p><l>тұрғы<s n="n"/></l><r>görüş<s n="n"/></r></p></e>
 <e><p><l>шекара<s n="n"/></l><r>sınır<s n="n"/></r></p></e>
@@ -488,7 +489,7 @@
 
 <e><p><l>кедергі<s n="n"/></l><r>engelenmiş<s n="adj"/></r></p></e>
 
-<e><p><l>басын<s n="n"/></l><r>insan<s n="n"/></r></p></e>
+<e><p><l>басын<s n="n"/></l><r>baş<s n="n"/></r></p></e>
 <e><p><l>Жалын<s n="n"/></l><r>ateş<s n="n"/></r></p></e>
 <e><p><l>дүние<s n="n"/></l><r>servet<s n="n"/></r></p></e>
 <e><p><l>дүние<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
@@ -3090,7 +3091,7 @@
      <e><p><l>аквариум<s n="n"/></l><r>akvaryum<s n="n"/></r></p></e>
      <e><p><l>айдаһар<s n="n"/></l><r>ejderha<s n="n"/></r></p></e>
      <e><p><l>айва<s n="n"/></l><r>ayva<s n="n"/></r></p></e>
-     <e><p><l>ағылшын<s n="n"/></l><r>biyoloji<s n="n"/></r></p></e>
+     <e><p><l>ағылшын<s n="n"/></l><r>ingilizce<s n="n"/></r></p></e>
      <e><p><l>агностицизм<s n="n"/></l><r>agnostisizm<s n="n"/></r></p></e>
      <e><p><l>автомагистраль<s n="n"/></l><r>otoyol<s n="n"/></r></p></e>
      <e><p><l>магистраль<s n="n"/></l><r>otoyol<s n="n"/></r></p></e>
@@ -5597,6 +5598,8 @@
 <e><p><l>надан<s n="adj"/></l><r>cahil<s n="adj"/></r></p></e>
 <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 <e><p><l>ерек<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
+
+<e><p><l>өркениетті<s n="adj"/></l><r>uygar<s n="adj"/></r></p></e>
 <e><p><l>қанағаттанарлық<s n="adj"/></l><r>tatmin<b/>edici<s n="adj"/></r></p></e>
 
 <e><p><l>жаһандық<s n="adj"/></l><r>küresel<s n="adj"/></r></p></e>
@@ -6747,6 +6750,7 @@
      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>uzan<s n="v"/><s n="iv"/></r></p></e>
      
      <e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>ilet<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>жеткіз<s n="v"/><s n="tv"/></l><r>at<s n="v"/><s n="tv"/></r></p></e>
     
      <e><p><l>жібер<s n="v"/><s n="tv"/></l><r>gönder<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>жөнде<s n="v"/><s n="tv"/></l><r>onar<s n="v"/><s n="tv"/></r></p></e>
@@ -7117,7 +7121,7 @@
 <e><p><l>Алай<s n="np"/><s n="ant"/><s n="m"/></l><r>Alay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Алай<s n="np"/><s n="top"/></l><r>Alay<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>алайда<s n="cnjadv"/></l><r>ancak<s n="cnjadv"/></r></p></e>
-<e><p><l>алғышарт<s n="n"/><s n="pl"/></l><r>öncül<s n="n"/><s n="pl"/></r></p></e>
+<e><p><l>алғышарт<s n="n"/></l><r>mülük<s n="n"/></r></p></e>
 <e><p><l>Алматы<s n="np"/><s n="top"/></l><r>Almatı<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Алматы<s n="np"/><s n="top"/></l><r>Almatı<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>алтын<s n="n"/></l><r>altın<s n="n"/></r></p></e>
@@ -7668,7 +7672,7 @@
 <e><p><l>көктем<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
 
 <e><p><l>қол<s n="adj"/></l><r>elcil<s n="adj"/></r></p></e>
-<e><p><l>қол<s n="n"/></l><r>imza<s n="n"/></r></p></e>
+<e><p><l>қол<s n="adj"/></l><r>imza<s n="n"/><s n="nom"/></r></p></e>
 <e><p><l>қолда<s n="v"/><s n="tv"/></l><r>destekle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қолда<s n="v"/><s n="tv"/></l><r>koru<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қолдан кел<s n="v"/><s n="tv"/></l><r>elden gelen<s n="v"/><s n="tv"/></r></p></e>
@@ -8029,6 +8033,7 @@
 <e><p><l>спортшы<s n="n"/><s n="pl"/></l><r>sporcu<s n="n"/><s n="pl"/></r></p></e>
 <e><p><l>Стамбұл<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Стамбұл<s n="np"/><s n="top"/><s n="attr"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Гонконг<s n="np"/><s n="top"/></l><r>Hong<b/>Kong<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>стратегия<s n="n"/></l><r>stratiji<s n="n"/></r></p></e>
 <e><p><l>стратегия<s n="n"/></l><r>strateji<s n="n"/></r></p></e>
 <e><p><l>стратегиялық<s n="adj"/></l><r>stratijik<s n="adj"/></r></p></e>
@@ -8042,6 +8047,7 @@
 <e><p><l>табиғи<s n="adj"/></l><r>doğal<s n="adj"/></r></p></e>
 <e><p><l>табиғи<s n="adv"/></l><r>doğuştan<s n="adv"/></r></p></e>
 <e><p><l>табыс<s n="n"/></l><r>kazanç<s n="n"/></r></p></e>
+<e><p><l>табыс<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
 <e><p><l>табысты<s n="adj"/></l><r>avantajlı<s n="adj"/></r></p></e>
 
 

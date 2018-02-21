@@ -152,7 +152,7 @@
     </def-cat>
 
 <def-cat n="V-frm">
-      <cat-item tags="v.*.*.px2sg.frm.*"/>
+      <cat-item tags="v.*.frm.*"/>
     </def-cat>
 <def-cat n="prn">
       <cat-item tags="prn.*"/>
@@ -468,6 +468,20 @@
 
 
     </def-macro>
+
+
+<def-macro n="f_agr_formall" npar="1">
+   <choose> 
+  <when>
+ 
+     <test><or><equal><clip pos="1" side="tl" part="poss_v"/> <lit-tag v="px2sg.frm"/></equal>
+	        <equal><clip pos="1" side="tl" part="poss_v"/><lit-tag v="px2pl.frm"/></equal></or></test>
+  
+    <let><clip pos="1" side="tl" part="poss_v"/><lit-tag v="px2pl"/></let>
+    </when>
+</choose>
+    </def-macro>
+
 
  <def-macro n="p_impf" npar="1">
 <choose>
@@ -789,10 +803,10 @@
         <pattern-item n="v-ger"/>
       </pattern>
       <action>
-     
-
-        
-          
+    
+<call-macro n="f_agr_formall">
+         <with-param pos="1"/>
+      </call-macro>
 
        
         <out>
@@ -1372,15 +1386,10 @@
        </pattern>
 
 <action>
-         <choose> <!-- ~(i)n -> ~(i)nIz -->
-  <when>
- 
-     <test><or><equal><clip pos="2" side="tl" part="poss_v"/> <lit-tag v="px2sg.frm"/></equal>
-	        <equal><clip pos="2" side="tl" part="poss_v"/><lit-tag v="px2pl.frm"/></equal></or></test>
-  
-    <let><clip pos="2" side="tl" part="poss_v"/><lit-tag v="px2pl"/></let>
-    </when>
-</choose>
+<call-macro n="f_agr_formall"> <!-- ~(i)n -> ~(i)nIz -->
+         <with-param pos="2"/>
+      </call-macro>
+       
 
       <let>
           <clip pos="2" side="tl" part="diff.name"/>
