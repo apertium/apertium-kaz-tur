@@ -116,6 +116,26 @@
   </rule>
 
 <rule>
+  <match lemma="кемел" tags="n.*" />
+    <match lemma="бол" tags="v.*"><select lemma="ol" tags="v.*"/></match>
+  </rule>
+
+<rule>
+  <match lemma="жүйе" tags="n.*" />
+    <match lemma="жұмыс" tags="n.*"><select lemma="hizmet" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="асыр" tags="v.*" />
+    <match lemma="мерзім" tags="n.*"><select lemma="süre" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="екіжақты" tags="adj" />
+    <match lemma="қарым-қатынас" tags="n.*"><select lemma="ilişki" tags="n.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="теннис" tags="n.*"/>
     <match lemma="орталық" tags="n.*"><select lemma="merkez" tags="n.*"/></match>
   </rule>
@@ -168,12 +188,20 @@
   </rule>
 
 <rule>
+    <match lemma="Сіз" tags="prn.*"/>
+    <match lemma="сапар" tags="n.*"><select lemma="ziyaret" tags="n.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="полиция" tags="n.*"/>
     <match lemma="қызметкер" tags="n.*"><select lemma="memur" tags="n.*"/></match>
   </rule>
 
 <rule>
-    <match lemma="Съезд" tags="n.*"/>
+   <or>
+    <match lemma="Съезд" />
+    <match lemma="елеулі" />
+     </or>
     <match lemma="табыс" tags="n.*"><select lemma="başarı" tags="n.*"/></match>
   </rule>
 
@@ -228,6 +256,11 @@
     <match lemma="жас" tags="n.*"/>
     <match lemma="қара" tags="v.*"><select lemma="bulun" tags="v.*"/></match>
   </rule>
+<rule>
+    <match lemma="орташа" tags="adj"/>
+    <match lemma="жас" tags="adj"><select lemma="yaş" tags="adj"/></match>
+  </rule>
+
 <rule>
     <match lemma="төрағалық" tags="n.*"/>
     <match lemma="кеңес" tags="n.*"><select lemma="toplantı" tags="n.*"/></match>

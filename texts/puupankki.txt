@@ -368,7 +368,7 @@
 # text[tur] = Girişimcilerin kırk paydan çoğuı bayanlar. 
 
 # sent_id = akorda-random.tagged.txt:91:1585
-# text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды.
+# text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды. ****burdaburda**
 # text[tur] = Şunun içinde, onların #üç Milli *Думаға iki kezden seçildi.
 
 # sent_id = akorda-random.tagged.txt:92:1608
@@ -423,7 +423,7 @@
 
 # sent_id = akorda-random.tagged.txt:104:1838
 # text = - Біз Қазақстанның табыстары мен жетістіктерін жіті бақылап отырмыз.
-# text[tur] = Biz Kazakistanın kazançlarını ve başarlarını sık izliyoruz.
+# text[tur] =- Biz Kazakistan'ın kazançları ve başarılarını sık gözlemliyoruz.
 
 # sent_id = akorda-random.tagged.txt:105:1859
 # text = «Мен Алматы маңындағы осы тамаша жерге келгендеріңіз үшін ризашылығымды білдіремін.
@@ -435,7 +435,7 @@
 
 # sent_id = akorda-random.tagged.txt:107:1900
 # text = Еліміздің қорғаныс қабілеті жоғары болуы үшін қолдан келгенді жасау қажет.
-# text[tur] = Ülkemizin savunma kabiliyeti yüksek olması için elimizden geleni yapmak gerek.
+# text[tur] = Ülkemizin savunma kabiliyeti yüksek olması için elden geldiğini yapmak gerek.
 
 # sent_id = akorda-random.tagged.txt:108:1923
 # text = Еліміздегі орташа жас – 35.
@@ -451,7 +451,7 @@
 
 # sent_id = akorda-random.tagged.txt:111:1982
 # text = Міне, сонда ғана ол тұрақты болады.
-# text[tur] = İşte, öyleyse sadece o daimi oluyor.
+# text[tur] = İşte, şunda  o daimi olur.
 
 # sent_id = akorda-random.tagged.txt:112:1998
 # text = Сізге тағы да «қош келдіңіз» деймін.
@@ -459,7 +459,7 @@
 
 # sent_id = akorda-random.tagged.txt:113:2016
 # text = Әр нысан, әр салынған ғимарат бірегей болуы керек.
-# text[tur] = Her nesne, her yapılmış yapı benzersiz olması gerek.
+# text[tur] = Her nesne, her yapılan yapı benzersiz olması gerek.
 
 # sent_id = akorda-random.tagged.txt:114:2037
 # text = Қазақстан Каспий теңізінің айдынындағы ахуалды сенімді бақылауда ұстайды.
@@ -467,7 +467,7 @@
 
 # sent_id = akorda-random.tagged.txt:115:2056
 # text = Сондықтан да мұнда біз бәрін мұқият зерттеп, ақылға салып көруіміз керек.
-# text[tur] = Sonra da #burda biz hepsisini dikkatlice inceleyip, akıla yapıp görmemiz gerek.
+# text[tur] = Sonra da burda biz hepsisini dikkatlice inceleyip, akıla yapıp görmemiz gerek.
 
 # sent_id = akorda-random.tagged.txt:116:2082
 # text = Мен Саммитке әзірлік жөніндегі барлық мәселені шешеміз деп сенемін.
@@ -486,7 +486,7 @@
 # text[tur] = orta Asya'da iç çelişkiler korunmada.
 
 # sent_id = akorda-random.tagged.txt:120:2154
-# text = Иран Ислам Республикасының Президенті
+# text = Иран Ислам Республикасының Президенті.
 # text[tur] = İran İslam Cumhuriyetinin Başkanı.
 
 # sent_id = akorda-random.tagged.txt:121:2163
@@ -495,19 +495,19 @@
 
 # sent_id = akorda-random.tagged.txt:122:2186
 # text = Барлық құқық қорғау жүйесі жұмысының сапасын арттыру қажет.
-# text[tur] = Tüm hukuk koruma systemi kurumunun kalitesini artırmak gerek.
+# text[tur] =Bütün yetki koruma sistemi hizmetinin kalitesini artırmak zaruret.
 
 # sent_id = akorda-random.tagged.txt:123:2205
 # text = Біз екіжақты қарым-қатынастарды дамытуға мүдделіміз.
-# text[tur] = Biz iki taraflı ilişkileri geliştirmeye ilgimiz.
+# text[tur] = Biz ikili ilişkileri geliştirmeye meraklıyız.
 
 # sent_id = akorda-random.tagged.txt:124:2219
 # text = Екі мемлекет арасында еңсерілмейтін ешқандай қайшылық жоқ.
-# text[tur] = Iki memleket arasında aşılmaz hiçbir karşıklık yok.
+# text[tur] = Iki memleket arısında aşılmayacak hiçbir çelişki yok.
 
 # sent_id = akorda-random.tagged.txt:125:2236
 # text = Жобаны жүзеге асыру мерзімі – 4 жыл.
-# text[tur] = Projeni gerçekleştirme müdetti -4 yıl.
+# text[tur] = Projeyi uygulama süresi – 4 yıl.
 
 # sent_id = akorda-random.tagged.txt:126:2253
 # text = Жоба құрылысының басталуы 2008 жылдың көктеміне жоспарланып отыр.
@@ -531,7 +531,7 @@
 
 # sent_id = akorda-random.tagged.txt:131:2334
 # text = - Жаңа тұжырымдама толыққанды және дер кезінде енгізілуі қажет.
-# text[tur] = Yeni consept teşekküllü ve tam vaktinde eklenmesi gerek. 
+# text[tur] = - Yeni konsept teşekküllü ve diyecek anında eklenmesi zaruret. 
 
 # sent_id = akorda-random.tagged.txt:132:2355
 # text = Осының барлығы бізді жігерлендіре түседі.
@@ -539,15 +539,15 @@
 
 # sent_id = akorda-random.tagged.txt:133:2368
 # text = Қазақстан өз жетістіктерімен мақтануға тиіс.
-# text[tur] = Kazakistan kendi başarılarından gururlanmalı. 
+# text[tur] = Kazakistan kendi başarılarıyla övünmek lazım. 
 
 # sent_id = akorda-random.tagged.txt:134:2381
 # text = Астананың халқы үш есе көбейді.
-# text[tur] = Astana'nın halkı üç kaz çoğaldı.
+# text[tur] = Astana'nın halkı üç kat çoğaldı.
 
 # sent_id = akorda-random.tagged.txt:135:2394
 # text = Қазақстандағы ЮНЕСКО тұрақты даму жобасымен айналысады.
-# text[tur] = Kazakistandaki UNESCO sürdürülebilir kalkınma proje ile devreye girer....?
+# text[tur] = Kazakistan'daki UNESCO yeri gelişme projesiyle meşgul olur.
 
 # sent_id = akorda-random.tagged.txt:136:2409
 # text = Өтіп бара жатқан жылға зор алғысымызды айтамыз, – деді Қазақстан Президенті.
@@ -558,16 +558,16 @@
 # text[tur] = 
 
 # sent_id = akorda-random.tagged.txt:138:2453
-# text = Астана, Ақорда
-# text[tur] = Astana, Akorda.
+# text = Астана, Ақорда.
+# text[tur] = Merkez, Akorda.
 
 # sent_id = akorda-random.tagged.txt:139:2460
 # text = Бүгін Ақордада Мемлекет басшысы Нұрсұлтан Назарбаевтың төрағалығымен кеңес өтті.
-# text[tur] = Bugün Akorda'da Memleket başkanı Nursultan #Nazarbayev başkanlığıyla heyet geçti.
+# text[tur] = Bugün Akorda'da Memleket başkanı Nursultan #Nazarbayev başkanlığıyla toplantı oldu.
 
 # sent_id = akorda-random.tagged.txt:140:2481
 # text = Барлық министрлер Президент идеясымен келісті.
-# text[tur] = Tüm bakanlar Cumhurbaşkan görüşüyle uyuştu.
+# text[tur] = Bütün bakanlar Başkan ideasıyla kabullendi.
 
 # sent_id = akorda-random.tagged.txt:141:2494
 # text = - Бұл білім ордасы – Астанадағы үздік мектептердің бірі.
@@ -575,17 +575,17 @@
 
 # sent_id = akorda-random.tagged.txt:142:2515
 # text = Осы кезең ішінде әлемдік ішкі жалпы өнім 11 есе өсті.
-# text[tur] = Şu dönem içinde uluslararası iç genel verim 11 kat artı.
+# text[tur] = Şu dönem içinde uluslararası iç genel üretim 11 kat artı.
 
 # sent_id = akorda-random.tagged.txt:143:2538
 # text = Біз үлгілі дамудың өзіндік моделін қалыптастырдық.
-# text[tur] = Biz tipiklik gelişmin bağımsız mödelini geliştirdik.
+# text[tur] = Biz örnekli gelişmenin bağımsız modelini geliştik..
 
 # sent_id = akorda-random.tagged.txt:144:2553
 # text = Осы сектор субъектілерінің банкроттығының айқын тетіктерін енгізген жөн.
 # text[tur] = Şu sektör konularının iflasının somut mekanizmalarını eklediği yön. 
 
-# sent_id = akorda-random.tagged.txt:145:2572 ***burdaburda**
+# sent_id = akorda-random.tagged.txt:145:2572 
 # text = - Біз елеулі табыстарға қол жеткіздік.
 # text[tur] = Biz farkedilir başarlara imza aldık.
 
@@ -679,7 +679,7 @@
 
 # sent_id = akorda-random.tagged.txt:168:3023
 # text = Жалақы көлемі жоғарылады.
-# text[tur] = Maaşı çoğaltı.
+# text[tur] = Aylık hacimi arttı.
 
 # sent_id = akorda-random.tagged.txt:169:3032
 # text = – Сіздер “Нұр Отан” партиясы ұсынғандар болып табыласыздар.
@@ -689,7 +689,7 @@
 # text = Мектеп түлектері қазақ, орыс және ағылшын тілдерін білуге тиіс.
 # text[tur] = Okul mezunleri Kazakça, Rusça ve İngilizce dilleri biliyorlar
 
-# sent_id = akorda-random.tagged.txt:171:3078 ***burdaburda***
+# sent_id = akorda-random.tagged.txt:171:3078 
 # text = Эстония Республикасының Президенті.
 # text[tur] = Estonya Cumhuriyetinin başkanı.
 

@@ -1758,6 +1758,31 @@
       </action>
     </rule>
 
+<rule comment="REGLA: gpr_past - gna_impf" id= "gpr_past-gpr_aor-29" > <!-- ~ қолдан келгенді -> elden geldiği -->
+       <pattern>
+        <pattern-item n="V-ger_past"/>    
+      </pattern>
+      <action>
+
+
+<!--<let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="1" side="tl" part="ger_past"/><clip pos="1" side="tl" part="acc"/></concat>
+        </let>-->
+       
+        <out>
+          <chunk name="gna" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 <rule comment="REGLA: gpr_past - gna_impf" id= "gpr_past-gpr_aor-29" > <!-- ~ Сөйткенде -> şöyle yaparak -->
        <pattern>
@@ -1930,7 +1955,7 @@
         <pattern-item n="prc_impf"/>
         <pattern-item n="fplan"/>
       </pattern>
-      <action>
+      <action>	
 
 
 <let>
