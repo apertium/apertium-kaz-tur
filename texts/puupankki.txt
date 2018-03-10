@@ -192,7 +192,7 @@
 # text[tur] = Kurumun ayrıcalığı-alınmış neticelerin yaratıcı alanı.
 
 # sent_id = akorda-random.tagged.txt:47:833
-# text = Кореяның Қазақстанға салған инвестициясының көлемі 2 миллиард доллардан асып түсті.
+# text = Кореяның Қазақстанға салған инвестициясының көлемі 2 миллиард доллардан асып түсті.  ****burdaburda***
 # text[tur] = Korenin Kazakistana uygulamış yatırımnın hacmi 2 millyar doları aştı.
 
 # sent_id = akorda-random.tagged.txt:48:856
@@ -209,11 +209,11 @@
 
 # sent_id = akorda-random.tagged.txt:51:881
 # text = Зейнетақы жинақтарының көлемі 2,2 трлн. теңгеге артты.
-# text[tur] = Emeklilik birikiminin hacmı 2.2 trilyon. Tengeye artdı.
+# text[tur] =Emeklilik birikimlerinin hacimi 2,2 trilyon. tengeye yükseldi.
 
 # sent_id = akorda-random.tagged.txt:52:898
-# text = Ол солай бола береді деп ойлаймын......?
-# text[tur] = O şu olur diyip sanarım......?
+# text = Ол солай бола береді деп ойлаймын.
+# text[tur] = O şu olur diyip sanarım.
 
 # sent_id = akorda-random.tagged.txt:53:913
 # text = Соған қарамастан мен тәртіп орнатуға қарсы үлкен қарсылықты сезіп тұрмын.
@@ -233,7 +233,7 @@
 
 # sent_id = akorda-random.tagged.txt:57:987
 # text = – Бізге жұмыс форматын елеулі түрде қайта қарау керек.
-# text[tur] = Bizde iş formatını farkedilir türde tekrar gözden geçirmek gerek.
+# text[tur] = Bizde iş formatını farkedilir türde tekrar incelemek gerek.
 
 # sent_id = akorda-random.tagged.txt:58:1008
 # text = Біз осы дәстүрді қастерлеп сақтаймыз және нығайтамыз.
@@ -257,7 +257,7 @@
 
 # sent_id = akorda-random.tagged.txt:63:1093
 # text = Осы орайда Нұрсұлтан Назарбаев төрт басым бағыттарды белгіледі.
-# text[tur] = Bu münasebete Nursultan Nazarbayev dört öncellik alanları belirledi.
+# text[tur] = Şu fırsatta Nursultan Nazarbayev dört genel yönleri belirledi.
 
 # sent_id = akorda-random.tagged.txt:64:1112
 # text = Бұл Стратегия сіздерге арналған.
@@ -265,7 +265,7 @@
 
 # sent_id = akorda-random.tagged.txt:65:1123
 # text = Инвестициялық саладағы ынтымақтастық табысты дамуда.
-# text[tur] = Yatırım alanlarındaki işbirliktelik avantajlı gelişmede.
+# text[tur] = Yatırım alanlarındaki işbirliktelik kazançı gelişti
 
 # sent_id = akorda-random.tagged.txt:66:1136
 # text = Компания сондай-ақ жүк вагондарын жинау жөніндегі өндірісті жолға қою ниетінде.
@@ -281,7 +281,7 @@
 
 # sent_id = akorda-random.tagged.txt:69:1193
 # text = Соның өзінде, біз бұл жаман көрсеткіш емес деп санаймыз.
-# text[tur] = şunun kendisinde, biz bu kötü gösterge değil sanıyouz.
+# text[tur] = şunun kendisinde, biz bu kötü kılavuz değil sanıyouz.
 
 # sent_id = akorda-random.tagged.txt:70:1216
 # text = Нысанның жалпы құны 8,6 миллиард теңге.
@@ -317,7 +317,7 @@
 
 # sent_id = akorda-random.tagged.txt:78:1385
 # text = Оны түсіндіре білу керек.
-# text[tur] = onu yorumlanabilir bilmek gerek.
+# text[tur] = onu yorumlayarak bilmek gerek.
 
 # sent_id = akorda-random.tagged.txt:79:1396
 # text = Кездесу кезінде екіжақты ынтымақтастықтың мәселесі талқыланды.
@@ -329,11 +329,11 @@
 
 # sent_id = akorda-random.tagged.txt:81:1426
 # text = Мемлекет басшысы екі заңға қол қойды.
-# text[tur] = Memleket Başkanı iki yasaya el koydu.
+# text[tur] = Memleket başkanı iki yasaya imzaladı.
 
 # sent_id = akorda-random.tagged.txt:82:1441
 # text = Макроэкономикалық көрсеткіштер жаман емес, - деді Г. Марченко.
-# text[tur] = Makroekonomik göstergeler kötü değil, - dedi g.Marchenko
+# text[tur] = Makroekonomik kılavuzlar kötü değil, - dedi G. Marchenko.
 
 # sent_id = akorda-random.tagged.txt:83:1462
 # text = Мен таң қалып отырмын.
@@ -365,11 +365,11 @@
 
 # sent_id = akorda-random.tagged.txt:90:1572
 # text = Кәсіпкерлердің қырық пайызға жуығы әйелдер.
-# text[tur] = Girişimcilerin kırk paydan çoğuı bayanlar. 
+# text[tur] =Işadamların kırk orana yakını bayanlar. 
 
 # sent_id = akorda-random.tagged.txt:91:1585
-# text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды. ****burdaburda**
-# text[tur] = Şunun içinde, onların #üç Milli *Думаға iki kezden seçildi.
+# text = Соның ішінде, олардың үшеуі Мемлекеттік Думаға екі мәртеден сайланды. 
+# text[tur] = Şunun içinde, onların üçü Milli *Думаға iki kezden seçildi.
 
 # sent_id = akorda-random.tagged.txt:92:1608
 # text = Қымбатты отандастар!
@@ -381,7 +381,7 @@
 
 # sent_id = akorda-random.tagged.txt:94:1638
 # text = Қазақстан халқын абыроймен алға бастап, тағы да тарихи тамаша жеңістерге жетіңіз.
-# text[tur] = Kazakistan halkını nüfuzla #güvenilmez başlayıp, daha da tarihi harika zaferlere ulaşalım.
+# text[tur] = Kazakistan halkını nüfuzla öne başlatıp, daha da tarihi harika zaferlere ulaşalım.
 
 
 # sent_id = akorda-random.tagged.txt:95:1664

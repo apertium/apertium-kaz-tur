@@ -20,6 +20,11 @@
     <match lemma="айнала" tags="n.*"/>
     <match lemma="қара" tags="v.*"><select lemma="bak" tags="v.*"/></match>
   </rule>
+
+<rule>
+    <match lemma="бағыт" tags="n.*"/>
+    <match lemma="белгіле" tags="v.*"><select lemma="belirle" tags="v.*"/></match>
+  </rule>
 <rule>
     <match lemma="негіз" tags="n.*"/>
     <match lemma="қал" tags="v.*"><select lemma="kur" tags="v.*"/></match>

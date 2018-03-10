@@ -1452,7 +1452,7 @@
      <e><p><l>іс<s n="n"/></l><r>şey<s n="n"/></r></p></e>
      <e><p><l>іс<s n="n"/></l><r>yürürlük<s n="n"/></r></p></e>
      <e><p><l>ісік<s n="n"/></l><r>ödem<s n="n"/></r></p></e>
-     <e><p><l>іш<s n="n"/></l><r>iç<s n="n"/></r></p></e>
+    
      <e><p><l>ішімдік<s n="n"/></l><r>içki<s n="n"/></r></p></e>
      <e><p><l>қабат<s n="n"/></l><r>kat<s n="n"/></r></p></e>
      <e><p><l>кабинет<s n="n"/></l><r>kabine<s n="n"/></r></p></e>
@@ -5598,6 +5598,7 @@
 <e><p><l>надан<s n="adj"/></l><r>cahil<s n="adj"/></r></p></e>
 <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 <e><p><l>ерек<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
+<e><p><l>макроэкономикалық<s n="adj"/></l><r>makroekonomik<s n="adj"/></r></p></e>
 
 <e><p><l>өркениетті<s n="adj"/></l><r>uygar<s n="adj"/></r></p></e>
 <e><p><l>қанағаттанарлық<s n="adj"/></l><r>tatmin<b/>edici<s n="adj"/></r></p></e>
@@ -6308,6 +6309,8 @@
 <e><p><l>жарылқа<s n="v"/><s n="tv"/></l><r>kutsa<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>жоғарыла<s n="v"/><s n="iv"/></l><r>art<s n="v"/><s n="iv"/></r></p></e>
 
+<e><p><l>тат<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>құры<s n="v"/><s n="iv"/></l><r>yok<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жарақаттан<s n="v"/><s n="tv"/></l><r>yaralan<s n="v"/><s n="iv"/></r></p></e>
 
@@ -6687,7 +6690,7 @@
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>kapa<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>sakla<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>ata<s n="v"/><s n="tv"/></r></p></e>
+     
      <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>belirle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>tanımla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бер<s n="v"/><s n="tv"/></l><r>ver<s n="v"/><s n="tv"/></r></p></e>
@@ -7038,6 +7041,7 @@
 <e><p><l>С.<s n="abbr"/></l><r>S.<s n="abbr"/></r></p></e>
 <e><p><l>Ш.<s n="abbr"/></l><r>Ş.<s n="abbr"/></r></p></e>
 <e><p><l>ғ.<s n="abbr"/></l><r>ğ.<s n="abbr"/></r></p></e>
+<e><p><l>Г.<s n="abbr"/></l><r>G.<s n="abbr"/></r></p></e>
      <e r="LR"><p><l>мм<s n="n"/><s n="nom"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
 
 
@@ -7549,7 +7553,7 @@
 <e><p><l>Ислам<s n="n"/><s n="attr"/></l><r>İslam<s n="n"/></r></p></e>
 <e><p><l>Италия<s n="np"/><s n="top"/></l><r>İtalya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>іш<s n="n"/></l><r>iç<s n="n"/></r></p></e>
-<e><p><l>іш<s n="n"/></l><r>iç<s n="n"/></r></p></e>
+
 <e><p><l>ішкі<b/>саяси<s n="adj"/></l><r>iç<b/>politika<s n="n"/></r></p></e>
 
 <e><p><l>ішкі<s n="adj"/></l><r>iç<s n="adj"/></r></p></e>
@@ -8166,7 +8170,7 @@
 <e><p><l>учаске<s n="n"/></l><r>temel<s n="n"/></r></p></e>
 <e><p><l>үш<s n="n"/></l><r>iç<s n="n"/></r></p></e>
 <e><p><l>үш<s n="num"/></l><r>üç<s n="num"/></r></p></e>
-<e><p><l>үшеу<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+<e><p><l>үшеу<s n="num"/><s n="coll"/></l><r>üç<s n="num"/></r></p></e>
 <e><p><l>үш есе<s n="adv"/></l><r>üç ket<s n="adv"/></r></p></e>
 <e><p><l>үшін<s n="post"/></l><r>için<s n="post"/></r></p></e>
 <e><p><l>формат<s n="n"/></l><r>format<s n="n"/></r></p></e>
