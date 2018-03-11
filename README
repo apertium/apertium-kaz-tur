@@ -1,6 +1,4 @@
-Kazakh and Turkish
-
-                            apertium-kaz-tur
+Kazakh and Turkish (`apertium-kaz-tur`)
 ===============================================================================
 
 This is an Apertium language pair for translating between Kazakh and
@@ -31,45 +29,48 @@ Compiling
 ===============================================================================
 
 Given the requirements being installed, you should be able to just run:
-
+```
 $ ./configure
 $ make
-# make install
+```
 
-You can use ./autogen.sh instead of ./configure you're compiling from
-SVN. If you installed any prerequisite language packages using a --prefix
-to ./configure, make sure to give the same --prefix to ./configure here.
+You can use `./autogen.sh` instead of `./configure` you're compiling from
+Git. If you installed any prerequisite language packages using a `--prefix`
+to `./configure`, make sure to give the same `--prefix` to `./configure` here.
 
 Testing
 ===============================================================================
 
 If you are in the source directory after running make, the following
 commands should work:
-
+```
 $  echo "TODO test sentence 1" | apertium -d . kaz-tur
 TODO test translated sentence 1
+```
 
+```
 $ echo "TODO test sentence 2" | apertium -d . tur-kaz
 TODO test translated sentence 2
+```
 
-After installing somewhere in $PATH, you should be able to do e.g.
-
+After installing somewhere in `$PATH`, you should be able to do e.g.
+```
 $  echo "TODO test sentence 1" | apertium kaz-tur
 TODO test translated sentence 1
-
+```
 Files and data
 ===============================================================================
 
-* apertium-kaz-tur.kaz-tur.dix  - Bilingual dictionary
-* apertium-kaz-tur.kaz-tur.t1x  - Chunking rules for translating into Turkish
-* apertium-kaz-tur.tur-kaz.t1x  - Chunking rules for translating into Kazakh
-* apertium-kaz-tur.kaz-tur.t2x  - Interchunk rules for translating into Turkish
-* apertium-kaz-tur.tur-kaz.t2x  - Interchunk rules for translating into Kazakh
-* apertium-kaz-tur.kaz-tur.t3x  - Postchunk rules for translating into Turkish
-* apertium-kaz-tur.tur-kaz.t3x  - Postchunk rules for translating into Kazakh
-* apertium-kaz-tur.kaz-tur.lrx  - Lexical selection rules for translating into Turkish
-* apertium-kaz-tur.tur-kaz.lrx  - Lexical selection rules for translating into Kazakh
-* modes.xml                     - Translation modes
+* `apertium-kaz-tur.kaz-tur.dix`  - Bilingual dictionary
+* `apertium-kaz-tur.kaz-tur.t1x`  - Chunking rules for translating into Turkish
+* `apertium-kaz-tur.tur-kaz.t1x`  - Chunking rules for translating into Kazakh
+* `apertium-kaz-tur.kaz-tur.t2x`  - Interchunk rules for translating into Turkish
+* `apertium-kaz-tur.tur-kaz.t2x`  - Interchunk rules for translating into Kazakh
+* `apertium-kaz-tur.kaz-tur.t3x`  - Postchunk rules for translating into Turkish
+* `apertium-kaz-tur.tur-kaz.t3x`  - Postchunk rules for translating into Kazakh
+* `apertium-kaz-tur.kaz-tur.lrx`  - Lexical selection rules for translating into Turkish
+* `apertium-kaz-tur.tur-kaz.lrx`  - Lexical selection rules for translating into Kazakh
+* `modes.xml`                     - Translation modes
 
 For more information
 ===============================================================================
@@ -84,6 +85,6 @@ Help and support
 If you need help using this language pair or data, you can contact:
 
 * Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.freenode.net
+* IRC: `#apertium` on `irc.freenode.net`
 
 See also the file AUTHORS included in this distribution.
