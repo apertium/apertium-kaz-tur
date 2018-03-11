@@ -317,6 +317,7 @@
      <e><p><l>триллион<s n="num"/></l><r>trilyon<s n="num"/></r></p></e>
      <e><p><l>үш<s n="num"/></l><r>üç<s n="num"/></r></p></e>
      <e><p><l>бес<s n="num"/></l><r>beş<s n="num"/></r></p></e>
+     <e><p><l>XXI<s n="num"/></l><r>XXI<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
 
@@ -4405,7 +4406,7 @@
      <e><p><l>амплитуда<s n="n"/></l><r>genlik<s n="n"/></r></p></e>
      <e><p><l>амперметр<s n="n"/></l><r>ampermetre<s n="n"/></r></p></e>
      <e><p><l>амнезия<s n="n"/></l><r>amnezi<s n="n"/></r></p></e>
-    <e><p><l>ақылдылық<s n="n"/></l><r>akıllıca<s n="adv"/></r></p></e>
+    <e><p><l>ақылдылық<s n="n"/></l><r>akıllılık<s n="n"/></r></p></e>
      <e><p><l>аммоний<s n="n"/></l><r>amonyum<s n="n"/></r></p></e>
      <e><p><l>аммиак<s n="n"/></l><r>amonyak<s n="n"/></r></p></e>
      <e><p><l>аметист<s n="n"/></l><r>ametist<s n="n"/></r></p></e>
@@ -5458,7 +5459,7 @@
      <e><p><l>Мартов<s n="np"/><s n="cog"/></l><r>Martov<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Матросов<s n="np"/><s n="cog"/></l><r>Matrosov<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Машков<s n="np"/><s n="cog"/></l><r>Maşkov<s n="np"/><s n="cog"/></r></p></e>
-     <e><p><l>Медведев<s n="np"/><s n="cog"/></l><r>Medvedev<s n="np"/><s n="cog"/></r></p></e>
+     <e><p><l>Медведев<s n="np"/><s n="cog"/><s n="m"/></l><r>Medvedev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
      <e><p><l>Медведьев<s n="np"/><s n="cog"/></l><r>Medvedev<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Менделеев<s n="np"/><s n="cog"/></l><r>Mendeleev<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Мечников<s n="np"/><s n="cog"/></l><r>Meçnikov<s n="np"/><s n="cog"/></r></p></e>
@@ -6319,7 +6320,7 @@
 
 <e><p><l>домалат<s n="v"/><s n="tv"/></l><r>döndür<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>нығай<s n="v"/><s n="iv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>ақта<s n="v"/><s n="tv"/></l><r>ağar<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ақта<s n="v"/><s n="tv"/></l><r>ağart<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қой<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жинал<s n="v"/><s n="iv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>болып<b/>табыл<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
@@ -6690,7 +6691,7 @@
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>kapa<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бекіт<s n="v"/><s n="tv"/></l><r>sakla<s n="v"/><s n="tv"/></r></p></e>
-     
+     <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>ata<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>belirle<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>белгіле<s n="v"/><s n="tv"/></l><r>tanımla<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>бер<s n="v"/><s n="tv"/></l><r>ver<s n="v"/><s n="tv"/></r></p></e>
@@ -7203,6 +7204,7 @@
 <e><p><l>бақ<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
 <e><p><l>бақылау<s n="n"/></l><r>kontrol<s n="n"/></r></p></e>
 <e><p><l>банктік<s n="adj"/></l><r>bankacılık<s n="n"/></r></p></e>
+<e><p><l>бар<s n="adj"/></l><r>mevcüt<s n="adj"/></r></p></e>
 <e><p><l>бар<s n="adj"/></l><r>var<s n="adj"/></r></p></e>
 <e><p><l>бар<s n="n"/></l><r>bar<s n="n"/></r></p></e>
 <e><p><l>барлық<s n="adj"/></l><r>tüm<s n="adj"/></r></p></e>
@@ -7324,8 +7326,8 @@
 
 <e><p><l>даму<s n="n"/></l><r>gelişim<s n="n"/></r></p></e>
 
-<e><p><l>даму<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>дамыт<s n="v"/><s n="tv"/></l><r>geliştir<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>дамы<s n="v"/><s n="iv"/></l><r>geliştir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>дамы<s n="v"/><s n="iv"/></l><r>geliş<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>дейін<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
@@ -8055,7 +8057,7 @@
 <e><p><l>табиғи<s n="adv"/></l><r>doğuştan<s n="adv"/></r></p></e>
 <e><p><l>табыс<s n="n"/></l><r>kazanç<s n="n"/></r></p></e>
 <e><p><l>табыс<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
-<e><p><l>табысты<s n="adj"/></l><r>avantajlı<s n="adj"/></r></p></e>
+<e><p><l>табысты<s n="adj"/></l><r>avantajlı<s n="adj"/></r></p><par n="a1_a1"/></e>
 
 
 <e><p><l>табысты<s n="n"/></l><r>avantaj<s n="n"/></r></p></e>

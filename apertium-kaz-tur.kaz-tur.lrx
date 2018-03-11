@@ -22,6 +22,11 @@
   </rule>
 
 <rule>
+    <match lemma="әлеует" tags="n.*"/>
+    <match lemma="бар" tags="adj"><select lemma="mevcüt" tags="adj"/></match>
+  </rule>
+
+<rule>
     <match lemma="бағыт" tags="n.*"/>
     <match lemma="белгіле" tags="v.*"><select lemma="belirle" tags="v.*"/></match>
   </rule>

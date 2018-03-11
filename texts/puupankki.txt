@@ -80,7 +80,7 @@
 
 # sent_id = akorda-random.tagged.txt:19:318
 # text = Халықтың үміті мен Сіздің сеніміңізді ақтай алғаныма қуаныштымын.  "!ақта"
-# text[tur] = Halkın ümiti ben Sizin #inanç #ağar aldığıma mutluyum.
+# text[tur] = Halkın ümiti ben sizin inançnızı ağartmama aldığıma mutluyum.
 
 # sent_id = akorda-random.tagged.txt:20:338
 # text = Енді осы негізде саяси жүйені біртіндеп демократияландыруды бастады. "Енді!"
@@ -88,7 +88,7 @@
 
 # sent_id = akorda-random.tagged.txt:21:357
 # text = Бұл Қазақстанның бәсекеге қабілетті әлеуеті бар салалар.
-# text[tur] = Bu Kazakistan'ın rekabete iyi potansiyeli var alanlar.
+# text[tur] = Bu Kazakistan'ın rekabete iyi potansiyeli mevcüt alanlar.
 
 # sent_id = akorda-random.tagged.txt:22:374
 # text = Тұрғын үй кешені 487 пәтерден тұрады.
@@ -100,11 +100,11 @@
 
 # sent_id = akorda-random.tagged.txt:24:406
 # text = - XXI ғасырда біздің Конституциямызды жаңаша оқу қажет.
-# text[tur] = XX*I asırda bizim Anayasamızı farklı şekilde okuma zaruret. "!XXI"
+# text[tur] = - XXI asırda bizim Anayasamızı farklı şekilde okumak zaruret.
 
 # sent_id = akorda-random.tagged.txt:25:425
 # text = - Бұл менің сіздердің елордаларыңызға үшінші сапарым.
-# text[tur] = Bu benim sizin #başkent(başkentnize) üçüncü siyahetim.  "!başkent"
+# text[tur] = Bu benim sizin başkentnize üçüncü siyahetim.  
 
 # sent_id = akorda-random.tagged.txt:26:442
 # text = Конкурсқа қатысуға 296 кәсіпорын ниет білдірген.
@@ -124,7 +124,7 @@
 
 # sent_id = akorda-random.tagged.txt:30:530
 # text = Бүгін Мемлекет басшысы Нұрсұлтан Назарбаев бірқатар Заңдарға қол қойды.
-# text[tur] = Bugün Memleket başkanı Nursultan #Nazarbayev #birkaç Za'ınıza imzaladı. ?????? 
+# text[tur] = Bugün Memleket başkanı Nursultan Nazarbayev birkaç Za'ınıza imzaladı. ?????? 
 
 # sent_id = akorda-random.tagged.txt:31:551
 # text = Болашақта бұл көрсеткіш өсе бермек.
@@ -173,11 +173,11 @@
 
 # sent_id = akorda-random.tagged.txt:42:737
 # text = Содан кейін Мемлекет басшысының жұмыс сапары Теміртау қаласында жалғасты.
-# text[tur] = Ondan sonra memleket başkanın çalışma ziyareti Temirtau şehrinde devam etti.
+# text[tur] = Ondan sonra Memleket başkanının iş siyaheti Temirtau kentinde devam etti.
 
 # sent_id = akorda-random.tagged.txt:43:758
 # text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес.
-# text[tur] = Tek dış ödünç vermeye ümit büyüme #akıllıca değil. "!akıllıca"
+# text[tur] = Tek dış ödünç vermeye ümit büyüme akıllıca değil. "!akıllıca"
 
 # sent_id = akorda-random.tagged.txt:44:775
 # text = - Сіздер осында тұрып жатырсыздар, ал Астанада жұмыс істейсіздер.
@@ -189,7 +189,7 @@
 
 # sent_id = akorda-random.tagged.txt:46:816
 # text = Жұмыстың ерекшелігі-алынған нәтижелердің инновациялық бағыты.
-# text[tur] = Kurumun ayrıcalığı-alınmış neticelerin yaratıcı alanı.
+# text[tur] =Işin ayrıcalığı-alındığı neticelerin yaratıcı yönü.
 
 # sent_id = akorda-random.tagged.txt:47:833
 # text = Кореяның Қазақстанға салған инвестициясының көлемі 2 миллиард доллардан асып түсті.  ****burdaburda***
