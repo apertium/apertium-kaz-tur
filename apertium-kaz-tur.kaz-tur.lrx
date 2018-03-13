@@ -22,6 +22,21 @@
   </rule>
 
 <rule>
+    <match lemma="Президент" tags="n.*"/>
+    <match lemma="дала" tags="n.*"><select lemma="dış" tags="n.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="өр" tags="v.*"/>
+    <match lemma="іл" tags="v.*"><select lemma="topla" tags="v.*"/></match>
+  </rule>
+
+<rule>
+    <match lemma="бағдарлама" tags="n.*"/>
+    <match lemma="бекіт" tags="v.*"><select lemma="onayla" tags="v.*"/></match>
+  </rule>
+
+<rule>
     <match lemma="әлеует" tags="n.*"/>
     <match lemma="бар" tags="adj"><select lemma="mevcüt" tags="adj"/></match>
   </rule>

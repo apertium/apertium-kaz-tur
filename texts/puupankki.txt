@@ -177,15 +177,15 @@
 
 # sent_id = akorda-random.tagged.txt:43:758
 # text = Тек сыртқы кредиттеуге үміт арту ақылдылық емес.
-# text[tur] = Tek dış ödünç vermeye ümit büyüme akıllıca değil. "!akıllıca"
+# text[tur] = Tek dış ödünç vermeye ümit vermek akıllıca değil. 
 
 # sent_id = akorda-random.tagged.txt:44:775
 # text = - Сіздер осында тұрып жатырсыздар, ал Астанада жұмыс істейсіздер.
-# text[tur] = Siz şurada yaşıyorsunuz ve Astanada çalışıyorsunuz.
+# text[tur] =- Siz şurada duruyorsunuz, o Astana'da çalışırsınız.
 
 # sent_id = akorda-random.tagged.txt:45:798
 # text = Енді біз тарихымызға басқа қырынан келуге тиіспіз.
-# text[tur] = Şimdi biz tarihmize başka açıdan ziyaret etmeliyiz.
+# text[tur] = Şimdi biz tarihmize başka açıdan gelmeye hazırız.
 
 # sent_id = akorda-random.tagged.txt:46:816
 # text = Жұмыстың ерекшелігі-алынған нәтижелердің инновациялық бағыты.
@@ -245,7 +245,7 @@
 
 # sent_id = akorda-random.tagged.txt:60:1044
 # text = Заңдардың мәтіндері баспасөзде жарияланады.
-# text[tur] = Za'ınızın metinleri basında yayınlanıyor.
+# text[tur] = Yasaların metinleri basında yayınlanıyor.
 
 # sent_id = akorda-random.tagged.txt:61:1055
 # text = Осы Жарлық қол қойылған күннен бастап қолданысқа енгізіледі.
@@ -277,7 +277,7 @@
 
 # sent_id = akorda-random.tagged.txt:68:1180
 # text = Бүгінде оған барлық жағдай жасалған.
-# text[tur] = Bugünde ona tüm olanaklar sağlanmış.
+# text[tur] = Bugünde ona tüm koşul sağlanmış.
 
 # sent_id = akorda-random.tagged.txt:69:1193
 # text = Соның өзінде, біз бұл жаман көрсеткіш емес деп санаймыз.
@@ -3355,15 +3355,15 @@
 
 # sent_id = Иран.tagged.txt:104:3047
 # text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.
-# text[tur] = Iran edebiyatının iyleşan anı — 13 — 14 asırlar.
+# text[tur] = Iran edebiyatının iyleştiği anı — 13 — 14 asırlar.
 
 # sent_id = Иран.tagged.txt:105:3068  
 # text = Иран революциясы (1905 — 11) және азаматтық қозғалыс (1918 — 21) кезінде А. Фарахани, М. Кермани, М. Т. Бехар, т.б. ақындар демократиялық идеяның жыршысы болды.
-# text[tur] = Iran inkılabı (1905 — 11) ve vatandaşlık hareket (1918 — 21) anında A. *Фарахани, M. *Кермани, M. T. *Бехар, vb akınlar demokratik ideanın şarkıcısı oldu.
+# text[tur] = Iran inkılabı (1905 — 11) ve vatandaşlık hareket (1918 — 21) anında A. Farahani, M. Kerman, M. T. Bahar, vb akınlar demokratik ideanın şarkıcısı oldu.
 
 # sent_id = Иран.tagged.txt:106:3135
 # text = Хұзыстан, Курдстан жартастарындағы рельефтер, Сұзыдан табылған, асыл металдан жасалған көркем заттар Иран өнерінің өз заманында жоғары дәрежеде болғанын дәлелдейді.
-# text[tur] = Huzystan, Kürdistan kayalarındaki dublörler, *Сұзыдан bulunmuş, yüzleşelim metaldan yapıldığı nefis zatlar İran sanatının kendi zamanında yüksek derecede olduğunu kanıtlar.
+# text[tur] = Huzystan, Kürdistan kayalarındaki dublörler, Susa'dan bulunmuş, yüzleşelim metaldan yapıldığı nefis zatlar İran sanatının kendi zamanında yüksek derecede olduğunu kanıtlar.
 
 # sent_id = Иран.tagged.txt:107:3182
 # text = Иран жерінде сақтар тарихына қатысты мәдени ескерткіштер де мол сақталған.
