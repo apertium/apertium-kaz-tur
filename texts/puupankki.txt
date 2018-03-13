@@ -1284,7 +1284,7 @@
 
 # sent_id = Махамбет_Өтемісұлы.tagged.txt:1:0
 # text = 1939 ж. Қ. Жұмалиев Махамбет өлеңдерінің жинағын шығарды.
-# text[tur] = 1939 yıl *Қ. Zhumaliev Mahambet şiirlerinin birikimini çıkardı.
+# text[tur] = 1939 yıl K. Zhumaliev Mahambet şiirlerinin birikimini çıkardı.
 
 # sent_id = wikipedia-news.tagged.txt:1:0
 # text = Сеулде миллионнан астам адам билікке қарсы көтеріліске шықты.
@@ -1465,7 +1465,7 @@
 
 # sent_id = kdt.tagged.txt:34:547
 # text = Ақтар қашып, қызылдар келіп, қала-қалаға орнады.
-# text[tur] = Beyazlar kaçıp, kırmızılar gelip, şehir-şehre kuruldu....?
+# text[tur] = Beyazlar kaçıp, kırmızılar gelip, şehir-kente kuruldu.
 
 # sent_id = kdt.tagged.txt:35:570
 # text = Байдың малын, артық қатынын, жерін кедейге тартып әпереді деген лақаптар шыққан соң, жатсам ұйқым, тұрсам күлкім келмейді.
