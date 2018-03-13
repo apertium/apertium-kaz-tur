@@ -1,6 +1,6 @@
 # sent_id = Eurovision_ән_конкурсы_2010.tagged.txt:1:0
 # text = Еуровидение 2010 ән конкурсы Еуровидениенің 55-ші конкурсы болады.
-# text[tur] = Eurovision 2010 şarkı yarışması Eurovisionın 55 inci yarışması olacak.
+# text[tur] = Eurovision 2010 şiir yarışması Eurovision'un 55'inci yarışması olur.
 
 # sent_id = әртүрлі.tagged.txt:1:0
 # text = Қой, қазақ бұлармен не ғып соғыса алсын?
@@ -3129,7 +3129,7 @@
 # text = Олар елде Хулагу әулетіне қарайтын ильхандар мемлекетін құрды.
 # text[tur] = Onlar ülkede Hulagu hanedanına bakacak Ilikhandar memleketini yaptı.
 
-# sent_id = Иран.tagged.txt:49:1343
+# sent_id = Иран.tagged.txt:49:1343 ****burdaburda***
 # text = 14 ғасырдың 30-жылдары ильхандар мемлекеті бірнеше иелікке бөлініп кетті де, 1380 — 93 ж. Иранды Әмір Темір әскерлері басып алды.
 # text[tur] = 
 
@@ -3159,7 +3159,7 @@
 
 # sent_id = Иран.tagged.txt:56:1621
 # text = Осы кезден елдің ішкі істеріне еуропалық мемлекеттер (Англия, Франция) араласа бастады.
-# text[tur] = Şu andan ülkenin iç işlerine avrupa memleketlerler (Ingiltere, Fransa) #karış.
+# text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine karıştırdı.
 
 
 # sent_id = Иран.tagged.txt:57:1652
@@ -3195,7 +3195,7 @@
 
 # sent_id = Иран.tagged.txt:65:1874
 # text = 1921 ж. 21 ақпанда әскерилер Реза ханның басшылығымен мемлекеттік төңкеріс ұйымдастырып, жаңа үкімет құрды.
-# text[tur] = 1921 yıl 21 Şubat'ta #askeri Rıza hanın lideriyle milli devir/devir düzenleyip, yeni hükümet yaptı.
+# text[tur] = 1921 yıl 21 Şubat'ta askeriler Rıza hanın lideriyle milli devir/devir düzenleyip, yeni hükümet yaptı.
 
 # sent_id = Иран.tagged.txt:66:1907
 # text = Жаңа үкімет халықтың қысымымен 1919 ж. ағылшын-парсы шартын жойылды деп жариялады.
@@ -3207,7 +3207,7 @@
 
 # sent_id = Иран.tagged.txt:68:1969
 # text = Елде нарықтық қатынастар тез дами бастады.
-# text[tur] = Ülkede satılabilir ilişkiler çabucak #geliş.
+# text[tur] = Ülkede satılabilir ilişkiler çabucak gelişti.
 
 # sent_id = Иран.tagged.txt:69:1984
 # text = Халықтың мәдени және тұрмыстық өмірінде көптеген өзгерістер болып өтті.
@@ -3223,7 +3223,7 @@
 
 # sent_id = Иран.tagged.txt:72:2053
 # text = Ол толқулар күшпен басылып отырды.
-# text[tur] = O heyecanlar güçle #bas.
+# text[tur] = O heyecanlar güçle basıldı.
 
 # sent_id = Иран.tagged.txt:73:2066
 # text = 1941 ж. 16 қыркүйекте Реза шаһ тақтан өз еркімен бас тартып, орнына баласы Мұхаммед Реза Пехлеви шаһ болды.
@@ -3252,11 +3252,11 @@
 
 # sent_id = Иран.tagged.txt:79:2254
 # text = Иран шаһы М. Р. Пехлевидің көмегімен АҚШ елдің ішкі өміріне белсене араласа бастады.
-# text[tur] = Iran şahı #M. *Р. Pehlevi'nin infakıyla ABC ülkenin iç yaşamına bilfiil #karış.
+# text[tur] = Iran şahı M. P. Pehlevi'nin infakıyla ABC ülkenin iç yaşamına bilfiil karıştı.
 
 # sent_id = Иран.tagged.txt:80:2283
 # text = Ел 1955 ж. АҚШ-пен әскери келісімдер жасасты, 1960 жылдан бастап Батыс үлгісінде дами бастады.
-# text[tur] = Ülke 1955 yıl ABC'la askeri anlaşmalar yaptı, 1960 yıldan başlayıp Batı emsalında #geliş.
+# text[tur] = Ülke 1955 yıl ABC'yle askeri anlaşmalar yaptı, 1960 yıldan başlatıp Batı örneğinde gelişti.
 
 # sent_id = Иран.tagged.txt:81:2316
 # text = Елде шет ел капиталының үстемдік алуы, ұлттық құндылықтардың аяққа басылуы 1978 — 79 ж. халықтың шаһ үкіметіне қарсы жаппай бас көтеруіне алып келді.
@@ -3294,7 +3294,7 @@
 
 # sent_id = Иран.tagged.txt:89:2598
 # text = Экономиканың басқа салалары да дамыған, бірақ сыртқы экономикалық байланыстардың нашарлығынан және қаржы жетіспеушілігінен толық қуатымен жұмыс істей алмауда.
-# text[tur] = 
+# text[tur] = Ekonominin başka alanları da gelişmiş, ama dış ekonomik bağlantıların yoksulukundan ve harç ulaşışmayacağından şişko gücüyle çalışarak almamada.
 
 # sent_id = Иран.tagged.txt:90:2638
 # text = Өнеркәсіпке қажетті құрал-саймандар 90%-ға дейін шеттен әкелінеді.
@@ -3520,7 +3520,7 @@
 
 # sent_id = wikipedia.tagged.txt:3:31
 # text = Алап ауқымында қысым мен температураның қалыптан тыс мөлшерлері ұшырасқан жоқ.
-# text[tur] = Vadi kapsamında baskı ve sıcaklığın rutinden ofsayt miktarları olmadı
+# text[tur] = Vadi kapsamında baskı ve sıcaklığın rutinden ofsayt miktarları olmadı.
 
 # sent_id = wikipedia.tagged.txt:4:52
 # text = Алматы қаласына елбасының келуі көптеген мәселелерге жаңаша қарауға септігін тигізді.
@@ -3606,7 +3606,7 @@
 # text = Композитордың аты Санкт-Петербург консерваториясының кіші залына берілді. 
 # text[tur] = Bestecinin adı Petersburg konservatuvarının aşağı holuna verildi.
 
-# sent_id = wikipedia.tagged.txt:25:413 ****çeviriburda 
+# sent_id = wikipedia.tagged.txt:25:413 
 # text = КСРО Ғылым Академиясының әлем әдебиеті институтында әдебиет теориясы бойынша филология ғылымының кандидаты дәрежесіне диссертация қорғады.
 # text[tur] = SSCB Ilim Akademisinin evren edebiyatı enstitüsünde edebiyat teorisi boyunca filoloji iliminin adayı derecesine tez savundu.
 

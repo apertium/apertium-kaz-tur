@@ -1344,7 +1344,7 @@
     </rule>
     
     
- <rule comment="REGLA: fut plan-17" >
+ <rule comment="REGLA: prc_impf+ifi" > <!-- дами бастады. -> gelişti-->
       <pattern>
         <pattern-item n="prc_impf"/>
         <pattern-item n="ifi"/>
