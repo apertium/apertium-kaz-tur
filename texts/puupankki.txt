@@ -3310,7 +3310,7 @@
 
 # sent_id = Иран.tagged.txt:93:2679
 # text = Ұлттық байлықтың 36%-ы өнеркәсіптен, 22%-ы ауыл шаруашылығынан, қалғаны қызмет көрсету секторынан тұрады.
-# text[tur] = Ulusal servetin #36 endüstriden, #22 tarımından, kalanı hizmet етma sektöründen alıyor.
+# text[tur] = Ulusal servetin 36%-ı endüstriden, 22%-ı tarımından, kalanı hizmet етma sektöründen alıyor.
 
 # sent_id = Иран.tagged.txt:94:2710
 # text = Мұнай экспортынан жыл сайын 16,3 млрд. АҚШ доллары түседі.
@@ -3326,11 +3326,11 @@
 
 # sent_id = Иран.tagged.txt:97:2789
 # text = Мұнайдан басқа экспортқа кейбір өнеркәсіп тауарлары, ауыл шаруашылығы өнімдері, кілем, халық тұтыну тауарлары шығарылады.
-# text[tur] = 
+# text[tur] = Benzinden başka ihracata birkaç endüstri ürünleri, tarımı üretimleri, halı, halk tüketim ürünleri çıkarılır. 
 
 # sent_id = Иран.tagged.txt:98:2826
 # text = Шеттен — азық-түлік өнімдері (30%), машина, құрал-жабдықтар, кейбір өнеркәсіп шикізаттары әкелінеді.
-# text[tur] = Dışarıdan — gida üretimleri (#30), makine, alet-donatacak, birkaç endüstri hamları getiriliyor.
+# text[tur] = Dışarıdan — gida üretimleri (30%), makine, alet-donatacak, birkaç endüstri hamları getiriliyor.
 
 # sent_id = Иран.tagged.txt:99:2861
 # text = Негізгі сауда серіктестері: Германия, Жапония, Ұлыбритания, Италия, араб елдері, Түркия, Қазақстанмен дипломатиялық және экономикалық байланыс 1992 ж. орнады.
@@ -3339,11 +3339,11 @@
 
 # sent_id = Иран.tagged.txt:100:2914
 # text = Қазақстан Президенті Нұрсұлтан Назарбаев екі рет (1992; 1996) Иранда болып қайтты.
-# text[tur] = Kazakistan Başkanı Nursultan *Назарбаев iki defa (1992; 1996) İran'da ziyart etti.
+# text[tur] = Kazakistan Başkanı Nursultan Nazarbayev iki süre (1992; 1996) İran'da olup döndü.
 
 # sent_id = Иран.tagged.txt:101:2945
 # text = Сол кезегінде Иран басшылары да (1993 ж. А. Хашеми Рафсанджани, 1998 ж. М. Хатами) Қазақстанда болды.
-# text[tur] = Şu sırada İran halefleri da (1993 yıl *А. Haşimi Rafsancani, 1998 yıl #M. Hatemi) Kazakistan'da oldu.
+# text[tur] = Sol sırasında İran başkanları da (1993 yıl A. Haşimi Rafsancani, 1998 yıl M. Hatemi) Kazakistan'da oldu.
 
 # sent_id = Иран.tagged.txt:102:2985
 # text = 2002 ж. Алматы — Тегеран бағытында темір жол байланысы орнатылды.
@@ -3359,11 +3359,11 @@
 
 # sent_id = Иран.tagged.txt:105:3068  
 # text = Иран революциясы (1905 — 11) және азаматтық қозғалыс (1918 — 21) кезінде А. Фарахани, М. Кермани, М. Т. Бехар, т.б. ақындар демократиялық идеяның жыршысы болды.
-# text[tur] = 
+# text[tur] = Iran inkılabı (1905 — 11) ve vatandaşlık hareket (1918 — 21) anında A. *Фарахани, M. *Кермани, M. T. *Бехар, vb akınlar demokratik ideanın şarkıcısı oldu.
 
 # sent_id = Иран.tagged.txt:106:3135
 # text = Хұзыстан, Курдстан жартастарындағы рельефтер, Сұзыдан табылған, асыл металдан жасалған көркем заттар Иран өнерінің өз заманында жоғары дәрежеде болғанын дәлелдейді.
-# text[tur] = 
+# text[tur] = Huzystan, Kürdistan kayalarındaki dublörler, *Сұзыдан bulunmuş, yüzleşelim metaldan yapıldığı nefis zatlar İran sanatının kendi zamanında yüksek derecede olduğunu kanıtlar.
 
 # sent_id = Иран.tagged.txt:107:3182
 # text = Иран жерінде сақтар тарихына қатысты мәдени ескерткіштер де мол сақталған.
@@ -3371,7 +3371,7 @@
 
 # sent_id = Иран.tagged.txt:108:3204
 # text = Сасани әулеті дәуірінде (3 — 7 ғасырлар) қалаларды қорған ішіне жүйелі жоба бойынша салу қанат жайды (мыс., Нишапур қаласы шахмат жүйесімен салынған).
-# text[tur] = Sasani hanedanı devrinde/devirinde (3 — 7 asırlar) kentleri kurgan içine sistemli proje boyunca yapma kanat yaydı (mis., Nişabur kenti #satranç sistemiyle yapıldığı).
+# text[tur] = Sasani hanedanı devrinde/devirinde (3 — 7 asırlar) kentleri kurgan içine sistemli proje boyunca yapma kanat yaydı (mis., Nişabur kenti satranç sistemiyle yapıldığı).
 
 
 # sent_id = Иран.tagged.txt:109:3261
@@ -3388,7 +3388,7 @@
 
 # sent_id = Иран.tagged.txt:112:3346
 # text = 15 ғасырда Иран миниатюрасының өркендеуіне Герат мектебі үлкен әсер етті.
-# text[tur] = 15 asırda İran minyatürünün medenileştirmaya Herat okulu #iri etkiledi.
+# text[tur] = 15 asırda İran minyatürünün medenileştirmesine Herat okulu büyük etkiledi.
 
 # sent_id = Иран.tagged.txt:113:3369
 # text = 16 — 17 ғасырларда пайда болған Тебриз, Шираз, Исфаһан (Риза Аббаси, т.б.) мектептері миниатюра өнерін жоғары дәрежеге көтерді.

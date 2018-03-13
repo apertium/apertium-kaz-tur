@@ -17,6 +17,10 @@
 <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
     </def-cat>
+
+<def-cat n="ger_abs">
+      <cat-item tags="v.*.ger_abs.*"/>
+    </def-cat>
 <def-cat n="da">
       <cat-item lemma="да" tags="cnjcoo"/>
       <cat-item lemma="да" tags="postadv"/>
@@ -316,6 +320,10 @@
      <attr-item tags="gpr_past"/>
      <attr-item tags="gpr_rsub"/>
    </def-attr>
+<def-attr n="g_abs">
+     <attr-item tags="ger_abs"/>
+     <attr-item tags="ger_fut"/>
+   </def-attr>
 <def-attr n="a_impf">
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
@@ -571,6 +579,31 @@
       </action>
     </rule>
 
+<rule comment="REGLA: gpr_abs" > <!--жетіспеушілігінен-> ulaşmayacağından  -->
+      <pattern>
+        <pattern-item n="ger_abs"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="g_abs"/>
+          <lit-tag v="ger_fut"/>
+        </let>
+       
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 <rule comment="REGLA: gpr_impf-3" > <!--жейтін -> yiyecek -->
       <pattern>
         <pattern-item n="gpr_impf_fut"/>
