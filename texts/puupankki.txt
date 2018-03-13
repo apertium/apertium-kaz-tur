@@ -3826,7 +3826,7 @@
 
 # sent_id = Өлген_қазан.tagged.txt:5:72
 # text = Қожа үйден шығып кетеді де үйіне барып, тәуір киімдерін киіп, қайта келеді.
-# text[tur] = Ev sahibi evden #çık #git da evine alıp, doğru kılıklarını giyip, döndü.
+# text[tur] = Ev sahibi evden çıkar da evine gidip, doğru kılıklarını giyip, döner.
 
 # sent_id = Өлген_қазан.tagged.txt:6:102
 # text = Бұл жолы үй иесі Қожанасырды құрметтейді, төрден орын береді, ет келгенде: - Қожеке, алыңыз, алыңыз! - деп, қошеметтейді.
@@ -3842,11 +3842,11 @@
 
 # sent_id = Өлген_қазан.tagged.txt:9:236
 # text = Сонда Қожа: - Сен кісіні сыйламайды екенсің, киімді сыйлайды екенсің.
-# text[tur] = Şunda Ev sahibi: - Sen kişiyi #ödüllendir, kılığı #say.
+# text[tur] = Şunda Ev sahibi: - Sen kişiyi ödüllendirmezsin, kılığı ödüllendirirsin.
 
 # sent_id = Өлген_қазан.tagged.txt:10:259                                          
 # text = Сондықтан шапаныма жегізіп отырғаным! - деп, жауап береді.
-# text[tur] = 
+# text[tur] = Sonra paltoma yediğine! - diyip, yanıt çıkar.
 
 # sent_id = story.tagged.txt:1:0
 # text = АЗАМАТ ҚАЙДА?
@@ -3942,7 +3942,7 @@
 
 # sent_id = story.tagged.txt:24:385
 # text = Ол "Азамат қай жерге кетті? Оны көрдіңдер ме?" деп іздеп жатыр.
-# text[tur] = O Azamat hangi yere gitti? Onu gördünüz mı? deyip arıyor
+# text[tur] = O "Azamat hangi yere gitti?" Onu gördünüz mı? deyip arıyor
 
 # sent_id = story.tagged.txt:25:417
 # text = Айгүл Азаматтың қайда екенін білмейді.
@@ -3950,7 +3950,7 @@
 
 # sent_id = story.tagged.txt:26:430
 # text = Күшіктен "Азаматты көрдің бе?" деп сұрайды.
-# text[tur] = Köpekten Azamat'ı gördün mı? deyip/diyip soruyor.
+# text[tur] = Köpekten "Azamat'ı gördün mı?" deyip/diyip soruyor.
 
 # sent_id = story.tagged.txt:27:450
 # text = Ал күшік, әлбетте, сөйлей алмайды.
@@ -3974,7 +3974,7 @@
 
 # sent_id = story.tagged.txt:32:547
 # text = "Азамат қайда, айтшы!" деп сұрайды.
-# text[tur] = Azamat nerde, söyleyin! deyip/diyip soruyor.
+# text[tur] = "Azamat nerde, söyleyin!" deyip/diyip soruyor.
 
 # sent_id = story.tagged.txt:33:569
 # text = "Жоқ, Айгүл, айта алмаймын" деп анасы жауап береді.
@@ -4040,7 +4040,7 @@
 
 # sent_id = story.tagged.txt:48:837
 # text = "Сені таптым!" деп күледі.
-# text[tur] = Seni buldum! deyip/diyip gülüyor.
+# text[tur] = "Seni buldum!" deyip/diyip gülüyor.
 
 # sent_id = story.tagged.txt:49:854
 # text = Олар екеуі де көңілді үйге қарай келе жатыр, бір нәрсе жеп, су ішетін уақыт болды!
@@ -4073,7 +4073,7 @@
 
 # sent_id = Шымкент.tagged.txt:7:185
 # text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.   
-# text[tur] = Ona ilke4 konutlara yönetildiği arkeolojik fosil işleri anında bulunduğu kültür mirasları delil olur.
+# text[tur] = Ona ilkel konutlara yönetildiği arkeolojik fosil işleri anında bulunduğu kültür mirasları delil bulunur.
 
 # sent_id = Шымкент.tagged.txt:8:216
 # text = Тау етегінде өзен бойындағы алқаптарда егіншілік пен жүзімдік, ал көгалды таулы жайылымдарда-мал шаруашылығы дамыған.
@@ -4081,7 +4081,7 @@
 
 # sent_id = Шымкент.tagged.txt:9:253
 # text = 1914 жылы Қазақстанның Ресей империясына қосылуының 50 жылдығына орай қалаға орыс генералы Черняевтің есімі берілді, бірақ 1921 жылы қала Шымкент атауына қайта ие болды.
-# text[tur] = 1914 yılı Kazakistan'ın Rusya imparatorluğuna/İmparatorluğuna katılmasının 50 senelikine fırsat kente rus generalı #Çernyaev ismi verildi, ama 1921 yılı kent Çimkent çağırmasına gene sahip oldu. 
+# text[tur] = 1914 yılı Kazakistan'ın Rusya imparatorluğuna/İmparatorluğuna katılmasının 50 senelikine fırsat kente rus generalı Çernyaev'in ismi çıkıldı, ama 1921 yılı kent Çimkent çağırmasına gene sahip oldu.
 
 # sent_id = Шымкент.tagged.txt:10:306
 # text = XX ғасырда қала тарихының жаңа кезеңі басталды.
@@ -4105,7 +4105,7 @@
 
 # sent_id = Шымкент.tagged.txt:15:421
 # text = Бұл алып өндіріс орны КСРО-дағы өндірілетін қорғасынның 70%-ін беріп отырды.
-# text[tur] = Bu müthiş imalat yeri SSCB'daki üreten kurşunun #70 gitti.
+# text[tur] = Bu müthiş imalat yeri SSCB'daki üreten kurşunun 70%-in gitti.
 
 # sent_id = Шымкент.tagged.txt:16:444
 # text = Қалада май комбинаты, шұлық және айна фабрикалары іске қосылды.
@@ -4113,7 +4113,7 @@
 
 # sent_id = Шымкент.tagged.txt:17:467                                                                                              
 # text = 1932 жылы ауылшаруашылық авиациясының базасы құрылып, бұл Шымкент әуежайының негізін қалады.
-# text[tur] = 1932 yılı *ауылшаруашылық havacılıkının bazı yapılıp, bu Çimkent havaalanının esasını istedi.
+# text[tur] = 1932 yılı tarım havacılıkının bazı yapılıp, bu Çimkent havaalanının esasını kurar.
 
 # sent_id = Ер_Төстік.tagged.txt:1:0
 # text = Ерте заманда Ерназар деген кісі болыпты.
@@ -4133,7 +4133,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:5:49
 # text = Келе-келе түйелері болыпты.
-# text[tur] = Ara sıra develeri olmuş.
+# text[tur] = Gele-gele develeri olmuş.
 
 # sent_id = Ер_Төстік.tagged.txt:6:58
 # text = Өріс толған жылқылары болыпты.
@@ -4213,5 +4213,5 @@
 
 # sent_id = Ер_Төстік.tagged.txt:25:426
 # text = Төстік бұрын ағалары бар екенін естіген жоқ екен.
-# text[tur] = Tostik önce amcaları #var işitmemiş.
+# text[tur] = Tostik önce amcaları var olduğunu işitmemiş.
 

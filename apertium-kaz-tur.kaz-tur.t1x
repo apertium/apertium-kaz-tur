@@ -1359,7 +1359,7 @@
 
 
 
-          <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="2" side="tl" part="tenses"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
