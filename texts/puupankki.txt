@@ -3392,7 +3392,7 @@
 
 # sent_id = Иран.tagged.txt:113:3369
 # text = 16 — 17 ғасырларда пайда болған Тебриз, Шираз, Исфаһан (Риза Аббаси, т.б.) мектептері миниатюра өнерін жоғары дәрежеге көтерді.
-# text[tur] = 16 — 17 asırlarda bulunduğu Tebriz, Şiraz, İsfahan (Mutlu Abbasi, *т.*б.) okulları minyatür sanatını yüksek dereceye götürdü.
+# text[tur] = 16 — 17 asırlarda bulunduğu Tebriz, Şiraz, İsfahan (Mutlu Abbasi, vb) okulları minyatür sanatını yüksek dereceye götürdü.
 
 
 # sent_id = Иран.tagged.txt:114:3418
@@ -3536,7 +3536,7 @@
 
 # sent_id = wikipedia.tagged.txt:7:115
 # text = Ендеше, осындай жағдаяттарда жол табуға болады.
-# text[tur] = Böylelikle, #şu durumlarda yol bulmaya oluyor.
+# text[tur] = Böylelikle, şu durumlarda yol bulmak oluyor.
 
 # sent_id = wikipedia.tagged.txt:8:132
 # text = Ендеше тілегімді берді, - деді.
@@ -3560,7 +3560,7 @@
 
 # sent_id = wikipedia.tagged.txt:13:204
 # text = Жауапты хатшы өзінің қызметін жүзеге асырған кезде Қазақстан Республикасының Президентіне, Премьер-Министрге, Министрге есеп береді.
-# text[tur] = Yanıtı mail  #kendi hizmetini uyguladığı anda Kazakistan Cumhuriyetinin Başkanına, Başbakana, Bakana skor verir.
+# text[tur] = Yanıtı mail  kendi hizmetini uyguladığı anda Kazakistan Cumhuriyetinin Başkanına, Başbakana, Bakana skor çıkar.
 
 # sent_id = wikipedia.tagged.txt:14:239
 # text = Жауыңнан бұрын қимылда-жеріңе жамандық келмейді.
@@ -3632,7 +3632,7 @@
 
 # sent_id = wikipedia.tagged.txt:31:528
 # text = Мұражайда үш экспозициялық зал жұмыс істейді.
-# text[tur] = Müzede üç #gösteri hol çalışıyor.
+# text[tur] = Müzede üç gösteri hol çalışıyor.
 
 # sent_id = wikipedia.tagged.txt:32:543
 # text = Намыс қылып балаға мойын бұрды.
@@ -3652,7 +3652,7 @@
 
 # sent_id = wikipedia.tagged.txt:36:603
 # text = Непал мен Тибетке бет алды.
-# text[tur] = ...........?
+# text[tur] = Nepal ve Tibet'e yöneldi.
 
 # sent_id = wikipedia.tagged.txt:37:616
 # text = Несиенің шамасымен, сипатымен және мерзімімен айқындалады.
@@ -3710,7 +3710,7 @@
 
 # sent_id = wikipedia.tagged.txt:50:817
 # text = Сергей Михайлович Бобров 1920-1994 жылдары Атырау облысында өмір сүрген.
-# text[tur] = Sergey Mihayloviç #Bobrov 1920-1994 yılları Atırav bölgesinde yaşamış.
+# text[tur] = Sergei Mihayloviç Bobrov 1920-1994 yılları Atırav bölgesinde yaşamış.
 
 # sent_id = wikipedia.tagged.txt:51:842
 # text = Соғыстан кейін Федор Федорович Қарағандыда тұрды.
@@ -3810,19 +3810,19 @@
 
 # sent_id = Өлген_қазан.tagged.txt:1:0
 # text = Баяғыда біреу той жасапты, тойға көп кісі жиналыпты, Қожа да келіпті.
-# text[tur] = Çoktan #biri düğün #yap, düğüne çok #genclik #toparla, Ev sahibi da #gel
+# text[tur] = Çoktan biri düğün yaptı, düğüne çok kişi toparlandı, Ev sahibi da geldi.
 
 # sent_id = Өлген_қазан.tagged.txt:2:27
 # text = Қожанасырдың үстіндегі киімі жаман екен.
-# text[tur] = Kozhanasyr'ın üstündeki kılığı kötüymüş.
+# text[tur] = Hoca Nasreddin'in üstündeki kılığı kötüymüş.
 
 # sent_id = Өлген_қазан.tagged.txt:3:40
 # text = Қожанасырды ешкім елемепті.
-# text[tur] = Kozhanasyr'ı hiç kimse #tanıma.
+# text[tur] = Hoca Nasreddin'i hiç kimse tanımadı.
 
 # sent_id = Өлген_қазан.tagged.txt:4:49
 # text = «Төрге шық, тамақ іш», - демепті.
-# text[tur] = Baş koltuğa, çık, ye iç, ....?
+# text[tur] = «Baş koltuka çik, yemek iç», - demedi.
 
 # sent_id = Өлген_қазан.tagged.txt:5:72
 # text = Қожа үйден шығып кетеді де үйіне барып, тәуір киімдерін киіп, қайта келеді.
@@ -3914,7 +3914,7 @@
 
 # sent_id = story.tagged.txt:17:289
 # text = Не үшін екенін білесіз бе?
-# text[tur] = 
+# text[tur] = Ne için olduğunu bilirsiniz mi?
 
 # sent_id = story.tagged.txt:18:301
 # text = Айгүл қолымен көздерін жауып отыр.
@@ -3946,7 +3946,7 @@
 
 # sent_id = story.tagged.txt:25:417
 # text = Айгүл Азаматтың қайда екенін білмейді.
-# text[tur] = Aygül Azamat'ın  bilmiyor. ....?
+# text[tur] = Aygül Azamat'ın nerede olduğunu bilmez.
 
 # sent_id = story.tagged.txt:26:430
 # text = Күшіктен "Азаматты көрдің бе?" деп сұрайды.
@@ -4074,6 +4074,7 @@
 # sent_id = Шымкент.tagged.txt:7:185
 # text = Оған ежелгі қоныстарға жүргізілген археологиялық қазба жұмыстары кезінде табылған мәдениет мұралары дәлел бола алады.   
 # text[tur] = Ona ilke4 konutlara yönetildiği arkeolojik fosil işleri anında bulunduğu kültür mirasları delil olur.
+
 # sent_id = Шымкент.tagged.txt:8:216
 # text = Тау етегінде өзен бойындағы алқаптарда егіншілік пен жүзімдік, ал көгалды таулы жайылымдарда-мал шаруашылығы дамыған.
 # text[tur] = Dağ etekinde dere boyundaki tarlalarda toprağı sürme ve üzüm bağı, alalım çimeni dağlık otlaklarda-hayvancılık gelişmiş.
@@ -4152,11 +4153,11 @@
 
 # sent_id = Ер_Төстік.tagged.txt:10:125
 # text = Бір қыстық азығын алып, кемпірі мен Ерназар үйінде қалыпты.
-# text[tur] = Bir kışlık gıdasını #müthiş, kocakarısı ve Ernazar evinde kadırmış
+# text[tur] = Bir kışlık gıdasını müthiş, kocakarısı ve Ernazar evinde kadırmış
 
 # sent_id = Ер_Төстік.tagged.txt:11:148
 # text = Ерназардың сегіз ұлы сол кеткеннен хабарсыз кетеді, айлар өтеді, келмейді.
-# text[tur] = Ernazar'ın sekiz oğlu şu ..... mesajsız gidiyor, aylar gidiyor, gelmiyor.
+# text[tur] = Ernazar'ın sekiz oğlu şu gittikten bilgisiz gider, aylar olur, gelmez.
 
 # sent_id = Ер_Төстік.tagged.txt:12:176
 # text = Ерназардың азығы таусылады, ашығады, жейтін тамақ таппайды.
@@ -4204,7 +4205,7 @@
 
 # sent_id = Ер_Төстік.tagged.txt:23:396
 # text = Сөйткенде Төстіктің бір бақайы өрмекті іліп кетеді.
-# text[tur] = 
+# text[tur] = Şöyle yaptıkta Tostik'in bir boşluğu eğilmeği asar.
 
 # sent_id = Ер_Төстік.tagged.txt:24:413
 # text = Өрмектің бірсыпыра жібі үзіліп қалады.

@@ -183,6 +183,7 @@
      <e><p><l>сияқты<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
      <e><p><l>бойынша<s n="post"/></l><r>boyunca<s n="post"/></r></p></e>
      <e><p><l>бойынша<s n="post"/></l><r>süresince<s n="post"/></r></p></e>
+<e><p><l>бойынша<s n="post"/></l><r>göre<s n="post"/></r></p></e>
      <e><p><l>қарамастан<s n="post"/></l><r>rağmen<s n="post"/></r></p></e>
     <e><p><l>тарта<s n="post"/></l><r>dair<s n="post"/></r></p></e>
      <e><p><l>дейін<s n="post"/></l><r>dek<s n="post"/></r></p></e>
@@ -1090,8 +1091,7 @@
      <e><p><l>демография<s n="n"/></l><r>demografi<s n="n"/></r></p></e>
      <e><p><l>демократ<s n="n"/></l><r>demokrat<s n="n"/></r></p></e>
      <e><p><l>демократия<s n="n"/></l><r>demokrasi<s n="n"/></r></p></e>
-     <e><p><l>деңгей<s n="n"/></l><r>derece<s n="n"/></r></p></e>
-     <e><p><l>деңгей<s n="n"/></l><r>düzey<s n="n"/></r></p></e>
+    
      <e><p><l>деңгей<s n="n"/></l><r>seviye<s n="n"/></r></p></e>
      <e><p><l>дене<s n="n"/></l><r>beden<s n="n"/></r></p></e>
      <e><p><l>дене<s n="n"/></l><r>bünye<s n="n"/></r></p></e>
@@ -1665,7 +1665,7 @@
      <e><p><l>көбісі<s n="n"/></l><r>çoğunluk<s n="n"/></r></p></e>
      <e><p><l>қоғам<s n="n"/></l><r>dernek<s n="n"/></r></p></e>
      <e><p><l>қоғам<s n="n"/></l><r>kamu<s n="n"/></r></p></e>
-     <e><p><l>қоғам<s n="n"/></l><r>kurul<s n="n"/></r></p></e>
+     
      <e><p><l>қоғам<s n="n"/></l><r>topluluk<s n="n"/></r></p></e>
      <e><p><l>қоғам<s n="n"/></l><r>toplum<s n="n"/></r></p></e>
      <e><p><l>кодекс<s n="n"/></l><r>kodeks<s n="n"/></r></p></e>
@@ -3454,7 +3454,7 @@
      <e><p><l>салями<s n="n"/></l><r>salam<s n="n"/></r></p></e>
      <e><p><l>салт-дәстүр<s n="n"/></l><r>görenek<s n="n"/></r></p></e>
      <e><p><l>салт-дәстүр<s n="n"/></l><r>anane<s n="n"/></r></p></e>
-     <e><p><l>салмақ<s n="n"/></l><r>ağırlık<s n="n"/></r></p></e>
+     <e><p><l>салмақ<s n="n"/></l><r>tartma<s n="n"/></r></p></e>
      <e><p><l>сақина<s n="n"/></l><r>yüzük<s n="n"/></r></p></e>
      <e><p><l>сазгер<s n="n"/></l><r>maestro<s n="n"/></r></p></e>
      <e><p><l>сазгер<s n="n"/></l><r>kompozitör<s n="n"/></r></p></e>
@@ -4582,6 +4582,7 @@
 <e><p><l>Әли<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
 <e><p><l>Аббас<s n="np"/><s n="ant"/><s n="m"/></l><r>Abbas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Аристотель<s n="np"/><s n="ant"/><s n="m"/></l><r>Aristo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Махамбет<s n="np"/><s n="ant"/><s n="m"/></l><r>Mahambet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Текеш<s n="np"/><s n="ant"/><s n="m"/></l><r>Tekeş<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Текеш<s n="np"/><s n="ant"/><s n="m"/></l><r>Tekeş<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5275,7 +5276,7 @@
      <e><p><l>Константин<s n="np"/><s n="ant"/><s n="m"/></l><r>Konstantin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Сергей<s n="np"/><s n="ant"/><s n="m"/></l><r>Sergei<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Михайлович<s n="np"/><s n="pat"/><s n="m"/></l><r>Mihayloviç<s n="np"/><s n="pat"/><s n="m"/></r></p></e>
-<e><p><l>Бобров<s n="np"/><s n="cog"/></l><r>Bobrov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Бобров<s n="np"/><s n="cog"/><s n="m"/></l><r>Bobrov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
      <e><p><l>Ламберто<s n="np"/><s n="ant"/><s n="m"/></l><r>Lamberto<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Леонард<s n="np"/><s n="ant"/><s n="m"/></l><r>Leonard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Мануэль<s n="np"/><s n="ant"/><s n="m"/></l><r>Manuel<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -7043,6 +7044,7 @@
 <e><p><l>Ш.<s n="abbr"/></l><r>Ş.<s n="abbr"/></r></p></e>
 <e><p><l>ғ.<s n="abbr"/></l><r>ğ.<s n="abbr"/></r></p></e>
 <e><p><l>Г.<s n="abbr"/></l><r>G.<s n="abbr"/></r></p></e>
+<e><p><l>т.б.<s n="abbr"/></l><r>vb<s n="abbr"/></r></p></e>
      <e r="LR"><p><l>мм<s n="n"/><s n="nom"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
 
 
