@@ -177,6 +177,9 @@
 <def-cat n="vaux-gpr_impf">
       <cat-item tags="vaux.*.gpr_impf"/>
     </def-cat>
+<def-cat n="aux-gpr_impf">
+      <cat-item tags="vaux.*.gpr_impf.*"/>
+    </def-cat>
 <def-cat n="ger_obs">
       <cat-item tags="v.*.ger_obs.*"/>
     </def-cat>
@@ -330,6 +333,11 @@
 <def-attr n="a_impf">
      <attr-item tags="gpr_impf"/>
      <attr-item tags="gpr_rsub"/>
+   </def-attr>
+
+<def-attr n="past_impf">
+     <attr-item tags="gpr_impf"/>
+     <attr-item tags="gpr_past"/>
    </def-attr>
 
 
@@ -1713,6 +1721,37 @@
       </action>
     </rule>
 
+<rule comment="REGLA: prc_impf-26" > <!-- іске асыра алмайтындай -> uygulanmayack -->
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="aux-gpr_impf"/>
+      </pattern>
+ <action>
+
+        <let>
+          <clip pos="2" side="tl" part="past_impf"/>
+          <lit-tag v="gpr_past"/>
+        </let>
+        <out>
+
+
+          <chunk name="perf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="v_trans"/>
+              <clip pos="2" side="tl" part="neg"/>
+              <clip pos="2" side="tl" part="past_impf"/>
+              <lit-tag v="subst"/>
+               <lit-tag v="sim"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 <rule comment="REGLA: prc_impf-26" > <!-- арттыра -> artırarak -->
       <pattern>
@@ -1724,6 +1763,8 @@
           <clip pos="1" side="tl" part="prc_imp"/>
           <lit-tag v="gna_impf"/>
         </let>
+
+
         <out>
           <chunk name="perf" case="caseFirstWord">
             <tags>
@@ -1736,6 +1777,8 @@
         </out>
       </action>
     </rule> 
+
+
     
     
 <rule comment="REGLA: impf-27" >

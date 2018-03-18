@@ -357,7 +357,7 @@
 
 # sent_id = akorda-random.tagged.txt:88:1546
 # text = – Қазір біз іске асыра алмайтындай жоба жоқ.
-# text[tur] = şimdi uygulaması olamaz proje yok.
+# text[tur] = – Şimdi biz uygulamadıkça proje yok.
 
 # sent_id = akorda-random.tagged.txt:89:1565
 # text = Қымбатты ханымдар!
