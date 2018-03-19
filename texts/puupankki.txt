@@ -3006,7 +3006,7 @@
 # text = Шет жақтарында Солтүстік Иран (Эльбурс), Оңтүстік Иран (Загрос, Мекран), Шығыс Иран (Серхед, Пеленган, Боран, Келат) таулары, ортасында Кухруд жотасы, Деште-Кевир, Деште-Лух шөлдері орналасқан.
 # text[tur] = Dışarı yönlerinde Kuzey İran (Elburz), Güney İran (Zagros, Mekran), Doğu İran (Serhed, Pelengan, Boran, Kelat) dağları, ortasında Kuhrud peşi, Deşt-i Kevir, Deşti Luh çölleri konaklamış.
 
-# sent_id = Иран.tagged.txt:19:546
+# sent_id = Иран.tagged.txt:19:546 ****burdaburda*****
 # text = Солтүстік-батысын Оңтүстік Каспий және Кура-Аракс ойпаттары, солтүстік-шығысын Горган жазығы, оңтүстігін — Гермезир шөлі алып жатыр.
 # text[tur] = 
 
@@ -3026,12 +3026,11 @@
 
 # sent_id = Иран.tagged.txt:23:640
 # text = Жауын-шашынның жылдық мөлш. 500 мм.
-# text[tur] = Atıkın senelik miktar. 500 мм.
+# text[tur] = Atıkın senelik miktar. 500 mm.
 
 # sent_id = Иран.tagged.txt:24:653
 # text = Эльбурс тауы беткейінде 2000 мм, Систан ойысында 50 — 60 мм.
-# text[tur] = Elburz dağı pateninde 2000/2000 #mm, *Систан içbükeyinde 50 — 60 #mm.
-
+# text[tur] = Elburz dağı pateninde 2000/2000 mm, Sistan içbükeyinde 50 — 60 mm.
 # sent_id = Иран.tagged.txt:25:680
 # text = Жер беті суы аз.
 # text[tur] = Yer yüzü suyu az.
@@ -3059,7 +3058,7 @@
 
 # sent_id = Иран.tagged.txt:31:796
 # text = Б.з.б. 2-мыңжылдықта бұл аймаққа Орталық Азиядан арий тайпалары келіп қоныстанды.
-# text[tur] = Б.з.б. 2-bin yılda bu semte orta Asya'dan arya boyları gelip *қоныстанды.
+# text[tur] = MÖ 2-bin yılda bu bölgeye orta Asya'dan arya boyları gelip yaşadı.
 
 # sent_id = Иран.tagged.txt:32:823
 # text = Б.з.б. 550 ж. өкімет билігі парсылық Ахемен әулетіне көшті.
@@ -3067,11 +3066,11 @@
 
 # sent_id = Иран.tagged.txt:33:844
 # text = Ахемен әулеті мемлекетін б.з.б. 330 ж. Александр Македонский талқандады.
-# text[tur] = baltacı askerler hanedanı memleketini *б.*з.*б. 330 yıl Aleksander Makedonya sarstı.
+# text[tur] = Akamanış hanedanı memleketini MÖ 330 yıl Aleksander Makedonya sarstı.
 
 # sent_id = Иран.tagged.txt:34:865
 # text = Иран эллиндік мемлекеттердің билігіне көшіп, б.з.б. 2 ғасырдың орта тұсынан бастап Парфия патшалығына бағынды.
-# text[tur] = 
+# text[tur] = Iran yunan memleketlerin yetkisine göçüp, MÖ 2 asırın orta yönünden başlatıp Parfiya krallıkına itaat etti.
 
 # sent_id = Иран.tagged.txt:35:898
 # text = 224 ж. Парфия мемлекеті құлап, орнына Сасани әулеті мемлекеті құрылды.
@@ -3091,7 +3090,7 @@
 
 # sent_id = Иран.tagged.txt:39:1010
 # text = 8 ғасырда Араб халифатының билеушісі Әбу әл-Аббас әс-Саффах халифат астанасын Бағдадқа көшірді.
-# text[tur] = 8 asırda arap/Arap hilafetinin #yönet Abu Al-Abbas Al-Saffah hilafet merkezini Bağdat'a götürdü.
+# text[tur] = 8 asırda arap/Arap hilafetinin yöneten Abu Al-Abbas Al-Saffah hilafet merkezini Bağdat'a götürdü.
 
 # sent_id = Иран.tagged.txt:40:1037
 # text = Иран аумағы ұзақ жылдар бойы Аббас әулеті билеген Бағдад халифаты құрамында болып, мәдени және экономикалық дамуды басынан кешірді.
@@ -3111,15 +3110,15 @@
 
 # sent_id = Иран.tagged.txt:44:1185
 # text = 11 ғасырда Иранға түрік-оғыздар (салжұқ) басып кіре бастады.
-# text[tur] = 11 asırda İran'a türk-oğuzlar (selcuk) #bas.
+# text[tur] = 11 asırda İran'a türk-oğuzlar (selcuk) bastı.
 
 # sent_id = Иран.tagged.txt:45:1212
 # text = Көп ұзамай олар Ғазнауи әулеті әскерін талқандап, бүкіл Иранды және көрші елдерді басып алып салжұқтар мемлекетін құрды.
-# text[tur] = 
+# text[tur] = Kısa zaman sonra onlar Gaznahit hanedanı askerini sarsıp, tüm İran'ı ve komşu ülkeleri işgal edip selcuklar memleketini yaptı.
 
 # sent_id = Иран.tagged.txt:46:1251
 # text = 12 ғасырда салжұқтар бірнеше сұлтандыққа бөлініп кетті де, осы ғасырдың аяғына таман бүкіл Иранды түркі қыпшақ тайпасынан шыққан Хорезм шаһы Текеш басып алды.
-# text[tur] = 12 asırda selcuklar #birkaç sultana bölündü da, şu alimin sonuna kadar tüm İran'ı türki kipçak boyundan çıktık Harezm şahı Tekeş işgal etti.
+# text[tur] = 12 asırda selcuklar birkaç sultana bölündü da, şu alimin sonuna kadar tüm İran'ı türki kipçak boyundan çıktık Harezm şahı Tekeş işgal etti.
 
 # sent_id = Иран.tagged.txt:47:1301
 # text = 1220 — 56 ж. Иранды Шыңғыс хан әулеті жаулап алды.
@@ -3129,9 +3128,9 @@
 # text = Олар елде Хулагу әулетіне қарайтын ильхандар мемлекетін құрды.
 # text[tur] = Onlar ülkede Hulagu hanedanına bakacak Ilikhandar memleketini yaptı.
 
-# sent_id = Иран.tagged.txt:49:1343 ****burdaburda***
+# sent_id = Иран.tagged.txt:49:1343 
 # text = 14 ғасырдың 30-жылдары ильхандар мемлекеті бірнеше иелікке бөлініп кетті де, 1380 — 93 ж. Иранды Әмір Темір әскерлері басып алды.
-# text[tur] = 
+# text[tur] = 14 asırın 30-yılları Ilikhandar memleketi birkaç mülkiyete bölündü da, 1380 — 93 yıl İran'ı Emir Demir askerleri işgal etti.
 
 # sent_id = Иран.tagged.txt:50:1391
 # text = Әмір Темір өлгеннен кейін Шығыс Иран Темір әулетінің билігінде қалып, Батыс Иранда Қарақойлы мемлекеті құрылды.
@@ -3151,7 +3150,7 @@
 
 # sent_id = Иран.tagged.txt:54:1555
 # text = Әсіресе, 18 ғасырдың 2-жартысында елдегі үстемдік үшін екі әулеттің (Зенд және Каджар) арасындағы үздіксіз соғыс халықты әбден қалжыратты.
-# text[tur] = 
+# text[tur] = Özellikle, 18 asırın 2-yarısında ülkedeki üstünlük için iki hanedanın (Zend ve Kajar) arısındaki devamlı savaş halkı pek yoruldu.
 
 # sent_id = Иран.tagged.txt:55:1604
 # text = 18 ғасырдың аяғында билікке Каджар әулеті келді.
@@ -3161,13 +3160,13 @@
 # text = Осы кезден елдің ішкі істеріне еуропалық мемлекеттер (Англия, Франция) араласа бастады.
 # text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine karıştırdı.
 
-
 # sent_id = Иран.tagged.txt:57:1652
 # text = 19 ғасырдың басында болған орыс-иран соғысынан кейін елде шетелдіктердің билігі күшейіп кетті.
 # text[tur] = 19 asırın başında olduk rus-iran savaşından sonra ülkede yabancıların yetkisi şiddetlendi.
+
 # sent_id = Иран.tagged.txt:58:1683
 # text = 19 ғасырдың аяғына таман Иран еуропалық мемлекеттердің жартылай отарына айнала бастады.
-# text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine #karıştır.
+# text[tur] = 19 asırın sonuna kadar İran avrupa memleketlerin kısmen kolonisine karıştırdı.
 
 # sent_id = Иран.tagged.txt:59:1708
 # text = 1901 ж. ағылшындар Иран мұнайын шығаруға рұқсат алып, 1909 ж. бірлескен ағылшын-парсы мұнай компаниясы құрылды.
@@ -3175,7 +3174,7 @@
 
 # sent_id = Иран.tagged.txt:60:1747
 # text = Елдің солтүстігіне Ресей, оңтүстігіне Ұлыбритания қожалық ете бастады.
-# text[tur] = Ülkenin kuzeyine Rusya, güneyine Birleşik Krallık çiftlik #et.
+# text[tur] = Ülkenin kuzeyine Rusya, güneyine Birleşik Krallık çiftlik etti.
 
 # sent_id = Иран.tagged.txt:61:1768
 # text = 1905 — 11 ж. елде шетелдіктерге қарсы ұлт-азаттық қозғалысы болып өтті.
@@ -3203,7 +3202,7 @@
 
 # sent_id = Иран.tagged.txt:67:1936
 # text = Армияға сүйенген Реза хан Орталықтың билігін күшейту үшін сепаратистік пиғылдағы Иран ақсүйектерімен үздіксіз күрес жүргізді.
-# text[tur] = 
+# text[tur] = Orduya gözlemlediği Rıza han ortanın yetkisini güçlendirme için ayırıcı arzudaki İran aristokrasileriyle devamlı güreş yönetti.
 
 # sent_id = Иран.tagged.txt:68:1969
 # text = Елде нарықтық қатынастар тез дами бастады.
@@ -3239,7 +3238,7 @@
 
 # sent_id = Иран.tagged.txt:76:2167
 # text = Тегеран конференциясы кезінде 1943 ж. 1 желтоқсанда КСРО, АҚШ, Ұлыбритания үкіметтері Иранға территориялық тұтастығын сақтауға әзір екендіктерін мәлімдеді.
-# text[tur] = 
+# text[tur] = Tahran konferansı anında 1943 yıl 1 Aralıkta SSCB, ABC, Birleşik Krallık hükümetleri İran'a yerel bütünlüğünü korumaya hünerli savundu.
 
 # sent_id = Иран.tagged.txt:77:2210
 # text = Соғыстан кейін Иран үкіметі Батыс елдерімен тығыз байланыс орнатты.

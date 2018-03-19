@@ -343,6 +343,7 @@
 <e><p><l>абыржу<s n="n"/></l><r>karışıklık<s n="n"/></r></p></e>
 <e><p><l>абыржу<s n="n"/></l><r>huzursuzluk<s n="n"/></r></p></e>
 <e><p><l>серпін<s n="n"/></l><r>dürtü<s n="n"/></r></p></e>
+<e><p><l>серпін<s n="n"/></l><r>ani<b/>çıkış<s n="n"/></r></p></e>
 <e><p><l>жүйріктік<s n="n"/></l><r>sürat<s n="n"/></r></p></e>
 <e><p><l>бастауыш<s n="n"/></l><r>temel<s n="n"/></r></p></e>
 <e><p><l>арам<s n="n"/></l><r>kirli<s n="n"/></r></p></e>
@@ -2288,6 +2289,7 @@
      <e><p><l>серік<s n="n"/></l><r>ortak<s n="n"/></r></p></e>
      <e><p><l>серік<s n="n"/></l><r>şerik<s n="n"/></r></p></e>
      <e><p><l>Серік<s n="np"/><s n="ant"/><s n="m"/></l><r>Serik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Зенд<s n="np"/><s n="ant"/><s n="m"/></l><r>Zend<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Ақылбай<s n="np"/><s n="ant"/><s n="m"/></l><r>Akylbai<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Төстік<s n="np"/><s n="ant"/><s n="m"/></l><r>Tostik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>серіктестік<s n="n"/></l><r>ortaklık<s n="n"/></r></p></e>
@@ -5586,14 +5588,15 @@
 
 
      <e><p><l>авторитарлық<s n="adj"/></l><r>otoriter<s n="adj"/></r></p></e>
-<e><p><l>практикалық<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
-
+<e><p><l>сепаратистік<s n="adj"/></l><r>ayırıcı<s n="adj"/></r></p></e>
+<e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
 <e><p><l>ғылыми<s n="adj"/></l><r>bilimsel<s n="adj"/></r></p></e>
 <e><p><l>ақырын<s n="adj"/></l><r>dikkatli<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>тілсіз<s n="adj"/></l><r>kazanacak<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>шатақ<s n="adj"/></l><r>karışık<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>қымбатты<s n="adj"/></l><r>kıymetli<s n="adj"/></r></p><par n="a1_a1"/></e>
 <e><p><l>дағдарысқа<b/>қарсы<s n="adj"/></l><r>krize<b/>karşı<s n="adj"/></r></p><par n="a1_a1"/></e>
+<e><p><l>әзір<b/>екендіктерін<s n="adj"/></l><r>hünerli<s n="adj"/></r></p></e>
 <e><p><l>ұлы<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
 <e><p><l>әуел<s n="adj"/></l><r>önce<s n="adv"/></r></p></e>
 <e><p><l>бедел<s n="n"/><s n="acc"/></l><r>saygın<s n="adj"/></r></p></e>
@@ -5604,6 +5607,7 @@
 <e><p><l>надан<s n="adj"/></l><r>cahil<s n="adj"/></r></p></e>
 <e><p><l>этностық<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
 <e><p><l>ерек<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
+<e><p><l>территориялық<s n="adj"/></l><r>yerel<s n="adj"/></r></p></e>
 <e><p><l>макроэкономикалық<s n="adj"/></l><r>makroekonomik<s n="adj"/></r></p></e>
 
 <e><p><l>өркениетті<s n="adj"/></l><r>uygar<s n="adj"/></r></p></e>
@@ -6316,6 +6320,7 @@
 <e><p><l>жоғарыла<s n="v"/><s n="iv"/></l><r>art<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>тат<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>қалжырат<s n="v"/><s n="iv"/></l><r>yorul<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>құры<s n="v"/><s n="iv"/></l><r>yok<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>жарақаттан<s n="v"/><s n="tv"/></l><r>yaralan<s n="v"/><s n="iv"/></r></p></e>
@@ -7052,6 +7057,7 @@
 <e><p><l>ғ.<s n="abbr"/></l><r>ğ.<s n="abbr"/></r></p></e>
 <e><p><l>т.<s n="abbr"/></l><r>T.<s n="abbr"/></r></p></e>
 <e><p><l>Г.<s n="abbr"/></l><r>G.<s n="abbr"/></r></p></e>
+<e><p><l>мм.<s n="abbr"/></l><r>mm.<s n="abbr"/></r></p></e>
 <e><p><l>т.б.<s n="abbr"/></l><r>vb<s n="abbr"/></r></p></e>
      <e r="LR"><p><l>мм<s n="n"/><s n="nom"/></l><r>mm<s n="n"/><s n="nom"/></r></p></e>
 
