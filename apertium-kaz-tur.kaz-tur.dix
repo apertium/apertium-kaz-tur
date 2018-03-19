@@ -332,6 +332,8 @@
 <e><p><l>жас<s n="n"/></l><r>genç<s n="n"/></r></p></e>
 <e><p><l>миссия<s n="n"/></l><r>misyon<s n="n"/></r></p></e>
 <e><p><l>алд<s n="n"/></l><r>ön<s n="n"/></r></p></e>
+
+<e><p><l>ойпат<s n="n"/></l><r>depresyon<s n="n"/></r></p></e>
 <e><p><l>құшақ<s n="n"/></l><r>kucak<b/>dolusu<s n="n"/></r></p></e>
 <e><p><l>кедендік<s n="adj"/></l><r>gelenek<s n="n"/></r></p></e>
 <e><p><l>тұрғы<s n="n"/></l><r>görüş<s n="n"/></r></p></e>
@@ -4556,7 +4558,8 @@
 
 <e><p><l>Ғазнауи<s n="np"/><s n="top"/></l><r>Gaznahit<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Загрос<s n="np"/><s n="top"/></l><r>Zagros<s n="np"/><s n="top"/></r></p></e>
-
+<e><p><l>Горган<s n="np"/><s n="top"/></l><r>Gürgan<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Гермезир<s n="np"/><s n="top"/></l><r>Germezir<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ильхандар<s n="np"/><s n="top"/></l><r>Ilikhandar<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Алатау<s n="np"/><s n="top"/></l><r>Alatau<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Дар-әл-Харб<s n="np"/><s n="top"/></l><r>Dar-al-Harb<s n="np"/><s n="top"/></r></p></e>
@@ -4894,8 +4897,8 @@
      <e><p><l>Еврей<s n="np"/><s n="top"/></l><r>Yahudi<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Евфрат<s n="np"/><s n="top"/></l><r>Fırat<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Египет<s n="np"/><s n="top"/></l><r>Mısır<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Әзірбайжан<s n="np"/><s n="top"/></l><r>Azerbaycan<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Әзірбайжан<s n="np"/><s n="top"/></l><r>Azerbaycan<s n="np"/><s n="top"/></r></p></e>
+     
+     
      <e><p><l>Екатеринбург<s n="np"/><s n="top"/></l><r>Yekaterinburg<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Екібастұз<s n="np"/><s n="top"/></l><r>Ekibastuz<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Екуадор<s n="np"/><s n="top"/></l><r>Ekvador<s n="np"/><s n="top"/></r></p></e>
@@ -6168,6 +6171,8 @@
 <e><p><l>үш<b/>есе<s n="adv"/></l><r>üç<b/>kat<s n="adv"/></r></p></e>
 <e><p><l>әрең-әрең<s n="adv"/></l><r>zar<b/>zor<s n="adv"/></r></p></e>
 
+<e><p><l>ешқашан<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
+
 <e><p><l>едәуір<s n="adv"/></l><r>ziyadesiyle<s n="adv"/></r></p></e>
 <e><p><l>тік<s n="adv"/></l><r>dosdoğru<s n="adv"/></r></p></e>
 <e><p><l>анда-санда<s n="adv"/></l><r>ara-sıra<s n="adv"/></r></p></e>
@@ -7136,6 +7141,7 @@
 <e><p><l>айтарлықтай<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
 
 <e><p><l>Ақорда<s n="np"/><s n="top"/></l><r>Akorda<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Кура<b/>-Аракс<s n="np"/><s n="top"/></l><r>Kura<b/>-Aras<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Сұзы<s n="np"/><s n="top"/></l><r>Susa<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ақтау<s n="np"/><s n="top"/><s n="sg"/></l><r>Aktau<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>АҚШ<s n="np"/><s n="top"/></l><r>ABC<s n="np"/><s n="top"/></r></p></e>
@@ -7698,7 +7704,7 @@
 <e><p><l>көктем<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
 
 <e><p><l>қол<s n="adj"/></l><r>elcil<s n="adj"/></r></p></e>
-<e><p><l>қол<s n="adj"/></l><r>imza<s n="n"/><s n="nom"/></r></p></e>
+<e><p><l>қол<s n="adj"/></l><r>elle<s n="adj"/></r></p></e>
 <e><p><l>қолда<s n="v"/><s n="tv"/></l><r>destekle<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қолда<s n="v"/><s n="tv"/></l><r>koru<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>қолдан<b/>кел<s n="v"/><s n="tv"/></l><r>elden<b/>gel<s n="v"/><s n="iv"/></r></p></e>

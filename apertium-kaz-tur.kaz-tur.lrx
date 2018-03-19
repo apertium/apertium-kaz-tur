@@ -71,6 +71,8 @@
     <match lemma="қару" tags="n.*"><select lemma="silah" tags="v.*"/></match>
   </rule>
 
+
+
 <rule>
     <match lemma="бет" tags="n.*"/>
     <match lemma="ал" tags="v.*"><select lemma="çık" tags="v.*"/></match>

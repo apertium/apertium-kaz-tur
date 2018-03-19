@@ -1854,7 +1854,7 @@
         </let>-->
        
         <out>
-          <chunk name="gna" case="caseFirstWord">
+          <chunk name="ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
