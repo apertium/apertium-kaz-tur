@@ -1842,7 +1842,7 @@
 
 
 
-<rule comment="REGLA: gpr_past - gna_impf" id= "gpr_past-gpr_aor-42" > <!-- ~ қолдан келгенді -> elden geldiği -->
+<rule comment="REGLA: gpr_past - gna_impf id= gpr_past-gpr_aor-42" > <!-- ~ қолдан келгенді -> elden geldiği -->
        <pattern>
         <pattern-item n="V-ger_past"/>    
       </pattern>
@@ -1868,7 +1868,7 @@
     </rule>
 
 
-<rule comment="REGLA: gpr_past - gna_impf" id= "gpr_past-gpr_aor-43" > <!-- ~ Сөйткенде -> şöyle yaparak -->
+<rule comment="REGLA: gpr_past - gna_impf id= gpr_past-gpr_aor-43" > <!-- ~ Сөйткенде -> şöyle yaparak -->
        <pattern>
         <pattern-item n="V-ger_past"/>    
       </pattern>
@@ -1897,7 +1897,7 @@
     </rule>
     
 
-<rule comment="REGLA: gpr_past - gpr_past" id= "gpr_past-gpr_past-44" >
+<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -1921,7 +1921,7 @@
       </action>
     </rule>
   
-<rule comment="REGLA: gpr_past - gpr_rsub" id= "gpr_past-gpr_rsub-45">
+<rule comment="REGLA: gpr_past - gpr_rsub id= gpr_past-gpr_rsub-45">
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
