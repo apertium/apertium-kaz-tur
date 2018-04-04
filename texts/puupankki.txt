@@ -2660,7 +2660,7 @@
 
 # sent_id = wikitravel.tagged.txt:16:147
 # text = Мен ауырып тұрмын.
-# text[tur] = ben acıyorum.
+# text[tur] = Ben acıyorum.
 
 # sent_id = wikitravel.tagged.txt:17:156
 # text = Мен жаралымын.
@@ -2964,7 +2964,7 @@
 
 # sent_id = Иран.tagged.txt:8:225
 # text = Ресми тілі — парсы тілі.
-# text[tur] = Resmen dili — acem dili.
+# text[tur] = Resmi dili — acem dili.
 
 # sent_id = Иран.tagged.txt:9:238
 # text = Мемлекеттік діні — ислам дінінің шиит тармағы.
@@ -3218,7 +3218,7 @@
 
 # sent_id = Иран.tagged.txt:71:2036
 # text = Халықтың тұрмысы нашарлап, елде толқулар басталды.
-# text[tur] = Halkın hayatı fenalaşıp, ülkede heyecanlar başlandı
+# text[tur] = Halkın hayatı fenalaşıp, ülkede heyecanlar başlandı.
 
 # sent_id = Иран.tagged.txt:72:2053
 # text = Ол толқулар күшпен басылып отырды.
@@ -3353,7 +3353,7 @@
 # text[tur] = Iran edebiyatının klasik devrini/devirini (7 — 16 asırlar) acem ya da acem-tacik edebiyatı diyip #atan 
 
 # sent_id = Иран.tagged.txt:104:3047
-# text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.
+# text = Иран әдебиетінің гүлденген кезі — 13 — 14 ғасырлар.  ****gpr_past***
 # text[tur] = Iran edebiyatının iyleştiği anı — 13 — 14 asırlar.
 
 # sent_id = Иран.tagged.txt:105:3068  
@@ -3965,7 +3965,7 @@
 
 # sent_id = story.tagged.txt:30:507
 # text = Айгүл терезеде тұрған анасына қарайды.
-# text[tur] = Aygül pencerede durmuş anasına bakıyor.
+# text[tur] = Aygül pencerede duran anasına bakıyor.
 
 # sent_id = story.tagged.txt:31:520
 # text = Айгүл анасының жымиғанын көріп ол Азаматтың қай жерге кеткенін біледі деп ойлайды.
@@ -4032,10 +4032,9 @@
 # text = Одан кейін оған кішкентай бір қол көрінеді.
 # text[tur] = Ondan sonra ona küçük bir el görülüyor.
 
-
 # sent_id = story.tagged.txt:47:821
 # text = Жақынырақ келгенде ол оның басын да көреді.
-# text[tur] = yakın geldiğinde  o onun başını da görüyor.
+# text[tur] = yakın geldiğinde o onun başını da görüyor.
 
 # sent_id = story.tagged.txt:48:837
 # text = "Сені таптым!" деп күледі.

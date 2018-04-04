@@ -78,6 +78,10 @@
 <def-cat n="gpr_past">
       <cat-item tags="v.*.gpr_past"/>
     </def-cat>
+
+<def-cat n="gpr_past_gpr_past">
+      <cat-item tags="v.*.gpr_past.*"/>
+    </def-cat>
 <def-cat n="vaux-gpr_past">
       <cat-item tags="vaux.gpr_past"/>
     </def-cat>
@@ -1900,9 +1904,11 @@
         </out>
       </action>
     </rule>
+
+
     
 
-<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
+<!--<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -1924,8 +1930,37 @@
           </chunk>
         </out>
       </action>
+    </rule>-->
+
+
+
+
+<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
+       <pattern>
+        <pattern-item n="gpr_past_gpr_past"/>    
+      </pattern>
+      <action>
+
+
+       
+        <out>
+          <chunk name="gpr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="v_trans"/>
+              <clip pos="1" side="tl" part="gp_past"/>
+              <lit-tag v="subst"/>
+              <lit-tag v="px3sp"/>
+              <clip pos="1" side="tl" part="loc"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
     </rule>
-  
+
 <rule comment="REGLA: gpr_past - gpr_rsub id= gpr_past-gpr_rsub-45">
        <pattern>
         <pattern-item n="gpr_past"/>    
@@ -1947,6 +1982,11 @@
         </out>
       </action>
     </rule>
+
+
+
+  
+
 
 
 
