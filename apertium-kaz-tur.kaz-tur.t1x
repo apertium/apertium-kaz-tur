@@ -1849,34 +1849,6 @@
       </action>
     </rule>
 
-
-
-<rule comment="REGLA: gpr_past - gna_impf id= gpr_past-gpr_aor-42" > <!-- ~ қолдан келгенді -> elden geldiği -->
-       <pattern>
-        <pattern-item n="V-ger_past"/>    
-      </pattern>
-      <action>
-
-
-<!--<let>
-          <clip pos="1" side="tl" part="whole"/>
-          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="1" side="tl" part="ger_past"/><clip pos="1" side="tl" part="acc"/></concat>
-        </let>-->
-       
-        <out>
-          <chunk name="ger" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
 <rule comment="REGLA: gpr_past - gna_impf id= gpr_past-gpr_aor-43" > <!-- ~ Сөйткенде -> şöyle yaparak -->
        <pattern>
         <pattern-item n="V-ger_past"/>    
@@ -1906,9 +1878,39 @@
     </rule>
 
 
+
+<rule comment="REGLA: gpr_past - gna_impf id= gpr_past-gpr_aor-42" > <!-- ~ қолдан келгенді -> elden geldiği -->
+       <pattern>
+        <pattern-item n="V-ger_past"/>    
+      </pattern>
+      <action>
+
+
+<!--<let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="lem"/><clip pos="1" side="tl" part="v_trans"/><clip pos="1" side="tl" part="ger_past"/><clip pos="1" side="tl" part="acc"/></concat>
+        </let>-->
+       
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+
     
 
-<!--<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
+<rule comment="REGLA: gpr_past - gpr_past id= gpr_past-gpr_past-44" >
        <pattern>
         <pattern-item n="gpr_past"/>    
       </pattern>
@@ -1930,7 +1932,7 @@
           </chunk>
         </out>
       </action>
-    </rule>-->
+    </rule>
 
 
 
