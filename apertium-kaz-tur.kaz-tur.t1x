@@ -817,7 +817,7 @@
         </let>
         
         <out>
-          <chunk name="num" case="caseFirstWord">
+          <chunk name="n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SNum"/></tag>
             </tags>
@@ -859,7 +859,35 @@
       </action>
     </rule>
 
-<rule comment="REGLA: ger-12" > <!--болуы -> almaya --> 
+<rule comment="REGLA: ger-13" > <!--табу -> bulmak --> 
+      <pattern>
+        <pattern-item n="v-ger"/>
+      </pattern>
+      <action>
+     
+
+        
+          <let>
+          <clip pos="1" side="tl" part="inf_ger"/>
+         <lit-tag v="ger_inf"/>
+        </let>
+
+       
+        <out>
+          <chunk name="v-ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+                                                  
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: ger-12" > <!--табу -> bulma --> 
       <pattern>
         <pattern-item n="v-ger"/>
       </pattern>
@@ -884,33 +912,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: ger-13" > <!--табу -> bulmak --> 
-      <pattern>
-        <pattern-item n="v-ger"/>
-      </pattern>
-      <action>
-     
 
-        
-          <let>
-          <clip pos="1" side="tl" part="inf_ger"/>
-         <lit-tag v="ger_inf"/>
-        </let>
-
-       
-        <out>
-          <chunk name="ger" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-                                                  
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
 <rule comment="REGLA: prc_perf+vaux_prc_perf+yat_pres-14" > <!-- шыға алмай да тұр. -> çıkamıyor da -->
       <pattern>
