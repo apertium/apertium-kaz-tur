@@ -118,10 +118,23 @@
     <match lemma="жаз" tags="v.*"><select lemma="iyileş" tags="v.*"/></match>
   </rule>
 
+<rule><!-- default translation ışık -->
+	<!-- or>
+		<match lemma="күн" tags="n.*"/>
+		<match lemma="жұлдыз" tags="n.*"/>
+		<match lemma="ай" tags="n.*"/>
+		<match lemma="проектор" tags="n.*"/>
+	</or -->
+	<match lemma="жарық" tags="n.*"><select lemma="ışık" tags="n.*"/></match>
+</rule>
+
 <rule>
-    <match lemma="құдай" tags="n.*"/>
-    <match lemma="жарық" tags="adj"><select lemma="parlak" tags="adj"/></match>
-  </rule>
+	<or>
+		<match lemma="есік" tags="n.*"/>
+		<match lemma="қабырға" tags="n.*"/>
+	</or>
+	<match lemma="жарық" tags="n.*"><select lemma="yarık" tags="n.*"/></match>
+</rule>
 
 <rule>
   <or>
