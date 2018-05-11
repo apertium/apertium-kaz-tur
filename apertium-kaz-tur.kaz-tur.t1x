@@ -2257,7 +2257,7 @@
 
 
 
-<rule comment="REGLA: nom+pres-56">
+<rule comment="REGLA: nom+pres-56"> <!--қарсаңында тұрмыз -> arifesindeyiz -->
       <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="pres"/>
@@ -2651,7 +2651,7 @@
 
 
 
-<rule comment="REGLA: adj+cop-68">
+<rule comment="REGLA: adj+cop-68"> <!--мүдделі -> meraklı -->
       <pattern>
       <pattern-item n="adj"/>
         <pattern-item n="cop"/>
@@ -2675,19 +2675,53 @@
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
-          <mlu>
+        
             <lu>
               <clip pos="1" side="tl" part="whole"/>
              </lu> 
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </mlu>
-          
+             
           </chunk>
         </out>
       </action>
     </rule>
+
+<!--<rule comment="REGLA: adj+cop-68"> 
+      <pattern>
+      <pattern-item n="adj"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+
+<choose>
+   <when>
+     
+      <test><equal><clip pos="2" side="tl" part="evid"/><lit-tag v="aor.evid"/></equal></test>
+                             
+        
+      <let><clip pos="2" side="tl" part="evid"/><lit-tag v="dub.aor"/></let>
+    </when>
+</choose>
+
+        <out>
+
+          <chunk name="v" case=
+          "caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+           <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             </lu> 
+             <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <lu/>
+             <mlu/>
+             
+          </chunk>
+        </out>
+      </action>
+    </rule>-->
 
 
 
