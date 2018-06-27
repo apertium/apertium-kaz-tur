@@ -88,3 +88,15 @@ If you need help using this language pair or data, you can contact:
 * IRC: `#apertium` on `irc.freenode.net`
 
 See also the file AUTHORS included in this distribution.
+
+Acknowledgement
+===============================================================================
+
+If you use this language pair or data from it in your academic work, please 
+consider citing the following paper:
+
+* Bayatli, S., Washington, J. N., Salimzyanov, I. and Tyers, F. M. (2018) 
+ "Rule-based machine translation from Kazakh to Turkish". 
+  Proceedings of the 21st Annual Conference of the European Association for
+   Machine Translation  
+
