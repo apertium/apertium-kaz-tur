@@ -67,8 +67,8 @@
     <match lemma="жүр" tags="v.*"><select lemma="yürü" tags="v.*"/></match>
   </rule>
 <rule>
-    <match lemma="қол" tags="n.*"/>
-    <match lemma="қару" tags="n.*"><select lemma="silah" tags="v.*"/></match>
+    <match lemma="қол" tags="adj.*"/>
+    <match lemma="қару" tags="n.*"><select lemma="silah" tags="n.*"/></match>
   </rule>
 
 
