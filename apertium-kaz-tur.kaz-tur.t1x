@@ -2705,7 +2705,7 @@
       <action>
 
 
-
+         <out>
           <chunk name="adj" case=
           "caseFirstWord">
             <tags>
