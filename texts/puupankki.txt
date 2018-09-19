@@ -2511,7 +2511,7 @@
 
 # sent_id = udhr.tagged.txt:5:256
 # text = Әр адам өмір сүруге, бостандықта болуға және оның жеке басына қол сұғылмауына құқылы.
-# text[tur] = Her insan yaşmaya, özgürlükte ve onun kişilikine  dokunulmazlık hakına sahip.
+# text[tur] = Her insan yaşmaya, özgürlükte ve onun kişilikine dokunulmazlık hakına sahip.
 
 # sent_id = udhr.tagged.txt:6:287
 # text = Ешкім де құлдықта немесе кіріптарлықта ұсталуы тиіс емес.
@@ -3663,7 +3663,7 @@
 
 # sent_id = wikipedia.tagged.txt:39:644
 # text = Он екі елі ішек төрт бөлікке бөлінген.
-# text[tur] = Onikiparmakbağırsağı dört bölgeye bölünmüş.
+# text[tur] = On iki parmak bağırsağı dört bölgeye bölünmüş.
 
 
 # sent_id = wikipedia.tagged.txt:40:661

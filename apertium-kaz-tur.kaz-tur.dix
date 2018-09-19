@@ -776,7 +776,7 @@
      <e><p><l>ақы<s n="n"/></l><r>ücret<s n="n"/></r></p></e>
      <e><p><l>ақыл<s n="n"/></l><r>akıl<s n="n"/></r></p></e>
      <e><p><l>ақымақ<s n="n"/></l><r>ahmak<s n="n"/></r></p></e>
-     <e><p><l>ақын<s n="n"/></l><r>akın<s n="n"/></r></p></e>
+     <!--<e><p><l>ақын<s n="n"/></l><r>akın<s n="n"/></r></p></e>-->
      <e><p><l>ақын<s n="n"/></l><r>şair<s n="n"/></r></p></e>
      <e><p><l>ақыр<s n="n"/></l><r>ahir<s n="n"/></r></p></e>
      <e><p><l>ақырет<s n="n"/></l><r>ahiret<s n="n"/></r></p></e>
@@ -6074,7 +6074,7 @@
      <e><p><l>толық<s n="adj"/></l><r>dolgun<s n="adj"/></r></p></e>
 
  <e><p><l>тартымды<s n="adj"/></l><r>cazibeli<s n="adj"/></r></p></e>
-     <e><p><l>толық<s n="adj"/></l><r>şişko<s n="adj"/></r></p></e>
+    <!-- <e><p><l>толық<s n="adj"/></l><r>şişko<s n="adj"/></r></p></e>-->
      <e><p><l>толық<s n="adj"/></l><r>tam<s n="adj"/></r></p></e>
      <e><p><l>трагедиялық<s n="adj"/></l><r>trajik<s n="adj"/></r></p></e>
      <e><p><l>түзу<s n="adj"/></l><r>düz<s n="adj"/></r></p></e>
@@ -6173,7 +6173,7 @@
 <e><p><l>әрең-әрең<s n="adv"/></l><r>zar<b/>zor<s n="adv"/></r></p></e>
 
 <e><p><l>ешқашан<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
-
+<e><p><l>емес<s n="adv"/></l><r>değil<s n="adj"/></r></p></e>
 <e><p><l>едәуір<s n="adv"/></l><r>ziyadesiyle<s n="adv"/></r></p></e>
 <e><p><l>тік<s n="adv"/></l><r>dosdoğru<s n="adv"/></r></p></e>
 <e><p><l>анда-санда<s n="adv"/></l><r>ara-sıra<s n="adv"/></r></p></e>
@@ -6608,7 +6608,7 @@
 <e><p><l>адас<s n="v"/><s n="iv"/></l><r>kaybol<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>кіргіз<s n="v"/><s n="tv"/></l><r>yaz<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>кет<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>отыр<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>отыр<s n="vaux"/></l><r>otur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>болып<b/>кел<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>ти<s n="v"/><s n="iv"/></l><r>dokun<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
