@@ -1,7 +1,7 @@
 1
 Source : Өткен жылғы сайлауда біраз атқару комитетінін, басқару қызметінен байлар босатылып, орнына коммунистерден, немесе, Оқыған азаматтардан халыққа беделді предссдательдер қойылған екен, олар шын мағынасындағы советтік тәртіпті іске асыруға кіріскен.
 
-new-apertium : Geçtiği yıl seçmekte biraz kurma *комитетінін, yönetme hizmetinden bağlayacak *босатылып, yerine *коммунистерден, ya, Okuduğu sivillerden halka saygın *предссдательдер koyulmuş, onlar çın anlamındaki *советтік kuralı #uygula girişmiş.
+new-apertium : Geçtiği yıl seçmekte biraz kurma *комитетінін, yönetme hizmetinden bağlayacak *босатылып, yerine *коммунистерден, ya, Okuduğu sivillerden halka saygın *предссдательдер koyulmuş, onlar çın anlamındaki *советтік kuralı #uygula girişmiş. *better
 
 old-apertium: Geçtiği yıl seçmede biraz kurma *комитетінін, yönetme hizmetinden bağlayacak *босатылып, yerine *коммунистерден, ya, Okuduğu sivillerden halka saygın *предссдательдер koyulmuş, çın anlamındaki *советтік kuralı #uygula #gir.
 -----------------------------------------------------
@@ -9,7 +9,7 @@ old-apertium: Geçtiği yıl seçmede biraz kurma *комитетінін, yöne
 2
 Source : Тіпті болмаса бабамыздан бір тұқым алып қалуға бекініпті.
 new-apertium : Hatta olmasa *бабамыздан bir tohum #al #ol *бекініпті.
-old-apertium :Hatta olmasa *бабамыздан bir tohum almaya *бекініпті.
+old-apertium :Hatta olmasa *бабамыздан bir tohum almaya *бекініпті. *better
 --------------------------------------------------
 
 3
@@ -20,18 +20,19 @@ old-apertium: Ancak hileyi *әріден sandığı *бабамыз gecesi boyun
 
 4
 Source : Губерниялық атқару комитеті маған, Петропавл оязының бірнеше болысында өтетін сайлау жұмысын басқарып келуді ұсынды, мен, әрине, көне кеттім.
-new-apertium : *Губерниялық kurma komitesi bana, *Петропавл *оязының #birkaç eyaletinde geçecek seçmek işini yönetmeye önerdi, ben, *әрине, alıştım.
+new-apertium : *Губерниялық kurma komitesi bana, *Петропавл *оязының #birkaç eyaletinde geçecek seçmek işini yönetmeye önerdi, ben, *әрине, alıştım. *better
 old-apertium: *Губерниялық kurma komitesi bana, *Петропавл *оязының #birkaç eyaletinde geçecek seçme işini yönetmeye önerdi, ben, *әрине, alıştım.
 --------------------------------------------------
 
 5
 Source : Оны қызылдардың қызметке алуы және анау-мынау емес, өзінін, ауылнайлары мен болыстарын сайлау сияқты ірі қызметке алуы, байларға бұл — қызылдың да теріс қарамауы ғой... Ол бізге жақсылық емей немене?
-Target : Onu kızılların hizmete alması ve şu-bu #i, *өзінін, *ауылнайлары eyaleti seçmek kılığı büyük hizmete alması, kocalara bu — kızılın da olumsuz bakmaması ... O bize *жақсылық *емей neyi?
+Target : Onu kızılların hizmete alması ve şu-bu #i, *өзінін, *ауылнайлары eyaleti seçmek kılığı büyük hizmete alması, kocalara bu — kızılın da olumsuz bakmaması ... O bize *жақсылық *емей neyi? *better
 old-apertium: Onu kızılların hizmete alması ve şu-bu #i, *өзінін, *ауылнайлары eyaleti seçme kılığı büyük hizmete alması, kocalara bu — kızılın da olumsuz bakmaması ... O bize *жақсылық *емей neyi?
 --------------------------------------------------
 
 6
 Source : Бала көзімде ораза ұстаймын деп, бір күні кешке ауыз аша қалғып, келешек ауыз ашарға шейін, яғни жиырма төрт сағат ұйықтағаным, онда да оятқан соң ғана тұрғаным әлі күнге дейін есімде... Сол дағдымды Омбы вокзалының ішіндегі пешке сүйеніп ұйықтағанда да істеп, күн ұзын ұйықтап, күн еңкейгенде ғана ояныппын, онда да, үй сыпырушы әйел оятыпты.
+
 new-apertium : Evlat gözümde *ораза tutarım\/tuturum diyip, bir günü geçe ağız açarak *қалғып, gelecek ağız açacağa dek, *яғни yirmi dört saat uyuyarak, onda da *оятқан sonra durduğu hâlâ güne dek isimde... Sol *дағдымды Omsk *вокзалының içindeki *пешке gözlemleyip uyuyarak da eyleyip, gün #uzun uyuyup, gün eğinerek *ояныппын, onda da, ev süpürücü kadın *оятыпты.
 
 old-apertium: Evlat gözümde *ораза tutarım/tuturum diyip, bir günü geçe ağız açarak *қалғып, gelecek ağız açacağa dek, *яғни yirmi dört saat uyuyarak, onda da *оятқан sonra  durduğu hâlâ güne dek isimde... Sol *дағдымды Omsk *вокзалының içindeki *пешке gözlemleyip uyuyarak da eyleyip, gün #uzun uyuyup, gün eğinerek  *ояныппын, onda da, ev süpürücü kadın *оятыпты.
@@ -39,7 +40,7 @@ old-apertium: Evlat gözümde *ораза tutarım/tuturum diyip, bir günü ge�
 
 7
 Source : Кешегі көшпелілерде бүгін берік қоныстанудан басқа, завод жұмысына тұрақты орналасудан басқа, ой жоқ.
-new-apertium : #Dün göçmenlerde bugün sıkı yaşamaktan başka, *завод işine daimi konaklamadan başa, fikir yok.
+new-apertium : #Dün göçmenlerde bugün sıkı yaşamaktan başka, *завод işine daimi konaklamadan başa, fikir yok.*better
 old-apertium: #Dün göçmenlerde bugün sıkı yaşamadan başka, *завод işine daimi konaklamadan başa, fikir yok.
 --------------------------------------------------
 
@@ -59,27 +60,27 @@ old-apertium: Başka eve *емізулі evlatıyla geldiği kadın kendisinin s
 
 10
 Source : Бюродан бірер ай кейін, жергілікті советтердің сайлауы өткізілетін болды.
-new-apertium : Bürodan *бірер ay sonra, yerli *советтердің seçmeği yönetilecek oldu.
+new-apertium : Bürodan *бірер ay sonra, yerli *советтердің seçmeği yönetilecek oldu.*better
 old-apertium : Bürodan *бірер ay sonra, yerli *советтердің seçmesi yönetilecek oldu.
 --------------------------------------------------
 
 11
 Source : Өз басын өзі осындай таласпенен кісі көбейтеміз деп партия жиғандардың бүгін біреуіне, ертең біреуіне кезекпен сатады да жүреді.
-new-apertium : Kendi baş kendisi #şu tartışmayla kişi artarız diyip parti toplayarak bugün #bir, yarın #bir sırayla satar da gezer.
+new-apertium : Kendi baş kendisi #şu tartışmayla kişi artarız diyip parti toplayarak bugün #bir, yarın #bir sırayla satar da gezer. *better
 old-apertium : Kendi baş kendisi tartışma kişi artarız diyip parti toplayarak bugün #bir, yarın #bir sırayla satar da gezer.
 --------------------------------------------------
 
 
 12
 Source : «Терісң дистанцияның «оңң дистанцияға ауысуы стол қақпағын ашу немесе орындықты жылжыту арқылы жасалады.
-new-apertium : «*Терісң *дистанцияның «*оңң *дистанцияға *ауысуы *стол dövmeğini açmak ya sandalyeyi *жылжыту sonunda yapılır.
+new-apertium : «*Терісң *дистанцияның «*оңң *дистанцияға *ауысуы *стол dövmeğini açmak ya sandalyeyi *жылжыту sonunda yapılır. *better
 old-apertium : «*Терісң *дистанцияның «*оңң *дистанцияға *ауысуы *стол dövmeğini açma ya sandalyeyi *жылжыту sonunda yapılır.
 --------------------------------------------------
 
 
 13
 Source : бірнеше сайлауда Бүкілодақтық Атқару комитетінін, мүшесі депутат.
-new-apertium : #birkaç seçmekte *Бүкілодақтық Kurma *комитетінін, üyesi milletvekil.
+new-apertium : #birkaç seçmekte *Бүкілодақтық Kurma *комитетінін, üyesi milletvekil. *better
 old-apertium : #birkaç seçmede *Бүкілодақтық Kurma *комитетінін, üyesi milletvekil.
 --------------------------------------------------
 
@@ -92,20 +93,20 @@ old-apertium : Hazırlandığı fikri var.
 
 15
 Source : «Жабай - ай, басымды көтерші!» деді ол маған, аз уақыт отырғаннан кейін, көтердім.
-new-apertium : «*Жабай - ay, baskın götür !» dedi o bana, az vakit #otur sonra, götürdüm.
+new-apertium : «*Жабай - ay, baskın götür !» dedi o bana, az vakit #otur sonra, götürdüm.*better
 old-apertium : *Жабай - ay, baskın götürelim ! dedi o bana, az vakit #otur sonra, götürdüm.
 --------------------------------------------------
 
 16
 Source : Қарт оларға көңіл аудармады.
-new-apertium : Kart onlara irade çevirmedi.
+new-apertium : Kart onlara irade çevirmedi. *better
 old-apertium : Kart irade çevirmedi.
 --------------------------------------------------
 
 
 17
 Source : Оның назар аудармағанына бұлар ыңғайсызданып қалды.
-new-apertium : Onun tepki vermediğine bunlar *ыңғайсызданып kaldı.
+new-apertium : Onun tepki vermediğine bunlar *ыңғайсызданып kaldı. *better
 old-apertium : Onun tepki vererek bunlar *ыңғайсызданып kaldı.
 --------------------------------------------------
 
@@ -119,51 +120,51 @@ old-apertium : IKINCI #DÜNYA ÇAPINDAKI SAVAŞTAN SONRAKI #ULUSLARARASI KOŞUL.
 
 19
 Source : Мен Төле деген билерің боламын.
-new-apertium : Ben Öde dediği dansların olurum.
+new-apertium : Ben Öde dediği dansların olurum. *better
 old-apertium : Ben Ödeyelim dediği dansların olurum.
 --------------------------------------------------
 
 20
 Source : Соғыстан айырмашылығы — атыспағанымыз, атысуға жібермегеніміз ғана... Отанды оқ атпай күзету, анау-мынау соғыстан әлдеқайда қиын.
-new-apertium : Savaştan farkı — atmadığımız, atışmağa göndererek ... Mekanı mermi atmayıp korumak, şu-bu savaştan *әлдеқайда zor.
+new-apertium : Savaştan farkı — atmadığımız, atışmağa göndererek ... Mekanı mermi atmayıp korumak, şu-bu savaştan *әлдеқайда zor. *better
 old-apertium : Savaştan farkı — atmadığımız, atmaya göndererek ... Mekanı mermi atmayıp koruma, şu-savaş *әлдеқайда zor.
 --------------------------------------------------
 
 21
 Source : Енді қонақ үй қызметкерлері күн ұясына қонғаннан бастап, бөлмені күзетуге мәжбүр болады.
-new-apertium : Eni konaklama yeri hizmetkarları gün yuvasına konduktan başlatıp, odayı korumağa *мәжбүр olur.
+new-apertium : Eni konaklama yeri hizmetkarları gün yuvasına konduktan başlatıp, odayı korumağa *мәжбүр olur. *better
 old-apertium : Eni konaklama yeri hizmetkarları gün yuvasına konarak başlatıp, odayı korumaya *мәжбүр olur.
 --------------------------------------------------
 
 22
 Source : Ал, Әлбатырдың істейтіні — кешке загонге қамаған қойды күзету.
-new-apertium : fakat, *Әлбатырдың eyleyeni — akşama *загонге hapse attığı koynu\/koyunu korumak.
+new-apertium : fakat, *Әлбатырдың eyleyeni — akşama *загонге hapse attığı koynu\/koyunu korumak.*better
 old-apertium : fakat, *Әлбатырдың eyleyeni — akşama *загонге hapse attığı koynu/koyunu koruma.
 --------------------------------------------------
 
 
 23
 Source : Бұл — күн түстен еңкейген шақ еді.
-new-apertium : Bu — gün renkten eğinen çağdı.
+new-apertium : Bu — gün renkten eğinen çağdı.*better
 old-apertium : Bu — gün renkten eğindiği çağdı.
 --------------------------------------------------
 
 
 24
 Source : Анадай жерде иығы сап-сары ала қара киімді біреу тұр.
-new-apertium : Ana yerde omuzu yapıp-sarı alaca siyah kılığı biri dur.
+new-apertium : Ana yerde omuzu yapıp-sarı alaca siyah kılığı biri dur. *better
 old-apertium :Ana yerde omuzu yapıp-sarı alaca siyah kılığı biri duralım.
 --------------------------------------------------
 
 25
 Source : Калинин жолдасты күзету міндеті милицияда емес,ЧЕКА да,— деді ол,— сондықтан, билеп еш нәрсе айта алмаймын.
-new-apertium : *Калинин yoldaşı korumak görevi poliste #i,*ЧЕКА da,— dedi o,— sonra, yönetip hiçbir şey söyleyerek #al.
+new-apertium : *Калинин yoldaşı korumak görevi poliste #i,*ЧЕКА da,— dedi o,— sonra, yönetip hiçbir şey söyleyerek #al.*better
 old-apertium : *Калинин yoldaşı koruma görevi poliste #i,*ЧЕКА da,— dedi o,— sonra, yönetip hiçbir şey söyleyerek #al.
 --------------------------------------------------
 
 26
 Source : Ері ашу айтса, әйелі басу айтып отырса, бұрынғыдай жау бола ма?
-new-apertium : Eri açmak söylese, kadını basma söylese, #eskiden düşman olur mı?
+new-apertium : Eri açmak söylese, kadını basma söylese, #eskiden düşman olur mı? *better
 old-apertium : Eri açma söylese, kadını basma söylese, #eskiden düşman olur mı?
 --------------------------------------------------
 
@@ -182,7 +183,7 @@ old-apertium: Evet-evet: O #evlen #git, başa hiç kimse kalmadı.
 
 29
 Source : Сонымен қатар, АҚШ пен ҚХР өзара авиа-нарығын ашуға келісімге келді.
-new-apertium : Şununla dizi, ABC ve *ҚХР karşılıklı *авиа-narhını açmağa anlaşmaya geldi.
+new-apertium : Şununla dizi, ABC ve *ҚХР karşılıklı *авиа-narhını açmağa anlaşmaya geldi.*better
 old-apertium : dizi, ABC ve *ҚХР karşılıklı *авиа-narhını açmaya anlaşmaya geldi.
 --------------------------------------------------
 
@@ -207,20 +208,20 @@ old-apertium : Sözüne kaybolundum, *биеке!
 
 33
 Source : Өкпелі жігітке қой берейін, - депті амалы құрыған бай.
-new-apertium : *Өкпелі yiğite gideyim, - dedi çaresi yok olan koca.
+new-apertium : *Өкпелі yiğite gideyim, - dedi çaresi yok olan koca.*better
 old-apertium : *Өкпелі yiğite  gideyim, - dedi çaresi yok olduğu koca.
 --------------------------------------------------
 
 34
 Source : Өйткені ол қашан да өзінің салқынқандылығын мақтан тұтушы еді ғой.
-new-apertium : Zira o ne zaman da kendisinin *салқынқандылығын övün #tut .
+new-apertium : Zira o ne zaman da kendisinin *салқынқандылығын övün #tut .*better
 old-apertium : Zira o ne zaman da kendisinin *салқынқандылығын övünelim #tut .
 --------------------------------------------------
 
 35
 Source : Сонымен, Қытайдың ОА негізгі мүдделері: терроризм, сепаратизм мен экстремизммен күрес; аумақты тұрақтылықты сақтау; ОА экономикалық дамуын көтеру; ОА елдерімен достық қарым-қатынас; аумақта Пекинге қарсы әскери блоктардың орналасуына жол бермеу; энергоресурстарға ҚХР үшін жол ашу.
 
-new-apertium : Şununla, Çin'in *ОА başlıca çıkarları: terörist, ayrılıkçılık ben *экстремизммен güreş; alanı istikrarı koruma; *ОА ekonomik gelişmesini götürme; *ОА ülkeleriyle dostluk temas; alanda Pekin'e karşı askeri blog tutacağın konaklamasına yol gitmeme; *энергоресурстарға *ҚХР için yol açmak.
+new-apertium : Şununla, Çin'in *ОА başlıca çıkarları: terörist, ayrılıkçılık ben *экстремизммен güreş; alanı istikrarı koruma; *ОА ekonomik gelişmesini götürme; *ОА ülkeleriyle dostluk temas; alanda Pekin'e karşı askeri blog tutacağın konaklamasına yol gitmeme; *энергоресурстарға *ҚХР için yol açmak.*better
 
 old-apertium : Şununla, Çin'in *ОА başlıca çıkarları: terörist, ayrılıkçılık ben *экстремизммен güreş; alanı istikrarı koruma; *ОА ekonomik gelişmesini götürme; *ОА ülkeleriyle dostluk temas; alanda Pekin'e karşı askeri blog tutacağın konaklamasına yol gitmeme; *энергоресурстарға *ҚХР için yol açma.
 --------------------------------------------------
@@ -247,14 +248,14 @@ old-apertium : *Со anda *былдырақтатып çıkardığı bir-iki ağ
 
 39
 Source : Біз осы күшпен ғана есептесуге, соны ғана бағалауға, соған ғана сүйенуге міндеттіміз.
-new-apertium : Biz şu güçle oranlaşmaya, şunu takdir etmeye, şuna gözlemlemeğe #muvazzaf.
+new-apertium : Biz şu güçle oranlaşmaya, şunu takdir etmeye, şuna gözlemlemeğe #muvazzaf.*better
 old-apertium : Biz şu güçle  oranlamaya, şunu  takdir etmeye, şuna  gözlemlemeye #muvazzaf.
 --------------------------------------------------
 
 
 40
 Source : Саф өнерді ардақ тұту және терең түсіну.
-new-apertium : *Саф sanatı *ардақ tutmak ve derin anlama.
+new-apertium : *Саф sanatı *ардақ tutmak ve derin anlama.*better
 old-apertium : *Саф sanatı *ардақ tutma ve derin anlama.
 --------------------------------------------------
 
@@ -382,7 +383,7 @@ Weight : Kışlaka konsa, dalarak okuma olsa, mal ölse, kurban gitse, baş ve l
 
 61
 Source : Бір қырдан асқанда көлденең созылған сай килікті... Бақша күзететін шал бұ не деп жетіп барса, екеуі екі жаққа қаша жөнеледі.
-Target : Bir açıdan yüzleşerek yatay olarak uzattığı göre geçti... #Ağaç koruyacak düşür bu ne diyip ulaşıp gitse, ikisi iki yöne kaçarak koşar..
+Target : Bir açıdan yüzleşerek yatay olarak uzattığı göre geçti... #Ağaç koruyacak düşür bu ne diyip ulaşıp gitse, ikisi iki yöne kaçarak koşar.. *better
 Weight : Bir açıdan yüzleşerek yatay olarak uzattığı göre geçti... #Ağaç koruyacak düşürelim bu ne diyip ulaşıp gitse, ikisi iki yöne kaçarak koşar.
 --------------------------------------------------
 
@@ -438,7 +439,7 @@ old-apertium : *Пәлен yerde altın var, gitsen, *бақыр da yok.
 
 70
 Source : Ит тойған жеріне, ер туған жеріне.
-new-apertium : It doyan yerine, er doğduğu yerine.
+new-apertium : It doyan yerine, er doğduğu yerine.*better
 old-apertium: It doyduğu yerine, er doğduğu yerine.
 --------------------------------------------------
 
@@ -450,7 +451,7 @@ old-apertium : Ondeki tam misin yüzdesi bazen on beş - yirmiye gidip, *бал�
 
 72
 Source : Елдің көшпелі кезінде осы үңгірге талай ру артық нәрселерін қоймаға тастап, аузына бірер үй ғана күзетші қалдырып кетеді екен.
-new-apertium : Ülkenin göçmen anında şu mağaraya birçok boy lüzümsüz yere şeylerini havuza bırakıp, ağızına *бірер ev koru bırakır.
+new-apertium : Ülkenin göçmen anında şu mağaraya birçok boy lüzümsüz yere şeylerini havuza bırakıp, ağızına *бірер ev koru bırakır. *better
 old-apertium : Ülkenin göçmen anında şu mağaraya birçok boy lüzümsüz yere şeylerini havuza bırakıp, ağızına *бірер ev  koruyalım  bırakır.
 --------------------------------------------------
 
@@ -481,7 +482,7 @@ olda-apertium : Bu da zamanı için uçu-*қиырсыз çok fayda.
 
 77
 Source : Оның жұмысы аз жылда көп жеміс беріп, табылған кеннің запасы ағылшындар айтқаннан әлдеқайда көп боп шығады.
-new-apertium : Onun işi az yılda çok meyve çıkıp, bulunduğu madenin *запасы ingilizceler söyleyerek *әлдеқайда çok olur.
+new-apertium : Onun işi az yılda çok meyve çıkıp, bulunduğu madenin *запасы ingilizceler söyleyerek *әлдеқайда çok olur.*better
 old-apertium : işi az yılda çok meyve çıkıp, bulunduğu madenin *запасы ingilizceler söyleyerek *әлдеқайда çok olur.
 
 --------------------------------------------------
@@ -507,7 +508,7 @@ old-apertium : — Işittim,— diyip, ben *Телеляевтің sözlerini s�
 
 81
 Source : — Бәрі рас,— деді Қаныш.
-new-apertium : — Tümü gerçek,— dedi Kanysh.
+new-apertium : — Tümü gerçek,— dedi Kanysh.*better
 old-apertium : — gerçek,— dedi Kanysh.
 --------------------------------------------------
 
