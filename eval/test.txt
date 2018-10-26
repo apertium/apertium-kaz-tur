@@ -100,7 +100,7 @@ old-apertium : *Жабай - ay, baskın götürelim ! dedi o bana, az vakit #ot
 16
 Source : Қарт оларға көңіл аудармады.
 new-apertium : Kart onlara irade çevirmedi. *better
-old-apertium : Kart irade çevirmedi.
+old-apertium : Kart onlara irade çevirmedi.
 --------------------------------------------------
 
 
@@ -145,7 +145,7 @@ old-apertium : fakat, *Әлбатырдың eyleyeni — akşama *загонге
 
 23
 Source : Бұл — күн түстен еңкейген шақ еді.
-new-apertium : Bu — gün renkten eğinen çağdı.*better
+new-apertium : Bu — gün renkten eğindiği çağdı.
 old-apertium : Bu — gün renkten eğindiği çağdı.
 --------------------------------------------------
 
@@ -189,7 +189,7 @@ old-apertium : dizi, ABC ve *ҚХР karşılıklı *авиа-narhını açmaya a
 
 30
 Source : Құрығанда, оны өзіне-өзі қол салуға итермелеген не нәрсе екенін білуім керек.
-Target : Yok oldukta, onu kendisine-kendisi elle yapmaya *итермелеген ne şey #i bilmem gerek.
+Target : Yok oldukta, onu kendisine-kendisi elle yapmaya *итермелеген ne şey #i bilmem gerek.*better
 Weight : Yok olarak, onu kendisine-kendisi elle yapmaya *итермелеген ne şey #i bilmem gerek.
 --------------------------------------------------
 
@@ -234,7 +234,7 @@ old-apertum : Bir çını son çay da, bir kadeh su da içmemiş mı?
 
 37
 Source : қызды қалыңмалға сататын ол кездің ауылында, қалыңмалсыз үйленген бірінші адам — Шәйін ағай.
-new-apertium : kızı *қалыңмалға satacak o anın köyünde, *қалыңмалсыз evlenen birinci adam — *Шәйін *ағай.
+new-apertium : kızı *қалыңмалға satacak o anın köyünde, *қалыңмалсыз evlenen birinci adam — *Шәйін *ағай.*better
 old-apertium : kızı *қалыңмалға satacak an köyünde, *қалыңмалсыз evlendiği birinci adam — *Шәйін *ағай.
 --------------------------------------------------
 
@@ -261,7 +261,7 @@ old-apertium : *Саф sanatı *ардақ tutma ve derin anlama.
 
 41
 Source : Газеттің бірінші бетінде, қара жақтаумен төңіректеліп Лениннің портреті басылған, оның қасына өкіметтің, хабарлауы, оның қасына Орталық Партия Комитетінің, Атқару Комитетінің аза тұту хабарлары жарияланған!
-new-apertium : Gazetenin birinci yüzünde, siyah *жақтаумен *төңіректеліп *Лениннің portresi basılmış, yanı gücün, duyurması, yanı orta Parti Komitesinin, Kurma Komitesinin *аза tutmak mesajları yayınlanmış!
+new-apertium : Gazetenin birinci yüzünde, siyah *жақтаумен *төңіректеліп *Лениннің portresi basılmış, yanı gücün, duyurması, yanı orta Parti Komitesinin, Kurma Komitesinin *аза tutmak mesajları yayınlanmış! *better
 old-apertium : Gazetenin birinci yüzünde, siyah *жақтаумен *төңіректеліп *Лениннің portresi basılmış, yanı gücün, duyurması, yanı orta Parti Komitesinin, Kurma Komitesinin *аза tutma mesajları yayınlanmış!
 --------------------------------------------------
 
@@ -469,7 +469,7 @@ old-apertium : Birkaç yerden *со anda maden *қорытуға *жұмсалғ
 
 75
 Source : Оның айтуынша өткен ғасырдың қырқыншы жылдарында, Қарағанды аталатын жерде көмір барын білген орыс купеці — Ушаков, әуелі сол араны иесінен жүз сомға сатып алады да, одан кейін, 1874 жылы Жезқазған төңірегін елу сомға сатып алады.
-new-apertium : Onun *айтуынша geçtiği asırın *қырқыншы yıllarında, Karağandı çağırılacak yerde kömür barını bildiği rus *купеці — #Uşakov, havalı şu arıyı sahibinden yüz *сомға satar da, ondan sonra, 1874 yılı *Жезқазған *төңірегін elli *сомға satar.
+new-apertium : Onun *айтуынша geçtiği asırın *қырқыншы yıllarındalar, Karağandı çağırılacak yerde kömür barını bildiği rus *купеці — #Uşakov, havalı şu arıyı sahibinden yüz *сомға satar da, ondan sonra, 1874 yılı *Жезқазған *төңірегін elli *сомға satar.*better
 old-apertium : Onun *айтуынша geçtiği asırın *қырқыншы yıllarında, Karağandı çağırılacak yerde kömür barını bildiği rus *купеці — #Uşakov, havalı şu arıyı sahibinden yüz *сомға satar da, ondan sonra, 1874 yılı *Жезқазған *төңірегін elli *сомға satar.
 --------------------------------------------------
 
@@ -527,7 +527,7 @@ old-apertium : Saltanatı oturumuna Kazakistan hükümetinin adından Kazakistan
 
 84
 Source : Бірақ ол кісі республиканың бірінші басқарушыларынан емес және мыс мәселесіне мамандығы бар кісі емес.
-new-apertium : Ama o kişi cumhuriyetin birinci yönetmenlerinden #i ve mis meselesine uzmanlıkı var kişi #i.
+new-apertium : Ama kişi cumhuriyetin birinci yönetmenlerinden #i ve mis meselesine uzmanlıkı var kişi #i.
 old-apertium : Ama kişi cumhuriyetin birinci yönetmenlerinden #i ve mis meselesine uzmanlıkı var kişi #i.
 --------------------------------------------------
 
