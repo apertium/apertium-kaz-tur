@@ -66,6 +66,11 @@
     <match lemma="тіл" tags="n.*"/>
     <match lemma="жүр" tags="v.*"><select lemma="yürü" tags="v.*"/></match>
   </rule>
+
+<rule>
+    <match tags="np.ant.*"/>
+    <match lemma="мен" tags="cnjcoo"><select lemma="ve" tags="cnjcoo"/></match>
+  </rule>
 <rule>
     <match lemma="қол" tags="adj.*"/>
     <match lemma="қару" tags="n.*"><select lemma="silah" tags="n.*"/></match>
@@ -249,6 +254,14 @@
 <rule>
     <match lemma="команда" tags="n.*"/>
     <match lemma="жең" tags="v.*"><select lemma="yen" tags="v.*"/></match>
+  </rule>
+
+<rule>
+   <or>
+    <match lemma="ең" tags="adv"/>
+    <match lemma="өте" tags="adv"/>
+    </or>
+    <match lemma="маңызды" tags="adv"><select lemma="önemli" tags="adj"/></match>
   </rule>
 
 <rule>

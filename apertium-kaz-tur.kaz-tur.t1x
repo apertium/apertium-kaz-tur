@@ -169,7 +169,7 @@
       <cat-item tags="v.*.frm.*"/>
     </def-cat>
 <def-cat n="prn">
-      <cat-item tags="prn.*"/>
+      <cat-item tags="prn.*.gen"/>
     </def-cat>
 <def-cat n="gpr_impf_fut">
       <cat-item tags="v.*.gpr_impf"/>
