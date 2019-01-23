@@ -297,7 +297,7 @@
 
 # sent_id = akorda-random.tagged.txt:73:1283
 # text = - Біздің компания да осы процеске белсене қатысқысы келеді.
-# text[tur] = - Bizim şirket de bu süreçe etkin katılıyor. 
+# text[tur] = - şirket da şu sürece bilfiil başvurmak istedi. 
 
 # sent_id = akorda-random.tagged.txt:74:1303
 # text = Асханаға өткен жылы күрделі жөндеу жасалып, жаңа құрал-жабдық алынған.
@@ -2355,7 +2355,7 @@
 
 # sent_id = kdt.tagged.txt:256:4155
 # text = Соңынан қарбыз сойылды.
-# text[tur] = sonundan karpuz kesildi.
+# text[tur] = sondan karpuz kesildi.
 
 # sent_id = kdt.tagged.txt:257:4164
 # text = Тамақ мол болды.
