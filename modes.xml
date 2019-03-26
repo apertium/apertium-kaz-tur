@@ -328,13 +328,12 @@
         <file name="tur-kaz.automorf.bin"/>
       </program>
 
-
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger-g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -367,13 +366,12 @@
         <file name="tur-kaz.automorf.bin"/>
       </program>
 
-
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -423,12 +421,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
     </pipeline>
   </mode>
 
@@ -439,12 +437,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
@@ -456,12 +454,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -476,12 +474,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -499,12 +497,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -523,12 +521,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
+      </program> 
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program> -->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>
@@ -551,12 +549,12 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="tur-kaz.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+<!--      <program name="apertium-tagger -g $2">
         <file name="tur-kaz.prob"/>
-      </program>
+      </program>-->
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tur-kaz.autobil.bin"/>

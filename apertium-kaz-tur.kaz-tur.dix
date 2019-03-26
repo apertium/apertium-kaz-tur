@@ -119,7 +119,8 @@
 
    <pardefs>
      <pardef n="a1_a1">
-        <e><p><l></l><r></r></p></e>
+       <e>       <p><l>NON_ANALYSIS</l>          <r>DUE_TO_LT_PROC_HANG</r></p></e>
+       <e><p><l></l><r></r></p></e>
         <e r="LR"><p><l><s n="advl"/></l><r></r></p></e>
      </pardef>
    </pardefs>
