@@ -2,7 +2,6 @@
 ## Makefile for Kazakh--Turkish
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=kaz
 LANG2=tur
 PREFIX1=$(LANG1)-$(LANG2)
