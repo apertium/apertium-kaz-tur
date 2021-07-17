@@ -1,0 +1,12 @@
+[212BTG4av97A#0] ^Жеп/же<v><tv><prc_perf>/же<v><tv><gna_perf>/жел<v><tv><prc_perf>$ ^жүрмін/жүр<vaux><pres><p1><sg>$^./.<sent>$
+[/212BTG4av97A]
+[UCMPw-LmDLUm#0] ^Жеп/же<v><tv><prc_perf>/же<v><tv><gna_perf>/жел<v><tv><prc_perf>$ ^тұрмын/тұр<vaux><pres><p1><sg>$^./.<sent>$
+[/UCMPw-LmDLUm]
+[ZDhEWQBBvVXm#0] ^Жеп/же<v><tv><prc_perf>/же<v><tv><gna_perf>/жел<v><tv><prc_perf>$ ^отырмын/отыр<vaux><pres><p1><sg>$^./.<sent>$
+[/ZDhEWQBBvVXm]
+[aOT1uVsDdAHZ#0] ^Жеп/же<v><tv><prc_perf>/же<v><tv><gna_perf>/жел<v><tv><prc_perf>$ ^жатырмын/жат<vaux><pres><p1><sg>/жатыр<adj>+е<cop><aor><p1><sg>/жатыр<adj><subst><nom>+е<cop><aor><p1><sg>$^./.<sent>$
+[/aOT1uVsDdAHZ]
+[qqVCEjRh0cFf#0] ^Же/же<v><tv><imp><p2><sg>$^!/!<sent>$
+[/qqVCEjRh0cFf]
+[xPA2fr4hP9j_#0] ^Жеймін/же<v><tv><aor><p1><sg>$^./.<sent>$
+[/xPA2fr4hP9j_]

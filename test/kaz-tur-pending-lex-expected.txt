@@ -1,0 +1,12 @@
+[212BTG4av97A#0] ^Же<v><tv><prc_perf>/Ye<v><tv><prc_perf>/Yıprat<v><tv><prc_perf>$ ^жүр<vaux><pres><p1><sg>/git<v><iv><pres><p1><sg>/yürü<v><iv><pres><p1><sg>$^.<sent>/.<sent>$
+[/212BTG4av97A]
+[UCMPw-LmDLUm#0] ^Же<v><tv><prc_perf>/Ye<v><tv><prc_perf>/Yıprat<v><tv><prc_perf>$ ^тұр<vaux><pres><p1><sg>/<pres><p1><sg>$^.<sent>/.<sent>$
+[/UCMPw-LmDLUm]
+[ZDhEWQBBvVXm#0] ^Же<v><tv><prc_perf>/Ye<v><tv><prc_perf>/Yıprat<v><tv><prc_perf>$ ^отыр<vaux><pres><p1><sg>/<pres><p1><sg>/otur<v><tv><pres><p1><sg>$^.<sent>/.<sent>$
+[/ZDhEWQBBvVXm]
+[aOT1uVsDdAHZ#0] ^Же<v><tv><prc_perf>/Ye<v><tv><prc_perf>/Yıprat<v><tv><prc_perf>$ ^жат<vaux><pres><p1><sg>/<pres><p1><sg>/yat<v><iv><pres><p1><sg>/yer al<v><tv><pres><p1><sg>$^.<sent>/.<sent>$
+[/aOT1uVsDdAHZ]
+[qqVCEjRh0cFf#0] ^Же<v><tv><imp><p2><sg>/Ye<v><tv><imp><p2><sg>/Yıprat<v><tv><imp><p2><sg>$^!<sent>/!<sent>$
+[/qqVCEjRh0cFf]
+[xPA2fr4hP9j_#0] ^Же<v><tv><aor><p1><sg>/Ye<v><tv><aor><p1><sg>/Yıprat<v><tv><aor><p1><sg>$^.<sent>/.<sent>$
+[/xPA2fr4hP9j_]

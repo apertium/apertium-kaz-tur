@@ -1,0 +1,12 @@
+[212BTG4av97A#0] ^Же<v><tv><prc_perf>$ ^жүр<vaux><pres><p1><sg>$^.<sent>$
+[/212BTG4av97A]
+[UCMPw-LmDLUm#0] ^Же<v><tv><prc_perf>$ ^тұр<vaux><pres><p1><sg>$^.<sent>$
+[/UCMPw-LmDLUm]
+[ZDhEWQBBvVXm#0] ^Же<v><tv><prc_perf>$ ^отыр<vaux><pres><p1><sg>$^.<sent>$
+[/ZDhEWQBBvVXm]
+[aOT1uVsDdAHZ#0] ^Же<v><tv><prc_perf>$ ^жат<vaux><pres><p1><sg>$^.<sent>$
+[/aOT1uVsDdAHZ]
+[qqVCEjRh0cFf#0] ^Же<v><tv><imp><p2><sg>$^!<sent>$
+[/qqVCEjRh0cFf]
+[xPA2fr4hP9j_#0] ^Же<v><tv><aor><p1><sg>$^.<sent>$
+[/xPA2fr4hP9j_]

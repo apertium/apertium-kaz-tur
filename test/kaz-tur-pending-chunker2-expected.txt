@@ -1,0 +1,12 @@
+[212BTG4av97A#0] ^Ye<v><tv><prog>+i<cop><aor><p1><sg>$^.<sent>$
+[/212BTG4av97A]
+[UCMPw-LmDLUm#0] ^Ye<v><tv><prog>+i<cop><aor><p1><sg>$^.<sent>$
+[/UCMPw-LmDLUm]
+[ZDhEWQBBvVXm#0] ^Ye<v><tv><prog>+i<cop><aor><p1><sg>$^.<sent>$
+[/ZDhEWQBBvVXm]
+[aOT1uVsDdAHZ#0] ^Ye<v><tv><prog>+i<cop><aor><p1><sg>$^.<sent>$
+[/aOT1uVsDdAHZ]
+[qqVCEjRh0cFf#0] ^Ye<v><tv><imp><p1><pl>$^!<sent>$
+[/qqVCEjRh0cFf]
+[xPA2fr4hP9j_#0] ^Ye<v><tv><aor>+i<cop><aor><p1><sg>$^.<sent>$
+[/xPA2fr4hP9j_]
